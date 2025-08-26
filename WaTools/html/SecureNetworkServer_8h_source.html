@@ -100,50 +100,49 @@ $(document).ready(function(){initNavTree('SecureNetworkServer_8h_source.html',''
 <div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;   <span class="keyword">class </span>Socket;</div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;   <span class="keyword">class </span>ServerInternal;</div>
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160; </div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160; </div>
-<div class="line"><a name="l00018"></a><span class="lineno"><a class="line" href="classSecureNetwork_1_1Server.html">   18</a></span>&#160;   <span class="keyword">class </span><a class="code" href="WaToolsNetworkExportDef_8h.html#a3ca730c8cf5625f499701516037910e1">WATOOLSNETWORK_DECLSPEC</a> <a class="code" href="classSecureNetwork_1_1Server.html">Server</a> : <span class="keyword">public</span> QObject</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;   {</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;      Q_OBJECT</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;   <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;      <a class="code" href="classSecureNetwork_1_1Server.html">Server</a>(QObject* parent);</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;      ~<a class="code" href="classSecureNetwork_1_1Server.html">Server</a>();</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160; </div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;   signals:</div>
-<div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="classSecureNetwork_1_1Server.html#ac079a99e215bb90423c77eb49cae18a3">   26</a></span>&#160;      <span class="keywordtype">void</span> <a class="code" href="classSecureNetwork_1_1Server.html#ac079a99e215bb90423c77eb49cae18a3">signalNewEncryptedConnection</a>(<a class="code" href="classSecureNetwork_1_1Socket.html">Socket</a>* socket);</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160; </div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;   <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;      <span class="keywordtype">void</span> listen(<span class="keyword">const</span> quint16&amp; port);</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;      <span class="keywordtype">bool</span> setEncryption(<span class="keyword">const</span> QString&amp; caCertFileName, <span class="keyword">const</span> QString&amp; serverCertFileName, <span class="keyword">const</span> QString&amp; serverKeyFileName);</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;      <span class="keywordtype">void</span> setConfiguration(<span class="keyword">const</span> QSslConfiguration&amp; newSslConfiguration);</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;      <span class="keywordtype">bool</span> setPeerCommmonNameList(<span class="keyword">const</span> QString&amp; authUserFileName);</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;      <span class="keyword">const</span> QList&lt;Socket::Pointer&gt;&amp; getSocketList() <span class="keyword">const</span>;</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;      <span class="keywordtype">void</span> removeSocket(<a class="code" href="classSecureNetwork_1_1Socket.html">Socket</a>* socket);</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;      <span class="keyword">const</span> QSslConfiguration&amp; getConfiguration() <span class="keyword">const</span>;</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160; </div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;   <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00038"></a><span class="lineno"><a class="line" href="classSecureNetwork_1_1Server.html#aee7873f3744b3a2b857a4f8fe7da2fa9">   38</a></span>&#160;      <span class="keyword">friend</span> <span class="keyword">class </span><a class="code" href="classSecureNetwork_1_1ServerInternal.html">ServerInternal</a>;</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160; </div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;   <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;      <span class="keywordtype">void</span> newConnection(<a class="code" href="classSecureNetwork_1_1Socket.html">Socket</a>* socket);</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160; </div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;   <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;      <a class="code" href="classSecureNetwork_1_1ServerInternal.html">ServerInternal</a>* <span class="keyword">internal</span>;</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;      QSslConfiguration sslConfiguration;</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;      QList&lt;Socket::Pointer&gt; socketList;</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;      QString issuerName;</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;      QStringList peerCommonNameList;</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;   };</div>
+<div class="line"><a name="l00016"></a><span class="lineno"><a class="line" href="classSecureNetwork_1_1Server.html">   16</a></span>&#160;   <span class="keyword">class </span><a class="code" href="WaToolsNetworkExportDef_8h.html#a3ca730c8cf5625f499701516037910e1">WATOOLSNETWORK_DECLSPEC</a> <a class="code" href="classSecureNetwork_1_1Server.html">Server</a> : <span class="keyword">public</span> QObject</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;   {</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;      Q_OBJECT</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;   <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;      <a class="code" href="classSecureNetwork_1_1Server.html">Server</a>(QObject* parent);</div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;      ~<a class="code" href="classSecureNetwork_1_1Server.html">Server</a>();</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160; </div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;   signals:</div>
+<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="classSecureNetwork_1_1Server.html#ac079a99e215bb90423c77eb49cae18a3">   24</a></span>&#160;      <span class="keywordtype">void</span> <a class="code" href="classSecureNetwork_1_1Server.html#ac079a99e215bb90423c77eb49cae18a3">signalNewEncryptedConnection</a>(<a class="code" href="classSecureNetwork_1_1Socket.html">Socket</a>* socket);</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160; </div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;   <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;      <span class="keywordtype">void</span> listen(<span class="keyword">const</span> quint16&amp; port);</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;      <span class="keywordtype">bool</span> setEncryption(<span class="keyword">const</span> QString&amp; caCertFileName, <span class="keyword">const</span> QString&amp; serverCertFileName, <span class="keyword">const</span> QString&amp; serverKeyFileName);</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;      <span class="keywordtype">void</span> setConfiguration(<span class="keyword">const</span> QSslConfiguration&amp; newSslConfiguration);</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;      <span class="keywordtype">bool</span> setPeerCommmonNameList(<span class="keyword">const</span> QString&amp; authUserFileName);</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;      <span class="keyword">const</span> QList&lt;Socket::Pointer&gt;&amp; getSocketList() <span class="keyword">const</span>;</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;      <span class="keywordtype">void</span> removeSocket(<a class="code" href="classSecureNetwork_1_1Socket.html">Socket</a>* socket);</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;      <span class="keyword">const</span> QSslConfiguration&amp; getConfiguration() <span class="keyword">const</span>;</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160; </div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;   <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00036"></a><span class="lineno"><a class="line" href="classSecureNetwork_1_1Server.html#aee7873f3744b3a2b857a4f8fe7da2fa9">   36</a></span>&#160;      <span class="keyword">friend</span> <span class="keyword">class </span><a class="code" href="classSecureNetwork_1_1ServerInternal.html">ServerInternal</a>;</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160; </div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;   <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;      <span class="keywordtype">void</span> newConnection(<a class="code" href="classSecureNetwork_1_1Socket.html">Socket</a>* socket);</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160; </div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;   <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;      <a class="code" href="classSecureNetwork_1_1ServerInternal.html">ServerInternal</a>* <span class="keyword">internal</span>;</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;      QSslConfiguration sslConfiguration;</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;      QList&lt;Socket::Pointer&gt; socketList;</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;      QString issuerName;</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;      QStringList peerCommonNameList;</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;   };</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160; </div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;} <span class="comment">// namespace SecureNetwork</span></div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160; </div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;} <span class="comment">// namespace SecureNetwork</span></div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160; </div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// NOT SecureNetworkServerH</span></div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// NOT SecureNetworkServerH</span></div>
 <div class="ttc" id="aSecureNetworkSocket_8h_html"><div class="ttname"><a href="SecureNetworkSocket_8h.html">SecureNetworkSocket.h</a></div></div>
 <div class="ttc" id="aWaToolsNetworkExportDef_8h_html"><div class="ttname"><a href="WaToolsNetworkExportDef_8h.html">WaToolsNetworkExportDef.h</a></div></div>
 <div class="ttc" id="aWaToolsNetworkExportDef_8h_html_a3ca730c8cf5625f499701516037910e1"><div class="ttname"><a href="WaToolsNetworkExportDef_8h.html#a3ca730c8cf5625f499701516037910e1">WATOOLSNETWORK_DECLSPEC</a></div><div class="ttdeci">#define WATOOLSNETWORK_DECLSPEC</div><div class="ttdef"><b>Definition:</b> WaToolsNetworkExportDef.h:13</div></div>
 <div class="ttc" id="aclassSecureNetwork_1_1ServerInternal_html"><div class="ttname"><a href="classSecureNetwork_1_1ServerInternal.html">SecureNetwork::ServerInternal</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkServerInternal.h:14</div></div>
-<div class="ttc" id="aclassSecureNetwork_1_1Server_html"><div class="ttname"><a href="classSecureNetwork_1_1Server.html">SecureNetwork::Server</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkServer.h:19</div></div>
+<div class="ttc" id="aclassSecureNetwork_1_1Server_html"><div class="ttname"><a href="classSecureNetwork_1_1Server.html">SecureNetwork::Server</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkServer.h:17</div></div>
 <div class="ttc" id="aclassSecureNetwork_1_1Server_html_ac079a99e215bb90423c77eb49cae18a3"><div class="ttname"><a href="classSecureNetwork_1_1Server.html#ac079a99e215bb90423c77eb49cae18a3">SecureNetwork::Server::signalNewEncryptedConnection</a></div><div class="ttdeci">void signalNewEncryptedConnection(Socket *socket)</div></div>
-<div class="ttc" id="aclassSecureNetwork_1_1Socket_html"><div class="ttname"><a href="classSecureNetwork_1_1Socket.html">SecureNetwork::Socket</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkSocket.h:17</div></div>
+<div class="ttc" id="aclassSecureNetwork_1_1Socket_html"><div class="ttname"><a href="classSecureNetwork_1_1Socket.html">SecureNetwork::Socket</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkSocket.h:15</div></div>
 <div class="ttc" id="anamespaceSecureNetwork_html"><div class="ttname"><a href="namespaceSecureNetwork.html">SecureNetwork</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkClient.h:10</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
