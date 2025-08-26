@@ -1,3 +1,3 @@
 # xavierxeon
 
-[INDEX](index.html)
+[INDEX](https://xavierxeon.github.io/index.html)
