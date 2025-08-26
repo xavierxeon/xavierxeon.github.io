@@ -95,32 +95,33 @@ $(document).ready(function(){initNavTree('SecureNetworkClient_8h_source.html',''
 <div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160; </div>
 <div class="line"><a name="l00009"></a><span class="lineno"><a class="line" href="namespaceSecureNetwork.html">    9</a></span>&#160;<span class="keyword">namespace </span><a class="code" href="namespaceSecureNetwork.html">SecureNetwork</a></div>
 <div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;{</div>
-<div class="line"><a name="l00011"></a><span class="lineno"><a class="line" href="classSecureNetwork_1_1Client.html">   11</a></span>&#160;   <span class="keyword">class </span><a class="code" href="WaToolsNetworkExportDef_8h.html#a3ca730c8cf5625f499701516037910e1">WATOOLSNETWORK_DECLSPEC</a> <a class="code" href="classSecureNetwork_1_1Client.html">Client</a> : <span class="keyword">public</span> <a class="code" href="classSecureNetwork_1_1Socket.html">Socket</a></div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;   {</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;      Q_OBJECT</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;   <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;      <a class="code" href="classSecureNetwork_1_1Client.html">Client</a>(QObject* parent, <span class="keywordtype">bool</span> directAccess = <span class="keyword">false</span>);</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160; </div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;   <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;      <span class="keywordtype">void</span> connectToHost(<span class="keyword">const</span> QString&amp; hostName, <span class="keyword">const</span> quint16&amp; port);</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;      <span class="keywordtype">void</span> disconnectFromHost();</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;      <span class="keywordtype">bool</span> setEncryptionWithPasswordFile(<span class="keyword">const</span> QString&amp; p12FileName, <span class="keyword">const</span> QString&amp; passwordFileName);</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;      <span class="keywordtype">bool</span> setEncryption(<span class="keyword">const</span> QString&amp; p12FileName, <span class="keyword">const</span> QByteArray&amp; password);</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;      <span class="keywordtype">void</span> setConfiguration(<span class="keyword">const</span> QSslConfiguration&amp; newSslConfiguration);</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;      <span class="keyword">static</span> QByteArray readPassword(<span class="keyword">const</span> QString&amp; passwordFileName);</div>
-<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;      <span class="keyword">const</span> QSslConfiguration&amp; getConfiguration() <span class="keyword">const</span>;</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160; </div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;   <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;      QSslConfiguration sslConfiguration;</div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;   };</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;} <span class="comment">// namespace SecureNetwork</span></div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160; </div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// NOT SecureNetworkClientH</span></div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160; </div>
+<div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="classSecureNetwork_1_1Client.html">   13</a></span>&#160;   <span class="keyword">class </span><a class="code" href="WaToolsNetworkExportDef_8h.html#a3ca730c8cf5625f499701516037910e1">WATOOLSNETWORK_DECLSPEC</a> <a class="code" href="classSecureNetwork_1_1Client.html">Client</a> : <span class="keyword">public</span> <a class="code" href="classSecureNetwork_1_1Socket.html">Socket</a></div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;   {</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;      Q_OBJECT</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;   <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;      <a class="code" href="classSecureNetwork_1_1Client.html">Client</a>(QObject* parent, <span class="keywordtype">bool</span> directAccess = <span class="keyword">false</span>);</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;   <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;      <span class="keywordtype">void</span> connectToHost(<span class="keyword">const</span> QString&amp; hostName, <span class="keyword">const</span> quint16&amp; port);</div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;      <span class="keywordtype">void</span> disconnectFromHost();</div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;      <span class="keywordtype">bool</span> setEncryptionWithPasswordFile(<span class="keyword">const</span> QString&amp; p12FileName, <span class="keyword">const</span> QString&amp; passwordFileName);</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;      <span class="keywordtype">bool</span> setEncryption(<span class="keyword">const</span> QString&amp; p12FileName, <span class="keyword">const</span> QByteArray&amp; password);</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;      <span class="keywordtype">void</span> setConfiguration(<span class="keyword">const</span> QSslConfiguration&amp; newSslConfiguration);</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;      <span class="keyword">static</span> QByteArray readPassword(<span class="keyword">const</span> QString&amp; passwordFileName);</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;      <span class="keyword">const</span> QSslConfiguration&amp; getConfiguration() <span class="keyword">const</span>;</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160; </div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;   <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;      QSslConfiguration sslConfiguration;</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;   };</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;} <span class="comment">// namespace SecureNetwork</span></div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160; </div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// NOT SecureNetworkClientH</span></div>
 <div class="ttc" id="aSecureNetworkSocket_8h_html"><div class="ttname"><a href="SecureNetworkSocket_8h.html">SecureNetworkSocket.h</a></div></div>
 <div class="ttc" id="aWaToolsNetworkExportDef_8h_html"><div class="ttname"><a href="WaToolsNetworkExportDef_8h.html">WaToolsNetworkExportDef.h</a></div></div>
-<div class="ttc" id="aWaToolsNetworkExportDef_8h_html_a3ca730c8cf5625f499701516037910e1"><div class="ttname"><a href="WaToolsNetworkExportDef_8h.html#a3ca730c8cf5625f499701516037910e1">WATOOLSNETWORK_DECLSPEC</a></div><div class="ttdeci">#define WATOOLSNETWORK_DECLSPEC</div><div class="ttdef"><b>Definition:</b> WaToolsNetworkExportDef.h:11</div></div>
-<div class="ttc" id="aclassSecureNetwork_1_1Client_html"><div class="ttname"><a href="classSecureNetwork_1_1Client.html">SecureNetwork::Client</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkClient.h:12</div></div>
-<div class="ttc" id="aclassSecureNetwork_1_1Socket_html"><div class="ttname"><a href="classSecureNetwork_1_1Socket.html">SecureNetwork::Socket</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkSocket.h:15</div></div>
+<div class="ttc" id="aWaToolsNetworkExportDef_8h_html_a3ca730c8cf5625f499701516037910e1"><div class="ttname"><a href="WaToolsNetworkExportDef_8h.html#a3ca730c8cf5625f499701516037910e1">WATOOLSNETWORK_DECLSPEC</a></div><div class="ttdeci">#define WATOOLSNETWORK_DECLSPEC</div><div class="ttdef"><b>Definition:</b> WaToolsNetworkExportDef.h:13</div></div>
+<div class="ttc" id="aclassSecureNetwork_1_1Client_html"><div class="ttname"><a href="classSecureNetwork_1_1Client.html">SecureNetwork::Client</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkClient.h:14</div></div>
+<div class="ttc" id="aclassSecureNetwork_1_1Socket_html"><div class="ttname"><a href="classSecureNetwork_1_1Socket.html">SecureNetwork::Socket</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkSocket.h:17</div></div>
 <div class="ttc" id="anamespaceSecureNetwork_html"><div class="ttname"><a href="namespaceSecureNetwork.html">SecureNetwork</a></div><div class="ttdef"><b>Definition:</b> SecureNetworkClient.h:10</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

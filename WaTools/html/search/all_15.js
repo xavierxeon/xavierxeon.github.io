@@ -24,7 +24,7 @@ var searchData=
   ['watoolsmusic_754',['WaToolsMusic',['../md_WaToolsMusic_README.html',1,'']]],
   ['watoolsmusic_5fdeclspec_755',['WATOOLSMUSIC_DECLSPEC',['../WaToolsMusicExportDef_8h.html#a5d09bbf57b44c4adfa54f366fe3cb2f1',1,'WaToolsMusicExportDef.h']]],
   ['watoolsmusicexportdef_2eh_756',['WaToolsMusicExportDef.h',['../WaToolsMusicExportDef_8h.html',1,'']]],
-  ['watoolsnetwork_757',['WaToolsNetwork',['../md_WaToolsNetwork_README.html',1,'']]],
+  ['watoolsnetwork_757',['WaToolsNetwork',['../md_WaToolsNetwork_README.html',1,'(Global Namespace)'],['../group__WaToolsNetwork.html',1,'(Global Namespace)']]],
   ['watoolsnetwork_5fdeclspec_758',['WATOOLSNETWORK_DECLSPEC',['../WaToolsNetworkExportDef_8h.html#a3ca730c8cf5625f499701516037910e1',1,'WaToolsNetworkExportDef.h']]],
   ['watoolsnetworkexportdef_2eh_759',['WaToolsNetworkExportDef.h',['../WaToolsNetworkExportDef_8h.html',1,'']]],
   ['watoolswidgets_760',['WaToolsWidgets',['../md_WaToolsWidgets_README.html',1,'']]],

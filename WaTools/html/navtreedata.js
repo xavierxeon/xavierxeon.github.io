@@ -38,6 +38,7 @@ var NAVTREE =
     [ "WaToolsMusic", "md_WaToolsMusic_README.html", null ],
     [ "WaToolsNetwork", "md_WaToolsNetwork_README.html", null ],
     [ "WaToolsWidgets", "md_WaToolsWidgets_README.html", null ],
+    [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -81,7 +82,7 @@ var NAVTREEINDEX =
 "MidiInterfaceOutput_8cpp.html",
 "classLocker.html#a78dc92311c7d26b91db31fd314e9f353",
 "classSample_1_1Abstract.html#acdc862e2163b6b4feaa9bfcf16530468",
-"namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a0e228c9d1be18397fe9144c74a921b7c"
+"namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a015a5350adfefabae610087c074508c6"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
