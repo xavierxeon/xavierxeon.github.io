@@ -4,9 +4,6 @@ var annotated_dup =
       [ "OAuth", "classAuthProvider_1_1OAuth.html", "classAuthProvider_1_1OAuth" ],
       [ "Token", "classAuthProvider_1_1Token.html", "classAuthProvider_1_1Token" ]
     ] ],
-    [ "component", "namespacecomponent.html", [
-      [ "FileWriter", "classcomponent_1_1FileWriter.html", "classcomponent_1_1FileWriter" ]
-    ] ],
     [ "Function", "namespaceFunction.html", [
       [ "AbstractCaller", "classFunction_1_1AbstractCaller.html", "classFunction_1_1AbstractCaller" ],
       [ "Caller", "classFunction_1_1Caller.html", "classFunction_1_1Caller" ]

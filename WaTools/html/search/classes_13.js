@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xyb_887',['XYB',['../structColorSpace_1_1XYB.html',1,'ColorSpace']]]
+  ['xyb_875',['XYB',['../structColorSpace_1_1XYB.html',1,'ColorSpace']]]
 ];

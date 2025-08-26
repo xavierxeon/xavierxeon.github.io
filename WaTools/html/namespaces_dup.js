@@ -1,7 +1,6 @@
 var namespaces_dup =
 [
     [ "AuthProvider", "namespaceAuthProvider.html", "namespaceAuthProvider" ],
-    [ "component", "namespacecomponent.html", "namespacecomponent" ],
     [ "Function", "namespaceFunction.html", "namespaceFunction" ],
     [ "Logger", "namespaceLogger.html", "namespaceLogger" ],
     [ "Managed", "namespaceManaged.html", "namespaceManaged" ],

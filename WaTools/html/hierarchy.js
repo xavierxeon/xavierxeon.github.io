@@ -24,7 +24,6 @@ var hierarchy =
     [ "Logger::Target::Entry", "structLogger_1_1Target_1_1Entry.html", null ],
     [ "FastFourierTransfrom", "classFastFourierTransfrom.html", null ],
     [ "FileTools", "classFileTools.html", null ],
-    [ "component.FileWriter", "classcomponent_1_1FileWriter.html", null ],
     [ "Range::Finder< DataType >", "classRange_1_1Finder.html", null ],
     [ "SharedData< DataBlock >::Guard", "classSharedData_1_1Guard.html", null ],
     [ "Info", "structInfo.html", null ],

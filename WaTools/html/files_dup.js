@@ -9,6 +9,5 @@ var files_dup =
     [ "WaToolsMath", "dir_ef270cfd2ef5b7eda4a233eccd6d499d.html", "dir_ef270cfd2ef5b7eda4a233eccd6d499d" ],
     [ "WaToolsMusic", "dir_3f8d128c40ed6103e721e55f8f35b530.html", "dir_3f8d128c40ed6103e721e55f8f35b530" ],
     [ "WaToolsNetwork", "dir_ab6580e756a978b9422b493e0ec508d8.html", "dir_ab6580e756a978b9422b493e0ec508d8" ],
-    [ "WaToolsWidgets", "dir_0a651fcde8422c6ce0b356cf18fed724.html", "dir_0a651fcde8422c6ce0b356cf18fed724" ],
-    [ "component.py", "component_8py.html", "component_8py" ]
+    [ "WaToolsWidgets", "dir_0a651fcde8422c6ce0b356cf18fed724.html", "dir_0a651fcde8422c6ce0b356cf18fed724" ]
 ];

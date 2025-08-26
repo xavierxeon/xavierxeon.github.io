@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['x_787',['x',['../structColorSpace_1_1XYB.html#a80769d1efebe30800d26747be21f8217',1,'ColorSpace::XYB::x()'],['../classMath_1_1Vector3.html#ab3ba8793a1ecc4e2ee611ea3f0a222c4',1,'Math::Vector3::x()']]],
-  ['xyb_788',['XYB',['../structColorSpace_1_1XYB.html',1,'ColorSpace']]]
+  ['y_778',['y',['../structColorSpace_1_1XYB.html#a33bff4f684ad27645de473bf686a58cc',1,'ColorSpace::XYB::y()'],['../classMath_1_1Vector3.html#acbcabbfea01138134ba3acaa88f3522b',1,'Math::Vector3::y()']]]
 ];

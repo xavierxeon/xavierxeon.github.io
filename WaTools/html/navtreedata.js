@@ -81,8 +81,7 @@ var NAVTREEINDEX =
 "MidiInterfaceOutput_8cpp.html",
 "classLocker.html#a78dc92311c7d26b91db31fd314e9f353",
 "classSample_1_1Abstract.html#acdc862e2163b6b4feaa9bfcf16530468",
-"namespaceMath.html#aab211c8cf70d22e93ebca04f518b45ee",
-"structWaveFmtHeader.html#afbebf680b808e9f4fe6d4cf938b7fa88"
+"namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a0e228c9d1be18397fe9144c74a921b7c"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

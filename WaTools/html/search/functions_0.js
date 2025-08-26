@@ -1,7 +1,25 @@
 var searchData=
 [
-  ['_5f_5fcall_5f_5f_1057',['__call__',['../classcomponent_1_1FileWriter.html#a2791d46b505fedb882e8cb4897bb6dd3',1,'component::FileWriter']]],
-  ['_5f_5fenter_5f_5f_1058',['__enter__',['../classcomponent_1_1FileWriter.html#a49a76abd45b80f8324bca2563a4c2308',1,'component::FileWriter']]],
-  ['_5f_5fexit_5f_5f_1059',['__exit__',['../classcomponent_1_1FileWriter.html#a7d0831f417a4ba9229238c0dee8db812',1,'component::FileWriter']]],
-  ['_5f_5finit_5f_5f_1060',['__init__',['../classcomponent_1_1FileWriter.html#ae1429c885aea466e7fcc0950b5216a7a',1,'component::FileWriter']]]
+  ['abstract_1043',['Abstract',['../classSample_1_1Abstract.html#a4990499a13e55bb29eb42b05092000f6',1,'Sample::Abstract']]],
+  ['abstractcaller_1044',['AbstractCaller',['../classFunction_1_1AbstractCaller.html#a9d696fe4dff29aee0231e2e3e2112ad9',1,'Function::AbstractCaller']]],
+  ['actionpopulation_1045',['ActionPopulation',['../classActionPopulation.html#ad88cdec88ed9878dfe710adadd5a7110',1,'ActionPopulation']]],
+  ['add_1046',['add',['../classRecentFiles.html#ac1f4e87f0b398a513e061a7ccbaa86d4',1,'RecentFiles']]],
+  ['addaction_1047',['addAction',['../classPopulatedMainWindow.html#a6c4e9608bffbf0bf4141902eaeb344d0',1,'PopulatedMainWindow::addAction(QIcon icon, QString text, QString objectName, auto function)'],['../classPopulatedMainWindow.html#a665ddbe1bbbdcbe4a769a3b6d0dd8884',1,'PopulatedMainWindow::addAction(QIcon icon, QString text, QString objectName, QObject *instance, auto slotFunction)']]],
+  ['adddockwidget_1048',['addDockWidget',['../classPopulatedMainWindow.html#ae3e3d5c0996a2c45ed660b2b75ed1f71',1,'PopulatedMainWindow']]],
+  ['addedge_1049',['addEdge',['../classGraph.html#a952c2f76c333cc10305742d5d9e27ba3',1,'Graph']]],
+  ['addpassthroughinterface_1050',['addPassThroughInterface',['../classMidi_1_1Interface_1_1Input.html#ab8a2f0c3737dafe45cbb708255a88d1f',1,'Midi::Interface::Input']]],
+  ['addtab_1051',['addTab',['../classTabStack_1_1Widget.html#a4c6cdee3f81c5935bb3b5beaa119f1a2',1,'TabStack::Widget']]],
+  ['addunauthorizedstatuscode_1052',['addUnauthorizedStatusCode',['../classRestApi_1_1Blocking.html#a428c69fe4abcbe27d5f53eb3bb73986d',1,'RestApi::Blocking']]],
+  ['addvertex_1053',['addVertex',['../classGraph.html#aa70b3bfd5c23d4292905c1d7f933e321',1,'Graph']]],
+  ['advanceplayhead_1054',['advancePlayhead',['../classSample_1_1Reader.html#aa4413e189caf03a9a4679c6ff34e6050',1,'Sample::Reader']]],
+  ['algorithm_1055',['Algorithm',['../classGraph.html#a1275b45b889a01f856190b3ed32284cd',1,'Graph']]],
+  ['append_1056',['append',['../classSample_1_1Writer.html#a2c4a32607092d4496d8ab61bc46c2218',1,'Sample::Writer']]],
+  ['appendrow_1057',['appendRow',['../classMatrix.html#acebb50b38eae87dfc1d4cc8f35523449',1,'Matrix']]],
+  ['appendtimestamptofilename_1058',['appendTimeStampToFileName',['../structLogFileBase.html#aa00627e0815c9b810c2f734580e56d6f',1,'LogFileBase']]],
+  ['apply_1059',['apply',['../classTabStack_1_1Model.html#a4e31544c39634a60f65c2f13163930f0',1,'TabStack::Model']]],
+  ['applystlyesheet_1060',['applyStlyeSheet',['../structLook.html#a6889ef9edf379ec77386923b9dac358d',1,'Look']]],
+  ['appname_1061',['appName',['../structShared.html#adb3cdb9ac971eaa7406f2eac0ad6efc8',1,'Shared']]],
+  ['async_1062',['Async',['../classRestApi_1_1Async.html#a6b8728e5bb96cbd67333a7db2146bd40',1,'RestApi::Async']]],
+  ['atend_1063',['atEnd',['../classSample_1_1Reader.html#aea9f265d4155897f8ad8394af5c17cd1',1,'Sample::Reader']]],
+  ['authorizeuser_1064',['authorizeUser',['../classAuthProvider_1_1OAuth.html#a7cd514c0a848814de84f6da4f4e9f9ae',1,'AuthProvider::OAuth']]]
 ];
