@@ -22,9 +22,6 @@ var hierarchy =
       [ "Graph", "classGraph.html", null ]
     ] ],
     [ "Logger::Target::Entry", "structLogger_1_1Target_1_1Entry.html", null ],
-    [ "std::exception", null, [
-      [ "RtMidiError", "classRtMidiError.html", null ]
-    ] ],
     [ "FastFourierTransfrom", "classFastFourierTransfrom.html", null ],
     [ "FileTools", "classFileTools.html", null ],
     [ "component.FileWriter", "classcomponent_1_1FileWriter.html", null ],
@@ -39,16 +36,6 @@ var hierarchy =
     [ "Midi::Manufacturer", "structMidi_1_1Manufacturer.html", null ],
     [ "Range::Mapper", "classRange_1_1Mapper.html", null ],
     [ "Sample::Meta", "structSample_1_1Meta.html", null ],
-    [ "MidiApi", "classMidiApi.html", [
-      [ "MidiInApi", "classMidiInApi.html", [
-        [ "MidiInDummy", "classMidiInDummy.html", null ]
-      ] ],
-      [ "MidiOutApi", "classMidiOutApi.html", [
-        [ "MidiOutDummy", "classMidiOutDummy.html", null ]
-      ] ]
-    ] ],
-    [ "MidiInApi::MidiMessage", "structMidiInApi_1_1MidiMessage.html", null ],
-    [ "MidiInApi::MidiQueue", "structMidiInApi_1_1MidiQueue.html", null ],
     [ "Note", "classNote.html", null ],
     [ "OscMessage", "classOscMessage.html", null ],
     [ "Midi::Interface::Output", "classMidi_1_1Interface_1_1Output.html", null ],
@@ -113,11 +100,6 @@ var hierarchy =
     ] ],
     [ "Range", "structRange.html", null ],
     [ "RecentFiles", "classRecentFiles.html", null ],
-    [ "RtMidi", "classRtMidi.html", [
-      [ "RtMidiIn", "classRtMidiIn.html", null ],
-      [ "RtMidiOut", "classRtMidiOut.html", null ]
-    ] ],
-    [ "MidiInApi::RtMidiInData", "structMidiInApi_1_1RtMidiInData.html", null ],
     [ "Scale", "classScale.html", null ],
     [ "Midi::Sequence", "classMidi_1_1Sequence.html", [
       [ "Midi::File::Reader", "classMidi_1_1File_1_1Reader.html", null ]
@@ -133,9 +115,6 @@ var hierarchy =
     [ "Size", "structSize.html", null ],
     [ "Spectrogram", "classSpectrogram.html", null ],
     [ "Math::Spherical", "classMath_1_1Spherical.html", null ],
-    [ "StaticAssert< b >", "classStaticAssert.html", null ],
-    [ "StaticAssert< true >", "classStaticAssert_3_01true_01_4.html", null ],
-    [ "StaticAssertions", "classStaticAssertions.html", null ],
     [ "Logger::Target", "classLogger_1_1Target.html", [
       [ "MessageLabel", "classMessageLabel.html", null ],
       [ "MessageModel", "classMessageModel.html", null ]

@@ -25,11 +25,10 @@
 var NAVTREE =
 [
   [ "WaTools CMakePackage", "index.html", [
-    [ "CMakePackages", "md_README.html", [
+    [ "CMakePackage", "md_README.html", [
       [ "install", "md_README.html#autotoc_md1", null ],
       [ "mocing Qt classes in cpp files", "md_README.html#autotoc_md2", null ]
     ] ],
-    [ "RtMidi Wrapper", "md_RtMidi_README.html", null ],
     [ "WaToolsAudio", "md_WaToolsAudio_README.html", null ],
     [ "WaToolsGeneral", "md_WaToolsGeneral_README.html", null ],
     [ "WaToolsGraph", "md_WaToolsGraph_README.html", null ],
@@ -69,7 +68,6 @@ var NAVTREE =
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
@@ -81,10 +79,10 @@ var NAVTREEINDEX =
 [
 "ActionPopulation_8cpp.html",
 "MidiInterfaceOutput_8cpp.html",
-"classGraph.html#aa70b3bfd5c23d4292905c1d7f933e321",
-"classOscMessage.html#a31b79ded9454767438676e20bd4b8069",
-"classShellClient.html",
-"namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a2391161c12c2f031581ecf7ec05b472d"
+"classLocker.html#a78dc92311c7d26b91db31fd314e9f353",
+"classSample_1_1Abstract.html#acdc862e2163b6b4feaa9bfcf16530468",
+"namespaceMath.html#aab211c8cf70d22e93ebca04f518b45ee",
+"structWaveFmtHeader.html#afbebf680b808e9f4fe6d4cf938b7fa88"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

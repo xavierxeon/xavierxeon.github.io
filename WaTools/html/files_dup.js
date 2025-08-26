@@ -1,6 +1,5 @@
 var files_dup =
 [
-    [ "RtMidi", "dir_586978bc9feedccd06fc10ed992647e6.html", "dir_586978bc9feedccd06fc10ed992647e6" ],
     [ "WaToolsAudio", "dir_e5db3b8d233a167dadde224c2490d413.html", "dir_e5db3b8d233a167dadde224c2490d413" ],
     [ "WaToolsCore", "dir_fb4e67c3f8c88c8c2e5bcfa4f15a9270.html", "dir_fb4e67c3f8c88c8c2e5bcfa4f15a9270" ],
     [ "WaToolsGeneral", "dir_59ceb17336424d85e121908852f84529.html", "dir_59ceb17336424d85e121908852f84529" ],
