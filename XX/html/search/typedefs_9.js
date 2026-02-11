@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['octave_1675',['Octave',['../classNote.html#ade07dc07e70c8127c403f11bda0308cf',1,'Note']]]
+];
