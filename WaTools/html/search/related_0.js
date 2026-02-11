@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['async_1628',['Async',['../classRestApi_1_1Blocking.html#a4953ed4590800ddcde3fd70ebc65b2b6',1,'RestApi::Blocking']]]
-];
