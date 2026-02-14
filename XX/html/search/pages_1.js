@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['based_20application_0',['a framework for a QWidget based application',['../group___x_x_application.html#autotoc_md3',1,'']]]
+  ['files_0',['mocing Qt classes in cpp files',['../index.html#autotoc_md2',1,'']]]
 ];
