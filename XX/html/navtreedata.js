@@ -76,11 +76,11 @@ var NAVTREEINDEX =
 "_x_x_application_export_def_8h.html",
 "class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc",
 "class_x_x_1_1_math_1_1_spherical.html#a2c5a0276dcc6df787817c41c4e5298aa",
-"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86",
-"class_x_x_1_1_rest_api_1_1_blocking.html#a3c97df4359bcab9eb6683001aa6925c2",
-"class_x_x_1_1_shared_data.html#ac398ad7145471997c1e310d19dee3959",
-"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d",
-"struct_x_x_1_1_network_1_1_tools.html#a0db0b073cb5a7d29c959614b6eb02c9f"
+"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeac8d1ce60f2cbfea9c90fc98ddb3616b8",
+"class_x_x_1_1_rest_api_1_1_status_exception.html#af2b87c91f129cf084c95662f90ab3d3b",
+"class_x_x_1_1_spectrogram.html#abf894b80151f8bb9aa207b10635ec52a",
+"namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a4bc0794c6c4921c25c2fc6ea192562a9",
+"struct_x_x_1_1_shared.html#a6a244cb2863dfac84057a355a5e53b03"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
