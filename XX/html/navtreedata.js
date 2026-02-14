@@ -75,7 +75,7 @@ var NAVTREEINDEX =
 "class_x_x_1_1_midi_1_1_parser.html#a1206467a0d856bbee6fa8c29a7352d99",
 "class_x_x_1_1_recent_files.html#a43e8edaf1577816987292a719faf5ed7",
 "class_x_x_1_1_spectrogram.html#a7f41044cde026e248508bbed69d77fee",
-"group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692"
+"group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

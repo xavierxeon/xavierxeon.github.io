@@ -22,6 +22,6 @@ var searchData=
   ['bury_19',['bury',['../class_x_x_1_1_shallow_crypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5',1,'XX::ShallowCrypt']]],
   ['busycursor_20',['BusyCursor',['../class_x_x_1_1_busy_cursor.html',1,'XX::BusyCursor'],['../class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0',1,'XX::BusyCursor::BusyCursor()']]],
   ['byteconversion_21',['ByteConversion',['../class_x_x_1_1_byte_conversion.html',1,'XX']]],
-  ['bytes_22',['Bytes',['../namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b',1,'XX']]],
+  ['bytes_22',['Bytes',['../group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b',1,'XX']]],
   ['bytes_23',['bytes',['../class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]]
 ];

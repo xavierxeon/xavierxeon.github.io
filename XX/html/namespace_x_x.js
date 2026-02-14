@@ -50,10 +50,10 @@ var namespace_x_x =
     [ "Look", "struct_x_x_1_1_look.html", "struct_x_x_1_1_look" ],
     [ "MessageLabel", "class_x_x_1_1_message_label.html", "class_x_x_1_1_message_label" ],
     [ "QmlWidget", "class_x_x_1_1_qml_widget.html", "class_x_x_1_1_qml_widget" ],
-    [ "Bytes", "namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b", null ],
+    [ "Bytes", "group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b", null ],
     [ "isFloatType", "group___compiler_tests.html#gaedd13f6317d564d69aaab085caf5a3f7", null ],
     [ "isIntegerType", "group___compiler_tests.html#gadeaf1c71a80b637e952a3c88bcd8f1b7", null ],
     [ "isSigned", "group___compiler_tests.html#ga785bbb775cb5374c07d3ad7958625aa6", null ],
     [ "isUnsigned", "group___compiler_tests.html#ga16f8071a2bec7511e9524ddffba58f95", null ],
-    [ "operator<<", "namespace_x_x.html#a296f233be1769cc07840d3e20c833544", null ]
+    [ "operator<<", "group___x_x_music.html#ga296f233be1769cc07840d3e20c833544", null ]
 ];

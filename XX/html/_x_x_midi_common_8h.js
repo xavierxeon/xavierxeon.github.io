@@ -1,7 +1,7 @@
 var _x_x_midi_common_8h =
 [
     [ "XX::Midi::Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
-    [ "XX::Bytes", "namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b", null ],
+    [ "XX::Bytes", "group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b", null ],
     [ "XX::Midi::Channel", "group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76", null ],
     [ "XX::Midi::MessageList", "group___x_x_music.html#gab0bfeaefd7b3cd3db01210779928c39d", null ],
     [ "XX::Midi::SongPosition", "group___x_x_music.html#gaecb80be4244bb843179d23f581bf9a9c", null ],
@@ -107,6 +107,6 @@ var _x_x_midi_common_8h =
     ] ],
     [ "XX::Midi::hasFirstBit", "group___functions.html#ga081cb6134319ccd7a26aaa523a730604", null ],
     [ "XX::Midi::isEvent", "group___functions.html#gad4b209e4c5471436061af53bb927a15c", null ],
-    [ "XX::operator<<", "namespace_x_x.html#a296f233be1769cc07840d3e20c833544", null ],
+    [ "XX::operator<<", "group___x_x_music.html#ga296f233be1769cc07840d3e20c833544", null ],
     [ "XX::Midi::removeFirstBit", "group___functions.html#ga7e955af924f02d22eb97ce77c856e519", null ]
 ];

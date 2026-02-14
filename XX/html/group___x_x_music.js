@@ -7,6 +7,7 @@ var group___x_x_music =
     [ "XX::Midi::Variables", "struct_x_x_1_1_midi_1_1_variables.html", [
       [ "msPerByte", "struct_x_x_1_1_midi_1_1_variables.html#a733482b404cb601f0d0ad0b9db0ef5c1", null ]
     ] ],
+    [ "XX::Bytes", "group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b", null ],
     [ "XX::Midi::Channel", "group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76", null ],
     [ "XX::Midi::MessageList", "group___x_x_music.html#gab0bfeaefd7b3cd3db01210779928c39d", null ],
     [ "XX::Midi::SongPosition", "group___x_x_music.html#gaecb80be4244bb843179d23f581bf9a9c", null ],
@@ -131,5 +132,6 @@ var group___x_x_music =
       [ "XX::Midi::Playback::Start", "group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37", null ],
       [ "XX::Midi::Playback::Continue", "group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe", null ],
       [ "XX::Midi::Playback::Stop", "group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481", null ]
-    ] ]
+    ] ],
+    [ "XX::operator<<", "group___x_x_music.html#ga296f233be1769cc07840d3e20c833544", null ]
 ];
