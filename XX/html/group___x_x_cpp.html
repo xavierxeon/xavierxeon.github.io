@@ -115,10 +115,86 @@ Classes</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">map a value from one range to another  <a href="class_x_x_1_1_range_1_1_mapper.html#details">More...</a><br /></td></tr>
 <tr class="memitem:XX_3A_3ARange_3A_3ASpread" id="r_XX_3A_3ARange_3A_3ASpread"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_range_1_1_spread.html">XX::Range::Spread</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">generate a iterateable sequence of numbers with a start, end and step  <a href="class_x_x_1_1_range_1_1_spread.html#details">More...</a><br /></td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 id="header-typedef-members" class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:gadeaf1c71a80b637e952a3c88bcd8f1b7" id="r_gadeaf1c71a80b637e952a3c88bcd8f1b7"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:gadeaf1c71a80b637e952a3c88bcd8f1b7 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">XX::isIntegerType</a> = typename std::enable_if&lt;std::is_integral&lt;TestType&gt;::value, bool&gt;::type</td></tr>
+<tr class="memitem:gaedd13f6317d564d69aaab085caf5a3f7" id="r_gaedd13f6317d564d69aaab085caf5a3f7"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:gaedd13f6317d564d69aaab085caf5a3f7 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#gaedd13f6317d564d69aaab085caf5a3f7">XX::isFloatType</a> = typename std::enable_if&lt;std::is_floating_point&lt;TestType&gt;::value, bool&gt;::type</td></tr>
+<tr class="memitem:ga785bbb775cb5374c07d3ad7958625aa6" id="r_ga785bbb775cb5374c07d3ad7958625aa6"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:ga785bbb775cb5374c07d3ad7958625aa6 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#ga785bbb775cb5374c07d3ad7958625aa6">XX::isSigned</a> = typename std::enable_if&lt;std::is_signed&lt;TestType&gt;::value, bool&gt;::type</td></tr>
+<tr class="memitem:ga16f8071a2bec7511e9524ddffba58f95" id="r_ga16f8071a2bec7511e9524ddffba58f95"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:ga16f8071a2bec7511e9524ddffba58f95 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#ga16f8071a2bec7511e9524ddffba58f95">XX::isUnsigned</a> = typename std::enable_if&lt;!std::is_signed&lt;TestType&gt;::value, bool&gt;::type</td></tr>
 </table>
 <a name="details" id="details"></a><h2 id="header-details" class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>this module depends on c++ only   </p>
-</div></div><!-- contents -->
+</div><a name="doc-typedef-members" id="doc-typedef-members"></a><h2 id="header-doc-typedef-members" class="groupheader">Typedef Documentation</h2>
+<a id="gaedd13f6317d564d69aaab085caf5a3f7" name="gaedd13f6317d564d69aaab085caf5a3f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gaedd13f6317d564d69aaab085caf5a3f7">&#9670;&#160;</a></span>isFloatType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#gaedd13f6317d564d69aaab085caf5a3f7">XX::isFloatType</a> = typename std::enable_if&lt;std::is_floating_point&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="gadeaf1c71a80b637e952a3c88bcd8f1b7" name="gadeaf1c71a80b637e952a3c88bcd8f1b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">&#9670;&#160;</a></span>isIntegerType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">XX::isIntegerType</a> = typename std::enable_if&lt;std::is_integral&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ga785bbb775cb5374c07d3ad7958625aa6" name="ga785bbb775cb5374c07d3ad7958625aa6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga785bbb775cb5374c07d3ad7958625aa6">&#9670;&#160;</a></span>isSigned</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#ga785bbb775cb5374c07d3ad7958625aa6">XX::isSigned</a> = typename std::enable_if&lt;std::is_signed&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ga16f8071a2bec7511e9524ddffba58f95" name="ga16f8071a2bec7511e9524ddffba58f95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga16f8071a2bec7511e9524ddffba58f95">&#9670;&#160;</a></span>isUnsigned</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#ga16f8071a2bec7511e9524ddffba58f95">XX::isUnsigned</a> = typename std::enable_if&lt;!std::is_signed&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <div id="page-nav" class="page-nav-panel">
 <div id="page-nav-resize-handle"></div>
