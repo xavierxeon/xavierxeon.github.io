@@ -72,9 +72,9 @@ var NAVTREEINDEX =
 [
 "_x_x_application_export_def_8h.html",
 "class_x_x_1_1_fast_fourier_transfrom.html#ab20ddf96a55e9d61046e2e3324ba638d",
-"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4ee",
-"class_x_x_1_1_settings.html",
-"group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea2a4a792bbd2e2250fcaf1f5bb097f942"
+"class_x_x_1_1_osc_message.html#a152ff0d3539d15a6ed2e22a42d389b23",
+"class_x_x_1_1_singleton.html",
+"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
