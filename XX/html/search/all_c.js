@@ -19,7 +19,7 @@ var searchData=
   ['menucreationfunction_16',['MenuCreationFunction',['../class_x_x_1_1_populated_1_1_abstract.html#a2d4a8fd94b468575abaf33713e29439b',1,'XX::Populated::Abstract']]],
   ['messagehandler_17',['MessageHandler',['../struct_x_x_1_1_message_handler.html',1,'XX']]],
   ['messagelabel_18',['MessageLabel',['../class_x_x_1_1_message_label.html',1,'XX::MessageLabel'],['../class_x_x_1_1_message_label.html#ab2eacf847a1949cab231d4782351964c',1,'XX::MessageLabel::MessageLabel()']]],
-  ['messagelist_19',['MessageList',['../namespace_x_x_1_1_midi.html#ab0bfeaefd7b3cd3db01210779928c39d',1,'XX::Midi']]],
+  ['messagelist_19',['MessageList',['../group___x_x_music.html#gab0bfeaefd7b3cd3db01210779928c39d',1,'XX::Midi']]],
   ['messagemap_20',['messageMap',['../struct_x_x_1_1_midi_1_1_sequence_1_1_track.html#a127fd5eb1a07b2eebf680baae18ee56a',1,'XX::Midi::Sequence::Track']]],
   ['messagemodel_21',['MessageModel',['../class_x_x_1_1_message_model.html',1,'XX::MessageModel'],['../class_x_x_1_1_message_model.html#afc502aa118119554db2832b3a0bb3cb4',1,'XX::MessageModel::MessageModel()']]],
   ['meta_22',['Meta',['../struct_x_x_1_1_sample_1_1_meta.html',1,'XX::Sample::Meta'],['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ab94ccd9bcd4739f7f0057a7a612c4e56',1,'XX::Midi::Meta']]],

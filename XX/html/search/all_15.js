@@ -7,7 +7,7 @@ var searchData=
   ['vcmc_4',['VCMC',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea91c04e98cfd003bdfa5993630a7a8af5',1,'XX::Midi::Device']]],
   ['vcvrack_5',['VCVRack',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea9de611615e851bafe1c9663611fab16a',1,'XX::Midi::Device']]],
   ['vector3_6',['Vector3',['../class_x_x_1_1_math_1_1_vector3.html',1,'XX::Math::Vector3'],['../class_x_x_1_1_math_1_1_vector3.html#a2a0f95b5a8d0ef73c003154171488ce3',1,'XX::Math::Vector3::Vector3()']]],
-  ['velocity_7',['Velocity',['../namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68',1,'XX::Midi']]],
+  ['velocity_7',['Velocity',['../group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68',1,'XX::Midi']]],
   ['verbose_8',['verbose',['../class_x_x_1_1_secure_network_1_1_socket.html#a41fb5a9aed2e49b9c444b79537fd42e3',1,'XX::SecureNetwork::Socket::verbose'],['../class_x_x_1_1_network_1_1_settings.html#aaaf2b53d04d81c0e394cb122d2d8c28f',1,'XX::Network::Settings::verbose()']]],
   ['vertex_9',['Vertex',['../class_x_x_1_1_graph_1_1_vertex.html',1,'XX::Graph::Vertex'],['../class_x_x_1_1_graph_1_1_vertex.html#ad7ce5bdbb2a85515b80d2596933f1b11',1,'XX::Graph::Vertex::Vertex()']]],
   ['vertexa_10',['vertexA',['../class_x_x_1_1_graph_1_1_edge.html#a3e9b4006bbf6e986029c8f1aeba00dd7',1,'XX::Graph::Edge']]],

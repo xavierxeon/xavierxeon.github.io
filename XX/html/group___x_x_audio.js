@@ -55,5 +55,6 @@ var group___x_x_audio =
       [ "getFrameSize", "class_x_x_1_1_spectrogram.html#abf894b80151f8bb9aa207b10635ec52a", null ],
       [ "load", "class_x_x_1_1_spectrogram.html#a45270c48b5137969557b0c2fe89a884b", null ]
     ] ],
+    [ "XX::Sample::Channels", "group___x_x_audio.html#ga41dad56563d51a0521d146ddec2f89d6", null ],
     [ "XX::Sample::Data", "group___x_x_audio.html#ga821a31c70f0ea9d54f46df4be7b7868f", null ]
 ];

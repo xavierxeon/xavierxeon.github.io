@@ -7,6 +7,10 @@ var group___x_x_music =
     [ "XX::Midi::Variables", "struct_x_x_1_1_midi_1_1_variables.html", [
       [ "msPerByte", "struct_x_x_1_1_midi_1_1_variables.html#a733482b404cb601f0d0ad0b9db0ef5c1", null ]
     ] ],
+    [ "XX::Midi::Channel", "group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76", null ],
+    [ "XX::Midi::MessageList", "group___x_x_music.html#gab0bfeaefd7b3cd3db01210779928c39d", null ],
+    [ "XX::Midi::SongPosition", "group___x_x_music.html#gaecb80be4244bb843179d23f581bf9a9c", null ],
+    [ "XX::Midi::Velocity", "group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68", null ],
     [ "XX::Midi::Device::Channel", "group___x_x_music.html#ga1454ec0dcef8edb9c9128cd9d7ed2e0e", [
       [ "XX::Midi::Device::DopeferQuad1", "group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0eaf89994c3052c554778730d92f6f91341", null ],
       [ "XX::Midi::Device::DopeferQuad2", "group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ead1dd4c524957554a1fac925f5ad1b25a", null ],

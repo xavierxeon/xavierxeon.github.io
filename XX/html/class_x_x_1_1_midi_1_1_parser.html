@@ -105,9 +105,9 @@ Inheritance diagram for XX::Midi::Parser:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-pub-types" class="groupheader"><a id="pub-types" name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:af96c2845f9bb949acb95fe7ddc95b576" id="r_af96c2845f9bb949acb95fe7ddc95b576"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#af96c2845f9bb949acb95fe7ddc95b576">NoteOnFunction</a> = std::function&lt;void(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const uchar&amp; midiNote, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a>&amp; velocity)&gt;</td></tr>
-<tr class="memitem:a76318f9cfef5aac4b8fc0ae9acad592b" id="r_a76318f9cfef5aac4b8fc0ae9acad592b"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#a76318f9cfef5aac4b8fc0ae9acad592b">NoteOffFunction</a> = std::function&lt;void(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const uchar&amp; midiNote, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a>&amp; velocity)&gt;</td></tr>
-<tr class="memitem:a0e7eca28f123632a81a90b4d7cddfeaf" id="r_a0e7eca28f123632a81a90b4d7cddfeaf"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#a0e7eca28f123632a81a90b4d7cddfeaf">ControllerChangeFunction</a> = std::function&lt;void(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a>&amp; controllerMessage, const uchar&amp; value)&gt;</td></tr>
+<tr class="memitem:af96c2845f9bb949acb95fe7ddc95b576" id="r_af96c2845f9bb949acb95fe7ddc95b576"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#af96c2845f9bb949acb95fe7ddc95b576">NoteOnFunction</a> = std::function&lt;void(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const uchar&amp; midiNote, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a>&amp; velocity)&gt;</td></tr>
+<tr class="memitem:a76318f9cfef5aac4b8fc0ae9acad592b" id="r_a76318f9cfef5aac4b8fc0ae9acad592b"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#a76318f9cfef5aac4b8fc0ae9acad592b">NoteOffFunction</a> = std::function&lt;void(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const uchar&amp; midiNote, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a>&amp; velocity)&gt;</td></tr>
+<tr class="memitem:a0e7eca28f123632a81a90b4d7cddfeaf" id="r_a0e7eca28f123632a81a90b4d7cddfeaf"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#a0e7eca28f123632a81a90b4d7cddfeaf">ControllerChangeFunction</a> = std::function&lt;void(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a>&amp; controllerMessage, const uchar&amp; value)&gt;</td></tr>
 <tr class="memitem:a694b04c77b683581ace7528da95af5a8" id="r_a694b04c77b683581ace7528da95af5a8"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#a694b04c77b683581ace7528da95af5a8">ClockTickFunction</a> = std::function&lt;void()&gt;</td></tr>
 <tr class="memitem:a9a7f76bca896c7a5a3f30ca9ef730b6f" id="r_a9a7f76bca896c7a5a3f30ca9ef730b6f"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#a9a7f76bca896c7a5a3f30ca9ef730b6f">ClockStatusFunction</a> = std::function&lt;void(const <a class="el" href="group___x_x_music.html#ga4907018c2d5df785a36a3593fae4b1b4">Playback</a>&amp; status)&gt;</td></tr>
 <tr class="memitem:abd3bff676bb26390b5d61bfd9fc4aec6" id="r_abd3bff676bb26390b5d61bfd9fc4aec6"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#abd3bff676bb26390b5d61bfd9fc4aec6">SongPositionFunction</a> = std::function&lt;void(const uint16_t&amp; position)&gt;</td></tr>
@@ -117,11 +117,11 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a7bf915469241ebc31ff651f3e4c4e1b7" id="r_a7bf915469241ebc31ff651f3e4c4e1b7"><td class="memItemLeft">&#160;</td><td class="memItemRight"><a class="el" href="#a7bf915469241ebc31ff651f3e4c4e1b7">Parser</a> ()</td></tr>
 <tr class="memitem:af2019f8118b9c478cda1042ee7be4bbc" id="r_af2019f8118b9c478cda1042ee7be4bbc"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#af2019f8118b9c478cda1042ee7be4bbc">processMessage</a> (const std::vector&lt; uchar &gt; &amp;message)</td></tr>
 <tr class="memitem:a202fdf208d287858a668bf0227d8c44d" id="r_a202fdf208d287858a668bf0227d8c44d"><td class="memTemplParams" colspan="2">template&lt;typename ClassType&gt; </td></tr>
-<tr class="memitem:a202fdf208d287858a668bf0227d8c44d template"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a202fdf208d287858a668bf0227d8c44d">onNoteOn</a> (ClassType *instance, void(ClassType::*functionPointer)(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const uchar &amp;, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;))</td></tr>
+<tr class="memitem:a202fdf208d287858a668bf0227d8c44d template"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a202fdf208d287858a668bf0227d8c44d">onNoteOn</a> (ClassType *instance, void(ClassType::*functionPointer)(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const uchar &amp;, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;))</td></tr>
 <tr class="memitem:a5218643469083e2f71bf4efa89e62e68" id="r_a5218643469083e2f71bf4efa89e62e68"><td class="memTemplParams" colspan="2">template&lt;typename ClassType&gt; </td></tr>
-<tr class="memitem:a5218643469083e2f71bf4efa89e62e68 template"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a5218643469083e2f71bf4efa89e62e68">onNoteOff</a> (ClassType *instance, void(ClassType::*functionPointer)(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const uchar &amp;, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;))</td></tr>
+<tr class="memitem:a5218643469083e2f71bf4efa89e62e68 template"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a5218643469083e2f71bf4efa89e62e68">onNoteOff</a> (ClassType *instance, void(ClassType::*functionPointer)(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const uchar &amp;, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;))</td></tr>
 <tr class="memitem:a9986dd4df321d466b7a93ff680e8d6c2" id="r_a9986dd4df321d466b7a93ff680e8d6c2"><td class="memTemplParams" colspan="2">template&lt;typename ClassType&gt; </td></tr>
-<tr class="memitem:a9986dd4df321d466b7a93ff680e8d6c2 template"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a9986dd4df321d466b7a93ff680e8d6c2">onControllerChange</a> (ClassType *instance, void(ClassType::*functionPointer)(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> &amp;, const uchar &amp;))</td></tr>
+<tr class="memitem:a9986dd4df321d466b7a93ff680e8d6c2 template"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a9986dd4df321d466b7a93ff680e8d6c2">onControllerChange</a> (ClassType *instance, void(ClassType::*functionPointer)(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> &amp;, const uchar &amp;))</td></tr>
 <tr class="memitem:a1206467a0d856bbee6fa8c29a7352d99" id="r_a1206467a0d856bbee6fa8c29a7352d99"><td class="memTemplParams" colspan="2">template&lt;typename ClassType&gt; </td></tr>
 <tr class="memitem:a1206467a0d856bbee6fa8c29a7352d99 template"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a1206467a0d856bbee6fa8c29a7352d99">onClockTick</a> (ClassType *instance, void(ClassType::*functionPointer)())</td></tr>
 <tr class="memitem:a700e81e0ef5938e1a037a2d17659bbbf" id="r_a700e81e0ef5938e1a037a2d17659bbbf"><td class="memTemplParams" colspan="2">template&lt;typename ClassType&gt; </td></tr>
@@ -131,9 +131,9 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-pro-methods" class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:a44cbc7bfd5aeb7299ab97144f081e088" id="r_a44cbc7bfd5aeb7299ab97144f081e088"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#a44cbc7bfd5aeb7299ab97144f081e088">noteOn</a> (const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;channel, const uchar &amp;midiNote, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;velocity)</td></tr>
-<tr class="memitem:a0a676b60ddb24cc34bf1c1ee712c7baa" id="r_a0a676b60ddb24cc34bf1c1ee712c7baa"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#a0a676b60ddb24cc34bf1c1ee712c7baa">noteOff</a> (const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;channel, const uchar &amp;midiNote, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;velocity)</td></tr>
-<tr class="memitem:a5636f231db8ab4a8c71a19de48971bfa" id="r_a5636f231db8ab4a8c71a19de48971bfa"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#a5636f231db8ab4a8c71a19de48971bfa">controllerChange</a> (const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;channel, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> &amp;controllerMessage, const uchar &amp;value)</td></tr>
+<tr class="memitem:a44cbc7bfd5aeb7299ab97144f081e088" id="r_a44cbc7bfd5aeb7299ab97144f081e088"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#a44cbc7bfd5aeb7299ab97144f081e088">noteOn</a> (const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;channel, const uchar &amp;midiNote, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;velocity)</td></tr>
+<tr class="memitem:a0a676b60ddb24cc34bf1c1ee712c7baa" id="r_a0a676b60ddb24cc34bf1c1ee712c7baa"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#a0a676b60ddb24cc34bf1c1ee712c7baa">noteOff</a> (const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;channel, const uchar &amp;midiNote, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;velocity)</td></tr>
+<tr class="memitem:a5636f231db8ab4a8c71a19de48971bfa" id="r_a5636f231db8ab4a8c71a19de48971bfa"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#a5636f231db8ab4a8c71a19de48971bfa">controllerChange</a> (const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;channel, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> &amp;controllerMessage, const uchar &amp;value)</td></tr>
 <tr class="memitem:abd64b985cb920d0af2a8d36f6cd471a1" id="r_abd64b985cb920d0af2a8d36f6cd471a1"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#abd64b985cb920d0af2a8d36f6cd471a1">clockTick</a> ()</td></tr>
 <tr class="memitem:aa5a484f934fdf89e56fb70e6e0774015" id="r_aa5a484f934fdf89e56fb70e6e0774015"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#aa5a484f934fdf89e56fb70e6e0774015">clockStatus</a> (const <a class="el" href="group___x_x_music.html#ga4907018c2d5df785a36a3593fae4b1b4">Playback</a> &amp;status)</td></tr>
 <tr class="memitem:a70b7e284ef31417e8ca8750e2802f786" id="r_a70b7e284ef31417e8ca8750e2802f786"><td class="memItemLeft">virtual void&#160;</td><td class="memItemRight"><a class="el" href="#a70b7e284ef31417e8ca8750e2802f786">songPosition</a> (const uint16_t &amp;position)</td></tr>
@@ -174,7 +174,7 @@ Protected Member Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="#a0e7eca28f123632a81a90b4d7cddfeaf">XX::Midi::Parser::ControllerChangeFunction</a> = std::function&lt;void(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a>&amp; controllerMessage, const uchar&amp; value)&gt;</td>
+          <td class="memname">using <a class="el" href="#a0e7eca28f123632a81a90b4d7cddfeaf">XX::Midi::Parser::ControllerChangeFunction</a> = std::function&lt;void(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a>&amp; controllerMessage, const uchar&amp; value)&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -188,7 +188,7 @@ Protected Member Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="#a76318f9cfef5aac4b8fc0ae9acad592b">XX::Midi::Parser::NoteOffFunction</a> = std::function&lt;void(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const uchar&amp; midiNote, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a>&amp; velocity)&gt;</td>
+          <td class="memname">using <a class="el" href="#a76318f9cfef5aac4b8fc0ae9acad592b">XX::Midi::Parser::NoteOffFunction</a> = std::function&lt;void(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const uchar&amp; midiNote, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a>&amp; velocity)&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -202,7 +202,7 @@ Protected Member Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="#af96c2845f9bb949acb95fe7ddc95b576">XX::Midi::Parser::NoteOnFunction</a> = std::function&lt;void(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const uchar&amp; midiNote, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a>&amp; velocity)&gt;</td>
+          <td class="memname">using <a class="el" href="#af96c2845f9bb949acb95fe7ddc95b576">XX::Midi::Parser::NoteOnFunction</a> = std::function&lt;void(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a>&amp; channel, const uchar&amp; midiNote, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a>&amp; velocity)&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -304,7 +304,7 @@ Protected Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void XX::Midi::Parser::controllerChange </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>channel</em></span>, </td>
+          <td class="paramtype">const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>channel</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -338,7 +338,7 @@ Protected Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void XX::Midi::Parser::noteOff </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>channel</em></span>, </td>
+          <td class="paramtype">const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>channel</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -348,7 +348,7 @@ Protected Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>velocity</em></span>&#160;)</td>
+          <td class="paramtype">const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>velocity</em></span>&#160;)</td>
         </tr>
       </table>
   </td>
@@ -372,7 +372,7 @@ Protected Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void XX::Midi::Parser::noteOn </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>channel</em></span>, </td>
+          <td class="paramtype">const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>channel</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -382,7 +382,7 @@ Protected Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>velocity</em></span>&#160;)</td>
+          <td class="paramtype">const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>velocity</em></span>&#160;)</td>
         </tr>
       </table>
   </td>
@@ -456,7 +456,7 @@ template&lt;typename ClassType&gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">void(ClassType::*</td>          <td class="paramname"><span class="paramname"><em>functionPointer&#160;</em></span>)(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> &amp;, const uchar &amp;)&#160;)</td>
+          <td class="paramtype">void(ClassType::*</td>          <td class="paramname"><span class="paramname"><em>functionPointer&#160;</em></span>)(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const <a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> &amp;, const uchar &amp;)&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -479,7 +479,7 @@ template&lt;typename ClassType&gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">void(ClassType::*</td>          <td class="paramname"><span class="paramname"><em>functionPointer&#160;</em></span>)(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const uchar &amp;, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;)&#160;)</td>
+          <td class="paramtype">void(ClassType::*</td>          <td class="paramname"><span class="paramname"><em>functionPointer&#160;</em></span>)(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const uchar &amp;, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;)&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -502,7 +502,7 @@ template&lt;typename ClassType&gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">void(ClassType::*</td>          <td class="paramname"><span class="paramname"><em>functionPointer&#160;</em></span>)(const <a class="el" href="namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const uchar &amp;, const <a class="el" href="namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;)&#160;)</td>
+          <td class="paramtype">void(ClassType::*</td>          <td class="paramname"><span class="paramname"><em>functionPointer&#160;</em></span>)(const <a class="el" href="group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76">Channel</a> &amp;, const uchar &amp;, const <a class="el" href="group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68">Velocity</a> &amp;)&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">

@@ -2,10 +2,10 @@ var _x_x_midi_common_8h =
 [
     [ "XX::Midi::Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
     [ "XX::Bytes", "namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b", null ],
-    [ "XX::Midi::Channel", "namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76", null ],
-    [ "XX::Midi::MessageList", "namespace_x_x_1_1_midi.html#ab0bfeaefd7b3cd3db01210779928c39d", null ],
-    [ "XX::Midi::SongPosition", "namespace_x_x_1_1_midi.html#aecb80be4244bb843179d23f581bf9a9c", null ],
-    [ "XX::Midi::Velocity", "namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68", null ],
+    [ "XX::Midi::Channel", "group___x_x_music.html#gae42d57082414b53270c60b6b31d4eb76", null ],
+    [ "XX::Midi::MessageList", "group___x_x_music.html#gab0bfeaefd7b3cd3db01210779928c39d", null ],
+    [ "XX::Midi::SongPosition", "group___x_x_music.html#gaecb80be4244bb843179d23f581bf9a9c", null ],
+    [ "XX::Midi::Velocity", "group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68", null ],
     [ "XX::Midi::ControllerMessage", "group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5", [
       [ "XX::Midi::BankSelect", "group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5ad6676a2286ace56c33b53ea569d4fcc3", null ],
       [ "XX::Midi::ModWheel", "group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df", null ],

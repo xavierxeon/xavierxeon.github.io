@@ -69,7 +69,7 @@ var searchData=
   ['socket_66',['Socket',['../class_x_x_1_1_secure_network_1_1_socket.html',1,'XX::SecureNetwork::Socket'],['../class_x_x_1_1_secure_network_1_1_socket.html#afa7e4ba7183411dd4eef9e29c63493c5',1,'XX::SecureNetwork::Socket::Socket()']]],
   ['socketname_67',['socketName',['../struct_x_x_1_1_shared.html#aa29de886b98aca7ef9f628ec252acb88',1,'XX::Shared']]],
   ['softpedal_68',['SoftPedal',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5aea897eecd9bad9eddf56e5e2ba123d23',1,'XX::Midi']]],
-  ['songposition_69',['SongPosition',['../namespace_x_x_1_1_midi.html#aecb80be4244bb843179d23f581bf9a9c',1,'XX::Midi']]],
+  ['songposition_69',['SongPosition',['../group___x_x_music.html#gaecb80be4244bb843179d23f581bf9a9c',1,'XX::Midi']]],
   ['songposition_70',['songPosition',['../class_x_x_1_1_midi_1_1_parser.html#a70b7e284ef31417e8ca8750e2802f786',1,'XX::Midi::Parser']]],
   ['songpositionfunction_71',['SongPositionFunction',['../class_x_x_1_1_midi_1_1_parser.html#abd3bff676bb26390b5d61bfd9fc4aec6',1,'XX::Midi::Parser']]],
   ['songpositionpointer_72',['SongPositionPointer',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a9cd575a7d72207d4d5e3c92d98d75b65',1,'XX::Midi']]],
