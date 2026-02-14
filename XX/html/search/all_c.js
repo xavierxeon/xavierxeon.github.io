@@ -29,8 +29,7 @@ var searchData=
   ['midiport_26',['MidiPort',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5',1,'XX::Midi']]],
   ['min_27',['min',['../class_x_x_1_1_range_1_1_finder.html#aee50dc72f9340216096ea4b4d2368078',1,'XX::Range::Finder::min()'],['../struct_x_x_1_1_range.html#a53fbb95f81ebe05d2ca4da22e8b6db52',1,'XX::Range::min()']]],
   ['minutes_28',['minutes',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#adca51f6b6f3429b2cf258bd528418164',1,'XX::Midi::Sequence::Info']]],
-  ['mocing_20qt_20classes_20in_20cpp_20files_29',['mocing Qt classes in cpp files',['../index.html#autotoc_md2',1,'']]],
-  ['model_30',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html',1,'XX::TabStack::Model'],['../class_x_x_1_1_tab_stack_1_1_model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model::Model()']]],
-  ['modwheel_31',['ModWheel',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df',1,'XX::Midi']]],
-  ['msperbyte_32',['msPerByte',['../struct_x_x_1_1_midi_1_1_variables.html#a733482b404cb601f0d0ad0b9db0ef5c1',1,'XX::Midi::Variables']]]
+  ['model_29',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html',1,'XX::TabStack::Model'],['../class_x_x_1_1_tab_stack_1_1_model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model::Model()']]],
+  ['modwheel_30',['ModWheel',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df',1,'XX::Midi']]],
+  ['msperbyte_31',['msPerByte',['../struct_x_x_1_1_midi_1_1_variables.html#a733482b404cb601f0d0ad0b9db0ef5c1',1,'XX::Midi::Variables']]]
 ];
