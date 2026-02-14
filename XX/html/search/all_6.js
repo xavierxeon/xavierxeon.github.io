@@ -60,5 +60,6 @@ var searchData=
   ['graph_20component_57',['Graph component',['../group___x_x_graph.html',1,'']]],
   ['graphicsview_58',['GraphicsView',['../class_x_x_1_1_managed_1_1_graphics_view.html',1,'XX::Managed::GraphicsView'],['../class_x_x_1_1_managed_1_1_graphics_view.html#a1d3511d5e968e8dc9caaab7365f2eccb',1,'XX::Managed::GraphicsView::GraphicsView()']]],
   ['gs_59',['Gs',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86',1,'XX::Note']]],
-  ['guard_60',['Guard',['../class_x_x_1_1_shared_data_1_1_guard.html',1,'XX::SharedData&lt; DataBlock &gt;::Guard'],['../class_x_x_1_1_shared_data_1_1_guard.html#a636bf1fb3f85283cbab4a54fd29bb229',1,'XX::SharedData::Guard::Guard()']]]
+  ['guard_60',['Guard',['../class_x_x_1_1_shared_data_1_1_guard.html',1,'XX::SharedData&lt; DataBlock &gt;::Guard'],['../class_x_x_1_1_shared_data_1_1_guard.html#a636bf1fb3f85283cbab4a54fd29bb229',1,'XX::SharedData::Guard::Guard()']]],
+  ['gui_20component_61',['Gui component',['../group___x_x_gui.html',1,'']]]
 ];
