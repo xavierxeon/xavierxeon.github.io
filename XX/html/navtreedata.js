@@ -75,12 +75,12 @@ var NAVTREEINDEX =
 [
 "_x_x_application_export_def_8h.html",
 "class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc",
-"class_x_x_1_1_math_1_1_spherical.html",
-"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea94623b1ed39457c4adf3fcae1dceff5b",
-"class_x_x_1_1_rest_api_1_1_status_exception.html#af1a84251869a6c9fef033f444e0f247c",
-"class_x_x_1_1_spectrogram.html#a93a88a002bc3c7476a98f15866abcf32",
-"namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471",
-"struct_x_x_1_1_shared.html"
+"class_x_x_1_1_math_1_1_quaternion.html",
+"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86",
+"class_x_x_1_1_rest_api_1_1_status_exception.html#ad2a16c796cee0a3861eec8304f97d51c",
+"class_x_x_1_1_spectrogram.html#a45270c48b5137969557b0c2fe89a884b",
+"namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe",
+"struct_x_x_1_1_sample_1_1_meta.html#aed5d786c4d761f1eafa0d469198d22c2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

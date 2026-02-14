@@ -1,5 +1,9 @@
 var NAVTREEINDEX4 =
 {
+"class_x_x_1_1_rest_api_1_1_status_exception.html#ad2a16c796cee0a3861eec8304f97d51c":[3,0,0,9,2,5],
+"class_x_x_1_1_rest_api_1_1_status_exception.html#ad2a16c796cee0a3861eec8304f97d51c":[5,0,0,9,2,5],
+"class_x_x_1_1_rest_api_1_1_status_exception.html#adc923ce601450516269d506f66a4f4db":[3,0,0,9,2,0],
+"class_x_x_1_1_rest_api_1_1_status_exception.html#adc923ce601450516269d506f66a4f4db":[5,0,0,9,2,0],
 "class_x_x_1_1_rest_api_1_1_status_exception.html#af1a84251869a6c9fef033f444e0f247c":[3,0,0,9,2,2],
 "class_x_x_1_1_rest_api_1_1_status_exception.html#af1a84251869a6c9fef033f444e0f247c":[5,0,0,9,2,2],
 "class_x_x_1_1_rest_api_1_1_status_exception.html#af2b87c91f129cf084c95662f90ab3d3b":[3,0,0,9,2,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX4 =
 "class_x_x_1_1_spectrogram.html#a05dea62107c80274c4155ac68cc6a6dd":[3,0,0,14,3],
 "class_x_x_1_1_spectrogram.html#a05dea62107c80274c4155ac68cc6a6dd":[5,0,0,14,3],
 "class_x_x_1_1_spectrogram.html#a2fa168df9bacd04294c203bd50dd821e":[3,0,0,14,0],
-"class_x_x_1_1_spectrogram.html#a2fa168df9bacd04294c203bd50dd821e":[5,0,0,14,0],
-"class_x_x_1_1_spectrogram.html#a45270c48b5137969557b0c2fe89a884b":[3,0,0,14,5],
-"class_x_x_1_1_spectrogram.html#a45270c48b5137969557b0c2fe89a884b":[5,0,0,14,5],
-"class_x_x_1_1_spectrogram.html#a7f41044cde026e248508bbed69d77fee":[3,0,0,14,1],
-"class_x_x_1_1_spectrogram.html#a7f41044cde026e248508bbed69d77fee":[5,0,0,14,1]
+"class_x_x_1_1_spectrogram.html#a2fa168df9bacd04294c203bd50dd821e":[5,0,0,14,0]
 };
