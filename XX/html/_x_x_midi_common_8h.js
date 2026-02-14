@@ -1,6 +1,6 @@
 var _x_x_midi_common_8h =
 [
-    [ "XX::Midi::Device", "struct_x_x_1_1_midi_1_1_device.html", null ],
+    [ "XX::Midi::Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
     [ "XX::Bytes", "namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b", null ],
     [ "XX::Midi::Channel", "namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76", null ],
     [ "XX::Midi::MessageList", "namespace_x_x_1_1_midi.html#ab0bfeaefd7b3cd3db01210779928c39d", null ],

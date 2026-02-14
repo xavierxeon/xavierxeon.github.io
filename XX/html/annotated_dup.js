@@ -36,7 +36,7 @@ var annotated_dup =
           [ "Output", "class_x_x_1_1_midi_1_1_interface_1_1_output.html", "class_x_x_1_1_midi_1_1_interface_1_1_output" ]
         ] ],
         [ "Manufacturer", "struct_x_x_1_1_midi_1_1_manufacturer.html", "struct_x_x_1_1_midi_1_1_manufacturer" ],
-        [ "Device", "struct_x_x_1_1_midi_1_1_device.html", null ],
+        [ "Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
         [ "Variables", "struct_x_x_1_1_midi_1_1_variables.html", "struct_x_x_1_1_midi_1_1_variables" ],
         [ "Sequence", "class_x_x_1_1_midi_1_1_sequence.html", "class_x_x_1_1_midi_1_1_sequence" ],
         [ "Parser", "class_x_x_1_1_midi_1_1_parser.html", "class_x_x_1_1_midi_1_1_parser" ]
