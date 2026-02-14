@@ -1,6 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"struct_x_x_1_1_wave_header.html":[2,0,0,52],
 "struct_x_x_1_1_wave_header.html":[4,0,0,52],
 "struct_x_x_1_1_wave_header.html#a2b7220340f3a04b528254bbc4cf24768":[2,0,0,52,0],
 "struct_x_x_1_1_wave_header.html#a2b7220340f3a04b528254bbc4cf24768":[4,0,0,52,0],

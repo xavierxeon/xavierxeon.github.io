@@ -1,6 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b":[2,0,0,15,1],
 "struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b":[4,0,0,15,1],
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html":[2,0,0,21,0,0],
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html":[4,0,0,21,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX7 =
 "struct_x_x_1_1_wave_fmt_header.html#ae26527882f1d782686d0bcc082079357":[2,0,0,51,1],
 "struct_x_x_1_1_wave_fmt_header.html#ae26527882f1d782686d0bcc082079357":[4,0,0,51,1],
 "struct_x_x_1_1_wave_fmt_header.html#af6c3c575368b252ff1836b38975b5083":[2,0,0,51,3],
-"struct_x_x_1_1_wave_fmt_header.html#af6c3c575368b252ff1836b38975b5083":[4,0,0,51,3]
+"struct_x_x_1_1_wave_fmt_header.html#af6c3c575368b252ff1836b38975b5083":[4,0,0,51,3],
+"struct_x_x_1_1_wave_header.html":[2,0,0,52]
 };
