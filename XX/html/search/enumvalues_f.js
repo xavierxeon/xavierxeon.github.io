@@ -1,13 +1,13 @@
 var searchData=
 [
-  ['smpteoffset_1777',['SMPTEOffset',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38a2603b7b5eb4fd12dc22530071f65fd39',1,'Midi']]],
-  ['softpedal_1778',['SoftPedal',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a60151a000d2857522ce76c1a358d4329',1,'Midi']]],
-  ['songpositionpointer_1779',['SongPositionPointer',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a342677da425d50b47290396e21c7ea19',1,'Midi']]],
-  ['songselect_1780',['SongSelect',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341af95e672733429f0fdcddd9cecb7db3e6',1,'Midi']]],
-  ['sostenuto_1781',['Sostenuto',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a448ddba80aa3e21da6492146111ac5ef',1,'Midi']]],
-  ['splitter_1782',['Splitter',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a0903c4336fda7d2d149acdc418bc446f',1,'Midi::Device']]],
-  ['start_1783',['Start',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a5424094bd6d9b06025d89fc1fb7c7767',1,'Midi::Start()'],['../namespaceMidi.html#ae8088f7fc1739d2203919c99998b0e75aa6122a65eaa676f700ae68d393054a37',1,'Midi::Start()']]],
-  ['stop_1784',['Stop',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a9ce706472fb0de3c3257ca1ed3802a2c',1,'Midi::Stop()'],['../namespaceMidi.html#ae8088f7fc1739d2203919c99998b0e75a11a755d598c0c417f9a36758c3da7481',1,'Midi::Stop()']]],
-  ['sysexend_1785',['SysExEnd',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341acd345382d57d201ed2fe93297613b269',1,'Midi']]],
-  ['system_1786',['System',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341af7cfc174172d4d01bff1fd1d52116416',1,'Midi']]]
+  ['smpteoffset_0',['SMPTEOffset',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1bab8b61a48b2dae09bc1e0e1a0bdc25e45',1,'XX::Midi']]],
+  ['softpedal_1',['SoftPedal',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5aea897eecd9bad9eddf56e5e2ba123d23',1,'XX::Midi']]],
+  ['songpositionpointer_2',['SongPositionPointer',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a9cd575a7d72207d4d5e3c92d98d75b65',1,'XX::Midi']]],
+  ['songselect_3',['SongSelect',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a673da58d5726d7cc5a2b56b77bff3a96',1,'XX::Midi']]],
+  ['sostenuto_4',['Sostenuto',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5adafeb5cc13baf9ddf1141d80ece96a2b',1,'XX::Midi']]],
+  ['splitter_5',['Splitter',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea94a46d3104d5a1cac738e4c1da3cca0d',1,'XX::Midi::Device']]],
+  ['start_6',['Start',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a38f62592cd48f5686cc08e05a1101275',1,'XX::Midi::Start'],['../namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37',1,'XX::Midi::Start']]],
+  ['stop_7',['Stop',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494',1,'XX::Midi::Stop'],['../namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481',1,'XX::Midi::Stop']]],
+  ['sysexend_8',['SysExEnd',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1',1,'XX::Midi']]],
+  ['system_9',['System',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd',1,'XX::Midi']]]
 ];

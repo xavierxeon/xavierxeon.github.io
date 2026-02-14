@@ -1,18 +1,16 @@
 var dir_0b78b0f8c188afe98d5402e3b2ee8a32 =
 [
-    [ "AuthProviderOAuth.cpp", "AuthProviderOAuth_8cpp.html", null ],
-    [ "AuthProviderToken.cpp", "AuthProviderToken_8cpp.html", null ],
-    [ "NetworkSettings.cpp", "NetworkSettings_8cpp.html", null ],
-    [ "NetworkTools.cpp", "NetworkTools_8cpp.html", null ],
-    [ "RestApiAsync.cpp", "RestApiAsync_8cpp.html", null ],
-    [ "RestApiBlocking.cpp", "RestApiBlocking_8cpp.html", null ],
-    [ "RestApiException.cpp", "RestApiException_8cpp.html", null ],
-    [ "RestApiResult.cpp", "RestApiResult_8cpp.html", null ],
-    [ "SecureNetworkClient.cpp", "SecureNetworkClient_8cpp.html", null ],
-    [ "SecureNetworkServer.cpp", "SecureNetworkServer_8cpp.html", null ],
-    [ "SecureNetworkServerInternal.cpp", "SecureNetworkServerInternal_8cpp.html", null ],
-    [ "SecureNetworkServerInternal.h", "SecureNetworkServerInternal_8h.html", [
-      [ "ServerInternal", "classSecureNetwork_1_1ServerInternal.html", "classSecureNetwork_1_1ServerInternal" ]
-    ] ],
-    [ "SecureNetworkSocket.cpp", "SecureNetworkSocket_8cpp.html", null ]
+    [ "XXAuthProviderOAuth.cpp", "_x_x_auth_provider_o_auth_8cpp.html", null ],
+    [ "XXAuthProviderToken.cpp", "_x_x_auth_provider_token_8cpp.html", null ],
+    [ "XXNetworkSettings.cpp", "_x_x_network_settings_8cpp.html", null ],
+    [ "XXNetworkTools.cpp", "_x_x_network_tools_8cpp.html", null ],
+    [ "XXRestApiAsync.cpp", "_x_x_rest_api_async_8cpp.html", null ],
+    [ "XXRestApiBlocking.cpp", "_x_x_rest_api_blocking_8cpp.html", null ],
+    [ "XXRestApiException.cpp", "_x_x_rest_api_exception_8cpp.html", null ],
+    [ "XXRestApiResult.cpp", "_x_x_rest_api_result_8cpp.html", null ],
+    [ "XXSecureNetworkClient.cpp", "_x_x_secure_network_client_8cpp.html", null ],
+    [ "XXSecureNetworkServer.cpp", "_x_x_secure_network_server_8cpp.html", null ],
+    [ "XXSecureNetworkServerInternal.cpp", "_x_x_secure_network_server_internal_8cpp.html", null ],
+    [ "XXSecureNetworkServerInternal.h", "_x_x_secure_network_server_internal_8h.html", "_x_x_secure_network_server_internal_8h" ],
+    [ "XXSecureNetworkSocket.cpp", "_x_x_secure_network_socket_8cpp.html", null ]
 ];

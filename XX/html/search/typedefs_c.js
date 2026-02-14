@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['songposition_1680',['SongPosition',['../namespaceMidi.html#a65e84b7d1aab214c9a15a25f1f4b05aa',1,'Midi']]],
-  ['songpositionfunction_1681',['SongPositionFunction',['../classMidi_1_1Parser.html#ac76a58c611894a4c46a3c852a88a0018',1,'Midi::Parser']]]
+  ['songposition_0',['SongPosition',['../namespace_x_x_1_1_midi.html#aecb80be4244bb843179d23f581bf9a9c',1,'XX::Midi']]],
+  ['songpositionfunction_1',['SongPositionFunction',['../class_x_x_1_1_midi_1_1_parser.html#abd3bff676bb26390b5d61bfd9fc4aec6',1,'XX::Midi::Parser']]]
 ];

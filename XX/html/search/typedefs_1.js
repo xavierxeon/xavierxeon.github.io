@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['callbackfunction_1649',['CallbackFunction',['../classRestApi_1_1Async.html#a5729c06d12b63d1ebb7bbf63d8ad3752',1,'RestApi::Async']]],
-  ['channel_1650',['Channel',['../namespaceMidi.html#a59117e05af01932c783bba94a01e86db',1,'Midi']]],
-  ['channels_1651',['Channels',['../namespaceSample.html#a92665558b44b614ac26b8ee938e82f9e',1,'Sample']]],
-  ['clockstatusfunction_1652',['ClockStatusFunction',['../classMidi_1_1Parser.html#a05b48d4639013ec9492ac4861f459505',1,'Midi::Parser']]],
-  ['clocktickfunction_1653',['ClockTickFunction',['../classMidi_1_1Parser.html#ad0c8c0239be6655e91ff5d2919852df7',1,'Midi::Parser']]],
-  ['complexdata_1654',['ComplexData',['../classFastFourierTransfrom.html#a6ff7360e894962dcc922e225387f6ea5',1,'FastFourierTransfrom']]],
-  ['complextype_1655',['ComplexType',['../classFastFourierTransfrom.html#a946a2f59c168c3bbc8897010323169dc',1,'FastFourierTransfrom']]],
-  ['controllerchangefunction_1656',['ControllerChangeFunction',['../classMidi_1_1Parser.html#acf59a940533e885c2ebf42230c7be094',1,'Midi::Parser']]]
+  ['callbackfunction_0',['CallbackFunction',['../class_x_x_1_1_rest_api_1_1_async.html#a3f1aa24b9aad74c6bfc365cb6b94d456',1,'XX::RestApi::Async']]],
+  ['channel_1',['Channel',['../namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76',1,'XX::Midi']]],
+  ['channels_2',['Channels',['../namespace_x_x_1_1_sample.html#a41dad56563d51a0521d146ddec2f89d6',1,'XX::Sample']]],
+  ['clockstatusfunction_3',['ClockStatusFunction',['../class_x_x_1_1_midi_1_1_parser.html#a9a7f76bca896c7a5a3f30ca9ef730b6f',1,'XX::Midi::Parser']]],
+  ['clocktickfunction_4',['ClockTickFunction',['../class_x_x_1_1_midi_1_1_parser.html#a694b04c77b683581ace7528da95af5a8',1,'XX::Midi::Parser']]],
+  ['complexdata_5',['ComplexData',['../class_x_x_1_1_fast_fourier_transfrom.html#ab20ddf96a55e9d61046e2e3324ba638d',1,'XX::FastFourierTransfrom']]],
+  ['complextype_6',['ComplexType',['../class_x_x_1_1_fast_fourier_transfrom.html#a1c50f62cfca79847c2562fcb995b58f2',1,'XX::FastFourierTransfrom']]],
+  ['controllerchangefunction_7',['ControllerChangeFunction',['../class_x_x_1_1_midi_1_1_parser.html#a0e7eca28f123632a81a90b4d7cddfeaf',1,'XX::Midi::Parser']]]
 ];

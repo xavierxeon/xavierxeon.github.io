@@ -1,13 +1,13 @@
 var searchData=
 [
-  ['c_1709',['C',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483eaacfe8f4582a2c5709782ecbf402a81a7',1,'Note']]],
-  ['channelprefix_1710',['ChannelPrefix',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38a304b91792f458139fe191a122d66919a',1,'Midi']]],
-  ['channelpressure_1711',['ChannelPressure',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341af008a488b7e3726aea4df27a15b81464',1,'Midi']]],
-  ['channelvolume_1712',['ChannelVolume',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a53d6a6819c29bb926e78c5d41224a571',1,'Midi']]],
-  ['clock_1713',['Clock',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a2fa268a3dadf82c690c3853fd2fc3cee',1,'Midi']]],
-  ['continue_1714',['Continue',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a64092db09c1e013624d2a34b279095ff',1,'Midi::Continue()'],['../namespaceMidi.html#ae8088f7fc1739d2203919c99998b0e75aa0bfb8e59e6c13fc8d990781f77694fe',1,'Midi::Continue()']]],
-  ['controlchange_1715',['ControlChange',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a3033152957c49c9401ca64d673caae4c',1,'Midi']]],
-  ['copyright_1716',['Copyright',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38a7ce46031a9ab1108ac8970f85132c08c',1,'Midi']]],
-  ['cs_1717',['Cs',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea710bfc5477a0a5573ffb5bb0aaa402a1',1,'Note']]],
-  ['cuepoint_1718',['CuePoint',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38ab313768abe81b83fe0fb6268559a08c6',1,'Midi']]]
+  ['c_0',['C',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea247ceb4293528368b66d09180cadfb06',1,'XX::Note']]],
+  ['channelprefix_1',['ChannelPrefix',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1bae4a38b07b2b7940e9a4486c0c70df668',1,'XX::Midi']]],
+  ['channelpressure_2',['ChannelPressure',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da',1,'XX::Midi']]],
+  ['channelvolume_3',['ChannelVolume',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5aa47924d67991b6e759d70fe4aa461281',1,'XX::Midi']]],
+  ['clock_4',['Clock',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a954ee1363239abbf48ff67a65eec80ff',1,'XX::Midi']]],
+  ['continue_5',['Continue',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f',1,'XX::Midi::Continue'],['../namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe',1,'XX::Midi::Continue']]],
+  ['controlchange_6',['ControlChange',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee',1,'XX::Midi']]],
+  ['copyright_7',['Copyright',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baa5dc980db82c95da71cc7ebdb60406fb',1,'XX::Midi']]],
+  ['cs_8',['Cs',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeae60db3b8007852171370378816a1b73b',1,'XX::Note']]],
+  ['cuepoint_9',['CuePoint',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741',1,'XX::Midi']]]
 ];

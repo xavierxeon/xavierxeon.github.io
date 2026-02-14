@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['hasbackwardlink_1334',['hasBackwardLink',['../classGraph.html#a209848a837478e9e9c000b1061fe56e0',1,'Graph']]],
-  ['hasfirstbit_1335',['hasFirstBit',['../namespaceMidi.html#a40ec4c24a1e2e27ecfb84a119abc7df8',1,'Midi']]],
-  ['hasforwardlink_1336',['hasForwardLink',['../classGraph.html#a802cf8b7a63fde8daba4ea5e92b5e7ed',1,'Graph']]]
+  ['hasbackwardlink_0',['hasBackwardLink',['../class_x_x_1_1_graph_1_1_edge.html#adbef3051857d83e23533e296a832f403',1,'XX::Graph::Edge']]],
+  ['hasfirstbit_1',['hasFirstBit',['../namespace_x_x_1_1_midi.html#a081cb6134319ccd7a26aaa523a730604',1,'XX::Midi']]],
+  ['hasforwardlink_2',['hasForwardLink',['../class_x_x_1_1_graph_1_1_edge.html#a9d257d90874b1035509d3bb219df676b',1,'XX::Graph::Edge']]]
 ];

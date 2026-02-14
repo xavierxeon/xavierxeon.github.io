@@ -1,8 +1,6 @@
 var dir_3adb204c84b5440f70c111678cdce732 =
 [
-    [ "Logger.cpp", "Logger_8cpp.html", [
-      [ "StreamProxy", "classLogger_1_1Target_1_1StreamProxy.html", "classLogger_1_1Target_1_1StreamProxy" ]
-    ] ],
-    [ "LogSymbol.cpp", "LogSymbol_8cpp.html", null ],
-    [ "MessageHandler.cpp", "MessageHandler_8cpp.html", null ]
+    [ "XXLogger.cpp", "_x_x_logger_8cpp.html", "_x_x_logger_8cpp" ],
+    [ "XXLogSymbol.cpp", "_x_x_log_symbol_8cpp.html", null ],
+    [ "XXMessageHandler.cpp", "_x_x_message_handler_8cpp.html", null ]
 ];

@@ -1,14 +1,14 @@
 var searchData=
 [
-  ['backedges_1563',['backEdges',['../structGraph_1_1TreeEdges.html#a3dc1208fc708dfe9dccc3770f8285aa4',1,'Graph::TreeEdges']]],
-  ['bar_1564',['bar',['../classTimeCode.html#a7441f9e1efe1ba53f1ac2fd3de1b2046',1,'TimeCode']]],
-  ['barcounter_1565',['barCounter',['../structMidi_1_1Sequence_1_1Info.html#a48e7d0413b1cd58f5332eca68fb8a46b',1,'Midi::Sequence::Info']]],
-  ['baseurl_1566',['baseUrl',['../classRestApi_1_1Blocking.html#a84812fc16348587f1b85d41abb77740d',1,'RestApi::Blocking']]],
-  ['bearertoken_1567',['bearerToken',['../classAuthProvider_1_1Token.html#a93533fcb23ce9c41a9e80a2596d02db2',1,'AuthProvider::Token']]],
-  ['bitspersample_1568',['bitsPerSample',['../structWaveFmtHeader.html#ad0d4032df5233c808a83e29ea8a465c3',1,'WaveFmtHeader']]],
-  ['blockalign_1569',['blockAlign',['../structWaveFmtHeader.html#a3527f53817fd1579d82d53e258603b0e',1,'WaveFmtHeader']]],
-  ['bpm_1570',['bpm',['../structMidi_1_1Sequence_1_1Info.html#ae308189eb8609fc512b0af6387028b8d',1,'Midi::Sequence::Info']]],
-  ['brightness_1571',['brightness',['../structColorSpace_1_1XYB.html#ab6c2392e596f10bde57a13f97f0f7579',1,'ColorSpace::XYB']]],
-  ['bytes_1572',['bytes',['../classByteConversion.html#aba2c522320c9aae16cfd16798740311e',1,'ByteConversion']]],
-  ['bytespersec_1573',['bytesPerSec',['../structWaveFmtHeader.html#abed8e4d180ec2fe46633953c20c07685',1,'WaveFmtHeader']]]
+  ['backedges_0',['backEdges',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_edges.html#a17715ac9c3de6242b505ff823d7025ab',1,'XX::Graph::Algorithm::TreeEdges']]],
+  ['bar_1',['bar',['../class_x_x_1_1_time_code.html#a4e1dd8af509d8ba0e3932015b14d33c1',1,'XX::TimeCode']]],
+  ['barcounter_2',['barCounter',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#aeb8e3b78d922bf4e9b5b300516d91f14',1,'XX::Midi::Sequence::Info']]],
+  ['baseurl_3',['baseUrl',['../class_x_x_1_1_rest_api_1_1_blocking.html#adc9bc36622e45c321742b39b40e8d0a1',1,'XX::RestApi::Blocking']]],
+  ['bearertoken_4',['bearerToken',['../class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e',1,'XX::AuthProvider::Token']]],
+  ['bitspersample_5',['bitsPerSample',['../struct_wave_fmt_header.html#ad0d4032df5233c808a83e29ea8a465c3',1,'WaveFmtHeader']]],
+  ['blockalign_6',['blockAlign',['../struct_wave_fmt_header.html#a3527f53817fd1579d82d53e258603b0e',1,'WaveFmtHeader']]],
+  ['bpm_7',['bpm',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#aac3efd8aeb7024c9feb0f99d17fa2176',1,'XX::Midi::Sequence::Info']]],
+  ['brightness_8',['brightness',['../struct_x_x_1_1_color_space_1_1_x_y_b.html#a0c9e722d35105916d7b206f7c330e5ab',1,'XX::ColorSpace::XYB']]],
+  ['bytes_9',['bytes',['../class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]],
+  ['bytespersec_10',['bytesPerSec',['../struct_wave_fmt_header.html#abed8e4d180ec2fe46633953c20c07685',1,'WaveFmtHeader']]]
 ];

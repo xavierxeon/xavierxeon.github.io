@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['noteoff_1761',['NoteOff',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a978ca8284dc41090d2d4b70fe2264bb7',1,'Midi']]],
-  ['noteon_1762',['NoteOn',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341ade8ec2ff1cb4f22c00cde53e4bcabb50',1,'Midi']]]
+  ['noteoff_0',['NoteOff',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c',1,'XX::Midi']]],
+  ['noteon_1',['NoteOn',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc',1,'XX::Midi']]]
 ];

@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['qmlwidget_549',['QmlWidget',['../classQmlWidget.html',1,'QmlWidget'],['../classQmlWidget.html#a92a0691e60b0297f381b7e01c1e69ef0',1,'QmlWidget::QmlWidget()']]],
-  ['qmlwidget_2ecpp_550',['QmlWidget.cpp',['../QmlWidget_8cpp.html',1,'']]],
-  ['qmlwidget_2eh_551',['QmlWidget.h',['../QmlWidget_8h.html',1,'']]],
-  ['quantize_552',['quantize',['../classScale.html#a3d2cf0de640808357859c539a06ad96a',1,'Scale']]],
-  ['quarter_553',['quarter',['../classTimeCode.html#a21eeaf237ac7455ce10866cf63451968',1,'TimeCode']]],
-  ['quarterframe_554',['QuarterFrame',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a342ce16b2b0fc5e65436eac3ed9f0fc0',1,'Midi']]],
-  ['quaternion_555',['Quaternion',['../classMath_1_1Quaternion.html',1,'Math::Quaternion'],['../classMath_1_1Quaternion.html#a0af09a51ab263e76041a90a035af8e30',1,'Math::Quaternion::Quaternion()']]]
+  ['qmlview_0',['QmlView',['../class_x_x_1_1_qml_view.html',1,'XX::QmlView'],['../class_x_x_1_1_qml_view.html#a97faf27850c493f62c2d0f504e53fa63',1,'XX::QmlView::QmlView()']]],
+  ['qmlwidget_1',['QmlWidget',['../class_x_x_1_1_qml_widget.html',1,'XX::QmlWidget'],['../class_x_x_1_1_qml_widget.html#af5fc7fdfbcc2c8f527ef87b8224c924c',1,'XX::QmlWidget::QmlWidget()']]],
+  ['qt_20classes_20in_20cpp_20files_2',['mocing Qt classes in cpp files',['../md__r_e_a_d_m_e.html#autotoc_md2',1,'']]],
+  ['quantize_3',['quantize',['../class_x_x_1_1_scale.html#a2eb5defd066872f93412379645db753f',1,'XX::Scale']]],
+  ['quarter_4',['quarter',['../class_x_x_1_1_time_code.html#a095e35b787003865b5145dd01b50eead',1,'XX::TimeCode']]],
+  ['quarterframe_5',['QuarterFrame',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611',1,'XX::Midi']]],
+  ['quaternion_6',['Quaternion',['../class_x_x_1_1_math_1_1_quaternion.html',1,'XX::Math::Quaternion'],['../class_x_x_1_1_math_1_1_quaternion.html#a33ba3b74bf4edfd517ec09fc6a644f45',1,'XX::Math::Quaternion::Quaternion()']]]
 ];

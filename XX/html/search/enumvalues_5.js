@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['f_1736',['F',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483eae415afbcc23082ebcddbc4e1329cd48c',1,'Note']]],
-  ['flamecc_1737',['FlameCC',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9abf855327e001da7ffc7f2abf08dd924f',1,'Midi::Device']]],
-  ['footcontroller_1738',['FootController',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8ab7eda4100cdcefd408cc27cac2b2bb5b',1,'Midi']]],
-  ['fromnerdseq_1739',['FromNerdSEQ',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a616f39ed63db68a3faf02acb7f8c7c28',1,'Midi::Device']]],
-  ['fs_1740',['Fs',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea6663dd4e34b6b6d1a972305f088c6552',1,'Note']]]
+  ['f_0',['F',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea6a273166dae248b378c9d75e759cfeb3',1,'XX::Note']]],
+  ['flamecc_1',['FlameCC',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea64d67dfb8757445832873ef303f04358',1,'XX::Midi::Device']]],
+  ['footcontroller_2',['FootController',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a9fb53b51bc4cc1db571bc54fac1c5cf3',1,'XX::Midi']]],
+  ['fromnerdseq_3',['FromNerdSEQ',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea85b499534da320980fa7d44a50b15eb1',1,'XX::Midi::Device']]],
+  ['fs_4',['Fs',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeaf54ee5a4c24acfba8421953ff09322ac',1,'XX::Note']]]
 ];

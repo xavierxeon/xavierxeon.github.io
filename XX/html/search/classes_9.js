@@ -1,14 +1,14 @@
 var searchData=
 [
-  ['mainwidget_922',['MainWidget',['../classPopulated_1_1MainWidget.html',1,'Populated']]],
-  ['mainwindow_923',['MainWindow',['../classPopulated_1_1MainWindow.html',1,'Populated']]],
-  ['manufacturer_924',['Manufacturer',['../structMidi_1_1Manufacturer.html',1,'Midi']]],
-  ['mapper_925',['Mapper',['../classRange_1_1Mapper.html',1,'Range']]],
-  ['matrix_926',['Matrix',['../classMatrix.html',1,'']]],
-  ['menubar_927',['MenuBar',['../classPopulated_1_1MenuBar.html',1,'Populated']]],
-  ['messagehandler_928',['MessageHandler',['../structMessageHandler.html',1,'']]],
-  ['messagelabel_929',['MessageLabel',['../classMessageLabel.html',1,'']]],
-  ['messagemodel_930',['MessageModel',['../classMessageModel.html',1,'']]],
-  ['meta_931',['Meta',['../structSample_1_1Meta.html',1,'Sample']]],
-  ['model_932',['Model',['../classTabStack_1_1Model.html',1,'TabStack']]]
+  ['mainwidget_0',['MainWidget',['../class_x_x_1_1_populated_1_1_main_widget.html',1,'XX::Populated']]],
+  ['mainwindow_1',['MainWindow',['../class_x_x_1_1_populated_1_1_main_window.html',1,'XX::Populated']]],
+  ['manufacturer_2',['Manufacturer',['../struct_x_x_1_1_midi_1_1_manufacturer.html',1,'XX::Midi']]],
+  ['mapper_3',['Mapper',['../class_x_x_1_1_range_1_1_mapper.html',1,'XX::Range']]],
+  ['matrix_4',['Matrix',['../class_x_x_1_1_matrix.html',1,'XX']]],
+  ['menubar_5',['MenuBar',['../class_x_x_1_1_populated_1_1_menu_bar.html',1,'XX::Populated']]],
+  ['messagehandler_6',['MessageHandler',['../struct_x_x_1_1_message_handler.html',1,'XX']]],
+  ['messagelabel_7',['MessageLabel',['../class_x_x_1_1_message_label.html',1,'XX']]],
+  ['messagemodel_8',['MessageModel',['../class_x_x_1_1_message_model.html',1,'XX']]],
+  ['meta_9',['Meta',['../struct_x_x_1_1_sample_1_1_meta.html',1,'XX::Sample']]],
+  ['model_10',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html',1,'XX::TabStack']]]
 ];

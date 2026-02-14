@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['metaevent_1691',['MetaEvent',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38',1,'Midi']]]
+  ['metaevent_0',['MetaEvent',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1b',1,'XX::Midi']]]
 ];

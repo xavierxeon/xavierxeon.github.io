@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['e_1731',['E',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea6efb3e807652c038de8dbdc4bb15cdc0',1,'Note']]],
-  ['effectcontrol1_1732',['EffectControl1',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a51c03a9ce00cdc81c66a76cd8b0024cb',1,'Midi']]],
-  ['effectcontrol2_1733',['EffectControl2',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a821ab9ae8de34f1c63bfce8cb66946ba',1,'Midi']]],
-  ['endoftrack_1734',['EndOfTrack',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38aa800ddf7da4f6e4de7d3e20748c0aa9f',1,'Midi']]],
-  ['expressioncontroller_1735',['ExpressionController',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8abaae9ca03b138956d5caa3c4e5c7f530',1,'Midi']]]
+  ['e_0',['E',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea57654b8810cbc873b13faf22b72c90b8',1,'XX::Note']]],
+  ['effectcontrol1_1',['EffectControl1',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a96da283a0f283371910cdef1a27b0e0c',1,'XX::Midi']]],
+  ['effectcontrol2_2',['EffectControl2',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5af64bfac5ba3c8c3630ac14f25ef2cb88',1,'XX::Midi']]],
+  ['endoftrack_3',['EndOfTrack',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c',1,'XX::Midi']]],
+  ['expressioncontroller_4',['ExpressionController',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a33729fe98299dd0e3c2526513cf47e7a',1,'XX::Midi']]]
 ];

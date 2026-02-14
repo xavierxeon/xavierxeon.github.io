@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['frames_1660',['Frames',['../classSpectrogram.html#a4a034bec7c42db66acbefe5cacb4725d',1,'Spectrogram']]]
+  ['frames_0',['Frames',['../class_x_x_1_1_spectrogram.html#a2fa168df9bacd04294c203bd50dd821e',1,'XX::Spectrogram']]]
 ];

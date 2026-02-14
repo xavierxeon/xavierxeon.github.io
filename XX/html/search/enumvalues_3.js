@@ -1,15 +1,15 @@
 var searchData=
 [
-  ['d_1719',['D',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea7c4c94acc10c691f0983adb00881f152',1,'Note']]],
-  ['daisy_1720',['Daisy',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a45838d29a61e3c7c0e69aafabc3728c1',1,'Midi::Device']]],
-  ['damperpedal_1721',['DamperPedal',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a4195b9d4df85b2c390c2af7948cb5c19',1,'Midi']]],
-  ['dataapply_1722',['DataApply',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a44aa2233a568739224d0f0020d8d5e8a',1,'Midi']]],
-  ['datablock_1723',['DataBlock',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a68c4e4b14347a742c1c506f82e390953',1,'Midi']]],
-  ['datainit_1724',['DataInit',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a32fe523e2bfc27af5393d7abd6370b85',1,'Midi']]],
-  ['dopeferquad1_1725',['DopeferQuad1',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a432ece1252fda034b129f60a59c8a0f0',1,'Midi::Device']]],
-  ['dopeferquad2_1726',['DopeferQuad2',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a52face3aa4f8088803ea51916e80f421',1,'Midi::Device']]],
-  ['dopeferquad3_1727',['DopeferQuad3',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9aadc7ea4958537a1ee47cf30fc4c2fe01',1,'Midi::Device']]],
-  ['dopeferquad4_1728',['DopeferQuad4',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a8da4af9a8c78b8ae012ddcb6a011e720',1,'Midi::Device']]],
-  ['drumtrigger_1729',['DrumTrigger',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9ad06d6378afe58b3dd6a74f28d9957aa9',1,'Midi::Device']]],
-  ['ds_1730',['Ds',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea4b3e6c9cd4e7c20a6e6fc635e6af06e9',1,'Note']]]
+  ['d_0',['D',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea94623b1ed39457c4adf3fcae1dceff5b',1,'XX::Note']]],
+  ['daisy_1',['Daisy',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea40717794c1cf8e9e0ef62c16c7fdcee3',1,'XX::Midi::Device']]],
+  ['damperpedal_2',['DamperPedal',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a8aae7d52bcd4805be905009c062e4d50',1,'XX::Midi']]],
+  ['dataapply_3',['DataApply',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a4a4fa87d41a09cf802d846e5b2723346',1,'XX::Midi']]],
+  ['datablock_4',['DataBlock',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480',1,'XX::Midi']]],
+  ['datainit_5',['DataInit',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a9c1cf13bcfa9cbb2f142775ab86c3864',1,'XX::Midi']]],
+  ['dopeferquad1_6',['DopeferQuad1',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eaf89994c3052c554778730d92f6f91341',1,'XX::Midi::Device']]],
+  ['dopeferquad2_7',['DopeferQuad2',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ead1dd4c524957554a1fac925f5ad1b25a',1,'XX::Midi::Device']]],
+  ['dopeferquad3_8',['DopeferQuad3',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea99bcd921512a461ff2564cbad3b902f7',1,'XX::Midi::Device']]],
+  ['dopeferquad4_9',['DopeferQuad4',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea71bfe97e342630dca564932ce2213e24',1,'XX::Midi::Device']]],
+  ['drumtrigger_10',['DrumTrigger',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1a9f3bb67774621657f993960431e348',1,'XX::Midi::Device']]],
+  ['ds_11',['Ds',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1c42aa69eb89657a04ab23ab7df2b9a9',1,'XX::Note']]]
 ];

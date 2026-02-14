@@ -1,18 +1,18 @@
 var searchData=
 [
-  ['warning_824',['Warning',['../structLogSymbol.html#a980fae16eab93cdaf53d72a33f53d586',1,'LogSymbol']]],
-  ['watoolcpp_825',['WaToolCpp',['../md_XXCpp_README.html',1,'']]],
-  ['wave_826',['Wave',['../classSample_1_1Wave.html',1,'Sample']]],
-  ['wave_827',['WAVE',['../structWaveHeader.html#ab86ec6f2c7831c61e3482a27895bbc6e',1,'WaveHeader']]],
-  ['wavechunkheader_828',['WaveChunkHeader',['../structWaveChunkHeader.html',1,'']]],
-  ['wavefmtheader_829',['WaveFmtHeader',['../structWaveFmtHeader.html',1,'']]],
-  ['waveheader_830',['WaveHeader',['../structWaveHeader.html',1,'']]],
-  ['weightbackward_831',['weightBackward',['../classGraph.html#a172f340ccea219be79eb81fb7b24607c',1,'Graph']]],
-  ['weightforward_832',['weightForward',['../classGraph.html#a85f73296d51cad53d1b7787e45855e94',1,'Graph']]],
-  ['whatcppstandard_833',['whatCppStandard',['../structInfo.html#a94cb367bcddd034fd71612f16cc704e0',1,'Info']]],
-  ['widget_834',['Widget',['../classTabStack_1_1Widget.html',1,'TabStack::Widget'],['../classTabStack_1_1Widget.html#a267455c945d916325cae6ec625598d79',1,'TabStack::Widget::Widget()']]],
-  ['width_835',['width',['../structSize.html#a9581eaf966f845b09f67e19a3ce80135',1,'Size']]],
-  ['writeexampleresource_836',['writeExampleResource',['../classPopulated_1_1Abstract.html#ac57c8fb9e4bd7a9c38c6a8e5dc0b3b72',1,'Populated::Abstract']]],
-  ['writejson_837',['writeJson',['../classFileTools.html#a8652c88b231bd5dd2875fc609ddecdc0',1,'FileTools']]],
-  ['writer_838',['Writer',['../classSample_1_1Writer.html',1,'Sample::Writer'],['../classSample_1_1Writer.html#a8365255546028492fc85f2eb0ab00ae0',1,'Sample::Writer::Writer()']]]
+  ['warning_0',['Warning',['../struct_x_x_1_1_log_symbol.html#aafe838a4946059ed8a2002008dd02699',1,'XX::LogSymbol']]],
+  ['watoolcpp_1',['WaToolCpp',['../dir_dd68d46a7ec0b5ad265af0237b0d926f.html#autotoc_md6',1,'']]],
+  ['wave_2',['WAVE',['../struct_wave_header.html#ab86ec6f2c7831c61e3482a27895bbc6e',1,'WaveHeader']]],
+  ['wave_3',['Wave',['../class_x_x_1_1_sample_1_1_wave.html',1,'XX::Sample']]],
+  ['wavechunkheader_4',['WaveChunkHeader',['../struct_wave_chunk_header.html',1,'']]],
+  ['wavefmtheader_5',['WaveFmtHeader',['../struct_wave_fmt_header.html',1,'']]],
+  ['waveheader_6',['WaveHeader',['../struct_wave_header.html',1,'']]],
+  ['weightbackward_7',['weightBackward',['../class_x_x_1_1_graph_1_1_edge.html#a101dc863f63903eeec18e5bd2c8e7808',1,'XX::Graph::Edge']]],
+  ['weightforward_8',['weightForward',['../class_x_x_1_1_graph_1_1_edge.html#a98f0b2ed05a821b179821ef797509b19',1,'XX::Graph::Edge']]],
+  ['whatcppstandard_9',['whatCppStandard',['../struct_x_x_1_1_info.html#a84e72d9d8a54ca7cd9c6ac9f7b6be035',1,'XX::Info']]],
+  ['widget_10',['Widget',['../class_x_x_1_1_tab_stack_1_1_widget.html',1,'XX::TabStack::Widget'],['../class_x_x_1_1_tab_stack_1_1_widget.html#a3aa53d2f69e66c4445e9618ee1b0db53',1,'XX::TabStack::Widget::Widget()']]],
+  ['width_11',['width',['../struct_x_x_1_1_size.html#a0ee40abda9a2705b9194b729d9d7a6f0',1,'XX::Size']]],
+  ['writeexampleresource_12',['writeExampleResource',['../class_x_x_1_1_populated_1_1_abstract.html#a53de591e4962087c7f667aced1b501e5',1,'XX::Populated::Abstract']]],
+  ['writejson_13',['writeJson',['../class_x_x_1_1_file_tools.html#a873d0bd5751c63a5e485282240aba06f',1,'XX::FileTools']]],
+  ['writer_14',['Writer',['../class_x_x_1_1_sample_1_1_writer.html',1,'XX::Sample::Writer'],['../class_x_x_1_1_sample_1_1_writer.html#abdccd1d3e6c5026a855e3a0187b77133',1,'XX::Sample::Writer::Writer()']]]
 ];

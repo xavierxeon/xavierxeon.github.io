@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['value_5ftype_1685',['value_type',['../classRange_1_1Spread_1_1Iterator.html#ac7b379df084cfbd213cf941cb93a4f1e',1,'Range::Spread::Iterator']]],
-  ['velocity_1686',['Velocity',['../namespaceMidi.html#a724bdaa98f9679cfbedafb72c1450950',1,'Midi']]]
+  ['value_5ftype_0',['value_type',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#aed8cf621a8cab56441656a7b547f2a69',1,'XX::Range::Spread::Iterator']]],
+  ['velocity_1',['Velocity',['../namespace_x_x_1_1_midi.html#a0d0b787ffb059b01adf247d615255a68',1,'XX::Midi']]]
 ];

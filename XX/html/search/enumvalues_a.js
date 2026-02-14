@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['marker_1755',['Marker',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38ad11db9e48a73f410a7c232aa9e75cd59',1,'Midi']]],
-  ['meta_1756',['Meta',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a8e961c11afe931e31a13122c8a728758',1,'Midi']]],
-  ['metaunkown_1757',['MetaUnkown',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38ac01cf4520344596ea852442431afd701',1,'Midi']]],
-  ['metropolix_1758',['Metropolix',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a2c057e2c3060bcc0eed6d43cd571f5f8',1,'Midi::Device']]],
-  ['midiport_1759',['MidiPort',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38aadc4b318e1e154683f8a6dea79e4afe0',1,'Midi']]],
-  ['modwheel_1760',['ModWheel',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8ac6e912a786846e82ede6222e30a476a1',1,'Midi']]]
+  ['marker_0',['Marker',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f',1,'XX::Midi']]],
+  ['meta_1',['Meta',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ab94ccd9bcd4739f7f0057a7a612c4e56',1,'XX::Midi']]],
+  ['metaunkown_2',['MetaUnkown',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692',1,'XX::Midi']]],
+  ['metropolix_3',['Metropolix',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1ff1a61c17b20140f0aea4baf214ef60',1,'XX::Midi::Device']]],
+  ['midiport_4',['MidiPort',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5',1,'XX::Midi']]],
+  ['modwheel_5',['ModWheel',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df',1,'XX::Midi']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['unreachableexception_976',['UnreachableException',['../classRestApi_1_1UnreachableException.html',1,'RestApi']]]
+  ['unreachableexception_0',['UnreachableException',['../class_x_x_1_1_rest_api_1_1_unreachable_exception.html',1,'XX::RestApi']]]
 ];

@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['parentvertexindex_1609',['parentVertexIndex',['../structGraph_1_1Tree_1_1VertexData.html#ace9fe0d5db40639c75a062dfa0c27c35',1,'Graph::Tree::VertexData']]],
-  ['passthroughlist_1610',['passthroughList',['../classMidi_1_1Interface_1_1Input.html#a2851c99e40634b89311fc1e3ad2e33ff',1,'Midi::Interface::Input']]],
-  ['pi_1611',['pi',['../namespaceMath.html#a1895eea15af605fb5a95df874f9925a4',1,'Math']]],
-  ['provider_1612',['provider',['../classRestApi_1_1Blocking.html#a7420f367aef142f5c37420e01aa69678',1,'RestApi::Blocking']]]
+  ['name_0',['name',['../class_x_x_1_1_graph_1_1_vertex.html#abf123f96777e9669fd3fb78a3c477e94',1,'XX::Graph::Vertex::name'],['../struct_x_x_1_1_midi_1_1_sequence_1_1_track.html#ac9d89f40e8ceb698d41e6cb9c643f2e3',1,'XX::Midi::Sequence::Track::name']]],
+  ['noofchannels_1',['noOfChannels',['../struct_x_x_1_1_sample_1_1_meta.html#aded14d6ef518068d133d0141dcad09aa',1,'XX::Sample::Meta']]],
+  ['numberofsamples_2',['numberOfSamples',['../struct_x_x_1_1_sample_1_1_meta.html#a80bf62d61ccbe567e7e9d861d0bd95aa',1,'XX::Sample::Meta']]],
+  ['numchannels_3',['numChannels',['../struct_wave_fmt_header.html#a7be366d85838f7e5e6b50951512620a3',1,'WaveFmtHeader']]]
 ];

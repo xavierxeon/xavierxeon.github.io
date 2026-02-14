@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['vcmc_1820',['VCMC',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a98b54e094affa11307c9d6ca4139bef9',1,'Midi::Device']]],
-  ['vcvrack_1821',['VCVRack',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a5ad53f93f92f78808a32adcf002fcaf0',1,'Midi::Device']]]
+  ['vcmc_0',['VCMC',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea91c04e98cfd003bdfa5993630a7a8af5',1,'XX::Midi::Device']]],
+  ['vcvrack_1',['VCVRack',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea9de611615e851bafe1c9663611fab16a',1,'XX::Midi::Device']]]
 ];

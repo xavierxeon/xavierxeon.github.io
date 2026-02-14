@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['indexlist_1661',['IndexList',['../classGraph.html#ac07647b5ec8af5490518834f53d9815a',1,'Graph']]],
-  ['isfloattype_1662',['isFloatType',['../Range_8h.html#a3318941572d6ff52a45f94a6e07858f1',1,'Range.h']]],
-  ['isintegertype_1663',['isIntegerType',['../Range_8h.html#ade33d8aa79985242def6fd3cde45b516',1,'Range.h']]],
-  ['issigned_1664',['isSigned',['../Range_8h.html#a9416c1fdbfea1ef739cec959c57aee3b',1,'Range.h']]],
-  ['isunsigned_1665',['isUnsigned',['../Range_8h.html#a2565b8582447a16aaa9db2d4cb8daf7e',1,'Range.h']]],
-  ['iterator_5fcategory_1666',['iterator_category',['../classRange_1_1Spread_1_1Iterator.html#a3be89212d63df78d650c481703a9ddaf',1,'Range::Spread::Iterator']]]
+  ['indexlist_0',['IndexList',['../class_x_x_1_1_graph_1_1_algorithm.html#a49230dccf98a942712c7e6368c5e729f',1,'XX::Graph::Algorithm']]],
+  ['isfloattype_1',['isFloatType',['../namespace_x_x.html#aedd13f6317d564d69aaab085caf5a3f7',1,'XX']]],
+  ['isintegertype_2',['isIntegerType',['../namespace_x_x.html#adeaf1c71a80b637e952a3c88bcd8f1b7',1,'XX']]],
+  ['issigned_3',['isSigned',['../namespace_x_x.html#a785bbb775cb5374c07d3ad7958625aa6',1,'XX']]],
+  ['isunsigned_4',['isUnsigned',['../namespace_x_x.html#a16f8071a2bec7511e9524ddffba58f95',1,'XX']]],
+  ['iterator_5fcategory_5',['iterator_category',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#ab4995f90948472f5c1a453bbe4675d8f',1,'XX::Range::Spread::Iterator']]]
 ];

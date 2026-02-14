@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['authprovideroauth_2ecpp_1001',['AuthProviderOAuth.cpp',['../AuthProviderOAuth_8cpp.html',1,'']]],
-  ['authprovideroauth_2eh_1002',['AuthProviderOAuth.h',['../AuthProviderOAuth_8h.html',1,'']]],
-  ['authprovidertoken_2ecpp_1003',['AuthProviderToken.cpp',['../AuthProviderToken_8cpp.html',1,'']]],
-  ['authprovidertoken_2eh_1004',['AuthProviderToken.h',['../AuthProviderToken_8h.html',1,'']]]
+  ['readme_2emd_0',['README.md',['../_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../xavierxeon_8github_8io_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_application_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_audio_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_cpp_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_graph_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_gui_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_log_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_math_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_music_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_network_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_widgets_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)']]]
 ];

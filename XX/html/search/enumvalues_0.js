@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['a_1695',['A',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483eaefe8efcc5e26eafb5ec8660a4e445d3c',1,'Note']]],
-  ['acdc_1696',['ACDC',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a96c4a7b694e004a50288a50079a47dcd',1,'Midi::Device']]],
-  ['activesensinig_1697',['ActiveSensinig',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a8d0c72bb242654703b5804745766e983',1,'Midi']]],
-  ['allnotesoff_1698',['AllNotesOff',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a015a5350adfefabae610087c074508c6',1,'Midi']]],
-  ['allsoundsoff_1699',['AllSoundsOff',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a7c8d267f48e3f6e31c86afa24df91c30',1,'Midi']]],
-  ['as_1700',['As',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea8829d1ea96b1aacc6f1820e89e903eab',1,'Note']]],
-  ['authuser_1701',['AuthUser',['../classAuthProvider_1_1OAuth.html#aeeff3416ce94debc42398a306295102fa6f1cf5a98fd12349099d744b9b87792e',1,'AuthProvider::OAuth']]]
+  ['a_0',['A',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeac8d1ce60f2cbfea9c90fc98ddb3616b8',1,'XX::Note']]],
+  ['acdc_1',['ACDC',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea317b1e242559c62dd014257dce6ca817',1,'XX::Midi::Device']]],
+  ['activesensinig_2',['ActiveSensinig',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5',1,'XX::Midi']]],
+  ['allnotesoff_3',['AllNotesOff',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d',1,'XX::Midi']]],
+  ['allsoundsoff_4',['AllSoundsOff',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a44b0b4716d5aabbc76d4c510145f4c41',1,'XX::Midi']]],
+  ['as_5',['As',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea57e7cd511897c48f4645a0e0d9149e45',1,'XX::Note']]],
+  ['authuser_6',['AuthUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbfa6f1cf5a98fd12349099d744b9b87792e',1,'XX::AuthProvider::OAuth']]]
 ];

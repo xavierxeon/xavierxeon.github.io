@@ -1,7 +1,7 @@
 var dir_140069878b53391f5829e7303008afbc =
 [
-    [ "Graph.cpp", "Graph_8cpp.html", null ],
-    [ "GraphAlgorithm.cpp", "GraphAlgorithm_8cpp.html", null ],
-    [ "GraphEdge.cpp", "GraphEdge_8cpp.html", null ],
-    [ "GraphVertex.cpp", "GraphVertex_8cpp.html", null ]
+    [ "XXGraph.cpp", "_x_x_graph_8cpp.html", null ],
+    [ "XXGraphAlgorithm.cpp", "_x_x_graph_algorithm_8cpp.html", null ],
+    [ "XXGraphEdge.cpp", "_x_x_graph_edge_8cpp.html", null ],
+    [ "XXGraphVertex.cpp", "_x_x_graph_vertex_8cpp.html", null ]
 ];

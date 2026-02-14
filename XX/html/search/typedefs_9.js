@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['octave_1675',['Octave',['../classNote.html#ade07dc07e70c8127c403f11bda0308cf',1,'Note']]]
+  ['octave_0',['Octave',['../class_x_x_1_1_note.html#aae72453f9c60cdd46f33443d459cda13',1,'XX::Note']]]
 ];

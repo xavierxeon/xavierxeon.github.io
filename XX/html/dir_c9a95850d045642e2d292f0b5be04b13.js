@@ -1,21 +1,11 @@
 var dir_c9a95850d045642e2d292f0b5be04b13 =
 [
     [ "src", "dir_54b8da5719cc5809063081853db94269.html", "dir_54b8da5719cc5809063081853db94269" ],
-    [ "FastFourierTransfrom.h", "FastFourierTransfrom_8h.html", [
-      [ "FastFourierTransfrom", "classFastFourierTransfrom.html", "classFastFourierTransfrom" ]
-    ] ],
-    [ "SampleAbstract.h", "SampleAbstract_8h.html", "SampleAbstract_8h" ],
-    [ "SampleReader.h", "SampleReader_8h.html", [
-      [ "Reader", "classSample_1_1Reader.html", "classSample_1_1Reader" ]
-    ] ],
-    [ "SampleWave.h", "SampleWave_8h.html", [
-      [ "Wave", "classSample_1_1Wave.html", "classSample_1_1Wave" ]
-    ] ],
-    [ "SampleWriter.h", "SampleWriter_8h.html", [
-      [ "Writer", "classSample_1_1Writer.html", "classSample_1_1Writer" ]
-    ] ],
-    [ "Spectrogram.h", "Spectrogram_8h.html", [
-      [ "Spectrogram", "classSpectrogram.html", "classSpectrogram" ]
-    ] ],
-    [ "XXAudioExportDef.h", "XXAudioExportDef_8h.html", "XXAudioExportDef_8h" ]
+    [ "XXAudioExportDef.h", "_x_x_audio_export_def_8h.html", "_x_x_audio_export_def_8h" ],
+    [ "XXFastFourierTransfrom.h", "_x_x_fast_fourier_transfrom_8h.html", "_x_x_fast_fourier_transfrom_8h" ],
+    [ "XXSampleAbstract.h", "_x_x_sample_abstract_8h.html", "_x_x_sample_abstract_8h" ],
+    [ "XXSampleReader.h", "_x_x_sample_reader_8h.html", "_x_x_sample_reader_8h" ],
+    [ "XXSampleWave.h", "_x_x_sample_wave_8h.html", "_x_x_sample_wave_8h" ],
+    [ "XXSampleWriter.h", "_x_x_sample_writer_8h.html", "_x_x_sample_writer_8h" ],
+    [ "XXSpectrogram.h", "_x_x_spectrogram_8h.html", "_x_x_spectrogram_8h" ]
 ];

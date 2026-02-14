@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['json_1596',['json',['../structRestApi_1_1Result.html#a50a815748154e9bd11b331181e84b2a2',1,'RestApi::Result']]]
+  ['json_0',['json',['../struct_x_x_1_1_rest_api_1_1_result.html#a0634ba69e327fa85910264b706cbc502',1,'XX::RestApi::Result']]]
 ];

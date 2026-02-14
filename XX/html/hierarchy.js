@@ -1,171 +1,169 @@
 var hierarchy =
 [
-    [ "Populated::Abstract", "classPopulated_1_1Abstract.html", [
-      [ "Populated::MainWidget", "classPopulated_1_1MainWidget.html", null ],
-      [ "Populated::MainWindow", "classPopulated_1_1MainWindow.html", null ]
+    [ "XX::Populated::Abstract", "class_x_x_1_1_populated_1_1_abstract.html", [
+      [ "XX::Populated::MainWidget", "class_x_x_1_1_populated_1_1_main_widget.html", null ],
+      [ "XX::Populated::MainWindow", "class_x_x_1_1_populated_1_1_main_window.html", null ]
     ] ],
-    [ "Sample::Abstract", "classSample_1_1Abstract.html", [
-      [ "Sample::Wave", "classSample_1_1Wave.html", [
-        [ "Sample::Reader", "classSample_1_1Reader.html", null ],
-        [ "Sample::Writer", "classSample_1_1Writer.html", null ]
+    [ "XX::Sample::Abstract", "class_x_x_1_1_sample_1_1_abstract.html", [
+      [ "XX::Sample::Wave", "class_x_x_1_1_sample_1_1_wave.html", [
+        [ "XX::Sample::Reader", "class_x_x_1_1_sample_1_1_reader.html", null ],
+        [ "XX::Sample::Writer", "class_x_x_1_1_sample_1_1_writer.html", null ]
       ] ]
     ] ],
-    [ "Function::AbstractCaller", "classFunction_1_1AbstractCaller.html", [
-      [ "Function::Caller< tag >", "classFunction_1_1Caller.html", null ]
+    [ "XX::Function::AbstractCaller", "class_x_x_1_1_function_1_1_abstract_caller.html", [
+      [ "XX::Function::Caller< tag >", "class_x_x_1_1_function_1_1_caller.html", null ]
     ] ],
-    [ "Algorithm", null, [
-      [ "Graph", "classGraph.html", null ]
+    [ "XX::Graph::Algorithm", "class_x_x_1_1_graph_1_1_algorithm.html", null ],
+    [ "XX::AuthProvider::OAuth::BlockState", "class_x_x_1_1_auth_provider_1_1_o_auth_1_1_block_state.html", null ],
+    [ "XX::BusyCursor", "class_x_x_1_1_busy_cursor.html", null ],
+    [ "XX::ByteConversion&lt; DataType &gt;", "class_x_x_1_1_byte_conversion.html", null ],
+    [ "XX::ColorSpace", "class_x_x_1_1_color_space.html", null ],
+    [ "XX::CompileTimeString&lt; N &gt;", "struct_x_x_1_1_compile_time_string.html", null ],
+    [ "XX::DataStore", "class_x_x_1_1_data_store.html", null ],
+    [ "XX::Midi::Device", "struct_x_x_1_1_midi_1_1_device.html", null ],
+    [ "XX::DeviceTools", "class_x_x_1_1_device_tools.html", null ],
+    [ "XX::DoubleBuffer&lt; DataType &gt;", "class_x_x_1_1_double_buffer.html", null ],
+    [ "XX::Graph::Edge", "class_x_x_1_1_graph_1_1_edge.html", null ],
+    [ "XX::Logger::Target::Entry", "struct_x_x_1_1_logger_1_1_target_1_1_entry.html", null ],
+    [ "XX::FastFourierTransfrom", "class_x_x_1_1_fast_fourier_transfrom.html", null ],
+    [ "XX::FileTools", "class_x_x_1_1_file_tools.html", null ],
+    [ "XX::Range::Finder&lt; DataType &gt;", "class_x_x_1_1_range_1_1_finder.html", null ],
+    [ "XX::Scale::Finder", "class_x_x_1_1_scale_1_1_finder.html", null ],
+    [ "XX::Graph", "class_x_x_1_1_graph.html", null ],
+    [ "XX::SharedData&lt; DataBlock &gt;::Guard", "class_x_x_1_1_shared_data_1_1_guard.html", null ],
+    [ "XX::Info", "struct_x_x_1_1_info.html", null ],
+    [ "XX::Midi::Sequence::Info", "struct_x_x_1_1_midi_1_1_sequence_1_1_info.html", null ],
+    [ "XX::Range::Spread::Iterator", "class_x_x_1_1_range_1_1_spread_1_1_iterator.html", null ],
+    [ "XX::Locker&lt; tag &gt;", "class_x_x_1_1_locker.html", null ],
+    [ "XX::LogFileBase", "struct_x_x_1_1_log_file_base.html", null ],
+    [ "XX::LogSymbol", "struct_x_x_1_1_log_symbol.html", null ],
+    [ "XX::Look", "struct_x_x_1_1_look.html", null ],
+    [ "XX::Midi::Manufacturer", "struct_x_x_1_1_midi_1_1_manufacturer.html", null ],
+    [ "XX::Range::Mapper", "class_x_x_1_1_range_1_1_mapper.html", null ],
+    [ "XX::Sample::Meta", "struct_x_x_1_1_sample_1_1_meta.html", null ],
+    [ "XX::Note", "class_x_x_1_1_note.html", null ],
+    [ "XX::OscMessage", "class_x_x_1_1_osc_message.html", null ],
+    [ "XX::Midi::Interface::Output", "class_x_x_1_1_midi_1_1_interface_1_1_output.html", null ],
+    [ "XX::Midi::Parser", "class_x_x_1_1_midi_1_1_parser.html", [
+      [ "XX::Midi::Interface::Input", "class_x_x_1_1_midi_1_1_interface_1_1_input.html", null ]
     ] ],
-    [ "AuthProvider::OAuth::BlockState", "classAuthProvider_1_1OAuth_1_1BlockState.html", null ],
-    [ "BusyCursor", "classBusyCursor.html", null ],
-    [ "ByteConversion< DataType >", "classByteConversion.html", null ],
-    [ "ColorSpace", "classColorSpace.html", null ],
-    [ "CompileTimeString< N >", "structCompileTimeString.html", null ],
-    [ "DataStore", "classDataStore.html", null ],
-    [ "Midi::Device", "structMidi_1_1Device.html", null ],
-    [ "DeviceTools", "classDeviceTools.html", null ],
-    [ "DoubleBuffer< DataType >", "classDoubleBuffer.html", null ],
-    [ "Edge", null, [
-      [ "Graph", "classGraph.html", null ]
-    ] ],
-    [ "Logger::Target::Entry", "structLogger_1_1Target_1_1Entry.html", null ],
-    [ "FastFourierTransfrom", "classFastFourierTransfrom.html", null ],
-    [ "FileTools", "classFileTools.html", null ],
-    [ "Finder", null, [
-      [ "Scale", "classScale.html", null ]
-    ] ],
-    [ "Range::Finder< DataType >", "classRange_1_1Finder.html", null ],
-    [ "SharedData< DataBlock >::Guard", "classSharedData_1_1Guard.html", null ],
-    [ "Info", "structInfo.html", null ],
-    [ "Midi::Sequence::Info", "structMidi_1_1Sequence_1_1Info.html", null ],
-    [ "Range::Spread::Iterator", "classRange_1_1Spread_1_1Iterator.html", null ],
-    [ "Locker< tag >", "classLocker.html", null ],
-    [ "LogFileBase", "structLogFileBase.html", null ],
-    [ "LogSymbol", "structLogSymbol.html", null ],
-    [ "Look", "structLook.html", null ],
-    [ "Midi::Manufacturer", "structMidi_1_1Manufacturer.html", null ],
-    [ "Range::Mapper", "classRange_1_1Mapper.html", null ],
-    [ "Sample::Meta", "structSample_1_1Meta.html", null ],
-    [ "Note", "classNote.html", null ],
-    [ "OscMessage", "classOscMessage.html", null ],
-    [ "Midi::Interface::Output", "classMidi_1_1Interface_1_1Output.html", null ],
-    [ "Midi::Parser", "classMidi_1_1Parser.html", [
-      [ "Midi::Interface::Input", "classMidi_1_1Interface_1_1Input.html", null ]
-    ] ],
-    [ "Graph::Path", "structGraph_1_1Path.html", null ],
+    [ "XX::Graph::Algorithm::Path", "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html", null ],
     [ "QException", null, [
-      [ "RestApi::StatusException", "classRestApi_1_1StatusException.html", null ],
-      [ "RestApi::UnreachableException", "classRestApi_1_1UnreachableException.html", null ]
+      [ "XX::RestApi::StatusException", "class_x_x_1_1_rest_api_1_1_status_exception.html", null ],
+      [ "XX::RestApi::UnreachableException", "class_x_x_1_1_rest_api_1_1_unreachable_exception.html", null ]
     ] ],
     [ "QFile", null, [
-      [ "LogFile< tag >", "classLogFile.html", null ]
+      [ "XX::LogFile< tag >", "class_x_x_1_1_log_file.html", null ]
     ] ],
     [ "QGraphicsView", null, [
-      [ "Managed::GraphicsView", "classManaged_1_1GraphicsView.html", null ]
+      [ "XX::Managed::GraphicsView", "class_x_x_1_1_managed_1_1_graphics_view.html", null ]
     ] ],
     [ "QIODevice", null, [
-      [ "Logger::Target::StreamProxy", "classLogger_1_1Target_1_1StreamProxy.html", null ]
+      [ "XX::Logger::Target::StreamProxy", "class_x_x_1_1_logger_1_1_target_1_1_stream_proxy.html", null ]
     ] ],
     [ "QLabel", null, [
-      [ "MessageLabel", "classMessageLabel.html", null ]
+      [ "XX::MessageLabel", "class_x_x_1_1_message_label.html", null ]
     ] ],
     [ "QList", null, [
-      [ "SharedData< DataBlock >::List", "classSharedData_1_1List.html", null ]
+      [ "XX::SharedData< DataBlock >::List", "class_x_x_1_1_shared_data_1_1_list.html", null ]
     ] ],
     [ "QMainWindow", null, [
-      [ "Populated::MainWindow", "classPopulated_1_1MainWindow.html", null ]
+      [ "XX::Populated::MainWindow", "class_x_x_1_1_populated_1_1_main_window.html", null ]
     ] ],
     [ "QMenuBar", null, [
-      [ "Populated::MenuBar", "classPopulated_1_1MenuBar.html", null ]
+      [ "XX::Populated::MenuBar", "class_x_x_1_1_populated_1_1_menu_bar.html", null ]
     ] ],
     [ "QObject", null, [
-      [ "AuthProvider::Token", "classAuthProvider_1_1Token.html", [
-        [ "AuthProvider::OAuth", "classAuthProvider_1_1OAuth.html", null ]
+      [ "XX::AuthProvider::Token", "class_x_x_1_1_auth_provider_1_1_token.html", [
+        [ "XX::AuthProvider::OAuth", "class_x_x_1_1_auth_provider_1_1_o_auth.html", null ]
       ] ],
-      [ "MessageHandler", "structMessageHandler.html", null ],
-      [ "RestApi::Blocking", "classRestApi_1_1Blocking.html", [
-        [ "RestApi::Async", "classRestApi_1_1Async.html", null ]
+      [ "XX::MessageHandler", "struct_x_x_1_1_message_handler.html", null ],
+      [ "XX::RestApi::Blocking", "class_x_x_1_1_rest_api_1_1_blocking.html", [
+        [ "XX::RestApi::Async", "class_x_x_1_1_rest_api_1_1_async.html", null ]
       ] ],
-      [ "SecureNetwork::Server", "classSecureNetwork_1_1Server.html", null ],
-      [ "SecureNetwork::Socket", "classSecureNetwork_1_1Socket.html", [
-        [ "SecureNetwork::Client", "classSecureNetwork_1_1Client.html", null ]
+      [ "XX::SecureNetwork::Server", "class_x_x_1_1_secure_network_1_1_server.html", null ],
+      [ "XX::SecureNetwork::Socket", "class_x_x_1_1_secure_network_1_1_socket.html", [
+        [ "XX::SecureNetwork::Client", "class_x_x_1_1_secure_network_1_1_client.html", null ]
       ] ]
     ] ],
+    [ "QQuickView", null, [
+      [ "XX::QmlView", "class_x_x_1_1_qml_view.html", null ]
+    ] ],
     [ "QQuickWidget", null, [
-      [ "QmlWidget", "classQmlWidget.html", null ]
+      [ "XX::QmlWidget", "class_x_x_1_1_qml_widget.html", null ]
     ] ],
     [ "QStandardItemModel", null, [
-      [ "MessageModel", "classMessageModel.html", null ],
-      [ "TabStack::Model", "classTabStack_1_1Model.html", null ]
+      [ "XX::MessageModel", "class_x_x_1_1_message_model.html", null ],
+      [ "XX::TabStack::Model", "class_x_x_1_1_tab_stack_1_1_model.html", null ]
     ] ],
     [ "QTableView", null, [
-      [ "Managed::TableView", "classManaged_1_1TableView.html", null ]
+      [ "XX::Managed::TableView", "class_x_x_1_1_managed_1_1_table_view.html", null ]
     ] ],
     [ "QTcpServer", null, [
-      [ "SecureNetwork::ServerInternal", "classSecureNetwork_1_1ServerInternal.html", null ]
+      [ "XX::SecureNetwork::ServerInternal", "class_x_x_1_1_secure_network_1_1_server_internal.html", null ]
     ] ],
     [ "QTextBrowser", null, [
-      [ "LocalTextBrowser", "classLocalTextBrowser.html", null ]
+      [ "XX::LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", null ]
     ] ],
     [ "QToolBar", null, [
-      [ "Populated::ToolBar", "classPopulated_1_1ToolBar.html", null ]
+      [ "XX::Populated::ToolBar", "class_x_x_1_1_populated_1_1_tool_bar.html", null ]
     ] ],
     [ "QTreeView", null, [
-      [ "Managed::TreeView", "classManaged_1_1TreeView.html", null ]
+      [ "XX::Managed::TreeView", "class_x_x_1_1_managed_1_1_tree_view.html", null ]
     ] ],
-    [ "Math::Quaternion", "classMath_1_1Quaternion.html", null ],
+    [ "XX::Math::Quaternion", "class_x_x_1_1_math_1_1_quaternion.html", null ],
     [ "QWidget", null, [
-      [ "Populated::MainWidget", "classPopulated_1_1MainWidget.html", null ],
-      [ "TabStack::Widget", "classTabStack_1_1Widget.html", null ]
+      [ "XX::Populated::MainWidget", "class_x_x_1_1_populated_1_1_main_widget.html", null ],
+      [ "XX::TabStack::Widget", "class_x_x_1_1_tab_stack_1_1_widget.html", null ]
     ] ],
-    [ "Rainbow", "classRainbow.html", null ],
-    [ "Range", "structRange.html", null ],
-    [ "RecentFiles", "classRecentFiles.html", null ],
-    [ "RestApi::ResultRaw", "structRestApi_1_1ResultRaw.html", [
-      [ "RestApi::Result", "structRestApi_1_1Result.html", null ]
+    [ "XX::Rainbow", "class_x_x_1_1_rainbow.html", null ],
+    [ "XX::Range", "struct_x_x_1_1_range.html", null ],
+    [ "XX::RecentFiles", "class_x_x_1_1_recent_files.html", null ],
+    [ "XX::RestApi::ResultRaw", "struct_x_x_1_1_rest_api_1_1_result_raw.html", [
+      [ "XX::RestApi::Result", "struct_x_x_1_1_rest_api_1_1_result.html", null ]
     ] ],
-    [ "Midi::Sequence", "classMidi_1_1Sequence.html", [
-      [ "Midi::File::Reader", "classMidi_1_1File_1_1Reader.html", null ]
+    [ "XX::Scale", "class_x_x_1_1_scale.html", null ],
+    [ "XX::Midi::Sequence", "class_x_x_1_1_midi_1_1_sequence.html", [
+      [ "XX::Midi::File::Reader", "class_x_x_1_1_midi_1_1_file_1_1_reader.html", null ]
     ] ],
-    [ "Network::Settings", "classNetwork_1_1Settings.html", [
-      [ "AuthProvider::OAuth", "classAuthProvider_1_1OAuth.html", null ],
-      [ "RestApi::Blocking", "classRestApi_1_1Blocking.html", null ]
+    [ "XX::Network::Settings", "class_x_x_1_1_network_1_1_settings.html", [
+      [ "XX::AuthProvider::OAuth", "class_x_x_1_1_auth_provider_1_1_o_auth.html", null ],
+      [ "XX::RestApi::Blocking", "class_x_x_1_1_rest_api_1_1_blocking.html", null ]
     ] ],
-    [ "ShallowCrypt", "classShallowCrypt.html", null ],
-    [ "Shared< AppName >", "structShared.html", null ],
-    [ "SharedData< DataBlock >", "classSharedData.html", null ],
-    [ "ShellClient", "classShellClient.html", null ],
-    [ "Singleton< InstanceClass >", "classSingleton.html", null ],
-    [ "Singleton< MainWidget >", "classSingleton.html", [
-      [ "Populated::MainWidget", "classPopulated_1_1MainWidget.html", null ]
+    [ "XX::Settings", "class_x_x_1_1_settings.html", null ],
+    [ "XX::ShallowCrypt", "class_x_x_1_1_shallow_crypt.html", null ],
+    [ "XX::Shared&lt; AppName &gt;", "struct_x_x_1_1_shared.html", null ],
+    [ "XX::SharedData&lt; DataBlock &gt;", "class_x_x_1_1_shared_data.html", null ],
+    [ "XX::ShellClient", "class_x_x_1_1_shell_client.html", null ],
+    [ "XX::Singleton&lt; InstanceClass &gt;", "class_x_x_1_1_singleton.html", null ],
+    [ "XX::Singleton&lt; MainWidget &gt;", "class_x_x_1_1_singleton.html", [
+      [ "XX::Populated::MainWidget", "class_x_x_1_1_populated_1_1_main_widget.html", null ]
     ] ],
-    [ "Singleton< MainWindow >", "classSingleton.html", [
-      [ "Populated::MainWindow", "classPopulated_1_1MainWindow.html", null ]
+    [ "XX::Singleton&lt; MainWindow &gt;", "class_x_x_1_1_singleton.html", [
+      [ "XX::Populated::MainWindow", "class_x_x_1_1_populated_1_1_main_window.html", null ]
     ] ],
-    [ "Size", "structSize.html", null ],
-    [ "Spectrogram", "classSpectrogram.html", null ],
-    [ "Math::Spherical", "classMath_1_1Spherical.html", null ],
-    [ "Range::Spread", "classRange_1_1Spread.html", null ],
-    [ "Logger::Target", "classLogger_1_1Target.html", [
-      [ "MessageLabel", "classMessageLabel.html", null ],
-      [ "MessageModel", "classMessageModel.html", null ]
+    [ "XX::Size", "struct_x_x_1_1_size.html", null ],
+    [ "XX::Spectrogram", "class_x_x_1_1_spectrogram.html", null ],
+    [ "XX::Math::Spherical", "class_x_x_1_1_math_1_1_spherical.html", null ],
+    [ "XX::Range::Spread", "class_x_x_1_1_range_1_1_spread.html", null ],
+    [ "XX::Logger::Target", "class_x_x_1_1_logger_1_1_target.html", [
+      [ "XX::MessageLabel", "class_x_x_1_1_message_label.html", null ],
+      [ "XX::MessageModel", "class_x_x_1_1_message_model.html", null ]
     ] ],
-    [ "TimeCode", "classTimeCode.html", null ],
-    [ "Network::Tools", "structNetwork_1_1Tools.html", null ],
-    [ "Midi::Sequence::Track", "structMidi_1_1Sequence_1_1Track.html", null ],
-    [ "Graph::Tree", "structGraph_1_1Tree.html", null ],
-    [ "Graph::TreeEdges", "structGraph_1_1TreeEdges.html", null ],
-    [ "Midi::Variables", "structMidi_1_1Variables.html", null ],
+    [ "XX::TimeCode", "class_x_x_1_1_time_code.html", null ],
+    [ "XX::Network::Tools", "struct_x_x_1_1_network_1_1_tools.html", null ],
+    [ "XX::Midi::Sequence::Track", "struct_x_x_1_1_midi_1_1_sequence_1_1_track.html", null ],
+    [ "XX::Graph::Algorithm::Tree", "struct_x_x_1_1_graph_1_1_algorithm_1_1_tree.html", null ],
+    [ "XX::Graph::Algorithm::TreeEdges", "struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_edges.html", null ],
+    [ "XX::Midi::Variables", "struct_x_x_1_1_midi_1_1_variables.html", null ],
     [ "std::vector", null, [
-      [ "Matrix< DataType >", "classMatrix.html", null ]
+      [ "XX::Matrix< DataType >", "class_x_x_1_1_matrix.html", null ]
     ] ],
-    [ "Math::Vector3", "classMath_1_1Vector3.html", null ],
-    [ "Vertex", null, [
-      [ "Graph", "classGraph.html", null ]
-    ] ],
-    [ "Graph::Tree::VertexData", "structGraph_1_1Tree_1_1VertexData.html", null ],
-    [ "WaveChunkHeader", "structWaveChunkHeader.html", null ],
-    [ "WaveFmtHeader", "structWaveFmtHeader.html", null ],
-    [ "WaveHeader", "structWaveHeader.html", null ],
-    [ "ColorSpace::XYB", "structColorSpace_1_1XYB.html", null ]
+    [ "XX::Math::Vector3", "class_x_x_1_1_math_1_1_vector3.html", null ],
+    [ "XX::Graph::Vertex", "class_x_x_1_1_graph_1_1_vertex.html", null ],
+    [ "XX::Graph::Algorithm::Tree::VertexData", "struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_1_1_vertex_data.html", null ],
+    [ "WaveChunkHeader", "struct_wave_chunk_header.html", null ],
+    [ "WaveFmtHeader", "struct_wave_fmt_header.html", null ],
+    [ "WaveHeader", "struct_wave_header.html", null ],
+    [ "XX::ColorSpace::XYB", "struct_x_x_1_1_color_space_1_1_x_y_b.html", null ]
 ];

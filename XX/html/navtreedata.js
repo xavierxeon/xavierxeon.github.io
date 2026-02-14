@@ -25,21 +25,11 @@
 var NAVTREE =
 [
   [ "XX CMakePackage", "index.html", [
-    [ "CMakePackage", "md_README.html", [
-      [ "install", "md_README.html#autotoc_md1", null ],
-      [ "mocing Qt classes in cpp files", "md_README.html#autotoc_md2", null ]
+    [ "CMakePackage", "md__r_e_a_d_m_e.html", [
+      [ "install", "md__r_e_a_d_m_e.html#autotoc_md1", null ],
+      [ "mocing Qt classes in cpp files", "md__r_e_a_d_m_e.html#autotoc_md2", null ]
     ] ],
-    [ "XXApplication", "md_XXApplication_README.html", null ],
-    [ "XXAudio", "md_XXAudio_README.html", null ],
-    [ "WaToolCpp", "md_XXCpp_README.html", null ],
-    [ "XXGraph", "md_XXGraph_README.html", null ],
-    [ "XXGui", "md_XXGui_README.html", null ],
-    [ "XXLog", "md_XXLog_README.html", null ],
-    [ "XXMath", "md_XXMath_README.html", null ],
-    [ "XXMusic", "md_XXMusic_README.html", null ],
-    [ "XXNetwork", "md_XXNetwork_README.html", null ],
-    [ "XXWidgets", "md_XXWidgets_README.html", null ],
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -51,6 +41,7 @@ var NAVTREE =
         [ "Enumerator", "namespacemembers_eval.html", null ]
       ] ]
     ] ],
+    [ "Concepts", "concepts.html", "concepts" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -63,7 +54,7 @@ var NAVTREE =
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ],
         [ "Properties", "functions_prop.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -71,7 +62,7 @@ var NAVTREE =
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
-        [ "Typedefs", "globals_type.html", null ],
+        [ "Variables", "globals_vars.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -80,13 +71,16 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"AuthProviderOAuth_8cpp.html",
-"MidiFile_8cpp.html",
-"classFunction_1_1Caller.html#a360327cca66f1ea745df243b6c754a10",
-"classPopulated_1_1MainWindow.html",
-"dir_3adb204c84b5440f70c111678cdce732.html",
-"structGraph_1_1Tree.html#a71bae434d4660169ad8aaa61d9a22a8a"
+"_x_x_application_export_def_8h.html",
+"_x_x_sample_writer_8h.html",
+"class_x_x_1_1_graph.html#af39818d41a60badf2d0ac140bdadc003",
+"class_x_x_1_1_midi_1_1_interface_1_1_output.html#a7576c303fa2c618078753d72cf003c6a",
+"class_x_x_1_1_populated_1_1_tool_bar.html#a4ced992fdfb80aa7f6882927c2c8076d",
+"class_x_x_1_1_scale.html#a2eb5defd066872f93412379645db753f",
+"dir_54b8da5719cc5809063081853db94269.html",
+"struct_x_x_1_1_color_space_1_1_x_y_b.html#a3d35ab1ea2f28bef4339e476a04f4dec"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

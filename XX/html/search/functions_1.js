@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['begin_1199',['begin',['../classRange_1_1Spread.html#a3c8d15eb2dfbd3e2528c85523d05f626',1,'Range::Spread']]],
-  ['blocking_1200',['Blocking',['../classRestApi_1_1Blocking.html#acbbcdb5296c530b918fac2151c78bc50',1,'RestApi::Blocking']]],
-  ['blockstate_1201',['BlockState',['../classAuthProvider_1_1OAuth_1_1BlockState.html#ab176dfc7e512cc9a109f40cd273d1ae6',1,'AuthProvider::OAuth::BlockState']]],
-  ['breadthfirst_1202',['breadthFirst',['../classGraph.html#ac893f5acff0f9cf136cc776a6dc102bc',1,'Graph']]],
-  ['bury_1203',['bury',['../classShallowCrypt.html#a80b939ab6776c602b90cbe396fe80dc6',1,'ShallowCrypt']]],
-  ['busycursor_1204',['BusyCursor',['../classBusyCursor.html#aeafafa4469b75d8a2957534515fb8408',1,'BusyCursor']]]
+  ['begin_0',['begin',['../class_x_x_1_1_range_1_1_spread.html#ac8cb744c8fae5efae93522044a514207',1,'XX::Range::Spread']]],
+  ['blocking_1',['Blocking',['../class_x_x_1_1_rest_api_1_1_blocking.html#a8f98c10d586f3e54d9dc147f6a4c8ad4',1,'XX::RestApi::Blocking']]],
+  ['blockstate_2',['BlockState',['../class_x_x_1_1_auth_provider_1_1_o_auth_1_1_block_state.html#a4a110c91f5a3867c91627730689843b0',1,'XX::AuthProvider::OAuth::BlockState']]],
+  ['breadthfirst_3',['breadthFirst',['../class_x_x_1_1_graph_1_1_algorithm.html#a07f9532ced3450c4e0e17c6c9c3fc862',1,'XX::Graph::Algorithm']]],
+  ['bury_4',['bury',['../class_x_x_1_1_shallow_crypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5',1,'XX::ShallowCrypt']]],
+  ['busycursor_5',['BusyCursor',['../class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0',1,'XX::BusyCursor']]]
 ];

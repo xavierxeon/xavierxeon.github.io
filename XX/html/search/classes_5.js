@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['fastfouriertransfrom_906',['FastFourierTransfrom',['../classFastFourierTransfrom.html',1,'']]],
-  ['filetools_907',['FileTools',['../classFileTools.html',1,'']]],
-  ['finder_908',['Finder',['../classRange_1_1Finder.html',1,'Range']]]
+  ['fastfouriertransfrom_0',['FastFourierTransfrom',['../class_x_x_1_1_fast_fourier_transfrom.html',1,'XX']]],
+  ['filetools_1',['FileTools',['../class_x_x_1_1_file_tools.html',1,'XX']]],
+  ['finder_2',['Finder',['../class_x_x_1_1_range_1_1_finder.html',1,'XX::Range::Finder&lt; DataType &gt;'],['../class_x_x_1_1_scale_1_1_finder.html',1,'XX::Scale::Finder']]]
 ];

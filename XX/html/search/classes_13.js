@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['wave_980',['Wave',['../classSample_1_1Wave.html',1,'Sample']]],
-  ['wavechunkheader_981',['WaveChunkHeader',['../structWaveChunkHeader.html',1,'']]],
-  ['wavefmtheader_982',['WaveFmtHeader',['../structWaveFmtHeader.html',1,'']]],
-  ['waveheader_983',['WaveHeader',['../structWaveHeader.html',1,'']]],
-  ['widget_984',['Widget',['../classTabStack_1_1Widget.html',1,'TabStack']]],
-  ['writer_985',['Writer',['../classSample_1_1Writer.html',1,'Sample']]]
+  ['wave_0',['Wave',['../class_x_x_1_1_sample_1_1_wave.html',1,'XX::Sample']]],
+  ['wavechunkheader_1',['WaveChunkHeader',['../struct_wave_chunk_header.html',1,'']]],
+  ['wavefmtheader_2',['WaveFmtHeader',['../struct_wave_fmt_header.html',1,'']]],
+  ['waveheader_3',['WaveHeader',['../struct_wave_header.html',1,'']]],
+  ['widget_4',['Widget',['../class_x_x_1_1_tab_stack_1_1_widget.html',1,'XX::TabStack']]],
+  ['writer_5',['Writer',['../class_x_x_1_1_sample_1_1_writer.html',1,'XX::Sample']]]
 ];

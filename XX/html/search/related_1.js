@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['graph_1825',['Graph',['../classGraph.html#af518cffc9b488a68c48a94d00136de7c',1,'Graph']]]
+  ['graph_0',['Graph',['../class_x_x_1_1_graph_1_1_edge.html#afab89afd724f1b07b1aaad6bdc61c47a',1,'XX::Graph::Edge']]]
 ];

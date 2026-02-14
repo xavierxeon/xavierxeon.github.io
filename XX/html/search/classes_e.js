@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['rainbow_941',['Rainbow',['../classRainbow.html',1,'']]],
-  ['range_942',['Range',['../structRange.html',1,'']]],
-  ['reader_943',['Reader',['../classMidi_1_1File_1_1Reader.html',1,'Midi::File::Reader'],['../classSample_1_1Reader.html',1,'Sample::Reader']]],
-  ['recentfiles_944',['RecentFiles',['../classRecentFiles.html',1,'']]],
-  ['result_945',['Result',['../structRestApi_1_1Result.html',1,'RestApi']]],
-  ['resultraw_946',['ResultRaw',['../structRestApi_1_1ResultRaw.html',1,'RestApi']]]
+  ['rainbow_0',['Rainbow',['../class_x_x_1_1_rainbow.html',1,'XX']]],
+  ['range_1',['Range',['../struct_x_x_1_1_range.html',1,'XX']]],
+  ['reader_2',['Reader',['../class_x_x_1_1_midi_1_1_file_1_1_reader.html',1,'XX::Midi::File::Reader'],['../class_x_x_1_1_sample_1_1_reader.html',1,'XX::Sample::Reader']]],
+  ['recentfiles_3',['RecentFiles',['../class_x_x_1_1_recent_files.html',1,'XX']]],
+  ['result_4',['Result',['../struct_x_x_1_1_rest_api_1_1_result.html',1,'XX::RestApi']]],
+  ['resultraw_5',['ResultRaw',['../struct_x_x_1_1_rest_api_1_1_result_raw.html',1,'XX::RestApi']]]
 ];

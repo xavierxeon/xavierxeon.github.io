@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['keysignature_1747',['KeySignature',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38a308dda0106ce1913cd669e026aa7a0fa',1,'Midi']]],
-  ['keystep1_1748',['KeyStep1',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a4190e3f8477d349c8a4c654e72c4aeff',1,'Midi::Device']]],
-  ['keystep2_1749',['KeyStep2',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a67a38d47ea888f3e011a7c71a0ca3529',1,'Midi::Device']]],
-  ['keystep3_1750',['KeyStep3',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a71e1c3ba27674865d169ea313b437712',1,'Midi::Device']]],
-  ['keystep4_1751',['KeyStep4',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a5642efd75943d869c62ff9e5b1a877c1',1,'Midi::Device']]]
+  ['keysignature_0',['KeySignature',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69',1,'XX::Midi']]],
+  ['keystep1_1',['KeyStep1',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eae90c418d9c4386d7152a02f6903c30e1',1,'XX::Midi::Device']]],
+  ['keystep2_2',['KeyStep2',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1dbb06741fc2ba76deadb51385269cf3',1,'XX::Midi::Device']]],
+  ['keystep3_3',['KeyStep3',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea26573f0b937550b4a490e5f192fea635',1,'XX::Midi::Device']]],
+  ['keystep4_4',['KeyStep4',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea2a4a792bbd2e2250fcaf1f5bb097f942',1,'XX::Midi::Device']]]
 ];

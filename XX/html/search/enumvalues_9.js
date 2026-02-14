@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['legatoswitch_1752',['LegatoSwitch',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8aff9ddf25f2e139fcc16ed1de8feba575',1,'Midi']]],
-  ['livetag_1753',['LiveTag',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38a2b2d28d0ca7b8f096ebc6fe8e7d152ee',1,'Midi']]],
-  ['lyric_1754',['Lyric',['../namespaceMidi.html#acccc72a1d00de7762992fc68465b7b38accc6ca425b8f1661fcd0ebdcfbe962f7',1,'Midi']]]
+  ['legatoswitch_0',['LegatoSwitch',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a8976d40e150097f0d77ca08b17f07b5a',1,'XX::Midi']]],
+  ['livetag_1',['LiveTag',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b',1,'XX::Midi']]],
+  ['lyric_2',['Lyric',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12',1,'XX::Midi']]]
 ];

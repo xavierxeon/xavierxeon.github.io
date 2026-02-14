@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['menuname_1822',['menuName',['../classPopulated_1_1MenuBar.html#af17a1eb09fef04ad3b53f114d330756d',1,'Populated::MenuBar']]]
+  ['menubarname_0',['menuBarName',['../class_x_x_1_1_populated_1_1_menu_bar.html#aee49366524c81082aa933b02c7f53cf7',1,'XX::Populated::MenuBar']]]
 ];

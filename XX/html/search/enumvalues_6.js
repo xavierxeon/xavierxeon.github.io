@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['g_1741',['G',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea86a5810d758e15f3b7cccd02318312a8',1,'Note']]],
-  ['gs_1742',['Gs',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea7ae73ac7419e7d177de420b4ec694436',1,'Note']]]
+  ['g_0',['G',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea758563ce12c263185522d6ea8f10fd8c',1,'XX::Note']]],
+  ['gs_1',['Gs',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86',1,'XX::Note']]]
 ];

@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['b_1702',['B',['../classNote.html#a5d0e0355e572ae6f5c73600a748c483ea32440a43632f0a331e56df2fd8214a5a',1,'Note']]],
-  ['balance_1703',['Balance',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a8672cccbe5817d8cab1aafdd94b9a30b',1,'Midi']]],
-  ['bankselect_1704',['BankSelect',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a1bac9f933e88d5b1ac90d2959e380214',1,'Midi']]],
-  ['bitbox_1705',['BitBox',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9a7217302ac3b882898b85db2533d6d89e',1,'Midi::Device']]],
-  ['bitboxmicro_1706',['BitBoxMicro',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9ad3736349cebf81c4706bdc72203c7d1b',1,'Midi::Device']]],
-  ['blocked_1707',['Blocked',['../classAuthProvider_1_1OAuth.html#aeeff3416ce94debc42398a306295102fa4ecc0d90eec1cea3e9db96583a1bb9c2',1,'AuthProvider::OAuth']]],
-  ['breathcontroller_1708',['BreathController',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8a0e228c9d1be18397fe9144c74a921b7c',1,'Midi']]]
+  ['b_0',['B',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1d89ed6d84f55ad2dc610e448d4412f7',1,'XX::Note']]],
+  ['balance_1',['Balance',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a283668a2ea5d7a00a71aeff739d0a366',1,'XX::Midi']]],
+  ['bankselect_2',['BankSelect',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5ad6676a2286ace56c33b53ea569d4fcc3',1,'XX::Midi']]],
+  ['bitbox_3',['BitBox',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eacbb651d1db75162eed4e9de8faad29cc',1,'XX::Midi::Device']]],
+  ['bitboxmicro_4',['BitBoxMicro',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eaff47c2f27c6014a0974f466b8db1ca8d',1,'XX::Midi::Device']]],
+  ['blocked_5',['Blocked',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbfa4ecc0d90eec1cea3e9db96583a1bb9c2',1,'XX::AuthProvider::OAuth']]],
+  ['breathcontroller_6',['BreathController',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5af2e48cce233c69013b43d7de859819fb',1,'XX::Midi']]]
 ];

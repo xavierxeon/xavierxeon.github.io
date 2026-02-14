@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['channel_1687',['Channel',['../structMidi_1_1Device.html#aa771707b1bd3dc0e89a03aa18b0911c9',1,'Midi::Device']]],
-  ['controllermessage_1688',['ControllerMessage',['../namespaceMidi.html#a886435239252ff0292cd7f533d0d16e8',1,'Midi']]]
+  ['channel_0',['Channel',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0e',1,'XX::Midi::Device']]],
+  ['controllermessage_1',['ControllerMessage',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5',1,'XX::Midi']]]
 ];

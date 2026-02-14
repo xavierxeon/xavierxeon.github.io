@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['data_1657',['Data',['../namespaceSample.html#aa70c7190d4c918648b3ae1c5e1d15794',1,'Sample']]],
-  ['difference_5ftype_1658',['difference_type',['../classRange_1_1Spread_1_1Iterator.html#a49992c3424940013050aa6c62cd80464',1,'Range::Spread::Iterator']]],
-  ['duration_1659',['Duration',['../classTimeCode.html#a87dde5177a711aeb1ce46e9b74704810',1,'TimeCode']]]
+  ['data_0',['Data',['../namespace_x_x_1_1_sample.html#a821a31c70f0ea9d54f46df4be7b7868f',1,'XX::Sample']]],
+  ['difference_5ftype_1',['difference_type',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a52ca9481252fe0123ef4fe9e64fec1fc',1,'XX::Range::Spread::Iterator']]],
+  ['duration_2',['Duration',['../class_x_x_1_1_time_code.html#a0e70b985167a94c51ccd2f44f5441648',1,'XX::TimeCode']]]
 ];

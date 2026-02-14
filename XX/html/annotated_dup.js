@@ -1,113 +1,117 @@
 var annotated_dup =
 [
-    [ "AuthProvider", "namespaceAuthProvider.html", [
-      [ "OAuth", "classAuthProvider_1_1OAuth.html", "classAuthProvider_1_1OAuth" ],
-      [ "Token", "classAuthProvider_1_1Token.html", "classAuthProvider_1_1Token" ]
-    ] ],
-    [ "Function", "namespaceFunction.html", [
-      [ "AbstractCaller", "classFunction_1_1AbstractCaller.html", "classFunction_1_1AbstractCaller" ],
-      [ "Caller", "classFunction_1_1Caller.html", "classFunction_1_1Caller" ]
-    ] ],
-    [ "Logger", "namespaceLogger.html", [
-      [ "Target", "classLogger_1_1Target.html", "classLogger_1_1Target" ]
-    ] ],
-    [ "Managed", "namespaceManaged.html", [
-      [ "GraphicsView", "classManaged_1_1GraphicsView.html", "classManaged_1_1GraphicsView" ],
-      [ "TableView", "classManaged_1_1TableView.html", "classManaged_1_1TableView" ],
-      [ "TreeView", "classManaged_1_1TreeView.html", "classManaged_1_1TreeView" ]
-    ] ],
-    [ "Math", "namespaceMath.html", [
-      [ "Quaternion", "classMath_1_1Quaternion.html", "classMath_1_1Quaternion" ],
-      [ "Spherical", "classMath_1_1Spherical.html", "classMath_1_1Spherical" ],
-      [ "Vector3", "classMath_1_1Vector3.html", "classMath_1_1Vector3" ]
-    ] ],
-    [ "Midi", "namespaceMidi.html", [
-      [ "File", "namespaceMidi_1_1File.html", [
-        [ "Reader", "classMidi_1_1File_1_1Reader.html", "classMidi_1_1File_1_1Reader" ]
+    [ "XX", "namespace_x_x.html", [
+      [ "Populated", "namespace_x_x_1_1_populated.html", [
+        [ "Abstract", "class_x_x_1_1_populated_1_1_abstract.html", "class_x_x_1_1_populated_1_1_abstract" ],
+        [ "MainWidget", "class_x_x_1_1_populated_1_1_main_widget.html", "class_x_x_1_1_populated_1_1_main_widget" ],
+        [ "MainWindow", "class_x_x_1_1_populated_1_1_main_window.html", "class_x_x_1_1_populated_1_1_main_window" ],
+        [ "MenuBar", "class_x_x_1_1_populated_1_1_menu_bar.html", "class_x_x_1_1_populated_1_1_menu_bar" ],
+        [ "ToolBar", "class_x_x_1_1_populated_1_1_tool_bar.html", "class_x_x_1_1_populated_1_1_tool_bar" ]
       ] ],
-      [ "Interface", "namespaceMidi_1_1Interface.html", [
-        [ "Input", "classMidi_1_1Interface_1_1Input.html", "classMidi_1_1Interface_1_1Input" ],
-        [ "Output", "classMidi_1_1Interface_1_1Output.html", "classMidi_1_1Interface_1_1Output" ]
+      [ "Sample", "namespace_x_x_1_1_sample.html", [
+        [ "Meta", "struct_x_x_1_1_sample_1_1_meta.html", "struct_x_x_1_1_sample_1_1_meta" ],
+        [ "Abstract", "class_x_x_1_1_sample_1_1_abstract.html", "class_x_x_1_1_sample_1_1_abstract" ],
+        [ "Reader", "class_x_x_1_1_sample_1_1_reader.html", "class_x_x_1_1_sample_1_1_reader" ],
+        [ "Wave", "class_x_x_1_1_sample_1_1_wave.html", "class_x_x_1_1_sample_1_1_wave" ],
+        [ "Writer", "class_x_x_1_1_sample_1_1_writer.html", "class_x_x_1_1_sample_1_1_writer" ]
       ] ],
-      [ "Manufacturer", "structMidi_1_1Manufacturer.html", "structMidi_1_1Manufacturer" ],
-      [ "Device", "structMidi_1_1Device.html", "structMidi_1_1Device" ],
-      [ "Variables", "structMidi_1_1Variables.html", "structMidi_1_1Variables" ],
-      [ "Sequence", "classMidi_1_1Sequence.html", "classMidi_1_1Sequence" ],
-      [ "Parser", "classMidi_1_1Parser.html", "classMidi_1_1Parser" ]
+      [ "Function", "namespace_x_x_1_1_function.html", [
+        [ "AbstractCaller", "class_x_x_1_1_function_1_1_abstract_caller.html", "class_x_x_1_1_function_1_1_abstract_caller" ],
+        [ "Caller", "class_x_x_1_1_function_1_1_caller.html", "class_x_x_1_1_function_1_1_caller" ]
+      ] ],
+      [ "Logger", "namespace_x_x_1_1_logger.html", [
+        [ "Target", "class_x_x_1_1_logger_1_1_target.html", "class_x_x_1_1_logger_1_1_target" ]
+      ] ],
+      [ "Math", "namespace_x_x_1_1_math.html", [
+        [ "Quaternion", "class_x_x_1_1_math_1_1_quaternion.html", "class_x_x_1_1_math_1_1_quaternion" ],
+        [ "Spherical", "class_x_x_1_1_math_1_1_spherical.html", "class_x_x_1_1_math_1_1_spherical" ],
+        [ "Vector3", "class_x_x_1_1_math_1_1_vector3.html", "class_x_x_1_1_math_1_1_vector3" ]
+      ] ],
+      [ "Midi", "namespace_x_x_1_1_midi.html", [
+        [ "File", "namespace_x_x_1_1_midi_1_1_file.html", [
+          [ "Reader", "class_x_x_1_1_midi_1_1_file_1_1_reader.html", "class_x_x_1_1_midi_1_1_file_1_1_reader" ]
+        ] ],
+        [ "Interface", "namespace_x_x_1_1_midi_1_1_interface.html", [
+          [ "Input", "class_x_x_1_1_midi_1_1_interface_1_1_input.html", "class_x_x_1_1_midi_1_1_interface_1_1_input" ],
+          [ "Output", "class_x_x_1_1_midi_1_1_interface_1_1_output.html", "class_x_x_1_1_midi_1_1_interface_1_1_output" ]
+        ] ],
+        [ "Manufacturer", "struct_x_x_1_1_midi_1_1_manufacturer.html", "struct_x_x_1_1_midi_1_1_manufacturer" ],
+        [ "Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
+        [ "Variables", "struct_x_x_1_1_midi_1_1_variables.html", "struct_x_x_1_1_midi_1_1_variables" ],
+        [ "Sequence", "class_x_x_1_1_midi_1_1_sequence.html", "class_x_x_1_1_midi_1_1_sequence" ],
+        [ "Parser", "class_x_x_1_1_midi_1_1_parser.html", "class_x_x_1_1_midi_1_1_parser" ]
+      ] ],
+      [ "SecureNetwork", "namespace_x_x_1_1_secure_network.html", [
+        [ "ServerInternal", "class_x_x_1_1_secure_network_1_1_server_internal.html", "class_x_x_1_1_secure_network_1_1_server_internal" ],
+        [ "Client", "class_x_x_1_1_secure_network_1_1_client.html", "class_x_x_1_1_secure_network_1_1_client" ],
+        [ "Server", "class_x_x_1_1_secure_network_1_1_server.html", "class_x_x_1_1_secure_network_1_1_server" ],
+        [ "Socket", "class_x_x_1_1_secure_network_1_1_socket.html", "class_x_x_1_1_secure_network_1_1_socket" ]
+      ] ],
+      [ "AuthProvider", "namespace_x_x_1_1_auth_provider.html", [
+        [ "OAuth", "class_x_x_1_1_auth_provider_1_1_o_auth.html", "class_x_x_1_1_auth_provider_1_1_o_auth" ],
+        [ "Token", "class_x_x_1_1_auth_provider_1_1_token.html", "class_x_x_1_1_auth_provider_1_1_token" ]
+      ] ],
+      [ "Network", "namespace_x_x_1_1_network.html", [
+        [ "Settings", "class_x_x_1_1_network_1_1_settings.html", "class_x_x_1_1_network_1_1_settings" ],
+        [ "Tools", "struct_x_x_1_1_network_1_1_tools.html", "struct_x_x_1_1_network_1_1_tools" ]
+      ] ],
+      [ "RestApi", "namespace_x_x_1_1_rest_api.html", [
+        [ "Async", "class_x_x_1_1_rest_api_1_1_async.html", "class_x_x_1_1_rest_api_1_1_async" ],
+        [ "Blocking", "class_x_x_1_1_rest_api_1_1_blocking.html", "class_x_x_1_1_rest_api_1_1_blocking" ],
+        [ "StatusException", "class_x_x_1_1_rest_api_1_1_status_exception.html", "class_x_x_1_1_rest_api_1_1_status_exception" ],
+        [ "UnreachableException", "class_x_x_1_1_rest_api_1_1_unreachable_exception.html", "class_x_x_1_1_rest_api_1_1_unreachable_exception" ],
+        [ "ResultRaw", "struct_x_x_1_1_rest_api_1_1_result_raw.html", "struct_x_x_1_1_rest_api_1_1_result_raw" ],
+        [ "Result", "struct_x_x_1_1_rest_api_1_1_result.html", "struct_x_x_1_1_rest_api_1_1_result" ]
+      ] ],
+      [ "Managed", "namespace_x_x_1_1_managed.html", [
+        [ "GraphicsView", "class_x_x_1_1_managed_1_1_graphics_view.html", "class_x_x_1_1_managed_1_1_graphics_view" ],
+        [ "TableView", "class_x_x_1_1_managed_1_1_table_view.html", "class_x_x_1_1_managed_1_1_table_view" ],
+        [ "TreeView", "class_x_x_1_1_managed_1_1_tree_view.html", "class_x_x_1_1_managed_1_1_tree_view" ]
+      ] ],
+      [ "TabStack", "namespace_x_x_1_1_tab_stack.html", [
+        [ "Model", "class_x_x_1_1_tab_stack_1_1_model.html", "class_x_x_1_1_tab_stack_1_1_model" ],
+        [ "Widget", "class_x_x_1_1_tab_stack_1_1_widget.html", "class_x_x_1_1_tab_stack_1_1_widget" ]
+      ] ],
+      [ "RecentFiles", "class_x_x_1_1_recent_files.html", "class_x_x_1_1_recent_files" ],
+      [ "FastFourierTransfrom", "class_x_x_1_1_fast_fourier_transfrom.html", "class_x_x_1_1_fast_fourier_transfrom" ],
+      [ "Spectrogram", "class_x_x_1_1_spectrogram.html", "class_x_x_1_1_spectrogram" ],
+      [ "ByteConversion", "class_x_x_1_1_byte_conversion.html", "class_x_x_1_1_byte_conversion" ],
+      [ "DataStore", "class_x_x_1_1_data_store.html", "class_x_x_1_1_data_store" ],
+      [ "FileTools", "class_x_x_1_1_file_tools.html", "class_x_x_1_1_file_tools" ],
+      [ "Info", "struct_x_x_1_1_info.html", "struct_x_x_1_1_info" ],
+      [ "Settings", "class_x_x_1_1_settings.html", "class_x_x_1_1_settings" ],
+      [ "ShallowCrypt", "class_x_x_1_1_shallow_crypt.html", "class_x_x_1_1_shallow_crypt" ],
+      [ "SharedData", "class_x_x_1_1_shared_data.html", "class_x_x_1_1_shared_data" ],
+      [ "ShellClient", "class_x_x_1_1_shell_client.html", "class_x_x_1_1_shell_client" ],
+      [ "Singleton", "class_x_x_1_1_singleton.html", "class_x_x_1_1_singleton" ],
+      [ "CompileTimeString", "struct_x_x_1_1_compile_time_string.html", "struct_x_x_1_1_compile_time_string" ],
+      [ "DoubleBuffer", "class_x_x_1_1_double_buffer.html", "class_x_x_1_1_double_buffer" ],
+      [ "Locker", "class_x_x_1_1_locker.html", "class_x_x_1_1_locker" ],
+      [ "Matrix", "class_x_x_1_1_matrix.html", "class_x_x_1_1_matrix" ],
+      [ "Range", "struct_x_x_1_1_range.html", "struct_x_x_1_1_range" ],
+      [ "Size", "struct_x_x_1_1_size.html", "struct_x_x_1_1_size" ],
+      [ "Graph", "class_x_x_1_1_graph.html", "class_x_x_1_1_graph" ],
+      [ "BusyCursor", "class_x_x_1_1_busy_cursor.html", "class_x_x_1_1_busy_cursor" ],
+      [ "ColorSpace", "class_x_x_1_1_color_space.html", "class_x_x_1_1_color_space" ],
+      [ "DeviceTools", "class_x_x_1_1_device_tools.html", "class_x_x_1_1_device_tools" ],
+      [ "MessageModel", "class_x_x_1_1_message_model.html", "class_x_x_1_1_message_model" ],
+      [ "OscMessage", "class_x_x_1_1_osc_message.html", "class_x_x_1_1_osc_message" ],
+      [ "QmlView", "class_x_x_1_1_qml_view.html", "class_x_x_1_1_qml_view" ],
+      [ "Rainbow", "class_x_x_1_1_rainbow.html", "class_x_x_1_1_rainbow" ],
+      [ "LogFileBase", "struct_x_x_1_1_log_file_base.html", "struct_x_x_1_1_log_file_base" ],
+      [ "LogFile", "class_x_x_1_1_log_file.html", "class_x_x_1_1_log_file" ],
+      [ "LogSymbol", "struct_x_x_1_1_log_symbol.html", "struct_x_x_1_1_log_symbol" ],
+      [ "MessageHandler", "struct_x_x_1_1_message_handler.html", "struct_x_x_1_1_message_handler" ],
+      [ "Note", "class_x_x_1_1_note.html", "class_x_x_1_1_note" ],
+      [ "Scale", "class_x_x_1_1_scale.html", "class_x_x_1_1_scale" ],
+      [ "TimeCode", "class_x_x_1_1_time_code.html", "class_x_x_1_1_time_code" ],
+      [ "Shared", "struct_x_x_1_1_shared.html", "struct_x_x_1_1_shared" ],
+      [ "LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", "class_x_x_1_1_local_text_browser" ],
+      [ "Look", "struct_x_x_1_1_look.html", "struct_x_x_1_1_look" ],
+      [ "MessageLabel", "class_x_x_1_1_message_label.html", "class_x_x_1_1_message_label" ],
+      [ "QmlWidget", "class_x_x_1_1_qml_widget.html", "class_x_x_1_1_qml_widget" ]
     ] ],
-    [ "Network", "namespaceNetwork.html", [
-      [ "Settings", "classNetwork_1_1Settings.html", "classNetwork_1_1Settings" ],
-      [ "Tools", "structNetwork_1_1Tools.html", "structNetwork_1_1Tools" ]
-    ] ],
-    [ "Populated", "namespacePopulated.html", [
-      [ "Abstract", "classPopulated_1_1Abstract.html", "classPopulated_1_1Abstract" ],
-      [ "MainWidget", "classPopulated_1_1MainWidget.html", "classPopulated_1_1MainWidget" ],
-      [ "MainWindow", "classPopulated_1_1MainWindow.html", "classPopulated_1_1MainWindow" ],
-      [ "MenuBar", "classPopulated_1_1MenuBar.html", "classPopulated_1_1MenuBar" ],
-      [ "ToolBar", "classPopulated_1_1ToolBar.html", "classPopulated_1_1ToolBar" ]
-    ] ],
-    [ "RestApi", "namespaceRestApi.html", [
-      [ "Async", "classRestApi_1_1Async.html", "classRestApi_1_1Async" ],
-      [ "Blocking", "classRestApi_1_1Blocking.html", "classRestApi_1_1Blocking" ],
-      [ "StatusException", "classRestApi_1_1StatusException.html", "classRestApi_1_1StatusException" ],
-      [ "UnreachableException", "classRestApi_1_1UnreachableException.html", "classRestApi_1_1UnreachableException" ],
-      [ "ResultRaw", "structRestApi_1_1ResultRaw.html", "structRestApi_1_1ResultRaw" ],
-      [ "Result", "structRestApi_1_1Result.html", "structRestApi_1_1Result" ]
-    ] ],
-    [ "Sample", "namespaceSample.html", [
-      [ "Meta", "structSample_1_1Meta.html", "structSample_1_1Meta" ],
-      [ "Abstract", "classSample_1_1Abstract.html", "classSample_1_1Abstract" ],
-      [ "Reader", "classSample_1_1Reader.html", "classSample_1_1Reader" ],
-      [ "Wave", "classSample_1_1Wave.html", "classSample_1_1Wave" ],
-      [ "Writer", "classSample_1_1Writer.html", "classSample_1_1Writer" ]
-    ] ],
-    [ "SecureNetwork", "namespaceSecureNetwork.html", [
-      [ "Client", "classSecureNetwork_1_1Client.html", "classSecureNetwork_1_1Client" ],
-      [ "Server", "classSecureNetwork_1_1Server.html", "classSecureNetwork_1_1Server" ],
-      [ "Socket", "classSecureNetwork_1_1Socket.html", "classSecureNetwork_1_1Socket" ],
-      [ "ServerInternal", "classSecureNetwork_1_1ServerInternal.html", "classSecureNetwork_1_1ServerInternal" ]
-    ] ],
-    [ "TabStack", "namespaceTabStack.html", [
-      [ "Model", "classTabStack_1_1Model.html", "classTabStack_1_1Model" ],
-      [ "Widget", "classTabStack_1_1Widget.html", "classTabStack_1_1Widget" ]
-    ] ],
-    [ "BusyCursor", "classBusyCursor.html", "classBusyCursor" ],
-    [ "ByteConversion", "classByteConversion.html", "classByteConversion" ],
-    [ "ColorSpace", "classColorSpace.html", "classColorSpace" ],
-    [ "CompileTimeString", "structCompileTimeString.html", "structCompileTimeString" ],
-    [ "DataStore", "classDataStore.html", "classDataStore" ],
-    [ "DeviceTools", "classDeviceTools.html", "classDeviceTools" ],
-    [ "DoubleBuffer", "classDoubleBuffer.html", "classDoubleBuffer" ],
-    [ "FastFourierTransfrom", "classFastFourierTransfrom.html", "classFastFourierTransfrom" ],
-    [ "FileTools", "classFileTools.html", "classFileTools" ],
-    [ "Graph", "classGraph.html", "classGraph" ],
-    [ "Info", "structInfo.html", "structInfo" ],
-    [ "LocalTextBrowser", "classLocalTextBrowser.html", "classLocalTextBrowser" ],
-    [ "Locker", "classLocker.html", "classLocker" ],
-    [ "LogFile", "classLogFile.html", "classLogFile" ],
-    [ "LogFileBase", "structLogFileBase.html", "structLogFileBase" ],
-    [ "LogSymbol", "structLogSymbol.html", "structLogSymbol" ],
-    [ "Look", "structLook.html", "structLook" ],
-    [ "Matrix", "classMatrix.html", "classMatrix" ],
-    [ "MessageHandler", "structMessageHandler.html", "structMessageHandler" ],
-    [ "MessageLabel", "classMessageLabel.html", "classMessageLabel" ],
-    [ "MessageModel", "classMessageModel.html", "classMessageModel" ],
-    [ "Note", "classNote.html", "classNote" ],
-    [ "OscMessage", "classOscMessage.html", "classOscMessage" ],
-    [ "QmlWidget", "classQmlWidget.html", "classQmlWidget" ],
-    [ "Rainbow", "classRainbow.html", "classRainbow" ],
-    [ "Range", "structRange.html", "structRange" ],
-    [ "RecentFiles", "classRecentFiles.html", "classRecentFiles" ],
-    [ "Scale", "classScale.html", "classScale" ],
-    [ "ShallowCrypt", "classShallowCrypt.html", "classShallowCrypt" ],
-    [ "Shared", "structShared.html", "structShared" ],
-    [ "SharedData", "classSharedData.html", "classSharedData" ],
-    [ "ShellClient", "classShellClient.html", "classShellClient" ],
-    [ "Singleton", "classSingleton.html", "classSingleton" ],
-    [ "Size", "structSize.html", "structSize" ],
-    [ "Spectrogram", "classSpectrogram.html", "classSpectrogram" ],
-    [ "TimeCode", "classTimeCode.html", "classTimeCode" ],
-    [ "WaveChunkHeader", "structWaveChunkHeader.html", "structWaveChunkHeader" ],
-    [ "WaveFmtHeader", "structWaveFmtHeader.html", "structWaveFmtHeader" ],
-    [ "WaveHeader", "structWaveHeader.html", "structWaveHeader" ]
+    [ "WaveChunkHeader", "struct_wave_chunk_header.html", "struct_wave_chunk_header" ],
+    [ "WaveFmtHeader", "struct_wave_fmt_header.html", "struct_wave_fmt_header" ],
+    [ "WaveHeader", "struct_wave_header.html", "struct_wave_header" ]
 ];

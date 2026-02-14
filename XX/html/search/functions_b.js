@@ -1,9 +1,14 @@
 var searchData=
 [
-  ['noofsamplesperchannel_1377',['noOfSamplesPerChannel',['../structSample_1_1Meta.html#a973bdb6068538769e566cc0b3ac638fd',1,'Sample::Meta']]],
-  ['norm_1378',['norm',['../classMath_1_1Vector3.html#a2e272282717e838e299a7872e228598f',1,'Math::Vector3']]],
-  ['note_1379',['Note',['../classNote.html#a11dfaf68eb7a094b121add4adb18620e',1,'Note']]],
-  ['noteinscale_1380',['noteInScale',['../classScale.html#a563002da5db4e47d609bd0bc8abc79fb',1,'Scale']]],
-  ['noteoff_1381',['noteOff',['../classMidi_1_1Parser.html#a02eebc2bc2ff2baee1d7c841e095b74e',1,'Midi::Parser']]],
-  ['noteon_1382',['noteOn',['../classMidi_1_1Parser.html#ac7e9415e7f4b99f4b9b83abced8e9c2c',1,'Midi::Parser']]]
+  ['mainwidget_0',['MainWidget',['../class_x_x_1_1_populated_1_1_main_widget.html#a30cdb66feac8f461bdc5009616d0ce2d',1,'XX::Populated::MainWidget']]],
+  ['mainwindow_1',['MainWindow',['../class_x_x_1_1_populated_1_1_main_window.html#a5494d1e7311f593d5e1ac2c34f364678',1,'XX::Populated::MainWindow']]],
+  ['mapper_2',['Mapper',['../class_x_x_1_1_range_1_1_mapper.html#a04dbd3f4d76f43bc013fc03e40febf5e',1,'XX::Range::Mapper']]],
+  ['matrix_3',['Matrix',['../class_x_x_1_1_matrix.html#aae18e04c9cd6d24921ebd9f9dadabddd',1,'XX::Matrix']]],
+  ['max_4',['max',['../class_x_x_1_1_range_1_1_finder.html#afa60014f3fd1684156a3cae2c2322fef',1,'XX::Range::Finder::max()'],['../struct_x_x_1_1_range.html#a1d9c9bff4c7346aa05458a76b9ead872',1,'XX::Range::max()']]],
+  ['menubar_5',['MenuBar',['../class_x_x_1_1_populated_1_1_menu_bar.html#af4fc4d44f01fb55b901590ee263a8f85',1,'XX::Populated::MenuBar']]],
+  ['menubarnamechanged_6',['menuBarNameChanged',['../class_x_x_1_1_populated_1_1_menu_bar.html#a09e312641933c78cb88ec98f91f94377',1,'XX::Populated::MenuBar']]],
+  ['messagelabel_7',['MessageLabel',['../class_x_x_1_1_message_label.html#ab2eacf847a1949cab231d4782351964c',1,'XX::MessageLabel']]],
+  ['messagemodel_8',['MessageModel',['../class_x_x_1_1_message_model.html#afc502aa118119554db2832b3a0bb3cb4',1,'XX::MessageModel']]],
+  ['min_9',['min',['../class_x_x_1_1_range_1_1_finder.html#aee50dc72f9340216096ea4b4d2368078',1,'XX::Range::Finder::min()'],['../struct_x_x_1_1_range.html#a5f3f66bf0fd7800d7c7b7d230795c46f',1,'XX::Range::min()']]],
+  ['model_10',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model']]]
 ];

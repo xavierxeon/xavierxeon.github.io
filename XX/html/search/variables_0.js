@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['attention_1559',['Attention',['../structLogSymbol.html#acdd70777ffc8eaed8a48bad31672bd3c',1,'LogSymbol']]],
-  ['audioformat_1560',['audioFormat',['../structWaveFmtHeader.html#afbebf680b808e9f4fe6d4cf938b7fa88',1,'WaveFmtHeader']]],
-  ['availablenotes_1561',['availableNotes',['../classNote.html#aab92d4afa58657b6b69641c8b48721fc',1,'Note']]],
-  ['az_1562',['az',['../classMath_1_1Spherical.html#a9ab56e7cf55b6f8b1356be25f4891858',1,'Math::Spherical']]]
+  ['attention_0',['Attention',['../struct_x_x_1_1_log_symbol.html#a99ab0f711265b49c332ba5aa456a3463',1,'XX::LogSymbol']]],
+  ['audioformat_1',['audioFormat',['../struct_wave_fmt_header.html#afbebf680b808e9f4fe6d4cf938b7fa88',1,'WaveFmtHeader']]],
+  ['availablenotes_2',['availableNotes',['../class_x_x_1_1_note.html#abe4ddc961a7e8e54b827278b92e54f87',1,'XX::Note']]],
+  ['az_3',['az',['../class_x_x_1_1_math_1_1_spherical.html#af88d51b8fb68325139d811b02455c55d',1,'XX::Math::Spherical']]]
 ];

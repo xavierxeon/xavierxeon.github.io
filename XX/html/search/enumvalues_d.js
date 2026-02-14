@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['quarterframe_1769',['QuarterFrame',['../namespaceMidi.html#ade40a62c4de79eb52af0d34d549bf341a342ce16b2b0fc5e65436eac3ed9f0fc0',1,'Midi']]]
+  ['quarterframe_0',['QuarterFrame',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611',1,'XX::Midi']]]
 ];
