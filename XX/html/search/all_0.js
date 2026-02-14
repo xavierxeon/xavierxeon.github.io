@@ -23,7 +23,7 @@ var searchData=
   ['append_20',['append',['../class_x_x_1_1_sample_1_1_writer.html#ad4e9b1ebbc338cfb3feefacc4e863a42',1,'XX::Sample::Writer']]],
   ['appendrow_21',['appendRow',['../class_x_x_1_1_matrix.html#a48721dfb127120a640601168bac7a35f',1,'XX::Matrix']]],
   ['appendtimestamptofilename_22',['appendTimeStampToFileName',['../struct_x_x_1_1_log_file_base.html#acc70b7b6a3a34ac5d2facf0f076b7d96',1,'XX::LogFileBase']]],
-  ['application_20component_23',['XX Application component',['../group___x_x_application.html',1,'']]],
+  ['application_20component_23',['Application component',['../group___x_x_application.html',1,'']]],
   ['apply_24',['apply',['../class_x_x_1_1_tab_stack_1_1_model.html#a374aa7a50efc0b664c410899942c2412',1,'XX::TabStack::Model']]],
   ['applystlyesheet_25',['applyStlyeSheet',['../struct_x_x_1_1_look.html#a78904bc6bd709a85fcd652c60d77e4ee',1,'XX::Look']]],
   ['appname_26',['appName',['../struct_x_x_1_1_shared.html#a6a244cb2863dfac84057a355a5e53b03',1,'XX::Shared']]],
