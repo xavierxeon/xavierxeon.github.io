@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bytes_0',['bytes',['../class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]]
+  ['az_0',['az',['../class_x_x_1_1_math_1_1_spherical.html#af88d51b8fb68325139d811b02455c55d',1,'XX::Math::Spherical']]]
 ];

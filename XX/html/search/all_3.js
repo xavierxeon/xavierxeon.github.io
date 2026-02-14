@@ -25,6 +25,8 @@ var searchData=
   ['core_22',['Core',['../group___x_x_core.html',1,'']]],
   ['cpp_23',['Cpp',['../group___x_x_cpp.html',1,'']]],
   ['cpp_20files_24',['mocing Qt classes in cpp files',['../index.html#autotoc_md2',1,'']]],
-  ['cuepoint_25',['CuePoint',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741',1,'XX::Midi']]],
-  ['current_26',['current',['../class_x_x_1_1_double_buffer.html#a3a829f222d36facb32ac7b6fbf0a30d0',1,'XX::DoubleBuffer::current()'],['../class_x_x_1_1_double_buffer.html#a4c84e2e8b32c51d3862e78886e0a5862',1,'XX::DoubleBuffer::current() const']]]
+  ['cross_25',['cross',['../class_x_x_1_1_math_1_1_vector3.html#accf094337342f3752495362ddd2dbd89',1,'XX::Math::Vector3']]],
+  ['crossangle_26',['crossAngle',['../class_x_x_1_1_math_1_1_vector3.html#a3f93fe41c5fcf0dfb8c7f8000810ac60',1,'XX::Math::Vector3']]],
+  ['cuepoint_27',['CuePoint',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741',1,'XX::Midi']]],
+  ['current_28',['current',['../class_x_x_1_1_double_buffer.html#a3a829f222d36facb32ac7b6fbf0a30d0',1,'XX::DoubleBuffer::current()'],['../class_x_x_1_1_double_buffer.html#a4c84e2e8b32c51d3862e78886e0a5862',1,'XX::DoubleBuffer::current() const']]]
 ];

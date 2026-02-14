@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['range_0',['Range',['../struct_x_x_1_1_range.html',1,'XX']]]
+  ['quaternion_0',['Quaternion',['../class_x_x_1_1_math_1_1_quaternion.html',1,'XX::Math']]]
 ];

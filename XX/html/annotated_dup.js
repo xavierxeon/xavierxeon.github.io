@@ -5,6 +5,11 @@ var annotated_dup =
         [ "AbstractCaller", "class_x_x_1_1_function_1_1_abstract_caller.html", "class_x_x_1_1_function_1_1_abstract_caller" ],
         [ "Caller", "class_x_x_1_1_function_1_1_caller.html", "class_x_x_1_1_function_1_1_caller" ]
       ] ],
+      [ "Math", "namespace_x_x_1_1_math.html", [
+        [ "Quaternion", "class_x_x_1_1_math_1_1_quaternion.html", "class_x_x_1_1_math_1_1_quaternion" ],
+        [ "Spherical", "class_x_x_1_1_math_1_1_spherical.html", "class_x_x_1_1_math_1_1_spherical" ],
+        [ "Vector3", "class_x_x_1_1_math_1_1_vector3.html", "class_x_x_1_1_math_1_1_vector3" ]
+      ] ],
       [ "Midi", "namespace_x_x_1_1_midi.html", [
         [ "Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ]
       ] ],

@@ -20,12 +20,15 @@ var hierarchy =
     [ "QTcpServer", null, [
       [ "XX::SecureNetwork::ServerInternal", "class_x_x_1_1_secure_network_1_1_server_internal.html", null ]
     ] ],
+    [ "XX::Math::Quaternion", "class_x_x_1_1_math_1_1_quaternion.html", null ],
     [ "XX::Range", "struct_x_x_1_1_range.html", null ],
     [ "XX::Shared&lt; AppName &gt;", "struct_x_x_1_1_shared.html", null ],
     [ "XX::SharedData&lt; DataBlock &gt;", "class_x_x_1_1_shared_data.html", null ],
     [ "XX::Singleton&lt; InstanceClass &gt;", "class_x_x_1_1_singleton.html", null ],
+    [ "XX::Math::Spherical", "class_x_x_1_1_math_1_1_spherical.html", null ],
     [ "XX::Range::Spread", "class_x_x_1_1_range_1_1_spread.html", null ],
     [ "std::vector", null, [
       [ "XX::Matrix< DataType >", "class_x_x_1_1_matrix.html", null ]
-    ] ]
+    ] ],
+    [ "XX::Math::Vector3", "class_x_x_1_1_math_1_1_vector3.html", null ]
 ];

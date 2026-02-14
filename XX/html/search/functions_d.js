@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['removerow_0',['removeRow',['../class_x_x_1_1_matrix.html#abd38782becbd834f51b2a8881928dcd5',1,'XX::Matrix']]],
-  ['reset_1',['reset',['../class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81',1,'XX::Range::Finder::reset()'],['../class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81',1,'XX::Range::Finder::reset()']]]
+  ['polartocartesian_0',['polarToCartesian',['../namespace_x_x_1_1_math.html#aa7201a693d70d6ab6bc44d17756c3e1f',1,'XX::Math']]],
+  ['previous_1',['previous',['../class_x_x_1_1_double_buffer.html#ab4498bb238b1f3a739959ca4f52abfe2',1,'XX::DoubleBuffer']]]
 ];

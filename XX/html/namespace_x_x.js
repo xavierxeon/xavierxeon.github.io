@@ -12,16 +12,7 @@ var namespace_x_x =
     [ "Logger", "namespace_x_x_1_1_logger.html", [
       [ "__declspec", "namespace_x_x_1_1_logger.html#aefa04fd9462e93a9f936c07edfe4f681", null ]
     ] ],
-    [ "Math", "namespace_x_x_1_1_math.html", [
-      [ "__declspec", "namespace_x_x_1_1_math.html#a800efa8b6a9a96933ea4cdef39842226", null ],
-      [ "__declspec", "group___x_x_math.html#ga38837aea24c1531e9c0e4e89915a7ecf", null ],
-      [ "cartesianToPolar", "namespace_x_x_1_1_math.html#a82b46431370a6e7d43ea419a33fe8376", null ],
-      [ "operator<<", "group___streaming.html#gaf91eb590c0e526deedeccef8db6111ee", null ],
-      [ "operator<<", "group___streaming.html#ga4ef0baf5907106c7521796a0d0c6ff42", null ],
-      [ "polarToCartesian", "namespace_x_x_1_1_math.html#aa7201a693d70d6ab6bc44d17756c3e1f", null ],
-      [ "pi", "namespace_x_x_1_1_math.html#a3357f01c9b826c38bfc87b501a0bd30c", null ],
-      [ "value2", "namespace_x_x_1_1_math.html#a2c7a36d1788f7a95986794054cccfaf2", null ]
-    ] ],
+    [ "Math", "namespace_x_x_1_1_math.html", "namespace_x_x_1_1_math" ],
     [ "Midi", "namespace_x_x_1_1_midi.html", "namespace_x_x_1_1_midi" ],
     [ "SecureNetwork", "namespace_x_x_1_1_secure_network.html", "namespace_x_x_1_1_secure_network" ],
     [ "AuthProvider", "namespace_x_x_1_1_auth_provider.html", null ],

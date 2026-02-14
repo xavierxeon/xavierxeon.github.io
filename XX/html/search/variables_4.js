@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['readonly_0',['readOnly',['../class_x_x_1_1_shared_data.html#ab09dac3746f59cd7c8794c5fd41627cf',1,'XX::SharedData']]]
+  ['mask_0',['mask',['../namespace_x_x_1_1_midi.html#a270ae21542bbdab27fc7e7209ac03b3b',1,'XX::Midi']]]
 ];

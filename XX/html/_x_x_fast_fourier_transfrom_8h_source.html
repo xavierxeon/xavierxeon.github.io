@@ -116,8 +116,8 @@ $(function(){initNavTree('_x_x_fast_fourier_transfrom_8h_source.html','',''); })
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>      FastFourierTransfrom(<span class="keyword">const</span> <span class="keywordtype">size_t</span> size);</div>
 <div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span> </div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>   <span class="keyword">public</span>:</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>      <span class="keyword">static</span> ComplexData fill(<span class="keyword">const</span> Sample::Data&amp; <a class="code hl_variable" href="group___streaming.html#gae44e8aa2fc0d9d8c4e2e44d7b7cb387f">data</a>);</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>      <span class="keyword">static</span> Sample::Data strip(<span class="keyword">const</span> ComplexData&amp; <a class="code hl_variable" href="group___streaming.html#gae44e8aa2fc0d9d8c4e2e44d7b7cb387f">data</a>);</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>      <span class="keyword">static</span> ComplexData fill(<span class="keyword">const</span> Sample::Data&amp; data);</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>      <span class="keyword">static</span> Sample::Data strip(<span class="keyword">const</span> ComplexData&amp; data);</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>      ComplexData forward(<span class="keyword">const</span> ComplexData&amp; input);</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>      ComplexData inverse(<span class="keyword">const</span> ComplexData&amp; input);</div>
@@ -125,11 +125,11 @@ $(function(){initNavTree('_x_x_fast_fourier_transfrom_8h_source.html','',''); })
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>      <span class="keyword">const</span> <span class="keywordtype">size_t</span>&amp; getSize() <span class="keyword">const</span>;</div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>   <span class="keyword">private</span>:</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>      <span class="keywordtype">void</span> bitReverse(ComplexData&amp; <a class="code hl_variable" href="group___streaming.html#gae44e8aa2fc0d9d8c4e2e44d7b7cb387f">data</a>) <span class="keyword">const</span>;</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>      <span class="keywordtype">void</span> transform(ComplexData&amp; <a class="code hl_variable" href="group___streaming.html#gae44e8aa2fc0d9d8c4e2e44d7b7cb387f">data</a>, <span class="keywordtype">bool</span> forward) <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>      <span class="keywordtype">void</span> bitReverse(ComplexData&amp; data) <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>      <span class="keywordtype">void</span> transform(ComplexData&amp; data, <span class="keywordtype">bool</span> forward) <span class="keyword">const</span>;</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>      <span class="keywordtype">void</span> bitReverseB(ComplexData&amp; <a class="code hl_variable" href="group___streaming.html#gae44e8aa2fc0d9d8c4e2e44d7b7cb387f">data</a>) <span class="keyword">const</span>;</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>      <span class="keywordtype">void</span> transformB(ComplexData&amp; <a class="code hl_variable" href="group___streaming.html#gae44e8aa2fc0d9d8c4e2e44d7b7cb387f">data</a>, <span class="keywordtype">bool</span> forward) <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>      <span class="keywordtype">void</span> bitReverseB(ComplexData&amp; data) <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>      <span class="keywordtype">void</span> transformB(ComplexData&amp; data, <span class="keywordtype">bool</span> forward) <span class="keyword">const</span>;</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span> </div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>   <span class="keyword">private</span>:</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>      <span class="keyword">const</span> <span class="keywordtype">size_t</span> size;</div>
@@ -140,7 +140,6 @@ $(function(){initNavTree('_x_x_fast_fourier_transfrom_8h_source.html','',''); })
 <div class="ttc" id="a_x_x_audio_export_def_8h_html"><div class="ttname"><a href="_x_x_audio_export_def_8h.html">XXAudioExportDef.h</a></div></div>
 <div class="ttc" id="a_x_x_audio_export_def_8h_html_a4743ed3e5d196ff9c58938c0da3e593b"><div class="ttname"><a href="_x_x_audio_export_def_8h.html#a4743ed3e5d196ff9c58938c0da3e593b">XXAUDIO_DECLSPEC</a></div><div class="ttdeci">#define XXAUDIO_DECLSPEC</div><div class="ttdef"><b>Definition</b> XXAudioExportDef.h:11</div></div>
 <div class="ttc" id="a_x_x_sample_abstract_8h_html"><div class="ttname"><a href="_x_x_sample_abstract_8h.html">XXSampleAbstract.h</a></div></div>
-<div class="ttc" id="agroup___streaming_html_gae44e8aa2fc0d9d8c4e2e44d7b7cb387f"><div class="ttname"><a href="group___streaming.html#gae44e8aa2fc0d9d8c4e2e44d7b7cb387f">data</a></div><div class="ttdeci">const XX::Math::Vector3 &amp; data</div><div class="ttdef"><b>Definition</b> XXMathQtStreaming.h:17</div></div>
 <div class="ttc" id="anamespace_x_x_html"><div class="ttname"><a href="namespace_x_x.html">XX</a></div><div class="ttdef"><b>Definition</b> XXPopulatedAbstract.h:11</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

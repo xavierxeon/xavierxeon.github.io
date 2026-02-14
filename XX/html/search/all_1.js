@@ -8,5 +8,6 @@ var searchData=
   ['appendrow_5',['appendRow',['../class_x_x_1_1_matrix.html#a48721dfb127120a640601168bac7a35f',1,'XX::Matrix']]],
   ['application_6',['Application',['../group___x_x_application.html',1,'']]],
   ['appname_7',['appName',['../struct_x_x_1_1_shared.html#a6a244cb2863dfac84057a355a5e53b03',1,'XX::Shared']]],
-  ['audio_8',['Audio',['../group___x_x_audio.html',1,'']]]
+  ['audio_8',['Audio',['../group___x_x_audio.html',1,'']]],
+  ['az_9',['az',['../class_x_x_1_1_math_1_1_spherical.html#af88d51b8fb68325139d811b02455c55d',1,'XX::Math::Spherical']]]
 ];

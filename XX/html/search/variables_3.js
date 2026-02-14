@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['pi_0',['pi',['../namespace_x_x_1_1_math.html#a3357f01c9b826c38bfc87b501a0bd30c',1,'XX::Math']]]
+  ['el_0',['el',['../class_x_x_1_1_math_1_1_spherical.html#a883266289b1425cd482311ce3799edd1',1,'XX::Math::Spherical']]]
 ];
