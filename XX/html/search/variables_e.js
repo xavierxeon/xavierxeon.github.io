@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['radius_0',['radius',['../class_x_x_1_1_math_1_1_spherical.html#a2c5a0276dcc6df787817c41c4e5298aa',1,'XX::Math::Spherical']]],
-  ['raw_1',['raw',['../struct_x_x_1_1_rest_api_1_1_result_raw.html#adf636fcb1dd3e0939eae3ffec5a333b8',1,'XX::RestApi::ResultRaw']]],
-  ['readonly_2',['readOnly',['../class_x_x_1_1_shared_data.html#ab09dac3746f59cd7c8794c5fd41627cf',1,'XX::SharedData']]],
-  ['riff_3',['RIFF',['../struct_x_x_1_1_wave_header.html#a8d5df283fd6ef39b5c18f38a8f048baa',1,'XX::WaveHeader']]]
+  ['samplerate_0',['sampleRate',['../struct_x_x_1_1_sample_1_1_meta.html#af702c3e7150d261740faa12d68f4850f',1,'XX::Sample::Meta']]],
+  ['seconds_1',['seconds',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#a98d90ab8d28d8ec9d7ae96f55f69b790',1,'XX::Midi::Sequence::Info']]],
+  ['sharpsymbol_2',['sharpSymbol',['../class_x_x_1_1_note.html#a5b0d7b19e4466c60133b854e1e679182',1,'XX::Note']]],
+  ['sslsocket_3',['sslSocket',['../class_x_x_1_1_secure_network_1_1_socket.html#a02b20a3a99eb16a917bd0c8274c26c8e',1,'XX::SecureNetwork::Socket']]],
+  ['statuscode_4',['statusCode',['../struct_x_x_1_1_rest_api_1_1_result_raw.html#a0f1b44937a8280acfb74a70af78a9efd',1,'XX::RestApi::ResultRaw']]],
+  ['successstatuscodes_5',['successStatusCodes',['../class_x_x_1_1_rest_api_1_1_blocking.html#ac44add257802480e9861ff356f3b32d4',1,'XX::RestApi::Blocking']]]
 ];

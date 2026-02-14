@@ -8,7 +8,7 @@ var searchData=
   ['mapper_5',['Mapper',['../class_x_x_1_1_range_1_1_mapper.html',1,'XX::Range::Mapper'],['../class_x_x_1_1_range_1_1_mapper.html#a04dbd3f4d76f43bc013fc03e40febf5e',1,'XX::Range::Mapper::Mapper()']]],
   ['marker_6',['Marker',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f',1,'XX::Midi']]],
   ['matrix_7',['Matrix',['../class_x_x_1_1_matrix.html',1,'XX::Matrix&lt; DataType &gt;'],['../class_x_x_1_1_matrix.html#aae18e04c9cd6d24921ebd9f9dadabddd',1,'XX::Matrix::Matrix()']]],
-  ['max_8',['max',['../class_x_x_1_1_range_1_1_finder.html#afa60014f3fd1684156a3cae2c2322fef',1,'XX::Range::Finder::max()'],['../struct_x_x_1_1_range.html#a1d9c9bff4c7346aa05458a76b9ead872',1,'XX::Range::max()']]],
+  ['max_8',['max',['../class_x_x_1_1_range_1_1_finder.html#afa60014f3fd1684156a3cae2c2322fef',1,'XX::Range::Finder::max()'],['../struct_x_x_1_1_range.html#af84b02e7fe0819b697de6cdfbe73d6bf',1,'XX::Range::max()']]],
   ['maxduration_9',['maxDuration',['../class_x_x_1_1_time_code.html#aa938e7eac8e6ea3274f1e797a56c985c',1,'XX::TimeCode']]],
   ['maxnoteindex_10',['maxNoteIndex',['../class_x_x_1_1_note.html#ac463f299541a4b8cd76a43c14b37cbc4',1,'XX::Note']]],
   ['maxtick_11',['maxTick',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#adec11541e72f12ee458c4a755a7666bc',1,'XX::Midi::Sequence::Info::maxTick'],['../struct_x_x_1_1_midi_1_1_sequence_1_1_track.html#ab52e3450d589623827d06603b1980149',1,'XX::Midi::Sequence::Track::maxTick']]],
@@ -26,12 +26,11 @@ var searchData=
   ['metaevent_23',['MetaEvent',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1b',1,'XX::Midi']]],
   ['metaunkown_24',['MetaUnkown',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692',1,'XX::Midi']]],
   ['metropolix_25',['Metropolix',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1ff1a61c17b20140f0aea4baf214ef60',1,'XX::Midi::Device']]],
-  ['midiparserhpp_26',['MidiParserHPP',['../_x_x_midi_parser_8cpp.html#afe25a24c9046d0b792ea3ca3f9df8302',1,'XXMidiParser.cpp']]],
-  ['midiport_27',['MidiPort',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5',1,'XX::Midi']]],
-  ['min_28',['min',['../class_x_x_1_1_range_1_1_finder.html#aee50dc72f9340216096ea4b4d2368078',1,'XX::Range::Finder::min()'],['../struct_x_x_1_1_range.html#a5f3f66bf0fd7800d7c7b7d230795c46f',1,'XX::Range::min()']]],
-  ['minutes_29',['minutes',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#adca51f6b6f3429b2cf258bd528418164',1,'XX::Midi::Sequence::Info']]],
-  ['mocing_20qt_20classes_20in_20cpp_20files_30',['mocing Qt classes in cpp files',['../index.html#autotoc_md2',1,'']]],
-  ['model_31',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html',1,'XX::TabStack::Model'],['../class_x_x_1_1_tab_stack_1_1_model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model::Model()']]],
-  ['modwheel_32',['ModWheel',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df',1,'XX::Midi']]],
-  ['msperbyte_33',['msPerByte',['../struct_x_x_1_1_midi_1_1_variables.html#a733482b404cb601f0d0ad0b9db0ef5c1',1,'XX::Midi::Variables']]]
+  ['midiport_26',['MidiPort',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5',1,'XX::Midi']]],
+  ['min_27',['min',['../class_x_x_1_1_range_1_1_finder.html#aee50dc72f9340216096ea4b4d2368078',1,'XX::Range::Finder::min()'],['../struct_x_x_1_1_range.html#a53fbb95f81ebe05d2ca4da22e8b6db52',1,'XX::Range::min()']]],
+  ['minutes_28',['minutes',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#adca51f6b6f3429b2cf258bd528418164',1,'XX::Midi::Sequence::Info']]],
+  ['mocing_20qt_20classes_20in_20cpp_20files_29',['mocing Qt classes in cpp files',['../index.html#autotoc_md2',1,'']]],
+  ['model_30',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html',1,'XX::TabStack::Model'],['../class_x_x_1_1_tab_stack_1_1_model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model::Model()']]],
+  ['modwheel_31',['ModWheel',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df',1,'XX::Midi']]],
+  ['msperbyte_32',['msPerByte',['../struct_x_x_1_1_midi_1_1_variables.html#a733482b404cb601f0d0ad0b9db0ef5c1',1,'XX::Midi::Variables']]]
 ];

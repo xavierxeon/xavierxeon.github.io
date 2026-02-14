@@ -73,9 +73,6 @@ var annotated_dup =
         [ "Widget", "class_x_x_1_1_tab_stack_1_1_widget.html", "class_x_x_1_1_tab_stack_1_1_widget" ]
       ] ],
       [ "RecentFiles", "class_x_x_1_1_recent_files.html", "class_x_x_1_1_recent_files" ],
-      [ "WaveHeader", "struct_x_x_1_1_wave_header.html", "struct_x_x_1_1_wave_header" ],
-      [ "WaveChunkHeader", "struct_x_x_1_1_wave_chunk_header.html", "struct_x_x_1_1_wave_chunk_header" ],
-      [ "WaveFmtHeader", "struct_x_x_1_1_wave_fmt_header.html", "struct_x_x_1_1_wave_fmt_header" ],
       [ "FastFourierTransfrom", "class_x_x_1_1_fast_fourier_transfrom.html", "class_x_x_1_1_fast_fourier_transfrom" ],
       [ "Spectrogram", "class_x_x_1_1_spectrogram.html", "class_x_x_1_1_spectrogram" ],
       [ "ByteConversion", "class_x_x_1_1_byte_conversion.html", "class_x_x_1_1_byte_conversion" ],

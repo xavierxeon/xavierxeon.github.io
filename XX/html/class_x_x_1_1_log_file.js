@@ -1,7 +1,7 @@
 var class_x_x_1_1_log_file =
 [
-    [ "LogFile", "class_x_x_1_1_log_file.html#aa82f51955f5a9dab0fefd5bcc9b8b879", null ],
-    [ "~LogFile", "class_x_x_1_1_log_file.html#a440a7de2dcbb9facb68e56dc47cb9dea", null ],
-    [ "changeFileName", "class_x_x_1_1_log_file.html#a3b40237fe8fba8c791ad80de2d12af81", null ],
-    [ "stream", "class_x_x_1_1_log_file.html#a27d35dafa653199dfe767a57007e27a0", null ]
+    [ "LogFile", "class_x_x_1_1_log_file.html#abe7b88f51d91758945fa97fa67fd8e52", null ],
+    [ "~LogFile", "class_x_x_1_1_log_file.html#a5eecc6533d8a7fdb4ad434a9ae99f080", null ],
+    [ "changeFileName", "class_x_x_1_1_log_file.html#abf157e26a7028f886c7f07ffe97c7af7", null ],
+    [ "stream", "class_x_x_1_1_log_file.html#af77b9c1c09819c1887a60e3e968277d1", null ]
 ];

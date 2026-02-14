@@ -58,9 +58,6 @@ var hierarchy =
     [ "QGraphicsView", null, [
       [ "XX::Managed::GraphicsView", "class_x_x_1_1_managed_1_1_graphics_view.html", null ]
     ] ],
-    [ "QIODevice", null, [
-      [ "XX::Logger::Target::StreamProxy", "class_x_x_1_1_logger_1_1_target_1_1_stream_proxy.html", null ]
-    ] ],
     [ "QLabel", null, [
       [ "XX::MessageLabel", "class_x_x_1_1_message_label.html", null ]
     ] ],
@@ -162,8 +159,5 @@ var hierarchy =
     [ "XX::Math::Vector3", "class_x_x_1_1_math_1_1_vector3.html", null ],
     [ "XX::Graph::Vertex", "class_x_x_1_1_graph_1_1_vertex.html", null ],
     [ "XX::Graph::Algorithm::Tree::VertexData", "struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_1_1_vertex_data.html", null ],
-    [ "XX::WaveChunkHeader", "struct_x_x_1_1_wave_chunk_header.html", null ],
-    [ "XX::WaveFmtHeader", "struct_x_x_1_1_wave_fmt_header.html", null ],
-    [ "XX::WaveHeader", "struct_x_x_1_1_wave_header.html", null ],
     [ "XX::ColorSpace::XYB", "struct_x_x_1_1_color_space_1_1_x_y_b.html", null ]
 ];

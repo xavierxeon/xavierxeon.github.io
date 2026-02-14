@@ -110,7 +110,7 @@ var namespace_x_x_1_1_midi =
       [ "Continue", "namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe", null ],
       [ "Stop", "namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481", null ]
     ] ],
-    [ "hasFirstBit", "namespace_x_x_1_1_midi.html#a081cb6134319ccd7a26aaa523a730604", null ],
-    [ "isEvent", "namespace_x_x_1_1_midi.html#ad4b209e4c5471436061af53bb927a15c", null ],
-    [ "removeFirstBit", "namespace_x_x_1_1_midi.html#a7e955af924f02d22eb97ce77c856e519", null ]
+    [ "hasFirstBit", "namespace_x_x_1_1_midi.html#aa3d4389b11233bef2764fe37fe384073", null ],
+    [ "isEvent", "namespace_x_x_1_1_midi.html#ae934df6cfbf04ba38f643b53103a83bb", null ],
+    [ "removeFirstBit", "namespace_x_x_1_1_midi.html#abef57f1eb95bf77829e6fbcf029ead03", null ]
 ];

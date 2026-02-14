@@ -1,12 +1,10 @@
 var dir_cbfba9eaaca8f54ca13e34323d9b1f70 =
 [
-    [ "src", "dir_21948eb481225ac7e92006afb9020862.html", "dir_21948eb481225ac7e92006afb9020862" ],
     [ "XXMidiCommon.h", "_x_x_midi_common_8h.html", "_x_x_midi_common_8h" ],
     [ "XXMidiFile.h", "_x_x_midi_file_8h.html", "_x_x_midi_file_8h" ],
     [ "XXMidiInterfaceInput.h", "_x_x_midi_interface_input_8h.html", "_x_x_midi_interface_input_8h" ],
     [ "XXMidiInterfaceOutput.h", "_x_x_midi_interface_output_8h.html", "_x_x_midi_interface_output_8h" ],
     [ "XXMidiParser.h", "_x_x_midi_parser_8h.html", "_x_x_midi_parser_8h" ],
-    [ "XXMidiParser.hpp", "_x_x_midi_parser_8hpp.html", null ],
     [ "XXMusicExportDef.h", "_x_x_music_export_def_8h.html", "_x_x_music_export_def_8h" ],
     [ "XXNote.h", "_x_x_note_8h.html", "_x_x_note_8h" ],
     [ "XXScale.h", "_x_x_scale_8h.html", "_x_x_scale_8h" ],

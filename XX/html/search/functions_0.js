@@ -3,10 +3,10 @@ var searchData=
   ['abstract_0',['Abstract',['../class_x_x_1_1_populated_1_1_abstract.html#a18d76ff649d8789c99761bdfe3ea205c',1,'XX::Populated::Abstract::Abstract()'],['../class_x_x_1_1_sample_1_1_abstract.html#a5b1798b22f3bd3e07dd66156da385e7d',1,'XX::Sample::Abstract::Abstract()']]],
   ['abstractcaller_1',['AbstractCaller',['../class_x_x_1_1_function_1_1_abstract_caller.html#ad52e4b874912e1cb2165c9bef89b652d',1,'XX::Function::AbstractCaller']]],
   ['add_2',['add',['../class_x_x_1_1_recent_files.html#a43e8edaf1577816987292a719faf5ed7',1,'XX::RecentFiles']]],
-  ['addaction_3',['addAction',['../class_x_x_1_1_populated_1_1_abstract.html#a32b9fafed8b5ffbcb76e18d987617486',1,'XX::Populated::Abstract']]],
+  ['addaction_3',['addAction',['../class_x_x_1_1_populated_1_1_abstract.html#a5b1d195191c42164688867c84685b94a',1,'XX::Populated::Abstract']]],
   ['adddockwidget_4',['addDockWidget',['../class_x_x_1_1_populated_1_1_main_window.html#a3711dea0df7ff290856d1cab9cda6ec5',1,'XX::Populated::MainWindow']]],
   ['addedge_5',['addEdge',['../class_x_x_1_1_graph.html#ac3f11be098f34637088ef95e3dfc01cd',1,'XX::Graph']]],
-  ['addfunctoraction_6',['addFunctorAction',['../class_x_x_1_1_populated_1_1_abstract.html#a78b3ded936bd135f1fe2812d5583c617',1,'XX::Populated::Abstract']]],
+  ['addfunctoraction_6',['addFunctorAction',['../class_x_x_1_1_populated_1_1_abstract.html#a34f35e575ba2b30b4c536ec939afa519',1,'XX::Populated::Abstract']]],
   ['addnote_7',['addNote',['../class_x_x_1_1_scale_1_1_finder.html#a436c0a181d6ce72c860a3fdddbd6a61a',1,'XX::Scale::Finder']]],
   ['addpassthroughinterface_8',['addPassThroughInterface',['../class_x_x_1_1_midi_1_1_interface_1_1_input.html#acc7e6acab2bb2666c59045aa3db545e8',1,'XX::Midi::Interface::Input']]],
   ['addtab_9',['addTab',['../class_x_x_1_1_tab_stack_1_1_widget.html#ab51eac06ced248d69a4649d84b4a61d0',1,'XX::TabStack::Widget']]],
@@ -17,11 +17,11 @@ var searchData=
   ['algorithm_14',['Algorithm',['../class_x_x_1_1_graph_1_1_algorithm.html#a044c7d20748fb2fade6c59f41588900d',1,'XX::Graph::Algorithm']]],
   ['append_15',['append',['../class_x_x_1_1_sample_1_1_writer.html#ad4e9b1ebbc338cfb3feefacc4e863a42',1,'XX::Sample::Writer']]],
   ['appendrow_16',['appendRow',['../class_x_x_1_1_matrix.html#a48721dfb127120a640601168bac7a35f',1,'XX::Matrix']]],
-  ['appendtimestamptofilename_17',['appendTimeStampToFileName',['../struct_x_x_1_1_log_file_base.html#aa00627e0815c9b810c2f734580e56d6f',1,'XX::LogFileBase']]],
+  ['appendtimestamptofilename_17',['appendTimeStampToFileName',['../struct_x_x_1_1_log_file_base.html#acc70b7b6a3a34ac5d2facf0f076b7d96',1,'XX::LogFileBase']]],
   ['apply_18',['apply',['../class_x_x_1_1_tab_stack_1_1_model.html#a374aa7a50efc0b664c410899942c2412',1,'XX::TabStack::Model']]],
-  ['applystlyesheet_19',['applyStlyeSheet',['../struct_x_x_1_1_look.html#a83a96afcc3f75eb8e96e22ee73215d31',1,'XX::Look']]],
-  ['appname_20',['appName',['../struct_x_x_1_1_shared.html#af0d85c969e089a97132a45b9bac46281',1,'XX::Shared']]],
+  ['applystlyesheet_19',['applyStlyeSheet',['../struct_x_x_1_1_look.html#a78904bc6bd709a85fcd652c60d77e4ee',1,'XX::Look']]],
+  ['appname_20',['appName',['../struct_x_x_1_1_shared.html#a6a244cb2863dfac84057a355a5e53b03',1,'XX::Shared']]],
   ['async_21',['Async',['../class_x_x_1_1_rest_api_1_1_async.html#a4fa2d348e5ab17303fdf3aa31a84f24d',1,'XX::RestApi::Async']]],
   ['atend_22',['atEnd',['../class_x_x_1_1_sample_1_1_reader.html#a547bd08b3c319c2005e1f32dda748a78',1,'XX::Sample::Reader']]],
-  ['authorizeuser_23',['authorizeUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#ad70b41f402b7e969a6840eeea979ff9f',1,'XX::AuthProvider::OAuth']]]
+  ['authorizeuser_23',['authorizeUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a6bb4d060ec3204697b086f6df0dee7f3',1,'XX::AuthProvider::OAuth']]]
 ];

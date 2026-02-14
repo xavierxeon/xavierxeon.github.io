@@ -2,7 +2,7 @@ var class_x_x_1_1_secure_network_1_1_socket =
 [
     [ "Pointer", "class_x_x_1_1_secure_network_1_1_socket.html#a0a1177231b8ef7b8fb2369c7f585422f", null ],
     [ "Socket", "class_x_x_1_1_secure_network_1_1_socket.html#afa7e4ba7183411dd4eef9e29c63493c5", null ],
-    [ "~Socket", "class_x_x_1_1_secure_network_1_1_socket.html#a5506cecc81cac226812103af3cd7a1eb", null ],
+    [ "~Socket", "class_x_x_1_1_secure_network_1_1_socket.html#a8dbe4cd1da1245bbed19353e4c4f88cd", null ],
     [ "getPeerCertificate", "class_x_x_1_1_secure_network_1_1_socket.html#a36f5eb58afd414c9a03ecb0f04633fe1", null ],
     [ "operator QSslSocket *", "class_x_x_1_1_secure_network_1_1_socket.html#a7385d8ab8ec443c67b2a8d6390df6658", null ],
     [ "sendData", "class_x_x_1_1_secure_network_1_1_socket.html#aae44d6bb36e22c9ab8c6d7a9903813e1", null ],

@@ -1,5 +1,5 @@
 var class_x_x_1_1_shell_client =
 [
-    [ "executeLocal", "class_x_x_1_1_shell_client.html#a082af2b13e2791eb764091e3654423f2", null ],
-    [ "executeRemote", "class_x_x_1_1_shell_client.html#a5d5c6a7496e5c9f502f6e7cdad405585", null ]
+    [ "executeLocal", "class_x_x_1_1_shell_client.html#a067bd9b39f2463a7b5aec46a144e069b", null ],
+    [ "executeRemote", "class_x_x_1_1_shell_client.html#af58bb22c7bb263cbbfbf20e4a5825b82", null ]
 ];

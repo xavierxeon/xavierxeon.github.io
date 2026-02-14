@@ -1,16 +1,16 @@
 var searchData=
 [
-  ['rad2deg_0',['rad2Deg',['../namespace_x_x_1_1_math.html#a0d9b169120ccbb564e199d099c31a64f',1,'XX::Math']]],
+  ['rad2deg_0',['rad2Deg',['../namespace_x_x_1_1_math.html#a230d2ccfb68226f9d6a04101920c3738',1,'XX::Math']]],
   ['radius_1',['radius',['../class_x_x_1_1_math_1_1_spherical.html#a2c5a0276dcc6df787817c41c4e5298aa',1,'XX::Math::Spherical']]],
   ['rainbow_2',['Rainbow',['../class_x_x_1_1_rainbow.html',1,'XX::Rainbow'],['../class_x_x_1_1_rainbow.html#a1cbb715331527932dceaf530d4b9d66e',1,'XX::Rainbow::Rainbow()']]],
   ['range_3',['Range',['../struct_x_x_1_1_range.html',1,'XX']]],
   ['raw_4',['raw',['../struct_x_x_1_1_rest_api_1_1_result_raw.html#adf636fcb1dd3e0939eae3ffec5a333b8',1,'XX::RestApi::ResultRaw']]],
-  ['readapikeys_5',['readApiKeys',['../class_x_x_1_1_file_tools.html#a37c59a3142b81c6bc92d783a4236252e',1,'XX::FileTools']]],
+  ['readapikeys_5',['readApiKeys',['../class_x_x_1_1_file_tools.html#aa2b0ea912685a48ef7471a9c33e53a1b',1,'XX::FileTools']]],
   ['reader_6',['Reader',['../class_x_x_1_1_midi_1_1_file_1_1_reader.html',1,'XX::Midi::File::Reader'],['../class_x_x_1_1_sample_1_1_reader.html',1,'XX::Sample::Reader'],['../class_x_x_1_1_sample_1_1_reader.html#a7c5575d60e44eb58fdb39961e0ca933b',1,'XX::Sample::Reader::Reader()'],['../class_x_x_1_1_midi_1_1_file_1_1_reader.html#a57e9ba5157b7515066a20f0ab6174d1c',1,'XX::Midi::File::Reader::Reader()']]],
-  ['readjson_7',['readJson',['../class_x_x_1_1_file_tools.html#a7437837755c50137dbbcc92d847a5620',1,'XX::FileTools']]],
+  ['readjson_7',['readJson',['../class_x_x_1_1_file_tools.html#aa7afad71f14c155781d6404adee2d911',1,'XX::FileTools']]],
   ['readme_2emd_8',['README.md',['../_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_application_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_audio_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_cpp_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_graph_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_gui_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_log_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_math_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_music_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_x_x_network_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)']]],
   ['readonly_9',['readOnly',['../class_x_x_1_1_shared_data.html#ab09dac3746f59cd7c8794c5fd41627cf',1,'XX::SharedData']]],
-  ['readpassword_10',['readPassword',['../class_x_x_1_1_secure_network_1_1_client.html#a2e7c4c6cbb0da1d99a05d4e73059e524',1,'XX::SecureNetwork::Client']]],
+  ['readpassword_10',['readPassword',['../class_x_x_1_1_secure_network_1_1_client.html#a07e3d7b5de1dc15dfff22cc25a5c92c4',1,'XX::SecureNetwork::Client']]],
   ['ready_11',['Ready',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbfae7d31fc0602fb2ede144d18cdffd816b',1,'XX::AuthProvider::OAuth']]],
   ['recentfiles_12',['RecentFiles',['../class_x_x_1_1_recent_files.html',1,'XX::RecentFiles'],['../class_x_x_1_1_recent_files.html#a4c51d0f883b32c8d6ccd629410aa0347',1,'XX::RecentFiles::RecentFiles()']]],
   ['reference_13',['reference',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#af4968c72bd4e521383155e0113b1ae5e',1,'XX::Range::Spread::Iterator']]],
@@ -19,11 +19,11 @@ var searchData=
   ['rememberinit_16',['RememberInit',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a11a0bf62d0862a61305e3c13e7b41ebb',1,'XX::Midi']]],
   ['rememberrequest_17',['RememberRequest',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a5c5f37e6521748230ff49355055c2cd0',1,'XX::Midi']]],
   ['removeedge_18',['removeEdge',['../class_x_x_1_1_graph.html#af39818d41a60badf2d0ac140bdadc003',1,'XX::Graph']]],
-  ['removefirstbit_19',['removeFirstBit',['../namespace_x_x_1_1_midi.html#a7e955af924f02d22eb97ce77c856e519',1,'XX::Midi']]],
+  ['removefirstbit_19',['removeFirstBit',['../namespace_x_x_1_1_midi.html#abef57f1eb95bf77829e6fbcf029ead03',1,'XX::Midi']]],
   ['removerow_20',['removeRow',['../class_x_x_1_1_matrix.html#abd38782becbd834f51b2a8881928dcd5',1,'XX::Matrix']]],
   ['removesocket_21',['removeSocket',['../class_x_x_1_1_secure_network_1_1_server.html#adcf01b5b4ccf4609da29e719ea3cec2e',1,'XX::SecureNetwork::Server']]],
   ['removevertex_22',['removeVertex',['../class_x_x_1_1_graph.html#a979f8f9848eaaf063d0248635ed19089',1,'XX::Graph']]],
-  ['reorder_23',['reOrder',['../class_x_x_1_1_tab_stack_1_1_model.html#ad970e53454f9527ed910bd11a0aa301a',1,'XX::TabStack::Model']]],
+  ['reorder_23',['reOrder',['../class_x_x_1_1_tab_stack_1_1_model.html#abbfe5c1855cfbcf19dbc6671e2b502e1',1,'XX::TabStack::Model']]],
   ['replygeneratorfunction_24',['ReplyGeneratorFunction',['../class_x_x_1_1_rest_api_1_1_blocking.html#aeb488487aff8a829a00072add42a997f',1,'XX::RestApi::Blocking']]],
   ['reset_25',['Reset',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a9c1b241e3a63257969315261f8b5de17',1,'XX::Midi']]],
   ['reset_26',['reset',['../class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81',1,'XX::Range::Finder::reset()'],['../class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81',1,'XX::Range::Finder::reset()']]],
@@ -31,6 +31,5 @@ var searchData=
   ['resetplayhead_28',['resetPlayhead',['../class_x_x_1_1_sample_1_1_reader.html#ac06f06985494e3bdb21006f367b55621',1,'XX::Sample::Reader']]],
   ['result_29',['Result',['../struct_x_x_1_1_rest_api_1_1_result.html',1,'XX::RestApi']]],
   ['resultraw_30',['ResultRaw',['../struct_x_x_1_1_rest_api_1_1_result_raw.html',1,'XX::RestApi']]],
-  ['revive_31',['revive',['../class_x_x_1_1_shallow_crypt.html#a8736f1812378ea28f1a07b5bec18da4e',1,'XX::ShallowCrypt']]],
-  ['riff_32',['RIFF',['../struct_x_x_1_1_wave_header.html#a8d5df283fd6ef39b5c18f38a8f048baa',1,'XX::WaveHeader']]]
+  ['revive_31',['revive',['../class_x_x_1_1_shallow_crypt.html#a8736f1812378ea28f1a07b5bec18da4e',1,'XX::ShallowCrypt']]]
 ];

@@ -13,6 +13,5 @@ var dir_3a9970e7e2229b2bb779a8964d067d98 =
     [ "XXSecureNetworkClient.h", "_x_x_secure_network_client_8h.html", "_x_x_secure_network_client_8h" ],
     [ "XXSecureNetworkServer.h", "_x_x_secure_network_server_8h.html", "_x_x_secure_network_server_8h" ],
     [ "XXSecureNetworkSocket.h", "_x_x_secure_network_socket_8h.html", "_x_x_secure_network_socket_8h" ],
-    [ "XXShared.h", "_x_x_shared_8h.html", "_x_x_shared_8h" ],
-    [ "XXShared.hpp", "_x_x_shared_8hpp.html", null ]
+    [ "XXShared.h", "_x_x_shared_8h.html", "_x_x_shared_8h" ]
 ];

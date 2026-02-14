@@ -1,10 +1,10 @@
 var class_x_x_1_1_graph_1_1_edge =
 [
     [ "Edge", "class_x_x_1_1_graph_1_1_edge.html#a06fd82a9ed31535ed888612fee7be3fa", null ],
-    [ "getBackwardWeight", "class_x_x_1_1_graph_1_1_edge.html#aef967ff0446288a1f601d73e4ca404cd", null ],
-    [ "getForwardWeight", "class_x_x_1_1_graph_1_1_edge.html#a5b0fbe19a8a490ac31fc54a65fd7e86b", null ],
-    [ "getVertexA", "class_x_x_1_1_graph_1_1_edge.html#aec5c908ad05f579ac47a80c884ec28ac", null ],
-    [ "getVertexB", "class_x_x_1_1_graph_1_1_edge.html#a765101cff62c5ae51b5f28adc668df85", null ],
+    [ "getBackwardWeight", "class_x_x_1_1_graph_1_1_edge.html#a50b157019b29905c0f7735d60040e1f8", null ],
+    [ "getForwardWeight", "class_x_x_1_1_graph_1_1_edge.html#a0ee3f49de11261bb7391fb4c16ea6221", null ],
+    [ "getVertexA", "class_x_x_1_1_graph_1_1_edge.html#ac4601d500067a07f1d74b34e1f68962e", null ],
+    [ "getVertexB", "class_x_x_1_1_graph_1_1_edge.html#aa1c8f10a55934502eae3c7f7f5450220", null ],
     [ "hasBackwardLink", "class_x_x_1_1_graph_1_1_edge.html#adbef3051857d83e23533e296a832f403", null ],
     [ "hasForwardLink", "class_x_x_1_1_graph_1_1_edge.html#a9d257d90874b1035509d3bb219df676b", null ],
     [ "linksVertex", "class_x_x_1_1_graph_1_1_edge.html#aab7bb918c5de3a7c4944218d6ba535c7", null ],

@@ -60,7 +60,6 @@ var NAVTREE =
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -70,13 +69,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_x_x_application_export_def_8h.html",
-"_x_x_sample_writer_8h.html",
-"class_x_x_1_1_graph.html#af39818d41a60badf2d0ac140bdadc003",
-"class_x_x_1_1_midi_1_1_interface_1_1_output.html#aac2203c2a65dbcb8bd200cd310ede497",
-"class_x_x_1_1_populated_1_1_tool_bar.html#aac11ceee97642eecf2bc31d2591598c9",
-"class_x_x_1_1_scale.html#aae0aef4db4207d6c51591ad821df1c37",
-"dir_b35efdd6c168cb16de391caca3635d49.html",
-"struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#a57d5310e8af27180ea3b9ae540fa43ba"
+"class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e",
+"class_x_x_1_1_managed_1_1_tree_view.html#a44632e7c4b25741efb00b1373f0958fc",
+"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1c42aa69eb89657a04ab23ab7df2b9a9",
+"class_x_x_1_1_rest_api_1_1_async.html#a38fe59f8227b39037cda4f5b13a0d4b1",
+"class_x_x_1_1_shallow_crypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5",
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a8aae7d52bcd4805be905009c062e4d50",
+"struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#aeb8e3b78d922bf4e9b5b300516d91f14"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

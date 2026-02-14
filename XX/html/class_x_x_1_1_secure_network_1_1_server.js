@@ -3,7 +3,7 @@ var class_x_x_1_1_secure_network_1_1_server =
     [ "Server", "class_x_x_1_1_secure_network_1_1_server.html#a56a6a89eb198cd65b72ecafb8f23d3c1", null ],
     [ "~Server", "class_x_x_1_1_secure_network_1_1_server.html#af6bfbf416340f5d37d62259e999fb49f", null ],
     [ "getConfiguration", "class_x_x_1_1_secure_network_1_1_server.html#a085f3da79898192e82db095cfe3fdb32", null ],
-    [ "getSocketList", "class_x_x_1_1_secure_network_1_1_server.html#a441feeb6ca51147340367bb11eb27e93", null ],
+    [ "getSocketList", "class_x_x_1_1_secure_network_1_1_server.html#a818ce7b27c73fe1a4f7f15a58b520e3c", null ],
     [ "listen", "class_x_x_1_1_secure_network_1_1_server.html#a95d9c36e31d5ee87892b950fa2203aa2", null ],
     [ "removeSocket", "class_x_x_1_1_secure_network_1_1_server.html#adcf01b5b4ccf4609da29e719ea3cec2e", null ],
     [ "setConfiguration", "class_x_x_1_1_secure_network_1_1_server.html#a8dd61459017d9dadd5721195cf280645", null ],

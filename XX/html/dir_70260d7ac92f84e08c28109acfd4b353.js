@@ -1,6 +1,5 @@
 var dir_70260d7ac92f84e08c28109acfd4b353 =
 [
-    [ "src", "dir_3060d9ad207392f573b9d14b61fab82e.html", "dir_3060d9ad207392f573b9d14b61fab82e" ],
     [ "XXBusyCursor.h", "_x_x_busy_cursor_8h.html", "_x_x_busy_cursor_8h" ],
     [ "XXColorSpace.h", "_x_x_color_space_8h.html", "_x_x_color_space_8h" ],
     [ "XXDeviceTools.h", "_x_x_device_tools_8h.html", "_x_x_device_tools_8h" ],

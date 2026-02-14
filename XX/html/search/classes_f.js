@@ -17,6 +17,5 @@ var searchData=
   ['spectrogram_14',['Spectrogram',['../class_x_x_1_1_spectrogram.html',1,'XX']]],
   ['spherical_15',['Spherical',['../class_x_x_1_1_math_1_1_spherical.html',1,'XX::Math']]],
   ['spread_16',['Spread',['../class_x_x_1_1_range_1_1_spread.html',1,'XX::Range']]],
-  ['statusexception_17',['StatusException',['../class_x_x_1_1_rest_api_1_1_status_exception.html',1,'XX::RestApi']]],
-  ['streamproxy_18',['StreamProxy',['../class_x_x_1_1_logger_1_1_target_1_1_stream_proxy.html',1,'XX::Logger::Target']]]
+  ['statusexception_17',['StatusException',['../class_x_x_1_1_rest_api_1_1_status_exception.html',1,'XX::RestApi']]]
 ];

@@ -5,10 +5,10 @@ var searchData=
   ['list_2',['List',['../class_x_x_1_1_shared_data_1_1_list.html#a18a3d3eebf56296092a13eb613c6f410',1,'XX::SharedData::List']]],
   ['listen_3',['listen',['../class_x_x_1_1_secure_network_1_1_server.html#a95d9c36e31d5ee87892b950fa2203aa2',1,'XX::SecureNetwork::Server']]],
   ['load_4',['load',['../class_x_x_1_1_sample_1_1_abstract.html#adac48d90ed55212c51a1df864013ebc4',1,'XX::Sample::Abstract::load()'],['../class_x_x_1_1_sample_1_1_wave.html#ad3bd07c2ca314329f23e9743e38d35d4',1,'XX::Sample::Wave::load()'],['../class_x_x_1_1_spectrogram.html#a45270c48b5137969557b0c2fe89a884b',1,'XX::Spectrogram::load()']]],
-  ['loadrefreshtoken_5',['loadRefreshToken',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a0a4085e524930d4842d916375c8075b9',1,'XX::AuthProvider::OAuth']]],
+  ['loadrefreshtoken_5',['loadRefreshToken',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a0b7f5626a24ac410438235887d665506',1,'XX::AuthProvider::OAuth']]],
   ['loadsettings_6',['loadSettings',['../class_x_x_1_1_populated_1_1_main_widget.html#ae688f6335e90fb8b47b6108073a61e49',1,'XX::Populated::MainWidget']]],
   ['localtextbrowser_7',['LocalTextBrowser',['../class_x_x_1_1_local_text_browser.html#aa50e9d35b29766207b95f4f195304dfa',1,'XX::LocalTextBrowser']]],
   ['locker_8',['Locker',['../class_x_x_1_1_locker.html#aae82ff508b234f72cf1c635e420570f3',1,'XX::Locker']]],
-  ['logfile_9',['LogFile',['../class_x_x_1_1_log_file.html#aa82f51955f5a9dab0fefd5bcc9b8b879',1,'XX::LogFile']]],
+  ['logfile_9',['LogFile',['../class_x_x_1_1_log_file.html#abe7b88f51d91758945fa97fa67fd8e52',1,'XX::LogFile']]],
   ['lookup_10',['lookup',['../class_x_x_1_1_rainbow.html#a564e49d5a92f13e0ff3c655915bbbe87',1,'XX::Rainbow']]]
 ];
