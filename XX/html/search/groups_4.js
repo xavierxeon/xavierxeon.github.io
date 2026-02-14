@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['log_20component_0',['Log component',['../group___x_x_log.html',1,'']]]
+  ['log_0',['Log',['../group___x_x_log.html',1,'']]]
 ];

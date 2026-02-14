@@ -56,10 +56,9 @@ var searchData=
   ['getx_53',['getX',['../class_x_x_1_1_math_1_1_vector3.html#a1a6b31a6d7ef84e7914ea2d2dbb3299d',1,'XX::Math::Vector3']]],
   ['gety_54',['getY',['../class_x_x_1_1_math_1_1_vector3.html#ad430f507b1966faf755e83ead9bd39c7',1,'XX::Math::Vector3']]],
   ['getz_55',['getZ',['../class_x_x_1_1_math_1_1_vector3.html#a0f057218eb5fdf712d661194f9d26872',1,'XX::Math::Vector3']]],
-  ['graph_56',['Graph',['../class_x_x_1_1_graph.html',1,'XX::Graph'],['../class_x_x_1_1_graph_1_1_edge.html#afab89afd724f1b07b1aaad6bdc61c47a',1,'XX::Graph::Edge::Graph()'],['../class_x_x_1_1_graph.html#a0cb6ffca870faa33ab21ac8592f8c895',1,'XX::Graph::Graph()']]],
-  ['graph_20component_57',['Graph component',['../group___x_x_graph.html',1,'']]],
-  ['graphicsview_58',['GraphicsView',['../class_x_x_1_1_managed_1_1_graphics_view.html',1,'XX::Managed::GraphicsView'],['../class_x_x_1_1_managed_1_1_graphics_view.html#a1d3511d5e968e8dc9caaab7365f2eccb',1,'XX::Managed::GraphicsView::GraphicsView()']]],
-  ['gs_59',['Gs',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86',1,'XX::Note']]],
-  ['guard_60',['Guard',['../class_x_x_1_1_shared_data_1_1_guard.html',1,'XX::SharedData&lt; DataBlock &gt;::Guard'],['../class_x_x_1_1_shared_data_1_1_guard.html#a636bf1fb3f85283cbab4a54fd29bb229',1,'XX::SharedData::Guard::Guard()']]],
-  ['gui_20component_61',['Gui component',['../group___x_x_gui.html',1,'']]]
+  ['graph_56',['Graph',['../class_x_x_1_1_graph.html',1,'XX::Graph'],['../class_x_x_1_1_graph_1_1_edge.html#afab89afd724f1b07b1aaad6bdc61c47a',1,'XX::Graph::Edge::Graph()'],['../class_x_x_1_1_graph.html#a0cb6ffca870faa33ab21ac8592f8c895',1,'XX::Graph::Graph()'],['../group___x_x_graph.html',1,'Graph']]],
+  ['graphicsview_57',['GraphicsView',['../class_x_x_1_1_managed_1_1_graphics_view.html',1,'XX::Managed::GraphicsView'],['../class_x_x_1_1_managed_1_1_graphics_view.html#a1d3511d5e968e8dc9caaab7365f2eccb',1,'XX::Managed::GraphicsView::GraphicsView()']]],
+  ['gs_58',['Gs',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86',1,'XX::Note']]],
+  ['guard_59',['Guard',['../class_x_x_1_1_shared_data_1_1_guard.html',1,'XX::SharedData&lt; DataBlock &gt;::Guard'],['../class_x_x_1_1_shared_data_1_1_guard.html#a636bf1fb3f85283cbab4a54fd29bb229',1,'XX::SharedData::Guard::Guard()']]],
+  ['gui_60',['Gui',['../group___x_x_gui.html',1,'']]]
 ];

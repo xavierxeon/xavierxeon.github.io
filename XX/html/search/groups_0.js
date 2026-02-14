@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['application_20component_0',['Application component',['../group___x_x_application.html',1,'']]],
-  ['audio_20component_1',['Audio component',['../group___x_x_audio.html',1,'']]]
+  ['application_0',['Application',['../group___x_x_application.html',1,'']]],
+  ['audio_1',['Audio',['../group___x_x_audio.html',1,'']]]
 ];
