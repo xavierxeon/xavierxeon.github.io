@@ -2,21 +2,6 @@ var class_x_x_1_1_note =
 [
     [ "List", "class_x_x_1_1_note.html#a4eb8a0a4b161e79ea5e32d829f8b8564", null ],
     [ "Octave", "class_x_x_1_1_note.html#aae72453f9c60cdd46f33443d459cda13", null ],
-    [ "Value", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4ee", [
-      [ "C", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea247ceb4293528368b66d09180cadfb06", null ],
-      [ "Cs", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeae60db3b8007852171370378816a1b73b", null ],
-      [ "D", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea94623b1ed39457c4adf3fcae1dceff5b", null ],
-      [ "Ds", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1c42aa69eb89657a04ab23ab7df2b9a9", null ],
-      [ "E", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea57654b8810cbc873b13faf22b72c90b8", null ],
-      [ "F", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea6a273166dae248b378c9d75e759cfeb3", null ],
-      [ "Fs", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeaf54ee5a4c24acfba8421953ff09322ac", null ],
-      [ "G", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea758563ce12c263185522d6ea8f10fd8c", null ],
-      [ "Gs", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86", null ],
-      [ "A", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeac8d1ce60f2cbfea9c90fc98ddb3616b8", null ],
-      [ "As", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea57e7cd511897c48f4645a0e0d9149e45", null ],
-      [ "B", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1d89ed6d84f55ad2dc610e448d4412f7", null ],
-      [ "Invalid", "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea48c9b8fc52442d15c1066c988c6e1727", null ]
-    ] ],
     [ "Note", "class_x_x_1_1_note.html#a0c1a4b48710408a145d9f1dc9d52d84e", null ],
     [ "down", "class_x_x_1_1_note.html#a27a19a242f94b07407b1ea9988c984a6", null ],
     [ "fromFrequency", "class_x_x_1_1_note.html#a2d9d4d980521b207d7324429bc396ae1", null ],

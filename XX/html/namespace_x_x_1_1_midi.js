@@ -3,7 +3,7 @@ var namespace_x_x_1_1_midi =
     [ "File", "namespace_x_x_1_1_midi_1_1_file.html", "namespace_x_x_1_1_midi_1_1_file" ],
     [ "Interface", "namespace_x_x_1_1_midi_1_1_interface.html", "namespace_x_x_1_1_midi_1_1_interface" ],
     [ "Manufacturer", "struct_x_x_1_1_midi_1_1_manufacturer.html", "struct_x_x_1_1_midi_1_1_manufacturer" ],
-    [ "Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
+    [ "Device", "struct_x_x_1_1_midi_1_1_device.html", null ],
     [ "Variables", "struct_x_x_1_1_midi_1_1_variables.html", "struct_x_x_1_1_midi_1_1_variables" ],
     [ "Sequence", "class_x_x_1_1_midi_1_1_sequence.html", "class_x_x_1_1_midi_1_1_sequence" ],
     [ "Parser", "class_x_x_1_1_midi_1_1_parser.html", "class_x_x_1_1_midi_1_1_parser" ],
