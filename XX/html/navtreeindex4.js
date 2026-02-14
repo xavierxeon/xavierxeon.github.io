@@ -1,10 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"class_x_x_1_1_secure_network_1_1_socket.html#ac2055578ac48afabe5af487878450f68":[2,0,0,6,3,10],
-"class_x_x_1_1_secure_network_1_1_socket.html#ac2055578ac48afabe5af487878450f68":[4,0,0,6,3,10],
-"class_x_x_1_1_secure_network_1_1_socket.html#aee7873f3744b3a2b857a4f8fe7da2fa9":[2,0,0,6,3,11],
-"class_x_x_1_1_secure_network_1_1_socket.html#aee7873f3744b3a2b857a4f8fe7da2fa9":[4,0,0,6,3,11],
-"class_x_x_1_1_secure_network_1_1_socket.html#afa7e4ba7183411dd4eef9e29c63493c5":[2,0,0,6,3,1],
 "class_x_x_1_1_secure_network_1_1_socket.html#afa7e4ba7183411dd4eef9e29c63493c5":[4,0,0,6,3,1],
 "class_x_x_1_1_settings.html":[1,2,4],
 "class_x_x_1_1_settings.html#a024ac724f13224dc5bd6ba8014a89269":[1,2,4,2],
@@ -205,7 +200,7 @@ var NAVTREEINDEX4 =
 "namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b":[2,0,0,50],
 "namespace_x_x_1_1_auth_provider.html":[2,0,0,7],
 "namespace_x_x_1_1_function.html":[2,0,0,2],
-"namespace_x_x_1_1_logger.html":[2,0,0,3],
+"namespace_x_x_1_1_logger.html":[1,6,0],
 "namespace_x_x_1_1_logger.html#a665e623f4c00f1f3feb21a5ed2152c00":[2,0,0,3,1],
 "namespace_x_x_1_1_managed.html":[2,0,0,10],
 "namespace_x_x_1_1_math.html":[2,0,0,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX4 =
 "namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a91a54632b390f243ea687d523244391c":[2,0,0,5,11,19],
 "namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a92bf89f1ab6b5eb4ddd181b07a124014":[2,0,0,5,11,42],
 "namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a92dfd43f0a49c6f04b1043adc14524e3":[2,0,0,5,11,21],
-"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480":[2,0,0,5,11,16]
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480":[2,0,0,5,11,16],
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a96da283a0f283371910cdef1a27b0e0c":[2,0,0,5,11,9],
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a9823fa1c791c956bce93506e7e52570c":[2,0,0,5,11,30],
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a9c1cf13bcfa9cbb2f142775ab86c3864":[2,0,0,5,11,15],
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a9ddd78f0dc8fd1bbf6611019e32d73bc":[2,0,0,5,11,34],
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a9fb53b51bc4cc1db571bc54fac1c5cf3":[2,0,0,5,11,3]
 };

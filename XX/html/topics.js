@@ -6,7 +6,7 @@ var topics =
     [ "Cpp component", "group___x_x_cpp.html", "group___x_x_cpp" ],
     [ "Graph component", "group___x_x_graph.html", "group___x_x_graph" ],
     [ "XXGui component", "group___x_x_gui.html", "group___x_x_gui" ],
-    [ "XXLog component", "group___x_x_log.html", null ],
+    [ "XXLog component", "group___x_x_log.html", "group___x_x_log" ],
     [ "XXMath component", "group___x_x_math.html", null ],
     [ "XXMusic component", "group___x_x_music.html", null ],
     [ "XXNetwork component", "group___x_x_network.html", null ],
