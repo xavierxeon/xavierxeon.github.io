@@ -8,5 +8,5 @@ var topics =
     [ "XXLog", "group___x_x_log.html", null ],
     [ "XXMath", "group___x_x_math.html", null ],
     [ "XXNetwork", "group___x_x_network.html", null ],
-    [ "XXWidgets", "group___x_x_widgets.html", null ]
+    [ "XXWidgets", "group___x_x_widgets.html", "group___x_x_widgets" ]
 ];
