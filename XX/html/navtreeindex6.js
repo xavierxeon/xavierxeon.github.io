@@ -1,6 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5aba28393252ea67bd58d65f364049b690":[3,0,0,5,11,29],
 "namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d":[3,0,0,5,11,48],
 "namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5acef603109298b99d3702d2632c873bfa":[3,0,0,5,11,20],
 "namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5ad3c14cf17547a947a6dd9b4c1a3fb1d2":[3,0,0,5,11,24],
@@ -89,10 +88,10 @@ var NAVTREEINDEX6 =
 "struct_x_x_1_1_color_space_1_1_x_y_b.html#a3d35ab1ea2f28bef4339e476a04f4dec":[5,0,0,32,0,2],
 "struct_x_x_1_1_color_space_1_1_x_y_b.html#a430e7c3600c61c2d40be6ce6a6facfcf":[3,0,0,32,0,1],
 "struct_x_x_1_1_color_space_1_1_x_y_b.html#a430e7c3600c61c2d40be6ce6a6facfcf":[5,0,0,32,0,1],
-"struct_x_x_1_1_compile_time_string.html":[2,0,0],
-"struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210":[2,0,0,0],
-"struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77":[2,0,0,2],
-"struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b":[2,0,0,1],
+"struct_x_x_1_1_compile_time_string.html":[2,0,1],
+"struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210":[2,0,1,0],
+"struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77":[2,0,1,2],
+"struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b":[2,0,1,1],
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html":[3,0,0,30,0,0],
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html":[5,0,0,30,0,0],
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#a19d50434c86c8c1556099e18e285bc9d":[3,0,0,30,0,0,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX6 =
 "struct_x_x_1_1_midi_1_1_variables.html":[5,0,0,5,4],
 "struct_x_x_1_1_midi_1_1_variables.html#a733482b404cb601f0d0ad0b9db0ef5c1":[3,0,0,5,4,0],
 "struct_x_x_1_1_midi_1_1_variables.html#a733482b404cb601f0d0ad0b9db0ef5c1":[5,0,0,5,4,0],
-"struct_x_x_1_1_network_1_1_tools.html":[3,0,0,8,1]
+"struct_x_x_1_1_network_1_1_tools.html":[3,0,0,8,1],
+"struct_x_x_1_1_network_1_1_tools.html":[5,0,0,8,1]
 };

@@ -1,5 +1,6 @@
 var group___x_x_cpp =
 [
+    [ "XX::Function::CallerClass", "concept_x_x_1_1_function_1_1_caller_class.html", null ],
     [ "XX::CompileTimeString&lt; N &gt;", "struct_x_x_1_1_compile_time_string.html", [
       [ "CompileTimeString", "struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210", null ],
       [ "text", "struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b", null ],
