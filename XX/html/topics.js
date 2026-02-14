@@ -4,7 +4,7 @@ var topics =
     [ "Audio component", "group___x_x_audio.html", "group___x_x_audio" ],
     [ "Core component", "group___x_x_core.html", "group___x_x_core" ],
     [ "Cpp component", "group___x_x_cpp.html", "group___x_x_cpp" ],
-    [ "XXGraph component", "group___x_x_graph.html", "group___x_x_graph" ],
+    [ "Graph component", "group___x_x_graph.html", "group___x_x_graph" ],
     [ "XXGui component", "group___x_x_gui.html", null ],
     [ "XXLog component", "group___x_x_log.html", null ],
     [ "XXMath component", "group___x_x_math.html", null ],
