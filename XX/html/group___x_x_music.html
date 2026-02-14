@@ -104,7 +104,6 @@ Topics</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 id="header-nested-classes" class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:XX_3A_3AMidi_3A_3AManufacturer" id="r_XX_3A_3AMidi_3A_3AManufacturer"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_manufacturer.html">XX::Midi::Manufacturer</a></td></tr>
-<tr class="memitem:XX_3A_3AMidi_3A_3ADevice" id="r_XX_3A_3AMidi_3A_3ADevice"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_device.html">XX::Midi::Device</a></td></tr>
 <tr class="memitem:XX_3A_3AMidi_3A_3AVariables" id="r_XX_3A_3AMidi_3A_3AVariables"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_variables.html">XX::Midi::Variables</a></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-enum-members" class="groupheader"><a id="enum-members" name="enum-members"></a>
@@ -230,8 +229,71 @@ Enumerations</h2></td></tr>
 , <a class="el" href="#gga4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe">XX::Midi::Playback::Continue</a>
 , <a class="el" href="#gga4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481">XX::Midi::Playback::Stop</a>
  }</td></tr>
+<tr class="memitem:ga1454ec0dcef8edb9c9128cd9d7ed2e0e" id="r_ga1454ec0dcef8edb9c9128cd9d7ed2e0e"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#ga1454ec0dcef8edb9c9128cd9d7ed2e0e">XX::Midi::Device::Channel</a> : uchar { <br />
+&#160;&#160;<a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0eaf89994c3052c554778730d92f6f91341">XX::Midi::Device::DopeferQuad1</a> = 1
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ead1dd4c524957554a1fac925f5ad1b25a">XX::Midi::Device::DopeferQuad2</a> = 2
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea99bcd921512a461ff2564cbad3b902f7">XX::Midi::Device::DopeferQuad3</a> = 3
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea71bfe97e342630dca564932ce2213e24">XX::Midi::Device::DopeferQuad4</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0eae90c418d9c4386d7152a02f6903c30e1">XX::Midi::Device::KeyStep1</a> = 5
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1dbb06741fc2ba76deadb51385269cf3">XX::Midi::Device::KeyStep2</a> = 6
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea26573f0b937550b4a490e5f192fea635">XX::Midi::Device::KeyStep3</a> = 7
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea2a4a792bbd2e2250fcaf1f5bb097f942">XX::Midi::Device::KeyStep4</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea40717794c1cf8e9e0ef62c16c7fdcee3">XX::Midi::Device::Daisy</a> = 9
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1a9f3bb67774621657f993960431e348">XX::Midi::Device::DrumTrigger</a> = 10
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea9de611615e851bafe1c9663611fab16a">XX::Midi::Device::VCVRack</a> = 11
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea64d67dfb8757445832873ef303f04358">XX::Midi::Device::FlameCC</a> = 12
+, <br />
+&#160;&#160;<a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0eacbb651d1db75162eed4e9de8faad29cc">XX::Midi::Device::BitBox</a> = 13
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0eaff47c2f27c6014a0974f466b8db1ca8d">XX::Midi::Device::BitBoxMicro</a> = 14
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1ff1a61c17b20140f0aea4baf214ef60">XX::Midi::Device::Metropolix</a> = 15
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea2ac00c83e5195ece2e14716452283565">XX::Midi::Device::ToNerdSEQ</a> = 16
+, <br />
+&#160;&#160;<a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea94a46d3104d5a1cac738e4c1da3cca0d">XX::Midi::Device::Splitter</a> = 99
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea91c04e98cfd003bdfa5993630a7a8af5">XX::Midi::Device::VCMC</a> = 100
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea317b1e242559c62dd014257dce6ca817">XX::Midi::Device::ACDC</a> = 101
+, <a class="el" href="#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea85b499534da320980fa7d44a50b15eb1">XX::Midi::Device::FromNerdSEQ</a> = 102
+<br />
+ }</td></tr>
 </table>
 <a name="doc-enum-members" id="doc-enum-members"></a><h2 id="header-doc-enum-members" class="groupheader">Enumeration Type Documentation</h2>
+<a id="ga1454ec0dcef8edb9c9128cd9d7ed2e0e" name="ga1454ec0dcef8edb9c9128cd9d7ed2e0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga1454ec0dcef8edb9c9128cd9d7ed2e0e">&#9670;&#160;</a></span>Channel</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="#ga1454ec0dcef8edb9c9128cd9d7ed2e0e">XX::Midi::Device::Channel</a> : uchar</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0eaf89994c3052c554778730d92f6f91341" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0eaf89994c3052c554778730d92f6f91341"></a>DopeferQuad1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ead1dd4c524957554a1fac925f5ad1b25a" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ead1dd4c524957554a1fac925f5ad1b25a"></a>DopeferQuad2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea99bcd921512a461ff2564cbad3b902f7" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea99bcd921512a461ff2564cbad3b902f7"></a>DopeferQuad3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea71bfe97e342630dca564932ce2213e24" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea71bfe97e342630dca564932ce2213e24"></a>DopeferQuad4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0eae90c418d9c4386d7152a02f6903c30e1" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0eae90c418d9c4386d7152a02f6903c30e1"></a>KeyStep1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1dbb06741fc2ba76deadb51385269cf3" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1dbb06741fc2ba76deadb51385269cf3"></a>KeyStep2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea26573f0b937550b4a490e5f192fea635" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea26573f0b937550b4a490e5f192fea635"></a>KeyStep3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea2a4a792bbd2e2250fcaf1f5bb097f942" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea2a4a792bbd2e2250fcaf1f5bb097f942"></a>KeyStep4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea40717794c1cf8e9e0ef62c16c7fdcee3" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea40717794c1cf8e9e0ef62c16c7fdcee3"></a>Daisy&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1a9f3bb67774621657f993960431e348" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1a9f3bb67774621657f993960431e348"></a>DrumTrigger&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea9de611615e851bafe1c9663611fab16a" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea9de611615e851bafe1c9663611fab16a"></a>VCVRack&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea64d67dfb8757445832873ef303f04358" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea64d67dfb8757445832873ef303f04358"></a>FlameCC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0eacbb651d1db75162eed4e9de8faad29cc" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0eacbb651d1db75162eed4e9de8faad29cc"></a>BitBox&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0eaff47c2f27c6014a0974f466b8db1ca8d" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0eaff47c2f27c6014a0974f466b8db1ca8d"></a>BitBoxMicro&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1ff1a61c17b20140f0aea4baf214ef60" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1ff1a61c17b20140f0aea4baf214ef60"></a>Metropolix&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea2ac00c83e5195ece2e14716452283565" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea2ac00c83e5195ece2e14716452283565"></a>ToNerdSEQ&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea94a46d3104d5a1cac738e4c1da3cca0d" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea94a46d3104d5a1cac738e4c1da3cca0d"></a>Splitter&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea91c04e98cfd003bdfa5993630a7a8af5" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea91c04e98cfd003bdfa5993630a7a8af5"></a>VCMC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea317b1e242559c62dd014257dce6ca817" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea317b1e242559c62dd014257dce6ca817"></a>ACDC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea85b499534da320980fa7d44a50b15eb1" name="gga1454ec0dcef8edb9c9128cd9d7ed2e0ea85b499534da320980fa7d44a50b15eb1"></a>FromNerdSEQ&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
 <a id="ga0bdc0a7397c27b212f13e10448181cf5" name="ga0bdc0a7397c27b212f13e10448181cf5"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ga0bdc0a7397c27b212f13e10448181cf5">&#9670;&#160;</a></span>ControllerMessage</h2>
 

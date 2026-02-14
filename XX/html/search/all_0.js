@@ -3,7 +3,7 @@ var searchData=
   ['a_0',['A',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeac8d1ce60f2cbfea9c90fc98ddb3616b8',1,'XX::Note']]],
   ['abstract_1',['Abstract',['../class_x_x_1_1_populated_1_1_abstract.html',1,'XX::Populated::Abstract'],['../class_x_x_1_1_sample_1_1_abstract.html',1,'XX::Sample::Abstract'],['../class_x_x_1_1_populated_1_1_abstract.html#a18d76ff649d8789c99761bdfe3ea205c',1,'XX::Populated::Abstract::Abstract()'],['../class_x_x_1_1_sample_1_1_abstract.html#a5b1798b22f3bd3e07dd66156da385e7d',1,'XX::Sample::Abstract::Abstract()']]],
   ['abstractcaller_2',['AbstractCaller',['../class_x_x_1_1_function_1_1_abstract_caller.html',1,'XX::Function::AbstractCaller'],['../class_x_x_1_1_function_1_1_abstract_caller.html#ad52e4b874912e1cb2165c9bef89b652d',1,'XX::Function::AbstractCaller::AbstractCaller()']]],
-  ['acdc_3',['ACDC',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea317b1e242559c62dd014257dce6ca817',1,'XX::Midi::Device']]],
+  ['acdc_3',['ACDC',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea317b1e242559c62dd014257dce6ca817',1,'XX::Midi::Device']]],
   ['activesensinig_4',['ActiveSensinig',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5',1,'XX::Midi']]],
   ['add_5',['add',['../class_x_x_1_1_recent_files.html#a43e8edaf1577816987292a719faf5ed7',1,'XX::RecentFiles']]],
   ['addaction_6',['addAction',['../class_x_x_1_1_populated_1_1_abstract.html#a5b1d195191c42164688867c84685b94a',1,'XX::Populated::Abstract']]],

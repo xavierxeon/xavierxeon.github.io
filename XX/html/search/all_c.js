@@ -26,7 +26,7 @@ var searchData=
   ['meta_23',['meta',['../class_x_x_1_1_sample_1_1_abstract.html#ae1fb7da1d12360848e061857d791b29f',1,'XX::Sample::Abstract']]],
   ['metaevent_24',['MetaEvent',['../group___x_x_music.html#ga18cd02eb3b8339a104b37ec426b22c1b',1,'XX::Midi']]],
   ['metaunkown_25',['MetaUnkown',['../group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692',1,'XX::Midi']]],
-  ['metropolix_26',['Metropolix',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1ff1a61c17b20140f0aea4baf214ef60',1,'XX::Midi::Device']]],
+  ['metropolix_26',['Metropolix',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1ff1a61c17b20140f0aea4baf214ef60',1,'XX::Midi::Device']]],
   ['midiport_27',['MidiPort',['../group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5',1,'XX::Midi']]],
   ['min_28',['min',['../class_x_x_1_1_range_1_1_finder.html#aee50dc72f9340216096ea4b4d2368078',1,'XX::Range::Finder::min()'],['../group___functions.html#ga53fbb95f81ebe05d2ca4da22e8b6db52',1,'XX::Range::min()']]],
   ['minutes_29',['minutes',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#adca51f6b6f3429b2cf258bd528418164',1,'XX::Midi::Sequence::Info']]],

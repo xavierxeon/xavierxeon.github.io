@@ -1,7 +1,7 @@
 var searchData=
 [
   ['d_0',['D',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea94623b1ed39457c4adf3fcae1dceff5b',1,'XX::Note']]],
-  ['daisy_1',['Daisy',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea40717794c1cf8e9e0ef62c16c7fdcee3',1,'XX::Midi::Device']]],
+  ['daisy_1',['Daisy',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea40717794c1cf8e9e0ef62c16c7fdcee3',1,'XX::Midi::Device']]],
   ['damperpedal_2',['DamperPedal',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a8aae7d52bcd4805be905009c062e4d50',1,'XX::Midi']]],
   ['data_3',['Data',['../group___x_x_audio.html#ga821a31c70f0ea9d54f46df4be7b7868f',1,'XX::Sample']]],
   ['data_4',['data',['../class_x_x_1_1_math_1_1_vector3.html#a49a7607a8c2440a5088a2fb616262ae0',1,'XX::Math::Vector3']]],
@@ -28,16 +28,16 @@ var searchData=
   ['distance_25',['distance',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#adc570806d59df606b29b5037a7c2b6bb',1,'XX::Graph::Algorithm::Path']]],
   ['donotshowmenuicons_26',['doNotShowMenuIcons',['../struct_x_x_1_1_look.html#a2b7fb90e0689d008e7fd55d51133e6a6',1,'XX::Look']]],
   ['doonce_27',['doOnce',['../class_x_x_1_1_locker.html#aa5f9d26833c872053c360f2f3ca4f2c4',1,'XX::Locker']]],
-  ['dopeferquad1_28',['DopeferQuad1',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eaf89994c3052c554778730d92f6f91341',1,'XX::Midi::Device']]],
-  ['dopeferquad2_29',['DopeferQuad2',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ead1dd4c524957554a1fac925f5ad1b25a',1,'XX::Midi::Device']]],
-  ['dopeferquad3_30',['DopeferQuad3',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea99bcd921512a461ff2564cbad3b902f7',1,'XX::Midi::Device']]],
-  ['dopeferquad4_31',['DopeferQuad4',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea71bfe97e342630dca564932ce2213e24',1,'XX::Midi::Device']]],
+  ['dopeferquad1_28',['DopeferQuad1',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0eaf89994c3052c554778730d92f6f91341',1,'XX::Midi::Device']]],
+  ['dopeferquad2_29',['DopeferQuad2',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ead1dd4c524957554a1fac925f5ad1b25a',1,'XX::Midi::Device']]],
+  ['dopeferquad3_30',['DopeferQuad3',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea99bcd921512a461ff2564cbad3b902f7',1,'XX::Midi::Device']]],
+  ['dopeferquad4_31',['DopeferQuad4',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea71bfe97e342630dca564932ce2213e24',1,'XX::Midi::Device']]],
   ['dot_32',['dot',['../class_x_x_1_1_math_1_1_vector3.html#af799b2c24b0573c18945941eba8df93c',1,'XX::Math::Vector3']]],
   ['dotangle_33',['dotAngle',['../class_x_x_1_1_math_1_1_vector3.html#aaae8ff4ebe6f46aa1ffa519cd35b6947',1,'XX::Math::Vector3']]],
   ['doublebuffer_34',['DoubleBuffer',['../class_x_x_1_1_double_buffer.html',1,'XX::DoubleBuffer&lt; DataType &gt;'],['../class_x_x_1_1_double_buffer.html#a3d48ac66033292ab50ac55da769214ac',1,'XX::DoubleBuffer::DoubleBuffer()']]],
   ['down_35',['down',['../class_x_x_1_1_note.html#a27a19a242f94b07407b1ea9988c984a6',1,'XX::Note']]],
   ['doxygenmainpage_2edox_36',['DoxygenMainPage.dox',['../_doxygen_main_page_8dox.html',1,'']]],
-  ['drumtrigger_37',['DrumTrigger',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1a9f3bb67774621657f993960431e348',1,'XX::Midi::Device']]],
+  ['drumtrigger_37',['DrumTrigger',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea1a9f3bb67774621657f993960431e348',1,'XX::Midi::Device']]],
   ['ds_38',['Ds',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1c42aa69eb89657a04ab23ab7df2b9a9',1,'XX::Note']]],
   ['duration_39',['Duration',['../class_x_x_1_1_time_code.html#a0e70b985167a94c51ccd2f44f5441648',1,'XX::TimeCode']]]
 ];

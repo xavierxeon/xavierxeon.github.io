@@ -16,7 +16,7 @@ var searchData=
   ['tocie_13',['toCIE',['../class_x_x_1_1_color_space.html#acac3ca722e05f51820322a1ed95f7ee0',1,'XX::ColorSpace']]],
   ['toduration_14',['toDuration',['../class_x_x_1_1_time_code.html#a1f5c62d8e05f8e5e9662d6a3f83d6684',1,'XX::TimeCode']]],
   ['token_15',['Token',['../class_x_x_1_1_auth_provider_1_1_token.html',1,'XX::AuthProvider::Token'],['../class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc',1,'XX::AuthProvider::Token::Token()']]],
-  ['tonerdseq_16',['ToNerdSEQ',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea2ac00c83e5195ece2e14716452283565',1,'XX::Midi::Device']]],
+  ['tonerdseq_16',['ToNerdSEQ',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea2ac00c83e5195ece2e14716452283565',1,'XX::Midi::Device']]],
   ['toolbar_17',['ToolBar',['../class_x_x_1_1_populated_1_1_tool_bar.html',1,'XX::Populated::ToolBar'],['../class_x_x_1_1_populated_1_1_tool_bar.html#aac11ceee97642eecf2bc31d2591598c9',1,'XX::Populated::ToolBar::ToolBar()']]],
   ['toolbarcreationfunction_18',['ToolBarCreationFunction',['../class_x_x_1_1_populated_1_1_abstract.html#aaf510d032a993f30aaca3a2aacf8adda',1,'XX::Populated::Abstract']]],
   ['toolbarname_19',['toolBarName',['../class_x_x_1_1_populated_1_1_tool_bar.html#ae525201e87e86428ef1a95c7a407bcfb',1,'XX::Populated::ToolBar']]],
