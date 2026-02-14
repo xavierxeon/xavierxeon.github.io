@@ -1,13 +1,19 @@
 var searchData=
 [
-  ['serverinternal_0',['ServerInternal',['../class_x_x_1_1_secure_network_1_1_server_internal.html#aa5254bef25dc569619239ac759f2eada',1,'XX::SecureNetwork::ServerInternal']]],
-  ['shareddata_1',['SharedData',['../class_x_x_1_1_shared_data.html#a19e32a654bd69c80946e5c4eab54b59d',1,'XX::SharedData']]],
-  ['signchange_2',['signChange',['../namespace_x_x_1_1_math.html#a37ef3d041945ad70f9e9571773df0284',1,'XX::Math']]],
-  ['singleton_3',['Singleton',['../class_x_x_1_1_singleton.html#ac6c4e58772a4949f4e7f4ffc867173dd',1,'XX::Singleton']]],
-  ['socketname_4',['socketName',['../struct_x_x_1_1_shared.html#aa29de886b98aca7ef9f628ec252acb88',1,'XX::Shared']]],
-  ['spherical_5',['Spherical',['../class_x_x_1_1_math_1_1_spherical.html#ad3ec4f7124f6020e8f65c1a1d82bc1c8',1,'XX::Math::Spherical']]],
-  ['spread_6',['Spread',['../class_x_x_1_1_range_1_1_spread.html#a3a3920cd0d1872815d5439d4a8f252ad',1,'XX::Range::Spread::Spread(int max)'],['../class_x_x_1_1_range_1_1_spread.html#a884ff1dd1430a263a7336673e61efb07',1,'XX::Range::Spread::Spread(int min, int max, int step=1)']]],
-  ['startapplication_7',['startApplication',['../struct_x_x_1_1_shared.html#a70b6273f9e8aa571c37249e33aed8f3b',1,'XX::Shared']]],
-  ['stream_8',['stream',['../class_x_x_1_1_log_file.html#af77b9c1c09819c1887a60e3e968277d1',1,'XX::LogFile']]],
-  ['swap_9',['swap',['../class_x_x_1_1_double_buffer.html#a3d5b28c6e869456752a5818301097076',1,'XX::DoubleBuffer']]]
+  ['rad2deg_0',['rad2Deg',['../namespace_x_x_1_1_math.html#a0d9b169120ccbb564e199d099c31a64f',1,'XX::Math']]],
+  ['rainbow_1',['Rainbow',['../class_x_x_1_1_rainbow.html#a1cbb715331527932dceaf530d4b9d66e',1,'XX::Rainbow']]],
+  ['readapikeys_2',['readApiKeys',['../class_x_x_1_1_file_tools.html#aa2b0ea912685a48ef7471a9c33e53a1b',1,'XX::FileTools']]],
+  ['reader_3',['Reader',['../class_x_x_1_1_sample_1_1_reader.html#a7c5575d60e44eb58fdb39961e0ca933b',1,'XX::Sample::Reader::Reader()'],['../class_x_x_1_1_midi_1_1_file_1_1_reader.html#a57e9ba5157b7515066a20f0ab6174d1c',1,'XX::Midi::File::Reader::Reader()']]],
+  ['readjson_4',['readJson',['../class_x_x_1_1_file_tools.html#aa7afad71f14c155781d6404adee2d911',1,'XX::FileTools']]],
+  ['readpassword_5',['readPassword',['../class_x_x_1_1_secure_network_1_1_client.html#a07e3d7b5de1dc15dfff22cc25a5c92c4',1,'XX::SecureNetwork::Client']]],
+  ['recentfiles_6',['RecentFiles',['../class_x_x_1_1_recent_files.html#a4c51d0f883b32c8d6ccd629410aa0347',1,'XX::RecentFiles']]],
+  ['removeedge_7',['removeEdge',['../class_x_x_1_1_graph.html#af39818d41a60badf2d0ac140bdadc003',1,'XX::Graph']]],
+  ['removefirstbit_8',['removeFirstBit',['../namespace_x_x_1_1_midi.html#a7e955af924f02d22eb97ce77c856e519',1,'XX::Midi']]],
+  ['removerow_9',['removeRow',['../class_x_x_1_1_matrix.html#abd38782becbd834f51b2a8881928dcd5',1,'XX::Matrix']]],
+  ['removesocket_10',['removeSocket',['../class_x_x_1_1_secure_network_1_1_server.html#adcf01b5b4ccf4609da29e719ea3cec2e',1,'XX::SecureNetwork::Server']]],
+  ['removevertex_11',['removeVertex',['../class_x_x_1_1_graph.html#a979f8f9848eaaf063d0248635ed19089',1,'XX::Graph']]],
+  ['reorder_12',['reOrder',['../class_x_x_1_1_tab_stack_1_1_model.html#abbfe5c1855cfbcf19dbc6671e2b502e1',1,'XX::TabStack::Model']]],
+  ['reset_13',['reset',['../class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81',1,'XX::Range::Finder::reset()'],['../class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81',1,'XX::Range::Finder::reset()']]],
+  ['resetplayhead_14',['resetPlayhead',['../class_x_x_1_1_sample_1_1_reader.html#ac06f06985494e3bdb21006f367b55621',1,'XX::Sample::Reader']]],
+  ['revive_15',['revive',['../class_x_x_1_1_shallow_crypt.html#a8736f1812378ea28f1a07b5bec18da4e',1,'XX::ShallowCrypt']]]
 ];

@@ -102,18 +102,19 @@ $(function(){initNavTree('_x_x_managed_graphics_view_8h_source.html','',''); });
 <div class="foldopen" id="foldopen00009" data-start="{" data-end="}">
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="namespace_x_x_1_1_managed.html">    9</a></span>   <span class="keyword">namespace </span><a class="code hl_namespace" href="namespace_x_x_1_1_managed.html">Managed</a></div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>   {</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>      <span class="keyword">class </span><a class="code hl_define" href="_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c">XXWIDGETS_DECLSPEC</a> GraphicsView : <span class="keyword">public</span> QGraphicsView</div>
+<div class="foldopen" id="foldopen00011" data-start="{" data-end="};">
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno"><a class="line" href="class_x_x_1_1_managed_1_1_graphics_view.html">   11</a></span>      <span class="keyword">class </span><a class="code hl_define" href="_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c">XXWIDGETS_DECLSPEC</a> <a class="code hl_function" href="class_x_x_1_1_managed_1_1_graphics_view.html#a1d3511d5e968e8dc9caaab7365f2eccb">GraphicsView</a> : <span class="keyword">public</span> QGraphicsView</div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>      {</div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>         Q_OBJECT</div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>      <span class="keyword">public</span>:</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>         GraphicsView(QWidget* parent);</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno"><a class="line" href="class_x_x_1_1_managed_1_1_graphics_view.html#a1d3511d5e968e8dc9caaab7365f2eccb">   16</a></span>         <a class="code hl_function" href="class_x_x_1_1_managed_1_1_graphics_view.html#a1d3511d5e968e8dc9caaab7365f2eccb">GraphicsView</a>(QWidget* parent);</div>
 <div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span> </div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>      <span class="keyword">public</span>:</div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>         <span class="keyword">template</span> &lt;<span class="keyword">typename</span> TargetClass&gt;</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>         <span class="keywordtype">void</span> onClicked(TargetClass* instance, <span class="keywordtype">bool</span> (TargetClass::*memberFunction)(<span class="keyword">const</span> QPointF&amp;, QGraphicsItem*));</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno"><a class="line" href="class_x_x_1_1_managed_1_1_graphics_view.html#aa462ad752f093e3f10cb00d3d21dd0e9">   20</a></span>         <span class="keywordtype">void</span> <a class="code hl_function" href="class_x_x_1_1_managed_1_1_graphics_view.html#aa462ad752f093e3f10cb00d3d21dd0e9">onClicked</a>(TargetClass* instance, <span class="keywordtype">bool</span> (TargetClass::*memberFunction)(<span class="keyword">const</span> QPointF&amp;, QGraphicsItem*));</div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>         <span class="keywordtype">void</span> deactivateFrame();</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno"><a class="line" href="class_x_x_1_1_managed_1_1_graphics_view.html#a1508e6781ec442b4329e50870d2294c1">   22</a></span>         <span class="keywordtype">void</span> <a class="code hl_function" href="class_x_x_1_1_managed_1_1_graphics_view.html#a1508e6781ec442b4329e50870d2294c1">deactivateFrame</a>();</div>
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>      <span class="keyword">private</span>:</div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>         <span class="keyword">using </span>ClickFunction = std::function&lt;bool(<span class="keyword">const</span> QPointF&amp;, QGraphicsItem*)&gt;;</div>
@@ -124,6 +125,7 @@ $(function(){initNavTree('_x_x_managed_graphics_view_8h_source.html','',''); });
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>      <span class="keyword">private</span>:</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>         ClickFunction mousePressFunction;</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>      };</div>
+</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>   } <span class="comment">// namespace Managed</span></div>
 </div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>} <span class="comment">// namespace XX</span></div>
@@ -134,7 +136,10 @@ $(function(){initNavTree('_x_x_managed_graphics_view_8h_source.html','',''); });
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span><span class="preprocessor">#endif </span><span class="comment">// NOT XXManagedGraphicsViewH</span></div>
 <div class="ttc" id="a_x_x_widgets_export_def_8h_html"><div class="ttname"><a href="_x_x_widgets_export_def_8h.html">XXWidgetsExportDef.h</a></div></div>
-<div class="ttc" id="a_x_x_widgets_export_def_8h_html_a66f927ac1b17947880ca90b5626d4c2c"><div class="ttname"><a href="_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c">XXWIDGETS_DECLSPEC</a></div><div class="ttdeci">#define XXWIDGETS_DECLSPEC</div><div class="ttdef"><b>Definition</b> XXWidgetsExportDef.h:11</div></div>
+<div class="ttc" id="a_x_x_widgets_export_def_8h_html_a66f927ac1b17947880ca90b5626d4c2c"><div class="ttname"><a href="_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c">XXWIDGETS_DECLSPEC</a></div><div class="ttdeci">#define XXWIDGETS_DECLSPEC</div><div class="ttdef"><b>Definition</b> XXWidgetsExportDef.h:6</div></div>
+<div class="ttc" id="aclass_x_x_1_1_managed_1_1_graphics_view_html_a1508e6781ec442b4329e50870d2294c1"><div class="ttname"><a href="class_x_x_1_1_managed_1_1_graphics_view.html#a1508e6781ec442b4329e50870d2294c1">XX::Managed::GraphicsView::deactivateFrame</a></div><div class="ttdeci">void deactivateFrame()</div></div>
+<div class="ttc" id="aclass_x_x_1_1_managed_1_1_graphics_view_html_a1d3511d5e968e8dc9caaab7365f2eccb"><div class="ttname"><a href="class_x_x_1_1_managed_1_1_graphics_view.html#a1d3511d5e968e8dc9caaab7365f2eccb">XX::Managed::GraphicsView::GraphicsView</a></div><div class="ttdeci">GraphicsView(QWidget *parent)</div></div>
+<div class="ttc" id="aclass_x_x_1_1_managed_1_1_graphics_view_html_aa462ad752f093e3f10cb00d3d21dd0e9"><div class="ttname"><a href="class_x_x_1_1_managed_1_1_graphics_view.html#aa462ad752f093e3f10cb00d3d21dd0e9">XX::Managed::GraphicsView::onClicked</a></div><div class="ttdeci">void onClicked(TargetClass *instance, bool(TargetClass::*memberFunction)(const QPointF &amp;, QGraphicsItem *))</div></div>
 <div class="ttc" id="anamespace_x_x_1_1_managed_html"><div class="ttname"><a href="namespace_x_x_1_1_managed.html">XX::Managed</a></div><div class="ttdef"><b>Definition</b> XXManagedGraphicsView.h:10</div></div>
 <div class="ttc" id="anamespace_x_x_html"><div class="ttname"><a href="namespace_x_x.html">XX</a></div><div class="ttdef"><b>Definition</b> XXPopulatedAbstract.h:11</div></div>
 </div><!-- fragment --></div><!-- contents -->

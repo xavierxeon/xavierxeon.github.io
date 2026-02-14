@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['rad2deg_0',['rad2Deg',['../namespace_x_x_1_1_math.html#a0d9b169120ccbb564e199d099c31a64f',1,'XX::Math']]],
-  ['removerow_1',['removeRow',['../class_x_x_1_1_matrix.html#abd38782becbd834f51b2a8881928dcd5',1,'XX::Matrix']]],
-  ['reset_2',['reset',['../class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81',1,'XX::Range::Finder::reset()'],['../class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81',1,'XX::Range::Finder::reset()']]]
+  ['qmlview_0',['QmlView',['../class_x_x_1_1_qml_view.html#a97faf27850c493f62c2d0f504e53fa63',1,'XX::QmlView']]],
+  ['qmlwidget_1',['QmlWidget',['../class_x_x_1_1_qml_widget.html#af5fc7fdfbcc2c8f527ef87b8224c924c',1,'XX::QmlWidget']]],
+  ['quantize_2',['quantize',['../class_x_x_1_1_scale.html#a785b477e295235dee6eb85b7cec457b4',1,'XX::Scale']]],
+  ['quaternion_3',['Quaternion',['../class_x_x_1_1_math_1_1_quaternion.html#a33ba3b74bf4edfd517ec09fc6a644f45',1,'XX::Math::Quaternion']]]
 ];

@@ -1,6 +1,8 @@
 var _x_x_midi_common_8h =
 [
+    [ "XX::Midi::Manufacturer", "struct_x_x_1_1_midi_1_1_manufacturer.html", "struct_x_x_1_1_midi_1_1_manufacturer" ],
     [ "XX::Midi::Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
+    [ "XX::Midi::Variables", "struct_x_x_1_1_midi_1_1_variables.html", "struct_x_x_1_1_midi_1_1_variables" ],
     [ "XX::Bytes", "namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b", null ],
     [ "XX::Midi::Channel", "namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76", null ],
     [ "XX::Midi::MessageList", "namespace_x_x_1_1_midi.html#ab0bfeaefd7b3cd3db01210779928c39d", null ],
@@ -105,7 +107,8 @@ var _x_x_midi_common_8h =
       [ "XX::Midi::Playback::Continue", "namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe", null ],
       [ "XX::Midi::Playback::Stop", "namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481", null ]
     ] ],
-    [ "XX::Midi::__declspec", "namespace_x_x_1_1_midi.html#a748cb4474b3c13bc00c862061219d36a", null ],
+    [ "XX::Midi::hasFirstBit", "namespace_x_x_1_1_midi.html#a081cb6134319ccd7a26aaa523a730604", null ],
+    [ "XX::Midi::isEvent", "namespace_x_x_1_1_midi.html#ad4b209e4c5471436061af53bb927a15c", null ],
     [ "XX::operator<<", "namespace_x_x.html#a296f233be1769cc07840d3e20c833544", null ],
-    [ "XX::Midi::mask", "namespace_x_x_1_1_midi.html#a270ae21542bbdab27fc7e7209ac03b3b", null ]
+    [ "XX::Midi::removeFirstBit", "namespace_x_x_1_1_midi.html#a7e955af924f02d22eb97ce77c856e519", null ]
 ];

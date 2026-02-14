@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['range_0',['Range',['../struct_x_x_1_1_range.html',1,'XX']]]
+  ['note_0',['Note',['../class_x_x_1_1_note.html',1,'XX']]]
 ];

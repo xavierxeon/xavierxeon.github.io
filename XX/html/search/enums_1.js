@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['event_0',['Event',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642',1,'XX::Midi']]]
+  ['deviceidentifier_0',['DeviceIdentifier',['../class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178d',1,'XX::DeviceTools']]]
 ];

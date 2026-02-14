@@ -1,14 +1,9 @@
 var searchData=
 [
-  ['observe_0',['observe',['../class_x_x_1_1_range_1_1_finder.html#a358cef01b4bc6905e610c27d1fa936ab',1,'XX::Range::Finder']]],
-  ['operator_21_3d_1',['operator!=',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a86772de10ab7af29117c0f88acd19eaa',1,'XX::Range::Spread::Iterator']]],
-  ['operator_2a_2',['operator*',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a4efb551d3b709f2a55237b8466cf60dc',1,'XX::Range::Spread::Iterator']]],
-  ['operator_2b_3',['operator+',['../class_x_x_1_1_math_1_1_vector3.html#abd7c649f36111f57289129ff9c0dae61',1,'XX::Math::Vector3']]],
-  ['operator_2b_2b_4',['operator++',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a050177cb76fe9d69e3b8717c5d78adee',1,'XX::Range::Spread::Iterator']]],
-  ['operator_2b_3d_5',['operator+=',['../class_x_x_1_1_math_1_1_vector3.html#aa2ae8a6c6f16e6e01ba01c81eadcdfa2',1,'XX::Math::Vector3']]],
-  ['operator_3c_6',['operator&lt;',['../class_x_x_1_1_math_1_1_spherical.html#ad3243db3468da7b8820e7d5016d845f1',1,'XX::Math::Spherical::operator&lt;()'],['../class_x_x_1_1_math_1_1_vector3.html#a1839b16d743812ba666233e2c013c113',1,'XX::Math::Vector3::operator&lt;()']]],
-  ['operator_3c_3c_7',['operator&lt;&lt;',['../group___streaming.html#gaac316c6c4891258b1858a6a18b9da518',1,'operator&lt;&lt;(QDebug stream, const XX::Math::Vector3 &amp;data):&#160;XXMathQtStreaming.h'],['../group___streaming.html#ga3ed6c0e85ef6244ec63121a8331240c0',1,'operator&lt;&lt;(QDebug stream, const XX::Math::Spherical &amp;data):&#160;XXMathQtStreaming.h'],['../group___streaming.html#gaa92b8aa064989fe46023d59310786540',1,'operator&lt;&lt;(QTextStream &amp;stream, const XX::Math::Vector3 &amp;data):&#160;XXMathQtStreaming.h'],['../group___streaming.html#gaf91eb590c0e526deedeccef8db6111ee',1,'XX::Math::operator&lt;&lt;(std::ostream &amp;out, const Spherical &amp;value)'],['../group___streaming.html#ga4ef0baf5907106c7521796a0d0c6ff42',1,'XX::Math::operator&lt;&lt;(std::ostream &amp;out, const Vector3 &amp;value)'],['../namespace_x_x.html#a296f233be1769cc07840d3e20c833544',1,'XX::operator&lt;&lt;()']]],
-  ['operator_3d_3d_8',['operator==',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a802de38e27da426cb8b13b99ad21fdb9',1,'XX::Range::Spread::Iterator::operator==()'],['../class_x_x_1_1_math_1_1_vector3.html#a7ec106abc87e7e385a44a574b5b5858d',1,'XX::Math::Vector3::operator==()']]],
-  ['operator_3e_3e_9',['operator&gt;&gt;',['../group___streaming.html#gacfb3abd2c888dbc7acb7111f3689cdb5',1,'XXMathQtStreaming.h']]],
-  ['operator_5b_5d_10',['operator[]',['../class_x_x_1_1_math_1_1_vector3.html#a21fe6e8e7fd93bb90ae3baf92f8dbdb5',1,'XX::Math::Vector3::operator[](const int index) const'],['../class_x_x_1_1_math_1_1_vector3.html#abdbcf1aea256ec2c926e6056b8b88b0a',1,'XX::Math::Vector3::operator[](const int index)']]]
+  ['noofsamplesperchannel_0',['noOfSamplesPerChannel',['../struct_x_x_1_1_sample_1_1_meta.html#aed5d786c4d761f1eafa0d469198d22c2',1,'XX::Sample::Meta']]],
+  ['norm_1',['norm',['../class_x_x_1_1_math_1_1_vector3.html#ab0083b95b4f7de3ffd7289bf7b15a64e',1,'XX::Math::Vector3']]],
+  ['note_2',['Note',['../class_x_x_1_1_note.html#a0c1a4b48710408a145d9f1dc9d52d84e',1,'XX::Note']]],
+  ['noteinscale_3',['noteInScale',['../class_x_x_1_1_scale.html#acd4f38cb8c54aad9ebdc1449c2ae58e3',1,'XX::Scale']]],
+  ['noteoff_4',['noteOff',['../class_x_x_1_1_midi_1_1_parser.html#a0a676b60ddb24cc34bf1c1ee712c7baa',1,'XX::Midi::Parser']]],
+  ['noteon_5',['noteOn',['../class_x_x_1_1_midi_1_1_parser.html#a44cbc7bfd5aeb7299ab97144f081e088',1,'XX::Midi::Parser']]]
 ];

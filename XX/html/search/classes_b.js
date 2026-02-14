@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['serverinternal_0',['ServerInternal',['../class_x_x_1_1_secure_network_1_1_server_internal.html',1,'XX::SecureNetwork']]],
-  ['shared_1',['Shared',['../struct_x_x_1_1_shared.html',1,'XX']]],
-  ['shareddata_2',['SharedData',['../class_x_x_1_1_shared_data.html',1,'XX']]],
-  ['singleton_3',['Singleton',['../class_x_x_1_1_singleton.html',1,'XX']]],
-  ['spherical_4',['Spherical',['../class_x_x_1_1_math_1_1_spherical.html',1,'XX::Math']]],
-  ['spread_5',['Spread',['../class_x_x_1_1_range_1_1_spread.html',1,'XX::Range']]]
+  ['oauth_0',['OAuth',['../class_x_x_1_1_auth_provider_1_1_o_auth.html',1,'XX::AuthProvider']]],
+  ['oscmessage_1',['OscMessage',['../class_x_x_1_1_osc_message.html',1,'XX']]],
+  ['output_2',['Output',['../class_x_x_1_1_midi_1_1_interface_1_1_output.html',1,'XX::Midi::Interface']]]
 ];

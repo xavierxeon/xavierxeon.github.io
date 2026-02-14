@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['legatoswitch_0',['LegatoSwitch',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a8976d40e150097f0d77ca08b17f07b5a',1,'XX::Midi']]],
-  ['livetag_1',['LiveTag',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b',1,'XX::Midi']]],
-  ['lyric_2',['Lyric',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12',1,'XX::Midi']]]
+  ['keysignature_0',['KeySignature',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69',1,'XX::Midi']]],
+  ['keystep1_1',['KeyStep1',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eae90c418d9c4386d7152a02f6903c30e1',1,'XX::Midi::Device']]],
+  ['keystep2_2',['KeyStep2',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1dbb06741fc2ba76deadb51385269cf3',1,'XX::Midi::Device']]],
+  ['keystep3_3',['KeyStep3',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea26573f0b937550b4a490e5f192fea635',1,'XX::Midi::Device']]],
+  ['keystep4_4',['KeyStep4',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea2a4a792bbd2e2250fcaf1f5bb097f942',1,'XX::Midi::Device']]]
 ];
