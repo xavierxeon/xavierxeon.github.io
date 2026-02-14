@@ -98,26 +98,27 @@ $(function(){initNavTree('_x_x_compile_time_string_8h_source.html','',''); });
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespace_x_x.html">XX</a></div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>{</div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>   <span class="keyword">template</span> &lt;<span class="keywordtype">size_t</span> N&gt;</div>
-<div class="foldopen" id="foldopen00009" data-start="{" data-end="};">
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="struct_x_x_1_1_compile_time_string.html">    9</a></span>   <span class="keyword">struct </span><a class="code hl_function" href="struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210">CompileTimeString</a></div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>   {</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno"><a class="line" href="struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210">   11</a></span>      <span class="keyword">constexpr</span> <a class="code hl_function" href="struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210">CompileTimeString</a>(<span class="keyword">const</span> <span class="keywordtype">char</span> (&amp;str)[N]);</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno"><a class="line" href="struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77">   12</a></span>      <span class="keywordtype">char</span> <a class="code hl_variable" href="struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77">value</a>[N];</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno"><a class="line" href="struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b">   14</a></span>      std::string <a class="code hl_function" href="struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b">text</a>() <span class="keyword">const</span>;</div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>   };</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>   <span class="keyword">template</span> &lt;<span class="keywordtype">size_t</span> N&gt;</div>
+<div class="foldopen" id="foldopen00012" data-start="{" data-end="};">
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno"><a class="line" href="struct_x_x_1_1_compile_time_string.html">   12</a></span>   <span class="keyword">struct </span><a class="code hl_function" href="struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210">CompileTimeString</a></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>   {</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno"><a class="line" href="struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210">   14</a></span>      <span class="keyword">constexpr</span> <a class="code hl_function" href="struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210">CompileTimeString</a>(<span class="keyword">const</span> <span class="keywordtype">char</span> (&amp;str)[N]);</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno"><a class="line" href="struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77">   15</a></span>      <span class="keywordtype">char</span> <a class="code hl_variable" href="struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77">value</a>[N];</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span> </div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno"><a class="line" href="struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b">   17</a></span>      std::string <a class="code hl_function" href="struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b">text</a>() <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>   };</div>
 </div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>} <span class="comment">// namespace XX</span></div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span> </div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="preprocessor">#ifndef XXCompileTimeStringHPP</span></div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span><span class="preprocessor">#include &quot;XXCompileTimeString.hpp&quot;</span></div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="preprocessor">#endif </span><span class="comment">// NOT XXCompileTimeStringHPP</span></div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="preprocessor">#endif </span><span class="comment">// NOT XXCompileTimeStringH</span></div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>} <span class="comment">// namespace XX</span></div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span> </div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="preprocessor">#ifndef XXCompileTimeStringHPP</span></div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="preprocessor">#include &quot;XXCompileTimeString.hpp&quot;</span></div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span><span class="preprocessor">#endif </span><span class="comment">// NOT XXCompileTimeStringHPP</span></div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span><span class="preprocessor">#endif </span><span class="comment">// NOT XXCompileTimeStringH</span></div>
 <div class="ttc" id="anamespace_x_x_html"><div class="ttname"><a href="namespace_x_x.html">XX</a></div><div class="ttdef"><b>Definition</b> XXPopulatedAbstract.h:11</div></div>
 <div class="ttc" id="astruct_x_x_1_1_compile_time_string_html_a2318e049a46d3023860de67006024210"><div class="ttname"><a href="struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210">XX::CompileTimeString::CompileTimeString</a></div><div class="ttdeci">constexpr CompileTimeString(const char(&amp;str)[N])</div></div>
-<div class="ttc" id="astruct_x_x_1_1_compile_time_string_html_a36aa2843471af18bd1758b698a4b1c77"><div class="ttname"><a href="struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77">XX::CompileTimeString::value</a></div><div class="ttdeci">char value[N]</div><div class="ttdef"><b>Definition</b> XXCompileTimeString.h:12</div></div>
+<div class="ttc" id="astruct_x_x_1_1_compile_time_string_html_a36aa2843471af18bd1758b698a4b1c77"><div class="ttname"><a href="struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77">XX::CompileTimeString::value</a></div><div class="ttdeci">char value[N]</div><div class="ttdef"><b>Definition</b> XXCompileTimeString.h:15</div></div>
 <div class="ttc" id="astruct_x_x_1_1_compile_time_string_html_a7cd8976ba09b96dc5aac5fc40205dc2b"><div class="ttname"><a href="struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b">XX::CompileTimeString::text</a></div><div class="ttdeci">std::string text() const</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

@@ -75,12 +75,12 @@ var NAVTREEINDEX =
 [
 "_x_x_application_export_def_8h.html",
 "class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc",
-"class_x_x_1_1_managed_1_1_tree_view.html#a73d45dcf17598cc6f82951cb4a033a1c",
-"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1d89ed6d84f55ad2dc610e448d4412f7",
-"class_x_x_1_1_rest_api_1_1_async.html#a3f1aa24b9aad74c6bfc365cb6b94d456",
-"class_x_x_1_1_shallow_crypt.html#a8736f1812378ea28f1a07b5bec18da4e",
-"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a92bf89f1ab6b5eb4ddd181b07a124014",
-"struct_x_x_1_1_midi_1_1_sequence_1_1_track.html"
+"class_x_x_1_1_math_1_1_spherical.html#a2c5a0276dcc6df787817c41c4e5298aa",
+"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86",
+"class_x_x_1_1_rest_api_1_1_blocking.html#a3c97df4359bcab9eb6683001aa6925c2",
+"class_x_x_1_1_shared_data.html#ac398ad7145471997c1e310d19dee3959",
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5aba28393252ea67bd58d65f364049b690",
+"struct_x_x_1_1_network_1_1_tools.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

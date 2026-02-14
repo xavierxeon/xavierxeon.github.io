@@ -1,8 +1,8 @@
 var dir_dd68d46a7ec0b5ad265af0237b0d926f =
 [
-    [ "XXCompileTimeString.h", "_x_x_compile_time_string_8h.html", "_x_x_compile_time_string_8h" ],
+    [ "XXCompileTimeString.h", "_x_x_compile_time_string_8h.html", null ],
     [ "XXCppExportDef.h", "_x_x_cpp_export_def_8h.html", "_x_x_cpp_export_def_8h" ],
-    [ "XXDoubleBuffer.h", "_x_x_double_buffer_8h.html", "_x_x_double_buffer_8h" ],
+    [ "XXDoubleBuffer.h", "_x_x_double_buffer_8h.html", null ],
     [ "XXFunctionCaller.h", "_x_x_function_caller_8h.html", "_x_x_function_caller_8h" ],
     [ "XXLocker.h", "_x_x_locker_8h.html", null ],
     [ "XXMatrix.h", "_x_x_matrix_8h.html", "_x_x_matrix_8h" ],
