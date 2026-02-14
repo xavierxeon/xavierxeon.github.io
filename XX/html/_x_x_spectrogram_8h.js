@@ -1,4 +1,4 @@
 var _x_x_spectrogram_8h =
 [
-    [ "XX::Spectrogram", "class_x_x_1_1_spectrogram.html", "class_x_x_1_1_spectrogram" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

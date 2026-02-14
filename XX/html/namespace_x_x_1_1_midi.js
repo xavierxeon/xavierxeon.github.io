@@ -1,12 +1,10 @@
 var namespace_x_x_1_1_midi =
 [
-    [ "File", "namespace_x_x_1_1_midi_1_1_file.html", "namespace_x_x_1_1_midi_1_1_file" ],
-    [ "Interface", "namespace_x_x_1_1_midi_1_1_interface.html", "namespace_x_x_1_1_midi_1_1_interface" ],
-    [ "Manufacturer", "struct_x_x_1_1_midi_1_1_manufacturer.html", "struct_x_x_1_1_midi_1_1_manufacturer" ],
+    [ "File", "namespace_x_x_1_1_midi_1_1_file.html", null ],
+    [ "Interface", "namespace_x_x_1_1_midi_1_1_interface.html", [
+      [ "__declspec", "namespace_x_x_1_1_midi_1_1_interface.html#a4624ee781a94228f776b1513c2121754", null ]
+    ] ],
     [ "Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
-    [ "Variables", "struct_x_x_1_1_midi_1_1_variables.html", "struct_x_x_1_1_midi_1_1_variables" ],
-    [ "Sequence", "class_x_x_1_1_midi_1_1_sequence.html", "class_x_x_1_1_midi_1_1_sequence" ],
-    [ "Parser", "class_x_x_1_1_midi_1_1_parser.html", "class_x_x_1_1_midi_1_1_parser" ],
     [ "Channel", "namespace_x_x_1_1_midi.html#ae42d57082414b53270c60b6b31d4eb76", null ],
     [ "MessageList", "namespace_x_x_1_1_midi.html#ab0bfeaefd7b3cd3db01210779928c39d", null ],
     [ "SongPosition", "namespace_x_x_1_1_midi.html#aecb80be4244bb843179d23f581bf9a9c", null ],
@@ -110,7 +108,6 @@ var namespace_x_x_1_1_midi =
       [ "Continue", "namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe", null ],
       [ "Stop", "namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481", null ]
     ] ],
-    [ "hasFirstBit", "namespace_x_x_1_1_midi.html#aa3d4389b11233bef2764fe37fe384073", null ],
-    [ "isEvent", "namespace_x_x_1_1_midi.html#ae934df6cfbf04ba38f643b53103a83bb", null ],
-    [ "removeFirstBit", "namespace_x_x_1_1_midi.html#abef57f1eb95bf77829e6fbcf029ead03", null ]
+    [ "__declspec", "namespace_x_x_1_1_midi.html#a748cb4474b3c13bc00c862061219d36a", null ],
+    [ "mask", "namespace_x_x_1_1_midi.html#a270ae21542bbdab27fc7e7209ac03b3b", null ]
 ];

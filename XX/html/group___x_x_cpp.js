@@ -46,14 +46,6 @@ var group___x_x_cpp =
       [ "reset", "class_x_x_1_1_range_1_1_finder.html#a8048cca3dddb9515ed4ab37616719d81", null ],
       [ "value", "class_x_x_1_1_range_1_1_finder.html#a86c2005fe51a6a357368c42550643acc", null ]
     ] ],
-    [ "XX::Range::Mapper", "class_x_x_1_1_range_1_1_mapper.html", [
-      [ "Mapper", "class_x_x_1_1_range_1_1_mapper.html#a04dbd3f4d76f43bc013fc03e40febf5e", null ],
-      [ "operator()", "class_x_x_1_1_range_1_1_mapper.html#a5453d7d7877bee5e8bb208e1ce7368bd", null ],
-      [ "setMaxInput", "class_x_x_1_1_range_1_1_mapper.html#a071a90d2abb4c41fc7deec41774fa6ba", null ],
-      [ "setMaxOutput", "class_x_x_1_1_range_1_1_mapper.html#a40cdbf4cc672680dd7d0162b7f05cb81", null ],
-      [ "setMinInput", "class_x_x_1_1_range_1_1_mapper.html#a7f3e330d516b37226b8ba78774f092cb", null ],
-      [ "setMinOutput", "class_x_x_1_1_range_1_1_mapper.html#a2afada293df63df79c30875753b29b19", null ]
-    ] ],
     [ "XX::Range::Spread", "class_x_x_1_1_range_1_1_spread.html", [
       [ "Iterator", "class_x_x_1_1_range_1_1_spread_1_1_iterator.html", [
         [ "difference_type", "class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a52ca9481252fe0123ef4fe9e64fec1fc", null ],
@@ -72,11 +64,5 @@ var group___x_x_cpp =
       [ "begin", "class_x_x_1_1_range_1_1_spread.html#aa727c056f8395b180f392fc736ad6ed0", null ],
       [ "end", "class_x_x_1_1_range_1_1_spread.html#a88b816d0894d740ed75e0aef3ace35cc", null ]
     ] ],
-    [ "XX::Size", "struct_x_x_1_1_size.html", [
-      [ "Size", "struct_x_x_1_1_size.html#affbcbe54d6be061833940db38615ac70", null ],
-      [ "isZero", "struct_x_x_1_1_size.html#a4db413a7cf3575db6c27197c56809bbf", null ],
-      [ "operator=", "struct_x_x_1_1_size.html#a2bee146e8f8356c6f72dca4251b2acd6", null ],
-      [ "height", "struct_x_x_1_1_size.html#a3204dc7cbd03b589e9ad666599befce5", null ],
-      [ "width", "struct_x_x_1_1_size.html#a0ee40abda9a2705b9194b729d9d7a6f0", null ]
-    ] ]
+    [ "XX::Range::__declspec", "group___x_x_cpp.html#gafbc1f8f6e623b96e7d0a5f9d0e3e4997", null ]
 ];

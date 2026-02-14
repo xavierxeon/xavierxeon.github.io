@@ -1,4 +1,4 @@
 var _x_x_busy_cursor_8h =
 [
-    [ "XX::BusyCursor", "class_x_x_1_1_busy_cursor.html", "class_x_x_1_1_busy_cursor" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

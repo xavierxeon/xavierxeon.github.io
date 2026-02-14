@@ -1,4 +1,4 @@
 var _x_x_size_8h =
 [
-    [ "XX::Size", "struct_x_x_1_1_size.html", "struct_x_x_1_1_size" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

@@ -1,4 +1,4 @@
 var _x_x_log_symbol_8h =
 [
-    [ "XX::LogSymbol", "struct_x_x_1_1_log_symbol.html", "struct_x_x_1_1_log_symbol" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

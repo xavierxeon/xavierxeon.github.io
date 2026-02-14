@@ -1,5 +1,4 @@
 var _x_x_log_file_8h =
 [
-    [ "XX::LogFileBase", "struct_x_x_1_1_log_file_base.html", "struct_x_x_1_1_log_file_base" ],
-    [ "XX::LogFile&lt; tag &gt;", "class_x_x_1_1_log_file.html", "class_x_x_1_1_log_file" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

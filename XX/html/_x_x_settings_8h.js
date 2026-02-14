@@ -1,4 +1,4 @@
 var _x_x_settings_8h =
 [
-    [ "XX::Settings", "class_x_x_1_1_settings.html", "class_x_x_1_1_settings" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

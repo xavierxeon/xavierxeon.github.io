@@ -1,4 +1,4 @@
 var _x_x_info_8h =
 [
-    [ "XX::Info", "struct_x_x_1_1_info.html", "struct_x_x_1_1_info" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

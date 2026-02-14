@@ -1,4 +1,4 @@
 var _x_x_graph_8h =
 [
-    [ "XX::Graph", "class_x_x_1_1_graph.html", "class_x_x_1_1_graph" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

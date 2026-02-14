@@ -1,7 +1,6 @@
 var _x_x_math_qt_streaming_8h =
 [
-    [ "operator<<", "group___streaming.html#ga2193a5ed7a78f4cfcb1e43dddab5cbd7", null ],
-    [ "operator<<", "group___streaming.html#ga683322981028e5a1054dfa0e38baabea", null ],
-    [ "operator<<", "group___streaming.html#ga56d4bdf0e95c14455430c8a5a4df84e4", null ],
-    [ "operator>>", "group___streaming.html#ga5053d6df3fa39f7c8e44a9549eeda68e", null ]
+    [ "__declspec", "group___streaming.html#gaae1c9120a8e076992b76c71eed34c37d", null ],
+    [ "__declspec", "group___streaming.html#ga0a1891f9677f910500452e287df425ab", null ],
+    [ "data", "group___streaming.html#gae44e8aa2fc0d9d8c4e2e44d7b7cb387f", null ]
 ];

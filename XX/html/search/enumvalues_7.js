@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['initial_0',['Initial',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbfa4f2a91e15af2631ff9424564b8a45fb2',1,'XX::AuthProvider::OAuth']]],
-  ['instrumentname_1',['InstrumentName',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1ba18c307af7bd33cad842504660f763eca',1,'XX::Midi']]],
-  ['invalid_2',['Invalid',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea48c9b8fc52442d15c1066c988c6e1727',1,'XX::Note']]],
-  ['ipadmini_3',['iPadMini',['../class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dae821a74e4c16d6b8e0e39b483725c71a',1,'XX::DeviceTools']]],
-  ['ipadpro13_4',['iPadPro13',['../class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dad85eeff65a9c76421b5988f7bced8306',1,'XX::DeviceTools']]]
+  ['keysignature_0',['KeySignature',['../namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69',1,'XX::Midi']]],
+  ['keystep1_1',['KeyStep1',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eae90c418d9c4386d7152a02f6903c30e1',1,'XX::Midi::Device']]],
+  ['keystep2_2',['KeyStep2',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1dbb06741fc2ba76deadb51385269cf3',1,'XX::Midi::Device']]],
+  ['keystep3_3',['KeyStep3',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea26573f0b937550b4a490e5f192fea635',1,'XX::Midi::Device']]],
+  ['keystep4_4',['KeyStep4',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea2a4a792bbd2e2250fcaf1f5bb097f942',1,'XX::Midi::Device']]]
 ];
