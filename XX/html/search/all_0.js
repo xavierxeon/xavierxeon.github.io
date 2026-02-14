@@ -31,7 +31,7 @@ var searchData=
   ['async_28',['Async',['../class_x_x_1_1_rest_api_1_1_async.html',1,'XX::RestApi::Async'],['../class_x_x_1_1_rest_api_1_1_blocking.html#a4953ed4590800ddcde3fd70ebc65b2b6',1,'XX::RestApi::Blocking::Async()'],['../class_x_x_1_1_rest_api_1_1_async.html#a4fa2d348e5ab17303fdf3aa31a84f24d',1,'XX::RestApi::Async::Async()']]],
   ['atend_29',['atEnd',['../class_x_x_1_1_sample_1_1_reader.html#a547bd08b3c319c2005e1f32dda748a78',1,'XX::Sample::Reader']]],
   ['attention_30',['Attention',['../struct_x_x_1_1_log_symbol.html#a99ab0f711265b49c332ba5aa456a3463',1,'XX::LogSymbol']]],
-  ['audio_20component_31',['XX Audio component',['../group___x_x_audio.html',1,'']]],
+  ['audio_20component_31',['Audio component',['../group___x_x_audio.html',1,'']]],
   ['authorizeuser_32',['authorizeUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a6bb4d060ec3204697b086f6df0dee7f3',1,'XX::AuthProvider::OAuth']]],
   ['authuser_33',['AuthUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbfa6f1cf5a98fd12349099d744b9b87792e',1,'XX::AuthProvider::OAuth']]],
   ['availablenotes_34',['availableNotes',['../class_x_x_1_1_note.html#a2051b02f52a5b32967662374947479bd',1,'XX::Note']]],
