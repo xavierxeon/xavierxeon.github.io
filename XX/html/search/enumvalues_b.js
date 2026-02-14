@@ -1,5 +1,9 @@
 var searchData=
 [
-  ['noteoff_0',['NoteOff',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c',1,'XX::Midi']]],
-  ['noteon_1',['NoteOn',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc',1,'XX::Midi']]]
+  ['pan_0',['Pan',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a727bc0ffde59075404d908646f6452cd',1,'XX::Midi']]],
+  ['pitchbend_1',['PitchBend',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471',1,'XX::Midi']]],
+  ['polykeypressure_2',['PolyKeyPressure',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a7e1c727035ab88a758fc26b881ef3562',1,'XX::Midi']]],
+  ['portamento_3',['Portamento',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5ad3c14cf17547a947a6dd9b4c1a3fb1d2',1,'XX::Midi']]],
+  ['portamentotime_4',['PortamentoTime',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a5a78ccfea41d38c30df69292c2e199b1',1,'XX::Midi']]],
+  ['programmchange_5',['ProgrammChange',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ab3b12ac9f01eae7568559e2876afb39e',1,'XX::Midi']]]
 ];

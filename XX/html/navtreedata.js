@@ -47,13 +47,12 @@ var NAVTREE =
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ],
-        [ "Properties", "functions_prop.html", null ],
         [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
@@ -62,6 +61,7 @@ var NAVTREE =
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
+        [ "Variables", "globals_vars.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -71,11 +71,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_x_x_application_export_def_8h.html",
-"class_x_x_1_1_busy_cursor.html#abd843393da85eb9b1e241ff711c39dd6",
-"class_x_x_1_1_midi_1_1_parser.html#a1206467a0d856bbee6fa8c29a7352d99",
-"class_x_x_1_1_recent_files.html#a43e8edaf1577816987292a719faf5ed7",
-"class_x_x_1_1_spectrogram.html#a7f41044cde026e248508bbed69d77fee",
-"namespace_x_x_1_1_midi.html#a18cd02eb3b8339a104b37ec426b22c1baf10ac25196f7f5534769fe92ac6bb4ee"
+"class_x_x_1_1_range_1_1_spread_1_1_iterator.html#af4968c72bd4e521383155e0113b1ae5e",
+"struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea85b499534da320980fa7d44a50b15eb1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

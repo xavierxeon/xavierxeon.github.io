@@ -1,4 +1,4 @@
 var _x_x_network_settings_8h =
 [
-    [ "XX::Network::Settings", "class_x_x_1_1_network_1_1_settings.html", "class_x_x_1_1_network_1_1_settings" ]
+    [ "XX::Network::__declspec", "namespace_x_x_1_1_network.html#a4042682295d1e4bdfe0adfe482bcc227", null ]
 ];

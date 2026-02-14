@@ -1,4 +1,4 @@
 var _x_x_midi_parser_8h =
 [
-    [ "XX::Midi::Parser", "class_x_x_1_1_midi_1_1_parser.html", "class_x_x_1_1_midi_1_1_parser" ]
+    [ "XX::Midi::__declspec", "namespace_x_x_1_1_midi.html#a748cb4474b3c13bc00c862061219d36a", null ]
 ];

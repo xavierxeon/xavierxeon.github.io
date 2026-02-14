@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['async_0',['Async',['../class_x_x_1_1_rest_api_1_1_blocking.html#a4953ed4590800ddcde3fd70ebc65b2b6',1,'XX::RestApi::Blocking']]]
+  ['spread_0',['Spread',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a2144190ff71c72ff1b15a6e147c3fa04',1,'XX::Range::Spread::Iterator']]]
 ];

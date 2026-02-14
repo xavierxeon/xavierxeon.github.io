@@ -1,5 +1,4 @@
 var _x_x_scale_8h =
 [
-    [ "XX::Scale", "class_x_x_1_1_scale.html", "class_x_x_1_1_scale" ],
-    [ "XX::Scale::Finder", "class_x_x_1_1_scale_1_1_finder.html", "class_x_x_1_1_scale_1_1_finder" ]
+    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
 ];

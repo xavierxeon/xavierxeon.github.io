@@ -1,14 +1,9 @@
 var searchData=
 [
-  ['mainwidget_0',['MainWidget',['../class_x_x_1_1_populated_1_1_main_widget.html#a30cdb66feac8f461bdc5009616d0ce2d',1,'XX::Populated::MainWidget']]],
-  ['mainwindow_1',['MainWindow',['../class_x_x_1_1_populated_1_1_main_window.html#a5494d1e7311f593d5e1ac2c34f364678',1,'XX::Populated::MainWindow']]],
-  ['mapper_2',['Mapper',['../class_x_x_1_1_range_1_1_mapper.html#a04dbd3f4d76f43bc013fc03e40febf5e',1,'XX::Range::Mapper']]],
-  ['matrix_3',['Matrix',['../class_x_x_1_1_matrix.html#aae18e04c9cd6d24921ebd9f9dadabddd',1,'XX::Matrix']]],
-  ['max_4',['max',['../class_x_x_1_1_range_1_1_finder.html#afa60014f3fd1684156a3cae2c2322fef',1,'XX::Range::Finder::max()'],['../group___functions.html#gaf84b02e7fe0819b697de6cdfbe73d6bf',1,'XX::Range::max()']]],
-  ['menubar_5',['MenuBar',['../class_x_x_1_1_populated_1_1_menu_bar.html#af4fc4d44f01fb55b901590ee263a8f85',1,'XX::Populated::MenuBar']]],
-  ['menubarnamechanged_6',['menuBarNameChanged',['../class_x_x_1_1_populated_1_1_menu_bar.html#a09e312641933c78cb88ec98f91f94377',1,'XX::Populated::MenuBar']]],
-  ['messagelabel_7',['MessageLabel',['../class_x_x_1_1_message_label.html#ab2eacf847a1949cab231d4782351964c',1,'XX::MessageLabel']]],
-  ['messagemodel_8',['MessageModel',['../class_x_x_1_1_message_model.html#afc502aa118119554db2832b3a0bb3cb4',1,'XX::MessageModel']]],
-  ['min_9',['min',['../class_x_x_1_1_range_1_1_finder.html#aee50dc72f9340216096ea4b4d2368078',1,'XX::Range::Finder::min()'],['../group___functions.html#ga53fbb95f81ebe05d2ca4da22e8b6db52',1,'XX::Range::min()']]],
-  ['model_10',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model']]]
+  ['observe_0',['observe',['../class_x_x_1_1_range_1_1_finder.html#a358cef01b4bc6905e610c27d1fa936ab',1,'XX::Range::Finder']]],
+  ['operator_21_3d_1',['operator!=',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a86772de10ab7af29117c0f88acd19eaa',1,'XX::Range::Spread::Iterator']]],
+  ['operator_2a_2',['operator*',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a4efb551d3b709f2a55237b8466cf60dc',1,'XX::Range::Spread::Iterator']]],
+  ['operator_2b_2b_3',['operator++',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a050177cb76fe9d69e3b8717c5d78adee',1,'XX::Range::Spread::Iterator']]],
+  ['operator_3c_3c_4',['operator&lt;&lt;',['../group___streaming.html#gaf91eb590c0e526deedeccef8db6111ee',1,'XX::Math::operator&lt;&lt;(std::ostream &amp;out, const Spherical &amp;value)'],['../group___streaming.html#ga4ef0baf5907106c7521796a0d0c6ff42',1,'XX::Math::operator&lt;&lt;(std::ostream &amp;out, const Vector3 &amp;value)'],['../namespace_x_x.html#a296f233be1769cc07840d3e20c833544',1,'XX::operator&lt;&lt;()']]],
+  ['operator_3d_3d_5',['operator==',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a802de38e27da426cb8b13b99ad21fdb9',1,'XX::Range::Spread::Iterator']]]
 ];

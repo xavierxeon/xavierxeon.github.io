@@ -1,20 +1,7 @@
 var searchData=
 [
-  ['init_0',['init',['../class_x_x_1_1_populated_1_1_menu_bar.html#a072b2249b576b84ad5e2fdc37a4c6164',1,'XX::Populated::MenuBar::init()'],['../class_x_x_1_1_populated_1_1_tool_bar.html#ab63dfe7c83102d6e52d410afb735f9d4',1,'XX::Populated::ToolBar::init()'],['../class_x_x_1_1_range_1_1_finder.html#a45e38ba39ad931c2a6f4cbf79a9ab0d5',1,'XX::Range::Finder::init()'],['../class_x_x_1_1_tab_stack_1_1_model.html#a4ddc379476a2859601e9192eb34a06bd',1,'XX::TabStack::Model::init()']]],
-  ['input_1',['Input',['../class_x_x_1_1_midi_1_1_interface_1_1_input.html#ad9a8e38b25d7e59e7d265b8cfc4530f6',1,'XX::Midi::Interface::Input']]],
-  ['instance_2',['instance',['../class_x_x_1_1_singleton.html#a18ddca4b0042e33a4b100e9a29b5149d',1,'XX::Singleton']]],
-  ['instancecount_3',['instanceCount',['../class_x_x_1_1_function_1_1_caller.html#a559928ca870665024a2a035f06e5ba14',1,'XX::Function::Caller']]],
-  ['interlace_4',['interlace',['../class_x_x_1_1_sample_1_1_abstract.html#a7463ed19ad96530801c24ce11fe832a2',1,'XX::Sample::Abstract']]],
-  ['inverse_5',['inverse',['../class_x_x_1_1_fast_fourier_transfrom.html#af17fb51f2dadd8cf9d9716d0913e2172',1,'XX::FastFourierTransfrom']]],
-  ['isactive_6',['isActive',['../class_x_x_1_1_scale.html#afcf8024fe8beb9cd87c1333e0698ae92',1,'XX::Scale']]],
-  ['isblackkey_7',['isBlackKey',['../class_x_x_1_1_note.html#a755375a27f8f90e94ac18909d202ebba',1,'XX::Note']]],
-  ['isevent_8',['isEvent',['../namespace_x_x_1_1_midi.html#ad4b209e4c5471436061af53bb927a15c',1,'XX::Midi']]],
-  ['isinsubnet_9',['isInSubnet',['../struct_x_x_1_1_network_1_1_tools.html#a0db0b073cb5a7d29c959614b6eb02c9f',1,'XX::Network::Tools']]],
-  ['isnull_10',['isNull',['../class_x_x_1_1_auth_provider_1_1_token.html#a630a106b5500e390f48fb45609c80417',1,'XX::AuthProvider::Token']]],
-  ['isopen_11',['isOpen',['../class_x_x_1_1_midi_1_1_interface_1_1_input.html#ac98797b45b31694df92f7f5a81823eae',1,'XX::Midi::Interface::Input::isOpen()'],['../class_x_x_1_1_midi_1_1_interface_1_1_output.html#a26ab72585ab2e63a313472d397c83ec4',1,'XX::Midi::Interface::Output::isOpen()']]],
-  ['ispoweroftwo_12',['isPowerOfTwo',['../namespace_x_x_1_1_math.html#aa233b663d7d4d9191228facf606b8d95',1,'XX::Math']]],
-  ['isserveractive_13',['isServerActive',['../struct_x_x_1_1_shared.html#af9e1b9f17511900092a87111380c97b0',1,'XX::Shared']]],
-  ['isvalid_14',['isValid',['../class_x_x_1_1_note.html#a41de081c718cb79765d7768e46a65447',1,'XX::Note']]],
-  ['iswhitekey_15',['isWhiteKey',['../class_x_x_1_1_note.html#ac4ad225c59e1aee4fc23236f065f4548',1,'XX::Note']]],
-  ['iszero_16',['isZero',['../struct_x_x_1_1_size.html#a4db413a7cf3575db6c27197c56809bbf',1,'XX::Size']]]
+  ['init_0',['init',['../class_x_x_1_1_range_1_1_finder.html#a45e38ba39ad931c2a6f4cbf79a9ab0d5',1,'XX::Range::Finder']]],
+  ['instance_1',['instance',['../class_x_x_1_1_singleton.html#a18ddca4b0042e33a4b100e9a29b5149d',1,'XX::Singleton']]],
+  ['instancecount_2',['instanceCount',['../class_x_x_1_1_function_1_1_caller.html#a559928ca870665024a2a035f06e5ba14',1,'XX::Function::Caller']]],
+  ['isserveractive_3',['isServerActive',['../struct_x_x_1_1_shared.html#af9e1b9f17511900092a87111380c97b0',1,'XX::Shared']]]
 ];
