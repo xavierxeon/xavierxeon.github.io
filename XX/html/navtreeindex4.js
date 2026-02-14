@@ -56,7 +56,7 @@ var NAVTREEINDEX4 =
 "class_x_x_1_1_time_code.html#aefb913598d03484358099372fb3a0a2c":[2,0,0,44,4],
 "class_x_x_1_1_time_code.html#aefb913598d03484358099372fb3a0a2c":[4,0,0,44,4],
 "classes.html":[4,1],
-"concept_x_x_1_1_function_1_1_caller_class.html":[1,3,2],
+"concept_x_x_1_1_function_1_1_caller_class.html":[1,3,1],
 "concepts.html":[3],
 "dir_0b78b0f8c188afe98d5402e3b2ee8a32.html":[5,0,9,0],
 "dir_0d30db7ceb4aa70272b36dee8805772c.html":[5,0,10],
@@ -137,10 +137,6 @@ var NAVTREEINDEX4 =
 "group___compiler_tests.html#ga785bbb775cb5374c07d3ad7958625aa6":[1,3,0,2],
 "group___compiler_tests.html#gadeaf1c71a80b637e952a3c88bcd8f1b7":[1,3,0,1],
 "group___compiler_tests.html#gaedd13f6317d564d69aaab085caf5a3f7":[1,3,0,0],
-"group___functions.html":[1,3,1],
-"group___functions.html#ga53fbb95f81ebe05d2ca4da22e8b6db52":[1,3,1,2],
-"group___functions.html#gac254bec1e26fa1257d730012a2ee9914":[1,3,1,0],
-"group___functions.html#gaf84b02e7fe0819b697de6cdfbe73d6bf":[1,3,1,1],
 "group___streaming.html":[1,7,0],
 "group___streaming.html#ga3ed6c0e85ef6244ec63121a8331240c0":[1,7,0,0],
 "group___streaming.html#ga4ef0baf5907106c7521796a0d0c6ff42":[1,7,0,4],
@@ -154,6 +150,9 @@ var NAVTREEINDEX4 =
 "group___x_x_audio.html#ga821a31c70f0ea9d54f46df4be7b7868f":[1,1,8],
 "group___x_x_core.html":[1,2],
 "group___x_x_cpp.html":[1,3],
+"group___x_x_cpp.html#ga53fbb95f81ebe05d2ca4da22e8b6db52":[1,3,13],
+"group___x_x_cpp.html#gac254bec1e26fa1257d730012a2ee9914":[1,3,11],
+"group___x_x_cpp.html#gaf84b02e7fe0819b697de6cdfbe73d6bf":[1,3,12],
 "group___x_x_graph.html":[1,4],
 "group___x_x_gui.html":[1,5],
 "group___x_x_log.html":[1,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX4 =
 "group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c":[1,8,10,10],
 "group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baa5dc980db82c95da71cc7ebdb60406fb":[1,8,10,2],
 "group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baa727daf9fa4c29d7bba10953b99ad548":[1,8,10,3],
-"group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b":[1,8,10,11]
+"group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b":[1,8,10,11],
+"group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baad2c256cdf1df3bfc3e3814a3f2ee22f":[1,8,10,14]
 };

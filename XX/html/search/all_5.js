@@ -26,6 +26,5 @@ var searchData=
   ['fromspherical_23',['fromSpherical',['../class_x_x_1_1_math_1_1_vector3.html#a76f108d3e242531fd7d7548ba9a5cbf5',1,'XX::Math::Vector3']]],
   ['fromtick_24',['fromTick',['../class_x_x_1_1_midi_1_1_sequence.html#a872ae867623bc50ce7ba5715c4824fcb',1,'XX::Midi::Sequence']]],
   ['fromvoltage_25',['fromVoltage',['../class_x_x_1_1_note.html#a778634193466602a3cdc909128cabe60',1,'XX::Note']]],
-  ['fs_26',['Fs',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeaf54ee5a4c24acfba8421953ff09322ac',1,'XX::Note']]],
-  ['functions_27',['Functions',['../group___functions.html',1,'']]]
+  ['fs_26',['Fs',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eeaf54ee5a4c24acfba8421953ff09322ac',1,'XX::Note']]]
 ];

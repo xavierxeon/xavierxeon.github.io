@@ -1,7 +1,6 @@
 var group___x_x_cpp =
 [
     [ "CompilerTests", "group___compiler_tests.html", "group___compiler_tests" ],
-    [ "Functions", "group___functions.html", "group___functions" ],
     [ "XX::Function::CallerClass", "concept_x_x_1_1_function_1_1_caller_class.html", null ],
     [ "XX::CompileTimeString&lt; N &gt;", "struct_x_x_1_1_compile_time_string.html", [
       [ "CompileTimeString", "struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210", null ],
@@ -78,5 +77,8 @@ var group___x_x_cpp =
       [ "operator=", "struct_x_x_1_1_size.html#a2bee146e8f8356c6f72dca4251b2acd6", null ],
       [ "height", "struct_x_x_1_1_size.html#a3204dc7cbd03b589e9ad666599befce5", null ],
       [ "width", "struct_x_x_1_1_size.html#a0ee40abda9a2705b9194b729d9d7a6f0", null ]
-    ] ]
+    ] ],
+    [ "XX::Range::clamp", "group___x_x_cpp.html#gac254bec1e26fa1257d730012a2ee9914", null ],
+    [ "XX::Range::max", "group___x_x_cpp.html#gaf84b02e7fe0819b697de6cdfbe73d6bf", null ],
+    [ "XX::Range::min", "group___x_x_cpp.html#ga53fbb95f81ebe05d2ca4da22e8b6db52", null ]
 ];
