@@ -30,7 +30,7 @@ var NAVTREE =
       [ "mocing Qt classes in cpp files", "index.html#autotoc_md2", null ]
     ] ],
     [ "XX Core Component", "_x_x_core.html", [
-      [ "XX Core", "_x_x_core.html#autotoc_md3", null ]
+      [ "XX Core", "_x_x_core.html#autotoc_md5", null ]
     ] ],
     [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
@@ -79,8 +79,8 @@ var NAVTREEINDEX =
 "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1d89ed6d84f55ad2dc610e448d4412f7",
 "class_x_x_1_1_rest_api_1_1_async.html#a3f1aa24b9aad74c6bfc365cb6b94d456",
 "class_x_x_1_1_shallow_crypt.html#a8736f1812378ea28f1a07b5bec18da4e",
-"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480",
-"struct_x_x_1_1_midi_1_1_sequence_1_1_track.html#a127fd5eb1a07b2eebf680baae18ee56a"
+"namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a92bf89f1ab6b5eb4ddd181b07a124014",
+"struct_x_x_1_1_midi_1_1_sequence_1_1_track.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
