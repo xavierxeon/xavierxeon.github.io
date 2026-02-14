@@ -10,6 +10,22 @@ var group___x_x_audio =
       [ "inverse", "class_x_x_1_1_fast_fourier_transfrom.html#af17fb51f2dadd8cf9d9716d0913e2172", null ],
       [ "strip", "class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a", null ]
     ] ],
+    [ "XX::Sample::Meta", "struct_x_x_1_1_sample_1_1_meta.html", [
+      [ "noOfSamplesPerChannel", "struct_x_x_1_1_sample_1_1_meta.html#aed5d786c4d761f1eafa0d469198d22c2", null ],
+      [ "totalLength", "struct_x_x_1_1_sample_1_1_meta.html#a75cae8fa59453f6badb2ea055ffb29fa", null ],
+      [ "noOfChannels", "struct_x_x_1_1_sample_1_1_meta.html#aded14d6ef518068d133d0141dcad09aa", null ],
+      [ "numberOfSamples", "struct_x_x_1_1_sample_1_1_meta.html#a80bf62d61ccbe567e7e9d861d0bd95aa", null ],
+      [ "sampleRate", "struct_x_x_1_1_sample_1_1_meta.html#af702c3e7150d261740faa12d68f4850f", null ]
+    ] ],
+    [ "XX::Sample::Abstract", "class_x_x_1_1_sample_1_1_abstract.html", [
+      [ "Abstract", "class_x_x_1_1_sample_1_1_abstract.html#a5b1798b22f3bd3e07dd66156da385e7d", null ],
+      [ "deinterlace", "class_x_x_1_1_sample_1_1_abstract.html#a44aecdb147b199f29c2d120d1eccf1e0", null ],
+      [ "interlace", "class_x_x_1_1_sample_1_1_abstract.html#a7463ed19ad96530801c24ce11fe832a2", null ],
+      [ "load", "class_x_x_1_1_sample_1_1_abstract.html#adac48d90ed55212c51a1df864013ebc4", null ],
+      [ "save", "class_x_x_1_1_sample_1_1_abstract.html#a227d820caa50c0741362d50cf3f90274", null ],
+      [ "interlacedContent", "class_x_x_1_1_sample_1_1_abstract.html#a2622d28e51e7ccea33c7d194e247037b", null ],
+      [ "meta", "class_x_x_1_1_sample_1_1_abstract.html#ae1fb7da1d12360848e061857d791b29f", null ]
+    ] ],
     [ "XX::Sample::Reader", "class_x_x_1_1_sample_1_1_reader.html", [
       [ "Reader", "class_x_x_1_1_sample_1_1_reader.html#a7c5575d60e44eb58fdb39961e0ca933b", null ],
       [ "advancePlayhead", "class_x_x_1_1_sample_1_1_reader.html#aed33be81fe882a0623d79b9865d937b3", null ],
