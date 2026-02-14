@@ -2,7 +2,7 @@ var dir_0d30db7ceb4aa70272b36dee8805772c =
 [
     [ "src", "dir_7eeb0020e24b6bea9562eacd43100b03.html", "dir_7eeb0020e24b6bea9562eacd43100b03" ],
     [ "src_os", "dir_9e7d6da2f4d3f7e350a320ead9b7e904.html", "dir_9e7d6da2f4d3f7e350a320ead9b7e904" ],
-    [ "XXLocalTextBrowser.h", "_x_x_local_text_browser_8h.html", "_x_x_local_text_browser_8h" ],
+    [ "XXLocalTextBrowser.h", "_x_x_local_text_browser_8h.html", null ],
     [ "XXLook.h", "_x_x_look_8h.html", "_x_x_look_8h" ],
     [ "XXManagedGraphicsView.h", "_x_x_managed_graphics_view_8h.html", "_x_x_managed_graphics_view_8h" ],
     [ "XXManagedGraphicsView.hpp", "_x_x_managed_graphics_view_8hpp.html", null ],
