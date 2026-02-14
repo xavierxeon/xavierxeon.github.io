@@ -99,21 +99,74 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-nested-classes" class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:Device" id="r_Device"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_device.html">Device</a></td></tr>
 <tr class="memitem:Manufacturer" id="r_Manufacturer"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_manufacturer.html">Manufacturer</a></td></tr>
-<tr class="memitem:Parser" id="r_Parser"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_midi_1_1_parser.html">Parser</a></td></tr>
-<tr class="memitem:Sequence" id="r_Sequence"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_midi_1_1_sequence.html">Sequence</a></td></tr>
+<tr class="memitem:Device" id="r_Device"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_device.html">Device</a></td></tr>
 <tr class="memitem:Variables" id="r_Variables"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_variables.html">Variables</a></td></tr>
+<tr class="memitem:Sequence" id="r_Sequence"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_midi_1_1_sequence.html">Sequence</a></td></tr>
+<tr class="memitem:Parser" id="r_Parser"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_midi_1_1_parser.html">Parser</a></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-typedef-members" class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
 <tr class="memitem:ae42d57082414b53270c60b6b31d4eb76" id="r_ae42d57082414b53270c60b6b31d4eb76"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#ae42d57082414b53270c60b6b31d4eb76">Channel</a> = uchar</td></tr>
-<tr class="memitem:ab0bfeaefd7b3cd3db01210779928c39d" id="r_ab0bfeaefd7b3cd3db01210779928c39d"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#ab0bfeaefd7b3cd3db01210779928c39d">MessageList</a> = QList&lt;<a class="el" href="namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b">Bytes</a>&gt;</td></tr>
-<tr class="memitem:aecb80be4244bb843179d23f581bf9a9c" id="r_aecb80be4244bb843179d23f581bf9a9c"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#aecb80be4244bb843179d23f581bf9a9c">SongPosition</a> = uint16_t</td></tr>
 <tr class="memitem:a0d0b787ffb059b01adf247d615255a68" id="r_a0d0b787ffb059b01adf247d615255a68"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#a0d0b787ffb059b01adf247d615255a68">Velocity</a> = uchar</td></tr>
+<tr class="memitem:aecb80be4244bb843179d23f581bf9a9c" id="r_aecb80be4244bb843179d23f581bf9a9c"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#aecb80be4244bb843179d23f581bf9a9c">SongPosition</a> = uint16_t</td></tr>
+<tr class="memitem:ab0bfeaefd7b3cd3db01210779928c39d" id="r_ab0bfeaefd7b3cd3db01210779928c39d"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#ab0bfeaefd7b3cd3db01210779928c39d">MessageList</a> = QList&lt;<a class="el" href="namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b">Bytes</a>&gt;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-enum-members" class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
+<tr class="memitem:aa8ece5ab9c5517636399c072b1177642" id="r_aa8ece5ab9c5517636399c072b1177642"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#aa8ece5ab9c5517636399c072b1177642">Event</a> : uchar { <br />
+&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642ad6e1c29e5bef372493e0c27880ace595">Unknown</a> = 0x00
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c">NoteOff</a> = 0x80
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc">NoteOn</a> = 0x90
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7e1c727035ab88a758fc26b881ef3562">PolyKeyPressure</a> = 0xA0
+, <br />
+&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee">ControlChange</a> = 0xB0
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ab3b12ac9f01eae7568559e2876afb39e">ProgrammChange</a> = 0xC0
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da">ChannelPressure</a> = 0xD0
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471">PitchBend</a> = 0xE0
+, <br />
+&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd">System</a> = 0xF0
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611">QuarterFrame</a> = 0xF1
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a9cd575a7d72207d4d5e3c92d98d75b65">SongPositionPointer</a> = 0xF2
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a673da58d5726d7cc5a2b56b77bff3a96">SongSelect</a> = 0xF3
+, <br />
+&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642aa74c5dc9a1f660252e0c390e955c8224">TuneRequest</a> = 0xF6
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1">SysExEnd</a> = 0xF7
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a954ee1363239abbf48ff67a65eec80ff">Clock</a> = 0xF8
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a4bc0794c6c4921c25c2fc6ea192562a9">UndefinedA</a> = 0xF9
+, <br />
+&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a38f62592cd48f5686cc08e05a1101275">Start</a> = 0xFA
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f">Continue</a> = 0xFB
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494">Stop</a> = 0xFC
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642aa027ec828cf4250107e1fc6647eb7fc2">UndefinedB</a> = 0xFD
+, <br />
+&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5">ActiveSensinig</a> = 0xFE
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a9c1b241e3a63257969315261f8b5de17">Reset</a> = 0xFF
+, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ab94ccd9bcd4739f7f0057a7a612c4e56">Meta</a> = 0xFF
+<br />
+ }</td></tr>
+<tr class="memitem:a18cd02eb3b8339a104b37ec426b22c1b" id="r_a18cd02eb3b8339a104b37ec426b22c1b"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1b">MetaEvent</a> : uchar { <br />
+&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692">MetaUnkown</a> = 0x00
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba5b1a7fcf1c14c448a5dc439f533722ec">Text</a> = 0x01
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baa5dc980db82c95da71cc7ebdb60406fb">Copyright</a> = 0x02
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baa727daf9fa4c29d7bba10953b99ad548">TrackName</a> = 0x03
+, <br />
+&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba18c307af7bd33cad842504660f763eca">InstrumentName</a> = 0x04
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12">Lyric</a> = 0x05
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f">Marker</a> = 0x06
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741">CuePoint</a> = 0x07
+, <br />
+&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bae4a38b07b2b7940e9a4486c0c70df668">ChannelPrefix</a> = 0x20
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5">MidiPort</a> = 0x21
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c">EndOfTrack</a> = 0x2f
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b">LiveTag</a> = 0x48
+, <br />
+&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baf10ac25196f7f5534769fe92ac6bb4ee">Tempo</a> = 0x51
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bab8b61a48b2dae09bc1e0e1a0bdc25e45">SMPTEOffset</a> = 0x54
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baad2c256cdf1df3bfc3e3814a3f2ee22f">TimeSignature</a> = 0x58
+, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69">KeySignature</a> = 0x59
+<br />
+ }</td></tr>
 <tr class="memitem:a0bdc0a7397c27b212f13e10448181cf5" id="r_a0bdc0a7397c27b212f13e10448181cf5"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> : uchar { <br />
 &#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5ad6676a2286ace56c33b53ea569d4fcc3">BankSelect</a> = 0x00
 , <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df">ModWheel</a> = 0x01
@@ -178,59 +231,6 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d">AllNotesOff</a> = 0x78
 <br />
  }</td></tr>
-<tr class="memitem:aa8ece5ab9c5517636399c072b1177642" id="r_aa8ece5ab9c5517636399c072b1177642"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#aa8ece5ab9c5517636399c072b1177642">Event</a> : uchar { <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642ad6e1c29e5bef372493e0c27880ace595">Unknown</a> = 0x00
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c">NoteOff</a> = 0x80
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc">NoteOn</a> = 0x90
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7e1c727035ab88a758fc26b881ef3562">PolyKeyPressure</a> = 0xA0
-, <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee">ControlChange</a> = 0xB0
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ab3b12ac9f01eae7568559e2876afb39e">ProgrammChange</a> = 0xC0
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da">ChannelPressure</a> = 0xD0
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471">PitchBend</a> = 0xE0
-, <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd">System</a> = 0xF0
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611">QuarterFrame</a> = 0xF1
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a9cd575a7d72207d4d5e3c92d98d75b65">SongPositionPointer</a> = 0xF2
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a673da58d5726d7cc5a2b56b77bff3a96">SongSelect</a> = 0xF3
-, <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642aa74c5dc9a1f660252e0c390e955c8224">TuneRequest</a> = 0xF6
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1">SysExEnd</a> = 0xF7
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a954ee1363239abbf48ff67a65eec80ff">Clock</a> = 0xF8
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a4bc0794c6c4921c25c2fc6ea192562a9">UndefinedA</a> = 0xF9
-, <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a38f62592cd48f5686cc08e05a1101275">Start</a> = 0xFA
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f">Continue</a> = 0xFB
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494">Stop</a> = 0xFC
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642aa027ec828cf4250107e1fc6647eb7fc2">UndefinedB</a> = 0xFD
-, <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5">ActiveSensinig</a> = 0xFE
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a9c1b241e3a63257969315261f8b5de17">Reset</a> = 0xFF
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ab94ccd9bcd4739f7f0057a7a612c4e56">Meta</a> = 0xFF
-<br />
- }</td></tr>
-<tr class="memitem:a18cd02eb3b8339a104b37ec426b22c1b" id="r_a18cd02eb3b8339a104b37ec426b22c1b"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1b">MetaEvent</a> : uchar { <br />
-&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692">MetaUnkown</a> = 0x00
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba5b1a7fcf1c14c448a5dc439f533722ec">Text</a> = 0x01
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baa5dc980db82c95da71cc7ebdb60406fb">Copyright</a> = 0x02
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baa727daf9fa4c29d7bba10953b99ad548">TrackName</a> = 0x03
-, <br />
-&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba18c307af7bd33cad842504660f763eca">InstrumentName</a> = 0x04
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12">Lyric</a> = 0x05
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f">Marker</a> = 0x06
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741">CuePoint</a> = 0x07
-, <br />
-&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bae4a38b07b2b7940e9a4486c0c70df668">ChannelPrefix</a> = 0x20
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5">MidiPort</a> = 0x21
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c">EndOfTrack</a> = 0x2f
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b">LiveTag</a> = 0x48
-, <br />
-&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baf10ac25196f7f5534769fe92ac6bb4ee">Tempo</a> = 0x51
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bab8b61a48b2dae09bc1e0e1a0bdc25e45">SMPTEOffset</a> = 0x54
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baad2c256cdf1df3bfc3e3814a3f2ee22f">TimeSignature</a> = 0x58
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69">KeySignature</a> = 0x59
-<br />
- }</td></tr>
 <tr class="memitem:a4907018c2d5df785a36a3593fae4b1b4" id="r_a4907018c2d5df785a36a3593fae4b1b4"><td class="memItemLeft">enum class &#160;</td><td class="memItemRight"><a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4">Playback</a> : uchar { <a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37">Start</a>
 , <a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe">Continue</a>
 , <a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481">Stop</a>
@@ -238,8 +238,8 @@ Enumerations</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a081cb6134319ccd7a26aaa523a730604" id="r_a081cb6134319ccd7a26aaa523a730604"><td class="memItemLeft"><a class="el" href="_x_x_music_export_def_8h.html#a2aa63626802fa4d0af5f3cc9142409a1">XXMUSIC_DECLSPEC</a> bool&#160;</td><td class="memItemRight"><a class="el" href="#a081cb6134319ccd7a26aaa523a730604">hasFirstBit</a> (const uchar value)</td></tr>
 <tr class="memitem:ad4b209e4c5471436061af53bb927a15c" id="r_ad4b209e4c5471436061af53bb927a15c"><td class="memItemLeft"><a class="el" href="_x_x_music_export_def_8h.html#a2aa63626802fa4d0af5f3cc9142409a1">XXMUSIC_DECLSPEC</a> bool&#160;</td><td class="memItemRight"><a class="el" href="#ad4b209e4c5471436061af53bb927a15c">isEvent</a> (const uchar value, const <a class="el" href="#aa8ece5ab9c5517636399c072b1177642">Midi::Event</a> mask)</td></tr>
+<tr class="memitem:a081cb6134319ccd7a26aaa523a730604" id="r_a081cb6134319ccd7a26aaa523a730604"><td class="memItemLeft"><a class="el" href="_x_x_music_export_def_8h.html#a2aa63626802fa4d0af5f3cc9142409a1">XXMUSIC_DECLSPEC</a> bool&#160;</td><td class="memItemRight"><a class="el" href="#a081cb6134319ccd7a26aaa523a730604">hasFirstBit</a> (const uchar value)</td></tr>
 <tr class="memitem:a7e955af924f02d22eb97ce77c856e519" id="r_a7e955af924f02d22eb97ce77c856e519"><td class="memItemLeft"><a class="el" href="_x_x_music_export_def_8h.html#a2aa63626802fa4d0af5f3cc9142409a1">XXMUSIC_DECLSPEC</a> uchar&#160;</td><td class="memItemRight"><a class="el" href="#a7e955af924f02d22eb97ce77c856e519">removeFirstBit</a> (const uchar value)</td></tr>
 </table>
 <a name="doc-typedef-members" id="doc-typedef-members"></a><h2 id="header-doc-typedef-members" class="groupheader">Typedef Documentation</h2>

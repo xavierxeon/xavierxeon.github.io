@@ -1,7 +1,7 @@
 var namespace_x_x_1_1_sample =
 [
-    [ "Abstract", "class_x_x_1_1_sample_1_1_abstract.html", "class_x_x_1_1_sample_1_1_abstract" ],
     [ "Meta", "struct_x_x_1_1_sample_1_1_meta.html", "struct_x_x_1_1_sample_1_1_meta" ],
+    [ "Abstract", "class_x_x_1_1_sample_1_1_abstract.html", "class_x_x_1_1_sample_1_1_abstract" ],
     [ "Reader", "class_x_x_1_1_sample_1_1_reader.html", "class_x_x_1_1_sample_1_1_reader" ],
     [ "Wave", "class_x_x_1_1_sample_1_1_wave.html", "class_x_x_1_1_sample_1_1_wave" ],
     [ "Writer", "class_x_x_1_1_sample_1_1_writer.html", "class_x_x_1_1_sample_1_1_writer" ],
