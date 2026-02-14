@@ -18,7 +18,7 @@ var searchData=
   ['rememberinit_15',['RememberInit',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a11a0bf62d0862a61305e3c13e7b41ebb',1,'XX::Midi']]],
   ['rememberrequest_16',['RememberRequest',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a5c5f37e6521748230ff49355055c2cd0',1,'XX::Midi']]],
   ['removeedge_17',['removeEdge',['../class_x_x_1_1_graph.html#af39818d41a60badf2d0ac140bdadc003',1,'XX::Graph']]],
-  ['removefirstbit_18',['removeFirstBit',['../group___functions.html#ga7e955af924f02d22eb97ce77c856e519',1,'XX::Midi']]],
+  ['removefirstbit_18',['removeFirstBit',['../group___x_x_music.html#ga7e955af924f02d22eb97ce77c856e519',1,'XX::Midi']]],
   ['removerow_19',['removeRow',['../class_x_x_1_1_matrix.html#abd38782becbd834f51b2a8881928dcd5',1,'XX::Matrix']]],
   ['removesocket_20',['removeSocket',['../class_x_x_1_1_secure_network_1_1_server.html#adcf01b5b4ccf4609da29e719ea3cec2e',1,'XX::SecureNetwork::Server']]],
   ['removevertex_21',['removeVertex',['../class_x_x_1_1_graph.html#a979f8f9848eaaf063d0248635ed19089',1,'XX::Graph']]],

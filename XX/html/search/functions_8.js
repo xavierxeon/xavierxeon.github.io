@@ -8,7 +8,7 @@ var searchData=
   ['inverse_5',['inverse',['../class_x_x_1_1_fast_fourier_transfrom.html#af17fb51f2dadd8cf9d9716d0913e2172',1,'XX::FastFourierTransfrom']]],
   ['isactive_6',['isActive',['../class_x_x_1_1_scale.html#afcf8024fe8beb9cd87c1333e0698ae92',1,'XX::Scale']]],
   ['isblackkey_7',['isBlackKey',['../class_x_x_1_1_note.html#a755375a27f8f90e94ac18909d202ebba',1,'XX::Note']]],
-  ['isevent_8',['isEvent',['../group___functions.html#gad4b209e4c5471436061af53bb927a15c',1,'XX::Midi']]],
+  ['isevent_8',['isEvent',['../group___x_x_music.html#gad4b209e4c5471436061af53bb927a15c',1,'XX::Midi']]],
   ['isinsubnet_9',['isInSubnet',['../struct_x_x_1_1_network_1_1_tools.html#a0db0b073cb5a7d29c959614b6eb02c9f',1,'XX::Network::Tools']]],
   ['isnull_10',['isNull',['../class_x_x_1_1_auth_provider_1_1_token.html#a630a106b5500e390f48fb45609c80417',1,'XX::AuthProvider::Token']]],
   ['isopen_11',['isOpen',['../class_x_x_1_1_midi_1_1_interface_1_1_input.html#ac98797b45b31694df92f7f5a81823eae',1,'XX::Midi::Interface::Input::isOpen()'],['../class_x_x_1_1_midi_1_1_interface_1_1_output.html#a26ab72585ab2e63a313472d397c83ec4',1,'XX::Midi::Interface::Output::isOpen()']]],

@@ -105,8 +105,8 @@ var _x_x_midi_common_8h =
       [ "XX::Midi::Playback::Continue", "group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe", null ],
       [ "XX::Midi::Playback::Stop", "group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481", null ]
     ] ],
-    [ "XX::Midi::hasFirstBit", "group___functions.html#ga081cb6134319ccd7a26aaa523a730604", null ],
-    [ "XX::Midi::isEvent", "group___functions.html#gad4b209e4c5471436061af53bb927a15c", null ],
+    [ "XX::Midi::hasFirstBit", "group___x_x_music.html#ga081cb6134319ccd7a26aaa523a730604", null ],
+    [ "XX::Midi::isEvent", "group___x_x_music.html#gad4b209e4c5471436061af53bb927a15c", null ],
     [ "XX::operator<<", "group___x_x_music.html#ga296f233be1769cc07840d3e20c833544", null ],
-    [ "XX::Midi::removeFirstBit", "group___functions.html#ga7e955af924f02d22eb97ce77c856e519", null ]
+    [ "XX::Midi::removeFirstBit", "group___x_x_music.html#ga7e955af924f02d22eb97ce77c856e519", null ]
 ];

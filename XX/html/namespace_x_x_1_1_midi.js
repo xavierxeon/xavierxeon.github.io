@@ -110,7 +110,7 @@ var namespace_x_x_1_1_midi =
       [ "Continue", "group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe", null ],
       [ "Stop", "group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481", null ]
     ] ],
-    [ "hasFirstBit", "group___functions.html#ga081cb6134319ccd7a26aaa523a730604", null ],
-    [ "isEvent", "group___functions.html#gad4b209e4c5471436061af53bb927a15c", null ],
-    [ "removeFirstBit", "group___functions.html#ga7e955af924f02d22eb97ce77c856e519", null ]
+    [ "hasFirstBit", "group___x_x_music.html#ga081cb6134319ccd7a26aaa523a730604", null ],
+    [ "isEvent", "group___x_x_music.html#gad4b209e4c5471436061af53bb927a15c", null ],
+    [ "removeFirstBit", "group___x_x_music.html#ga7e955af924f02d22eb97ce77c856e519", null ]
 ];

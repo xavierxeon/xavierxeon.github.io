@@ -97,10 +97,6 @@ $(function(){initNavTree('group___x_x_music.html','',''); });
 <a name="details" id="details"></a><h2 id="header-details" class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>music related classes </p>
 </div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-groups" class="groupheader"><a id="groups" name="groups"></a>
-Topics</h2></td></tr>
-<tr class="memitem:Functions" id="r_Functions"><td class="memItemLeft">&#160;</td><td class="memItemRight"><a class="el" href="group___functions.html">Functions</a></td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-nested-classes" class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:XX_3A_3AMidi_3A_3AManufacturer" id="r_XX_3A_3AMidi_3A_3AManufacturer"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_manufacturer.html">XX::Midi::Manufacturer</a></td></tr>
@@ -119,6 +115,9 @@ Typedefs</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ga296f233be1769cc07840d3e20c833544" id="r_ga296f233be1769cc07840d3e20c833544"><td class="memItemLeft"><a class="el" href="#gabbb40212d748e2392ad5e7e290a31e9b">Bytes</a> &amp;&#160;</td><td class="memItemRight"><a class="el" href="#ga296f233be1769cc07840d3e20c833544">XX::operator&lt;&lt;</a> (<a class="el" href="#gabbb40212d748e2392ad5e7e290a31e9b">Bytes</a> &amp;data, const uchar &amp;byte)</td></tr>
+<tr class="memitem:gad4b209e4c5471436061af53bb927a15c" id="r_gad4b209e4c5471436061af53bb927a15c"><td class="memItemLeft">bool&#160;</td><td class="memItemRight"><a class="el" href="#gad4b209e4c5471436061af53bb927a15c">XX::Midi::isEvent</a> (const uchar value, const <a class="el" href="#gaa8ece5ab9c5517636399c072b1177642">Midi::Event</a> mask)</td></tr>
+<tr class="memitem:ga081cb6134319ccd7a26aaa523a730604" id="r_ga081cb6134319ccd7a26aaa523a730604"><td class="memItemLeft">bool&#160;</td><td class="memItemRight"><a class="el" href="#ga081cb6134319ccd7a26aaa523a730604">XX::Midi::hasFirstBit</a> (const uchar value)</td></tr>
+<tr class="memitem:ga7e955af924f02d22eb97ce77c856e519" id="r_ga7e955af924f02d22eb97ce77c856e519"><td class="memItemLeft">uchar&#160;</td><td class="memItemRight"><a class="el" href="#ga7e955af924f02d22eb97ce77c856e519">XX::Midi::removeFirstBit</a> (const uchar value)</td></tr>
 </table>
 <a name="doc-typedef-members" id="doc-typedef-members"></a><h2 id="header-doc-typedef-members" class="groupheader">Typedef Documentation</h2>
 <a id="gabbb40212d748e2392ad5e7e290a31e9b" name="gabbb40212d748e2392ad5e7e290a31e9b"></a>
@@ -402,6 +401,44 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Function Documentation</h2>
+<a id="ga081cb6134319ccd7a26aaa523a730604" name="ga081cb6134319ccd7a26aaa523a730604"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga081cb6134319ccd7a26aaa523a730604">&#9670;&#160;</a></span>hasFirstBit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool XX::Midi::hasFirstBit </td>
+          <td>(</td>
+          <td class="paramtype">const uchar</td>          <td class="paramname"><span class="paramname"><em>value</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="gad4b209e4c5471436061af53bb927a15c" name="gad4b209e4c5471436061af53bb927a15c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gad4b209e4c5471436061af53bb927a15c">&#9670;&#160;</a></span>isEvent()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool XX::Midi::isEvent </td>
+          <td>(</td>
+          <td class="paramtype">const uchar</td>          <td class="paramname"><span class="paramname"><em>value</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="#gaa8ece5ab9c5517636399c072b1177642">Midi::Event</a></td>          <td class="paramname"><span class="paramname"><em>mask</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ga296f233be1769cc07840d3e20c833544" name="ga296f233be1769cc07840d3e20c833544"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ga296f233be1769cc07840d3e20c833544">&#9670;&#160;</a></span>operator&lt;&lt;()</h2>
 
@@ -417,6 +454,23 @@ Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const uchar &amp;</td>          <td class="paramname"><span class="paramname"><em>byte</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ga7e955af924f02d22eb97ce77c856e519" name="ga7e955af924f02d22eb97ce77c856e519"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga7e955af924f02d22eb97ce77c856e519">&#9670;&#160;</a></span>removeFirstBit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uchar XX::Midi::removeFirstBit </td>
+          <td>(</td>
+          <td class="paramtype">const uchar</td>          <td class="paramname"><span class="paramname"><em>value</em></span></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">

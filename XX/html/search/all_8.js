@@ -20,7 +20,7 @@ var searchData=
   ['ipadpro13_17',['iPadPro13',['../class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dad85eeff65a9c76421b5988f7bced8306',1,'XX::DeviceTools']]],
   ['isactive_18',['isActive',['../class_x_x_1_1_scale.html#afcf8024fe8beb9cd87c1333e0698ae92',1,'XX::Scale']]],
   ['isblackkey_19',['isBlackKey',['../class_x_x_1_1_note.html#a755375a27f8f90e94ac18909d202ebba',1,'XX::Note']]],
-  ['isevent_20',['isEvent',['../group___functions.html#gad4b209e4c5471436061af53bb927a15c',1,'XX::Midi']]],
+  ['isevent_20',['isEvent',['../group___x_x_music.html#gad4b209e4c5471436061af53bb927a15c',1,'XX::Midi']]],
   ['isfloattype_21',['isFloatType',['../group___compiler_tests.html#gaedd13f6317d564d69aaab085caf5a3f7',1,'XX']]],
   ['isinsubnet_22',['isInSubnet',['../struct_x_x_1_1_network_1_1_tools.html#a0db0b073cb5a7d29c959614b6eb02c9f',1,'XX::Network::Tools']]],
   ['isintegertype_23',['isIntegerType',['../group___compiler_tests.html#gadeaf1c71a80b637e952a3c88bcd8f1b7',1,'XX']]],

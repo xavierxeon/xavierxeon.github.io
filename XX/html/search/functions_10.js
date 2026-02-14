@@ -8,7 +8,7 @@ var searchData=
   ['readpassword_5',['readPassword',['../class_x_x_1_1_secure_network_1_1_client.html#a07e3d7b5de1dc15dfff22cc25a5c92c4',1,'XX::SecureNetwork::Client']]],
   ['recentfiles_6',['RecentFiles',['../class_x_x_1_1_recent_files.html#a4c51d0f883b32c8d6ccd629410aa0347',1,'XX::RecentFiles']]],
   ['removeedge_7',['removeEdge',['../class_x_x_1_1_graph.html#af39818d41a60badf2d0ac140bdadc003',1,'XX::Graph']]],
-  ['removefirstbit_8',['removeFirstBit',['../group___functions.html#ga7e955af924f02d22eb97ce77c856e519',1,'XX::Midi']]],
+  ['removefirstbit_8',['removeFirstBit',['../group___x_x_music.html#ga7e955af924f02d22eb97ce77c856e519',1,'XX::Midi']]],
   ['removerow_9',['removeRow',['../class_x_x_1_1_matrix.html#abd38782becbd834f51b2a8881928dcd5',1,'XX::Matrix']]],
   ['removesocket_10',['removeSocket',['../class_x_x_1_1_secure_network_1_1_server.html#adcf01b5b4ccf4609da29e719ea3cec2e',1,'XX::SecureNetwork::Server']]],
   ['removevertex_11',['removeVertex',['../class_x_x_1_1_graph.html#a979f8f9848eaaf063d0248635ed19089',1,'XX::Graph']]],
