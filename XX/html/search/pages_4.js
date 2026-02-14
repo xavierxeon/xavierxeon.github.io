@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['package_0',['Package',['../index.html',1,'XX CMake Package'],['../index.html#autotoc_md0',1,'XX CMake Package']]]
+  ['in_20cpp_20files_0',['mocing Qt classes in cpp files',['../index.html#autotoc_md2',1,'']]],
+  ['install_1',['install',['../index.html#autotoc_md1',1,'']]]
 ];

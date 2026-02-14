@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['classes_20in_20cpp_20files_0',['mocing Qt classes in cpp files',['../index.html#autotoc_md2',1,'']]],
-  ['cmake_20package_1',['CMake Package',['../index.html',1,'XX CMake Package'],['../index.html#autotoc_md0',1,'XX CMake Package']]],
-  ['cpp_20files_2',['mocing Qt classes in cpp files',['../index.html#autotoc_md2',1,'']]]
+  ['a_20framework_20for_20a_20qwidget_20based_20application_0',['a framework for a QWidget based application',['../group___x_x_application.html#autotoc_md3',1,'']]],
+  ['a_20qwidget_20based_20application_1',['a framework for a QWidget based application',['../group___x_x_application.html#autotoc_md3',1,'']]],
+  ['application_2',['a framework for a QWidget based application',['../group___x_x_application.html#autotoc_md3',1,'']]]
 ];

@@ -6,5 +6,6 @@ var searchData=
   ['quantize_3',['quantize',['../class_x_x_1_1_scale.html#a785b477e295235dee6eb85b7cec457b4',1,'XX::Scale']]],
   ['quarter_4',['quarter',['../class_x_x_1_1_time_code.html#a095e35b787003865b5145dd01b50eead',1,'XX::TimeCode']]],
   ['quarterframe_5',['QuarterFrame',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611',1,'XX::Midi']]],
-  ['quaternion_6',['Quaternion',['../class_x_x_1_1_math_1_1_quaternion.html',1,'XX::Math::Quaternion'],['../class_x_x_1_1_math_1_1_quaternion.html#a33ba3b74bf4edfd517ec09fc6a644f45',1,'XX::Math::Quaternion::Quaternion()']]]
+  ['quaternion_6',['Quaternion',['../class_x_x_1_1_math_1_1_quaternion.html',1,'XX::Math::Quaternion'],['../class_x_x_1_1_math_1_1_quaternion.html#a33ba3b74bf4edfd517ec09fc6a644f45',1,'XX::Math::Quaternion::Quaternion()']]],
+  ['qwidget_20based_20application_7',['a framework for a QWidget based application',['../group___x_x_application.html#autotoc_md3',1,'']]]
 ];
