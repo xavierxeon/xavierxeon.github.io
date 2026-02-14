@@ -1,8 +1,5 @@
 var class_x_x_1_1_graph =
 [
-    [ "Algorithm", "class_x_x_1_1_graph_1_1_algorithm.html", "class_x_x_1_1_graph_1_1_algorithm" ],
-    [ "Edge", "class_x_x_1_1_graph_1_1_edge.html", "class_x_x_1_1_graph_1_1_edge" ],
-    [ "Vertex", "class_x_x_1_1_graph_1_1_vertex.html", "class_x_x_1_1_graph_1_1_vertex" ],
     [ "Graph", "class_x_x_1_1_graph.html#a0cb6ffca870faa33ab21ac8592f8c895", null ],
     [ "addEdge", "class_x_x_1_1_graph.html#ac3f11be098f34637088ef95e3dfc01cd", null ],
     [ "addVertex", "class_x_x_1_1_graph.html#a9b9c841df671550a023e040dda27141c", null ],
