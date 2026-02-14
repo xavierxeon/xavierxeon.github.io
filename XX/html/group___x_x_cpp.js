@@ -70,6 +70,13 @@ var group___x_x_cpp =
       [ "begin", "class_x_x_1_1_range_1_1_spread.html#aa727c056f8395b180f392fc736ad6ed0", null ],
       [ "end", "class_x_x_1_1_range_1_1_spread.html#a88b816d0894d740ed75e0aef3ace35cc", null ]
     ] ],
+    [ "XX::Size", "struct_x_x_1_1_size.html", [
+      [ "Size", "struct_x_x_1_1_size.html#affbcbe54d6be061833940db38615ac70", null ],
+      [ "isZero", "struct_x_x_1_1_size.html#a4db413a7cf3575db6c27197c56809bbf", null ],
+      [ "operator=", "struct_x_x_1_1_size.html#a2bee146e8f8356c6f72dca4251b2acd6", null ],
+      [ "height", "struct_x_x_1_1_size.html#a3204dc7cbd03b589e9ad666599befce5", null ],
+      [ "width", "struct_x_x_1_1_size.html#a0ee40abda9a2705b9194b729d9d7a6f0", null ]
+    ] ],
     [ "XX::isFloatType", "group___x_x_cpp.html#gaedd13f6317d564d69aaab085caf5a3f7", null ],
     [ "XX::isIntegerType", "group___x_x_cpp.html#gadeaf1c71a80b637e952a3c88bcd8f1b7", null ],
     [ "XX::isSigned", "group___x_x_cpp.html#ga785bbb775cb5374c07d3ad7958625aa6", null ],
