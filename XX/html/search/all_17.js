@@ -212,8 +212,9 @@ var searchData=
   ['xxtabstackwidget_2eh_209',['XXTabStackWidget.h',['../_x_x_tab_stack_widget_8h.html',1,'']]],
   ['xxtimecode_2ecpp_210',['XXTimeCode.cpp',['../_x_x_time_code_8cpp.html',1,'']]],
   ['xxtimecode_2eh_211',['XXTimeCode.h',['../_x_x_time_code_8h.html',1,'']]],
-  ['xxwidgets_212',['XXWidgets',['../group___x_x_widgets.html',1,'XXWidgets'],['../dir_0d30db7ceb4aa70272b36dee8805772c.html#autotoc_md12',1,'XXWidgets']]],
-  ['xxwidgets_5fdeclspec_213',['XXWIDGETS_DECLSPEC',['../_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c',1,'XXWidgetsExportDef.h']]],
-  ['xxwidgetsexportdef_2eh_214',['XXWidgetsExportDef.h',['../_x_x_widgets_export_def_8h.html',1,'']]],
-  ['xyb_215',['XYB',['../struct_x_x_1_1_color_space_1_1_x_y_b.html',1,'XX::ColorSpace']]]
+  ['xxwidgets_212',['XXWidgets',['../group___x_x_widgets.html',1,'XXWidgets'],['../md__x_x_widgets_2_x_x_widgets.html',1,'XXWidgets']]],
+  ['xxwidgets_2emd_213',['XXWidgets.md',['../_x_x_widgets_8md.html',1,'']]],
+  ['xxwidgets_5fdeclspec_214',['XXWIDGETS_DECLSPEC',['../_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c',1,'XXWidgetsExportDef.h']]],
+  ['xxwidgetsexportdef_2eh_215',['XXWidgetsExportDef.h',['../_x_x_widgets_export_def_8h.html',1,'']]],
+  ['xyb_216',['XYB',['../struct_x_x_1_1_color_space_1_1_x_y_b.html',1,'XX::ColorSpace']]]
 ];

@@ -176,5 +176,6 @@ var searchData=
   ['xxtabstackwidget_2eh_173',['XXTabStackWidget.h',['../_x_x_tab_stack_widget_8h.html',1,'']]],
   ['xxtimecode_2ecpp_174',['XXTimeCode.cpp',['../_x_x_time_code_8cpp.html',1,'']]],
   ['xxtimecode_2eh_175',['XXTimeCode.h',['../_x_x_time_code_8h.html',1,'']]],
-  ['xxwidgetsexportdef_2eh_176',['XXWidgetsExportDef.h',['../_x_x_widgets_export_def_8h.html',1,'']]]
+  ['xxwidgets_2emd_176',['XXWidgets.md',['../_x_x_widgets_8md.html',1,'']]],
+  ['xxwidgetsexportdef_2eh_177',['XXWidgetsExportDef.h',['../_x_x_widgets_export_def_8h.html',1,'']]]
 ];
