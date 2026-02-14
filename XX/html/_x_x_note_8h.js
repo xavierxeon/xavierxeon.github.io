@@ -1,4 +1,4 @@
 var _x_x_note_8h =
 [
-    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
+    [ "XX::Note", "class_x_x_1_1_note.html", "class_x_x_1_1_note" ]
 ];

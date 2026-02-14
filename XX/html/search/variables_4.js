@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['readonly_0',['readOnly',['../class_x_x_1_1_shared_data.html#ab09dac3746f59cd7c8794c5fd41627cf',1,'XX::SharedData']]]
+  ['educationaluse_0',['EducationalUse',['../struct_x_x_1_1_midi_1_1_manufacturer.html#a04e156821a7b609b8ac949c9a57522fb',1,'XX::Midi::Manufacturer']]],
+  ['el_1',['el',['../class_x_x_1_1_math_1_1_spherical.html#a883266289b1425cd482311ce3799edd1',1,'XX::Math::Spherical']]]
 ];

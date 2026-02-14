@@ -88,15 +88,11 @@ $(function(){initNavTree('group___functions.html','',''); });
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">Functions <div class="ingroups"><a class="el" href="group___x_x_cpp.html">Cpp</a></div></div></div>
+  <div class="headertitle"><div class="title">Functions <div class="ingroups"><a class="el" href="group___x_x_cpp.html">Cpp</a> &#124; <a class="el" href="group___x_x_music.html">Music</a></div></div></div>
 </div><!--header-->
 <div class="contents">
-
-<p>template test functions  
-<a href="#details">More...</a></p>
 <a name="details" id="details"></a><h2 id="header-details" class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>template test functions </p>
-</div><table class="memberdecls">
+<div class="textblock"></div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:gac254bec1e26fa1257d730012a2ee9914" id="r_gac254bec1e26fa1257d730012a2ee9914"><td class="memTemplParams" colspan="2">template&lt;typename DataType&gt; </td></tr>
@@ -108,6 +104,9 @@ Functions</h2></td></tr>
 <tr class="memitem:gaf84b02e7fe0819b697de6cdfbe73d6bf" id="r_gaf84b02e7fe0819b697de6cdfbe73d6bf"><td class="memTemplParams" colspan="2">template&lt;typename DataType&gt; </td></tr>
 <tr class="memitem:gaf84b02e7fe0819b697de6cdfbe73d6bf template"><td class="memItemLeft">static const DataType &amp;&#160;</td><td class="memItemRight"><a class="el" href="#gaf84b02e7fe0819b697de6cdfbe73d6bf">XX::Range::max</a> (const DataType &amp;value1, const DataType &amp;value2)</td></tr>
 <tr class="memdesc:gaf84b02e7fe0819b697de6cdfbe73d6bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">return the maximum of two values  <br /></td></tr>
+<tr class="memitem:gad4b209e4c5471436061af53bb927a15c" id="r_gad4b209e4c5471436061af53bb927a15c"><td class="memItemLeft">bool&#160;</td><td class="memItemRight"><a class="el" href="#gad4b209e4c5471436061af53bb927a15c">XX::Midi::isEvent</a> (const uchar value, const <a class="el" href="group___x_x_music.html#gaa8ece5ab9c5517636399c072b1177642">Midi::Event</a> mask)</td></tr>
+<tr class="memitem:ga081cb6134319ccd7a26aaa523a730604" id="r_ga081cb6134319ccd7a26aaa523a730604"><td class="memItemLeft">bool&#160;</td><td class="memItemRight"><a class="el" href="#ga081cb6134319ccd7a26aaa523a730604">XX::Midi::hasFirstBit</a> (const uchar value)</td></tr>
+<tr class="memitem:ga7e955af924f02d22eb97ce77c856e519" id="r_ga7e955af924f02d22eb97ce77c856e519"><td class="memItemLeft">uchar&#160;</td><td class="memItemRight"><a class="el" href="#ga7e955af924f02d22eb97ce77c856e519">XX::Midi::removeFirstBit</a> (const uchar value)</td></tr>
 </table>
 <a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Function Documentation</h2>
 <a id="gac254bec1e26fa1257d730012a2ee9914" name="gac254bec1e26fa1257d730012a2ee9914"></a>
@@ -145,6 +144,44 @@ template&lt;typename DataType&gt; </div>
 </div><div class="memdoc">
 
 <p>clamp a value to a range defined by a min and max value </p>
+
+</div>
+</div>
+<a id="ga081cb6134319ccd7a26aaa523a730604" name="ga081cb6134319ccd7a26aaa523a730604"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga081cb6134319ccd7a26aaa523a730604">&#9670;&#160;</a></span>hasFirstBit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool XX::Midi::hasFirstBit </td>
+          <td>(</td>
+          <td class="paramtype">const uchar</td>          <td class="paramname"><span class="paramname"><em>value</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="gad4b209e4c5471436061af53bb927a15c" name="gad4b209e4c5471436061af53bb927a15c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gad4b209e4c5471436061af53bb927a15c">&#9670;&#160;</a></span>isEvent()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool XX::Midi::isEvent </td>
+          <td>(</td>
+          <td class="paramtype">const uchar</td>          <td class="paramname"><span class="paramname"><em>value</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="group___x_x_music.html#gaa8ece5ab9c5517636399c072b1177642">Midi::Event</a></td>          <td class="paramname"><span class="paramname"><em>mask</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -211,6 +248,23 @@ template&lt;typename DataType&gt; </div>
 </div><div class="memdoc">
 
 <p>return the minimum of two values </p>
+
+</div>
+</div>
+<a id="ga7e955af924f02d22eb97ce77c856e519" name="ga7e955af924f02d22eb97ce77c856e519"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga7e955af924f02d22eb97ce77c856e519">&#9670;&#160;</a></span>removeFirstBit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uchar XX::Midi::removeFirstBit </td>
+          <td>(</td>
+          <td class="paramtype">const uchar</td>          <td class="paramname"><span class="paramname"><em>value</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>

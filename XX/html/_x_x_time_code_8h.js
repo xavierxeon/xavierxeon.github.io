@@ -1,4 +1,4 @@
 var _x_x_time_code_8h =
 [
-    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
+    [ "XX::TimeCode", "class_x_x_1_1_time_code.html", "class_x_x_1_1_time_code" ]
 ];

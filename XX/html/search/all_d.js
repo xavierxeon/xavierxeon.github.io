@@ -1,9 +1,16 @@
 var searchData=
 [
-  ['observe_0',['observe',['../class_x_x_1_1_range_1_1_finder.html#a358cef01b4bc6905e610c27d1fa936ab',1,'XX::Range::Finder']]],
-  ['operator_21_3d_1',['operator!=',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a86772de10ab7af29117c0f88acd19eaa',1,'XX::Range::Spread::Iterator']]],
-  ['operator_2a_2',['operator*',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a4efb551d3b709f2a55237b8466cf60dc',1,'XX::Range::Spread::Iterator']]],
-  ['operator_2b_2b_3',['operator++',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a050177cb76fe9d69e3b8717c5d78adee',1,'XX::Range::Spread::Iterator']]],
-  ['operator_3c_3c_4',['operator&lt;&lt;',['../group___streaming.html#gaf91eb590c0e526deedeccef8db6111ee',1,'XX::Math::operator&lt;&lt;(std::ostream &amp;out, const Spherical &amp;value)'],['../group___streaming.html#ga4ef0baf5907106c7521796a0d0c6ff42',1,'XX::Math::operator&lt;&lt;(std::ostream &amp;out, const Vector3 &amp;value)'],['../namespace_x_x.html#a296f233be1769cc07840d3e20c833544',1,'XX::operator&lt;&lt;()']]],
-  ['operator_3d_3d_5',['operator==',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a802de38e27da426cb8b13b99ad21fdb9',1,'XX::Range::Spread::Iterator']]]
+  ['name_0',['name',['../class_x_x_1_1_graph_1_1_vertex.html#abf123f96777e9669fd3fb78a3c477e94',1,'XX::Graph::Vertex::name'],['../struct_x_x_1_1_midi_1_1_sequence_1_1_track.html#ac9d89f40e8ceb698d41e6cb9c643f2e3',1,'XX::Midi::Sequence::Track::name']]],
+  ['noofchannels_1',['noOfChannels',['../struct_x_x_1_1_sample_1_1_meta.html#aded14d6ef518068d133d0141dcad09aa',1,'XX::Sample::Meta']]],
+  ['noofsamplesperchannel_2',['noOfSamplesPerChannel',['../struct_x_x_1_1_sample_1_1_meta.html#aed5d786c4d761f1eafa0d469198d22c2',1,'XX::Sample::Meta']]],
+  ['norm_3',['norm',['../class_x_x_1_1_math_1_1_vector3.html#ab0083b95b4f7de3ffd7289bf7b15a64e',1,'XX::Math::Vector3']]],
+  ['note_4',['Note',['../class_x_x_1_1_note.html',1,'XX::Note'],['../class_x_x_1_1_note.html#a0c1a4b48710408a145d9f1dc9d52d84e',1,'XX::Note::Note()']]],
+  ['noteinscale_5',['noteInScale',['../class_x_x_1_1_scale.html#acd4f38cb8c54aad9ebdc1449c2ae58e3',1,'XX::Scale']]],
+  ['noteoff_6',['NoteOff',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c',1,'XX::Midi']]],
+  ['noteoff_7',['noteOff',['../class_x_x_1_1_midi_1_1_parser.html#a0a676b60ddb24cc34bf1c1ee712c7baa',1,'XX::Midi::Parser']]],
+  ['noteofffunction_8',['NoteOffFunction',['../class_x_x_1_1_midi_1_1_parser.html#a76318f9cfef5aac4b8fc0ae9acad592b',1,'XX::Midi::Parser']]],
+  ['noteon_9',['NoteOn',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc',1,'XX::Midi']]],
+  ['noteon_10',['noteOn',['../class_x_x_1_1_midi_1_1_parser.html#a44cbc7bfd5aeb7299ab97144f081e088',1,'XX::Midi::Parser']]],
+  ['noteonfunction_11',['NoteOnFunction',['../class_x_x_1_1_midi_1_1_parser.html#af96c2845f9bb949acb95fe7ddc95b576',1,'XX::Midi::Parser']]],
+  ['numberofsamples_12',['numberOfSamples',['../struct_x_x_1_1_sample_1_1_meta.html#a80bf62d61ccbe567e7e9d861d0bd95aa',1,'XX::Sample::Meta']]]
 ];

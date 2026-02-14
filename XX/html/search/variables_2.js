@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mask_0',['mask',['../namespace_x_x_1_1_midi.html#a270ae21542bbdab27fc7e7209ac03b3b',1,'XX::Midi']]]
+  ['color_0',['color',['../struct_x_x_1_1_logger_1_1_target_1_1_entry.html#a7e0fd007db2ac64011cc7956c014143e',1,'XX::Logger::Target::Entry']]]
 ];

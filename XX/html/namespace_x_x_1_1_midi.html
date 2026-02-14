@@ -99,7 +99,11 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-nested-classes" class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
+<tr class="memitem:Manufacturer" id="r_Manufacturer"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_manufacturer.html">Manufacturer</a></td></tr>
 <tr class="memitem:Device" id="r_Device"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_device.html">Device</a></td></tr>
+<tr class="memitem:Variables" id="r_Variables"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_midi_1_1_variables.html">Variables</a></td></tr>
+<tr class="memitem:Sequence" id="r_Sequence"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_midi_1_1_sequence.html">Sequence</a></td></tr>
+<tr class="memitem:Parser" id="r_Parser"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_midi_1_1_parser.html">Parser</a></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-typedef-members" class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
@@ -110,135 +114,133 @@ Typedefs</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-enum-members" class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:aa8ece5ab9c5517636399c072b1177642" id="r_aa8ece5ab9c5517636399c072b1177642"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#aa8ece5ab9c5517636399c072b1177642">Event</a> : uchar { <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642ad6e1c29e5bef372493e0c27880ace595">Unknown</a> = 0x00
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c">NoteOff</a> = 0x80
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc">NoteOn</a> = 0x90
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7e1c727035ab88a758fc26b881ef3562">PolyKeyPressure</a> = 0xA0
+<tr class="memitem:gaa8ece5ab9c5517636399c072b1177642" id="r_gaa8ece5ab9c5517636399c072b1177642"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="group___x_x_music.html#gaa8ece5ab9c5517636399c072b1177642">Event</a> : uchar { <br />
+&#160;&#160;<a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ad6e1c29e5bef372493e0c27880ace595">Unknown</a> = 0x00
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c">NoteOff</a> = 0x80
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc">NoteOn</a> = 0x90
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7e1c727035ab88a758fc26b881ef3562">PolyKeyPressure</a> = 0xA0
 , <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee">ControlChange</a> = 0xB0
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ab3b12ac9f01eae7568559e2876afb39e">ProgrammChange</a> = 0xC0
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da">ChannelPressure</a> = 0xD0
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471">PitchBend</a> = 0xE0
+&#160;&#160;<a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee">ControlChange</a> = 0xB0
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ab3b12ac9f01eae7568559e2876afb39e">ProgrammChange</a> = 0xC0
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da">ChannelPressure</a> = 0xD0
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471">PitchBend</a> = 0xE0
 , <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd">System</a> = 0xF0
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611">QuarterFrame</a> = 0xF1
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a9cd575a7d72207d4d5e3c92d98d75b65">SongPositionPointer</a> = 0xF2
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a673da58d5726d7cc5a2b56b77bff3a96">SongSelect</a> = 0xF3
+&#160;&#160;<a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd">System</a> = 0xF0
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611">QuarterFrame</a> = 0xF1
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a9cd575a7d72207d4d5e3c92d98d75b65">SongPositionPointer</a> = 0xF2
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a673da58d5726d7cc5a2b56b77bff3a96">SongSelect</a> = 0xF3
 , <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642aa74c5dc9a1f660252e0c390e955c8224">TuneRequest</a> = 0xF6
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1">SysExEnd</a> = 0xF7
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a954ee1363239abbf48ff67a65eec80ff">Clock</a> = 0xF8
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a4bc0794c6c4921c25c2fc6ea192562a9">UndefinedA</a> = 0xF9
+&#160;&#160;<a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642aa74c5dc9a1f660252e0c390e955c8224">TuneRequest</a> = 0xF6
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1">SysExEnd</a> = 0xF7
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a954ee1363239abbf48ff67a65eec80ff">Clock</a> = 0xF8
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a4bc0794c6c4921c25c2fc6ea192562a9">UndefinedA</a> = 0xF9
 , <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a38f62592cd48f5686cc08e05a1101275">Start</a> = 0xFA
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f">Continue</a> = 0xFB
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494">Stop</a> = 0xFC
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642aa027ec828cf4250107e1fc6647eb7fc2">UndefinedB</a> = 0xFD
+&#160;&#160;<a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a38f62592cd48f5686cc08e05a1101275">Start</a> = 0xFA
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f">Continue</a> = 0xFB
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494">Stop</a> = 0xFC
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642aa027ec828cf4250107e1fc6647eb7fc2">UndefinedB</a> = 0xFD
 , <br />
-&#160;&#160;<a class="el" href="#aa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5">ActiveSensinig</a> = 0xFE
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642a9c1b241e3a63257969315261f8b5de17">Reset</a> = 0xFF
-, <a class="el" href="#aa8ece5ab9c5517636399c072b1177642ab94ccd9bcd4739f7f0057a7a612c4e56">Meta</a> = 0xFF
+&#160;&#160;<a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5">ActiveSensinig</a> = 0xFE
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a9c1b241e3a63257969315261f8b5de17">Reset</a> = 0xFF
+, <a class="el" href="group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ab94ccd9bcd4739f7f0057a7a612c4e56">Meta</a> = 0xFF
 <br />
  }</td></tr>
-<tr class="memitem:a18cd02eb3b8339a104b37ec426b22c1b" id="r_a18cd02eb3b8339a104b37ec426b22c1b"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1b">MetaEvent</a> : uchar { <br />
-&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692">MetaUnkown</a> = 0x00
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba5b1a7fcf1c14c448a5dc439f533722ec">Text</a> = 0x01
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baa5dc980db82c95da71cc7ebdb60406fb">Copyright</a> = 0x02
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baa727daf9fa4c29d7bba10953b99ad548">TrackName</a> = 0x03
+<tr class="memitem:ga18cd02eb3b8339a104b37ec426b22c1b" id="r_ga18cd02eb3b8339a104b37ec426b22c1b"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="group___x_x_music.html#ga18cd02eb3b8339a104b37ec426b22c1b">MetaEvent</a> : uchar { <br />
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692">MetaUnkown</a> = 0x00
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba5b1a7fcf1c14c448a5dc439f533722ec">Text</a> = 0x01
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baa5dc980db82c95da71cc7ebdb60406fb">Copyright</a> = 0x02
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baa727daf9fa4c29d7bba10953b99ad548">TrackName</a> = 0x03
 , <br />
-&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba18c307af7bd33cad842504660f763eca">InstrumentName</a> = 0x04
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12">Lyric</a> = 0x05
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f">Marker</a> = 0x06
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741">CuePoint</a> = 0x07
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba18c307af7bd33cad842504660f763eca">InstrumentName</a> = 0x04
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12">Lyric</a> = 0x05
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f">Marker</a> = 0x06
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741">CuePoint</a> = 0x07
 , <br />
-&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bae4a38b07b2b7940e9a4486c0c70df668">ChannelPrefix</a> = 0x20
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5">MidiPort</a> = 0x21
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c">EndOfTrack</a> = 0x2f
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b">LiveTag</a> = 0x48
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1bae4a38b07b2b7940e9a4486c0c70df668">ChannelPrefix</a> = 0x20
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5">MidiPort</a> = 0x21
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c">EndOfTrack</a> = 0x2f
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b">LiveTag</a> = 0x48
 , <br />
-&#160;&#160;<a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baf10ac25196f7f5534769fe92ac6bb4ee">Tempo</a> = 0x51
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1bab8b61a48b2dae09bc1e0e1a0bdc25e45">SMPTEOffset</a> = 0x54
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1baad2c256cdf1df3bfc3e3814a3f2ee22f">TimeSignature</a> = 0x58
-, <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69">KeySignature</a> = 0x59
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baf10ac25196f7f5534769fe92ac6bb4ee">Tempo</a> = 0x51
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1bab8b61a48b2dae09bc1e0e1a0bdc25e45">SMPTEOffset</a> = 0x54
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baad2c256cdf1df3bfc3e3814a3f2ee22f">TimeSignature</a> = 0x58
+, <a class="el" href="group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69">KeySignature</a> = 0x59
 <br />
  }</td></tr>
-<tr class="memitem:a0bdc0a7397c27b212f13e10448181cf5" id="r_a0bdc0a7397c27b212f13e10448181cf5"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> : uchar { <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5ad6676a2286ace56c33b53ea569d4fcc3">BankSelect</a> = 0x00
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df">ModWheel</a> = 0x01
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5af2e48cce233c69013b43d7de859819fb">BreathController</a> = 0x02
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a9fb53b51bc4cc1db571bc54fac1c5cf3">FootController</a> = 0x04
+<tr class="memitem:ga0bdc0a7397c27b212f13e10448181cf5" id="r_ga0bdc0a7397c27b212f13e10448181cf5"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="group___x_x_music.html#ga0bdc0a7397c27b212f13e10448181cf5">ControllerMessage</a> : uchar { <br />
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5ad6676a2286ace56c33b53ea569d4fcc3">BankSelect</a> = 0x00
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df">ModWheel</a> = 0x01
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5af2e48cce233c69013b43d7de859819fb">BreathController</a> = 0x02
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a9fb53b51bc4cc1db571bc54fac1c5cf3">FootController</a> = 0x04
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a5a78ccfea41d38c30df69292c2e199b1">PortamentoTime</a> = 0x05
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5aa47924d67991b6e759d70fe4aa461281">ChannelVolume</a> = 0x07
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a283668a2ea5d7a00a71aeff739d0a366">Balance</a> = 0x08
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a727bc0ffde59075404d908646f6452cd">Pan</a> = 0x0A
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a5a78ccfea41d38c30df69292c2e199b1">PortamentoTime</a> = 0x05
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5aa47924d67991b6e759d70fe4aa461281">ChannelVolume</a> = 0x07
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a283668a2ea5d7a00a71aeff739d0a366">Balance</a> = 0x08
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a727bc0ffde59075404d908646f6452cd">Pan</a> = 0x0A
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a33729fe98299dd0e3c2526513cf47e7a">ExpressionController</a> = 0x0B
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a96da283a0f283371910cdef1a27b0e0c">EffectControl1</a> = 0x0C
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5af64bfac5ba3c8c3630ac14f25ef2cb88">EffectControl2</a> = 0x0D
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a11a0bf62d0862a61305e3c13e7b41ebb">RememberInit</a> = 0x14
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a33729fe98299dd0e3c2526513cf47e7a">ExpressionController</a> = 0x0B
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a96da283a0f283371910cdef1a27b0e0c">EffectControl1</a> = 0x0C
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5af64bfac5ba3c8c3630ac14f25ef2cb88">EffectControl2</a> = 0x0D
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a11a0bf62d0862a61305e3c13e7b41ebb">RememberInit</a> = 0x14
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a351e32a12743cf377547520b183f09da">RememberBlock</a> = 0x15
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a4f5730f3cad0ee6a752c8ec9cc37260d">RememberApply</a> = 0x16
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a5c5f37e6521748230ff49355055c2cd0">RememberRequest</a> = 0x17
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a9c1cf13bcfa9cbb2f142775ab86c3864">DataInit</a> = 0x18
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a351e32a12743cf377547520b183f09da">RememberBlock</a> = 0x15
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a4f5730f3cad0ee6a752c8ec9cc37260d">RememberApply</a> = 0x16
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a5c5f37e6521748230ff49355055c2cd0">RememberRequest</a> = 0x17
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a9c1cf13bcfa9cbb2f142775ab86c3864">DataInit</a> = 0x18
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480">DataBlock</a> = 0x19
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a4a4fa87d41a09cf802d846e5b2723346">DataApply</a> = 0x1A
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a7395617c89c073207c5779e3940af402">Undefined08</a> = 0x1B
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a91a54632b390f243ea687d523244391c">Undefined09</a> = 0x1C
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480">DataBlock</a> = 0x19
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a4a4fa87d41a09cf802d846e5b2723346">DataApply</a> = 0x1A
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a7395617c89c073207c5779e3940af402">Undefined08</a> = 0x1B
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a91a54632b390f243ea687d523244391c">Undefined09</a> = 0x1C
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5acef603109298b99d3702d2632c873bfa">Undefined10</a> = 0x1D
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a92dfd43f0a49c6f04b1043adc14524e3">Undefined11</a> = 0x1E
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5afaffe13228c34fb38527e4a858dc8e94">Undefined12</a> = 0x1F
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a8aae7d52bcd4805be905009c062e4d50">DamperPedal</a> = 0x40
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5acef603109298b99d3702d2632c873bfa">Undefined10</a> = 0x1D
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a92dfd43f0a49c6f04b1043adc14524e3">Undefined11</a> = 0x1E
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5afaffe13228c34fb38527e4a858dc8e94">Undefined12</a> = 0x1F
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a8aae7d52bcd4805be905009c062e4d50">DamperPedal</a> = 0x40
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5ad3c14cf17547a947a6dd9b4c1a3fb1d2">Portamento</a> = 0x41
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5adafeb5cc13baf9ddf1141d80ece96a2b">Sostenuto</a> = 0x42
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5aea897eecd9bad9eddf56e5e2ba123d23">SoftPedal</a> = 0x42
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a8976d40e150097f0d77ca08b17f07b5a">LegatoSwitch</a> = 0x44
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5ad3c14cf17547a947a6dd9b4c1a3fb1d2">Portamento</a> = 0x41
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5adafeb5cc13baf9ddf1141d80ece96a2b">Sostenuto</a> = 0x42
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5aea897eecd9bad9eddf56e5e2ba123d23">SoftPedal</a> = 0x42
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a8976d40e150097f0d77ca08b17f07b5a">LegatoSwitch</a> = 0x44
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a29a0261c3e452fe990333a3a6d546207">User01</a> = 0x66
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5aba28393252ea67bd58d65f364049b690">User02</a> = 0x67
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a9823fa1c791c956bce93506e7e52570c">User03</a> = 0x68
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a744b671297825e074120eedd0b6a280e">User04</a> = 0x69
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a29a0261c3e452fe990333a3a6d546207">User01</a> = 0x66
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5aba28393252ea67bd58d65f364049b690">User02</a> = 0x67
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a9823fa1c791c956bce93506e7e52570c">User03</a> = 0x68
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a744b671297825e074120eedd0b6a280e">User04</a> = 0x69
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5ab5ffb036d2d8e75d584be30c1a7a741c">User05</a> = 0x6A
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a4975fcbce4a384047b5f143a6166c05f">User06</a> = 0x6B
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a9ddd78f0dc8fd1bbf6611019e32d73bc">User07</a> = 0x6C
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5aa3b6e5d061dac3bf22783eb0e9fa8538">User08</a> = 0x6D
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5ab5ffb036d2d8e75d584be30c1a7a741c">User05</a> = 0x6A
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a4975fcbce4a384047b5f143a6166c05f">User06</a> = 0x6B
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a9ddd78f0dc8fd1bbf6611019e32d73bc">User07</a> = 0x6C
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5aa3b6e5d061dac3bf22783eb0e9fa8538">User08</a> = 0x6D
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a5345dbafbb90466a853c352ec8f94487">User09</a> = 0x6E
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a0bb9c0075ab326c0d15f7a888fc05a4b">User10</a> = 0x6F
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a610dd908459754b6ae0f489329468107">User11</a> = 0x70
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5ab6036f60d7ef125bddb729a96699cc30">User12</a> = 0x71
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a5345dbafbb90466a853c352ec8f94487">User09</a> = 0x6E
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a0bb9c0075ab326c0d15f7a888fc05a4b">User10</a> = 0x6F
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a610dd908459754b6ae0f489329468107">User11</a> = 0x70
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5ab6036f60d7ef125bddb729a96699cc30">User12</a> = 0x71
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a2538cf2e58fa2e10a12e8fc71dbb726f">User13</a> = 0x72
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5adbf4cf93bf8aa9adde62efbf885af5bd">User14</a> = 0x73
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a92bf89f1ab6b5eb4ddd181b07a124014">User15</a> = 0x74
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a5e05dbe3da97a91e0cb6edad619e1c32">User16</a> = 0x75
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a2538cf2e58fa2e10a12e8fc71dbb726f">User13</a> = 0x72
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5adbf4cf93bf8aa9adde62efbf885af5bd">User14</a> = 0x73
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a92bf89f1ab6b5eb4ddd181b07a124014">User15</a> = 0x74
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a5e05dbe3da97a91e0cb6edad619e1c32">User16</a> = 0x75
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a3119326a57e55c50ea597f3a58c2429e">User17</a> = 0x76
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a883583025d21d5f0a60db122081c0ad9">User18</a> = 0x77
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a44b0b4716d5aabbc76d4c510145f4c41">AllSoundsOff</a> = 0x78
-, <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5a0f564ef636c402cf3245516088b8058d">ResetAllControlers</a> = 0x79
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a3119326a57e55c50ea597f3a58c2429e">User17</a> = 0x76
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a883583025d21d5f0a60db122081c0ad9">User18</a> = 0x77
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a44b0b4716d5aabbc76d4c510145f4c41">AllSoundsOff</a> = 0x78
+, <a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a0f564ef636c402cf3245516088b8058d">ResetAllControlers</a> = 0x79
 , <br />
-&#160;&#160;<a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d">AllNotesOff</a> = 0x78
+&#160;&#160;<a class="el" href="group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d">AllNotesOff</a> = 0x78
 <br />
  }</td></tr>
-<tr class="memitem:a4907018c2d5df785a36a3593fae4b1b4" id="r_a4907018c2d5df785a36a3593fae4b1b4"><td class="memItemLeft">enum class &#160;</td><td class="memItemRight"><a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4">Playback</a> : uchar { <a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37">Start</a>
-, <a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe">Continue</a>
-, <a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481">Stop</a>
+<tr class="memitem:ga4907018c2d5df785a36a3593fae4b1b4" id="r_ga4907018c2d5df785a36a3593fae4b1b4"><td class="memItemLeft">enum class &#160;</td><td class="memItemRight"><a class="el" href="group___x_x_music.html#ga4907018c2d5df785a36a3593fae4b1b4">Playback</a> : uchar { <a class="el" href="group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37">Playback::Start</a>
+, <a class="el" href="group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe">Playback::Continue</a>
+, <a class="el" href="group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481">Playback::Stop</a>
  }</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a748cb4474b3c13bc00c862061219d36a" id="r_a748cb4474b3c13bc00c862061219d36a"><td class="memItemLeft">struct&#160;</td><td class="memItemRight"><a class="el" href="#a748cb4474b3c13bc00c862061219d36a">__declspec</a> (dllimport) Manufacturer</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-var-members" class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a270ae21542bbdab27fc7e7209ac03b3b" id="r_a270ae21542bbdab27fc7e7209ac03b3b"><td class="memItemLeft">const <a class="el" href="#aa8ece5ab9c5517636399c072b1177642">Midi::Event</a>&#160;</td><td class="memItemRight"><a class="el" href="#a270ae21542bbdab27fc7e7209ac03b3b">mask</a></td></tr>
+<tr class="memitem:gad4b209e4c5471436061af53bb927a15c" id="r_gad4b209e4c5471436061af53bb927a15c"><td class="memItemLeft">bool&#160;</td><td class="memItemRight"><a class="el" href="group___functions.html#gad4b209e4c5471436061af53bb927a15c">isEvent</a> (const uchar value, const <a class="el" href="group___x_x_music.html#gaa8ece5ab9c5517636399c072b1177642">Midi::Event</a> mask)</td></tr>
+<tr class="memitem:ga081cb6134319ccd7a26aaa523a730604" id="r_ga081cb6134319ccd7a26aaa523a730604"><td class="memItemLeft">bool&#160;</td><td class="memItemRight"><a class="el" href="group___functions.html#ga081cb6134319ccd7a26aaa523a730604">hasFirstBit</a> (const uchar value)</td></tr>
+<tr class="memitem:ga7e955af924f02d22eb97ce77c856e519" id="r_ga7e955af924f02d22eb97ce77c856e519"><td class="memItemLeft">uchar&#160;</td><td class="memItemRight"><a class="el" href="group___functions.html#ga7e955af924f02d22eb97ce77c856e519">removeFirstBit</a> (const uchar value)</td></tr>
 </table>
 <a name="doc-typedef-members" id="doc-typedef-members"></a><h2 id="header-doc-typedef-members" class="groupheader">Typedef Documentation</h2>
 <a id="ae42d57082414b53270c60b6b31d4eb76" name="ae42d57082414b53270c60b6b31d4eb76"></a>
@@ -291,203 +293,6 @@ Variables</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">using <a class="el" href="#a0d0b787ffb059b01adf247d615255a68">XX::Midi::Velocity</a> = uchar</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a name="doc-enum-members" id="doc-enum-members"></a><h2 id="header-doc-enum-members" class="groupheader">Enumeration Type Documentation</h2>
-<a id="a0bdc0a7397c27b212f13e10448181cf5" name="a0bdc0a7397c27b212f13e10448181cf5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0bdc0a7397c27b212f13e10448181cf5">&#9670;&#160;</a></span>ControllerMessage</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="#a0bdc0a7397c27b212f13e10448181cf5">XX::Midi::ControllerMessage</a> : uchar</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5ad6676a2286ace56c33b53ea569d4fcc3" name="a0bdc0a7397c27b212f13e10448181cf5ad6676a2286ace56c33b53ea569d4fcc3"></a>BankSelect&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df" name="a0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df"></a>ModWheel&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5af2e48cce233c69013b43d7de859819fb" name="a0bdc0a7397c27b212f13e10448181cf5af2e48cce233c69013b43d7de859819fb"></a>BreathController&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a9fb53b51bc4cc1db571bc54fac1c5cf3" name="a0bdc0a7397c27b212f13e10448181cf5a9fb53b51bc4cc1db571bc54fac1c5cf3"></a>FootController&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a5a78ccfea41d38c30df69292c2e199b1" name="a0bdc0a7397c27b212f13e10448181cf5a5a78ccfea41d38c30df69292c2e199b1"></a>PortamentoTime&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5aa47924d67991b6e759d70fe4aa461281" name="a0bdc0a7397c27b212f13e10448181cf5aa47924d67991b6e759d70fe4aa461281"></a>ChannelVolume&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a283668a2ea5d7a00a71aeff739d0a366" name="a0bdc0a7397c27b212f13e10448181cf5a283668a2ea5d7a00a71aeff739d0a366"></a>Balance&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a727bc0ffde59075404d908646f6452cd" name="a0bdc0a7397c27b212f13e10448181cf5a727bc0ffde59075404d908646f6452cd"></a>Pan&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a33729fe98299dd0e3c2526513cf47e7a" name="a0bdc0a7397c27b212f13e10448181cf5a33729fe98299dd0e3c2526513cf47e7a"></a>ExpressionController&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a96da283a0f283371910cdef1a27b0e0c" name="a0bdc0a7397c27b212f13e10448181cf5a96da283a0f283371910cdef1a27b0e0c"></a>EffectControl1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5af64bfac5ba3c8c3630ac14f25ef2cb88" name="a0bdc0a7397c27b212f13e10448181cf5af64bfac5ba3c8c3630ac14f25ef2cb88"></a>EffectControl2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a11a0bf62d0862a61305e3c13e7b41ebb" name="a0bdc0a7397c27b212f13e10448181cf5a11a0bf62d0862a61305e3c13e7b41ebb"></a>RememberInit&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a351e32a12743cf377547520b183f09da" name="a0bdc0a7397c27b212f13e10448181cf5a351e32a12743cf377547520b183f09da"></a>RememberBlock&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a4f5730f3cad0ee6a752c8ec9cc37260d" name="a0bdc0a7397c27b212f13e10448181cf5a4f5730f3cad0ee6a752c8ec9cc37260d"></a>RememberApply&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a5c5f37e6521748230ff49355055c2cd0" name="a0bdc0a7397c27b212f13e10448181cf5a5c5f37e6521748230ff49355055c2cd0"></a>RememberRequest&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a9c1cf13bcfa9cbb2f142775ab86c3864" name="a0bdc0a7397c27b212f13e10448181cf5a9c1cf13bcfa9cbb2f142775ab86c3864"></a>DataInit&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480" name="a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480"></a>DataBlock&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a4a4fa87d41a09cf802d846e5b2723346" name="a0bdc0a7397c27b212f13e10448181cf5a4a4fa87d41a09cf802d846e5b2723346"></a>DataApply&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a7395617c89c073207c5779e3940af402" name="a0bdc0a7397c27b212f13e10448181cf5a7395617c89c073207c5779e3940af402"></a>Undefined08&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a91a54632b390f243ea687d523244391c" name="a0bdc0a7397c27b212f13e10448181cf5a91a54632b390f243ea687d523244391c"></a>Undefined09&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5acef603109298b99d3702d2632c873bfa" name="a0bdc0a7397c27b212f13e10448181cf5acef603109298b99d3702d2632c873bfa"></a>Undefined10&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a92dfd43f0a49c6f04b1043adc14524e3" name="a0bdc0a7397c27b212f13e10448181cf5a92dfd43f0a49c6f04b1043adc14524e3"></a>Undefined11&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5afaffe13228c34fb38527e4a858dc8e94" name="a0bdc0a7397c27b212f13e10448181cf5afaffe13228c34fb38527e4a858dc8e94"></a>Undefined12&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a8aae7d52bcd4805be905009c062e4d50" name="a0bdc0a7397c27b212f13e10448181cf5a8aae7d52bcd4805be905009c062e4d50"></a>DamperPedal&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5ad3c14cf17547a947a6dd9b4c1a3fb1d2" name="a0bdc0a7397c27b212f13e10448181cf5ad3c14cf17547a947a6dd9b4c1a3fb1d2"></a>Portamento&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5adafeb5cc13baf9ddf1141d80ece96a2b" name="a0bdc0a7397c27b212f13e10448181cf5adafeb5cc13baf9ddf1141d80ece96a2b"></a>Sostenuto&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5aea897eecd9bad9eddf56e5e2ba123d23" name="a0bdc0a7397c27b212f13e10448181cf5aea897eecd9bad9eddf56e5e2ba123d23"></a>SoftPedal&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a8976d40e150097f0d77ca08b17f07b5a" name="a0bdc0a7397c27b212f13e10448181cf5a8976d40e150097f0d77ca08b17f07b5a"></a>LegatoSwitch&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a29a0261c3e452fe990333a3a6d546207" name="a0bdc0a7397c27b212f13e10448181cf5a29a0261c3e452fe990333a3a6d546207"></a>User01&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5aba28393252ea67bd58d65f364049b690" name="a0bdc0a7397c27b212f13e10448181cf5aba28393252ea67bd58d65f364049b690"></a>User02&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a9823fa1c791c956bce93506e7e52570c" name="a0bdc0a7397c27b212f13e10448181cf5a9823fa1c791c956bce93506e7e52570c"></a>User03&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a744b671297825e074120eedd0b6a280e" name="a0bdc0a7397c27b212f13e10448181cf5a744b671297825e074120eedd0b6a280e"></a>User04&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5ab5ffb036d2d8e75d584be30c1a7a741c" name="a0bdc0a7397c27b212f13e10448181cf5ab5ffb036d2d8e75d584be30c1a7a741c"></a>User05&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a4975fcbce4a384047b5f143a6166c05f" name="a0bdc0a7397c27b212f13e10448181cf5a4975fcbce4a384047b5f143a6166c05f"></a>User06&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a9ddd78f0dc8fd1bbf6611019e32d73bc" name="a0bdc0a7397c27b212f13e10448181cf5a9ddd78f0dc8fd1bbf6611019e32d73bc"></a>User07&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5aa3b6e5d061dac3bf22783eb0e9fa8538" name="a0bdc0a7397c27b212f13e10448181cf5aa3b6e5d061dac3bf22783eb0e9fa8538"></a>User08&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a5345dbafbb90466a853c352ec8f94487" name="a0bdc0a7397c27b212f13e10448181cf5a5345dbafbb90466a853c352ec8f94487"></a>User09&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a0bb9c0075ab326c0d15f7a888fc05a4b" name="a0bdc0a7397c27b212f13e10448181cf5a0bb9c0075ab326c0d15f7a888fc05a4b"></a>User10&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a610dd908459754b6ae0f489329468107" name="a0bdc0a7397c27b212f13e10448181cf5a610dd908459754b6ae0f489329468107"></a>User11&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5ab6036f60d7ef125bddb729a96699cc30" name="a0bdc0a7397c27b212f13e10448181cf5ab6036f60d7ef125bddb729a96699cc30"></a>User12&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a2538cf2e58fa2e10a12e8fc71dbb726f" name="a0bdc0a7397c27b212f13e10448181cf5a2538cf2e58fa2e10a12e8fc71dbb726f"></a>User13&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5adbf4cf93bf8aa9adde62efbf885af5bd" name="a0bdc0a7397c27b212f13e10448181cf5adbf4cf93bf8aa9adde62efbf885af5bd"></a>User14&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a92bf89f1ab6b5eb4ddd181b07a124014" name="a0bdc0a7397c27b212f13e10448181cf5a92bf89f1ab6b5eb4ddd181b07a124014"></a>User15&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a5e05dbe3da97a91e0cb6edad619e1c32" name="a0bdc0a7397c27b212f13e10448181cf5a5e05dbe3da97a91e0cb6edad619e1c32"></a>User16&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a3119326a57e55c50ea597f3a58c2429e" name="a0bdc0a7397c27b212f13e10448181cf5a3119326a57e55c50ea597f3a58c2429e"></a>User17&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a883583025d21d5f0a60db122081c0ad9" name="a0bdc0a7397c27b212f13e10448181cf5a883583025d21d5f0a60db122081c0ad9"></a>User18&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a44b0b4716d5aabbc76d4c510145f4c41" name="a0bdc0a7397c27b212f13e10448181cf5a44b0b4716d5aabbc76d4c510145f4c41"></a>AllSoundsOff&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5a0f564ef636c402cf3245516088b8058d" name="a0bdc0a7397c27b212f13e10448181cf5a0f564ef636c402cf3245516088b8058d"></a>ResetAllControlers&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d" name="a0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d"></a>AllNotesOff&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-</div>
-</div>
-<a id="aa8ece5ab9c5517636399c072b1177642" name="aa8ece5ab9c5517636399c072b1177642"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa8ece5ab9c5517636399c072b1177642">&#9670;&#160;</a></span>Event</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="#aa8ece5ab9c5517636399c072b1177642">XX::Midi::Event</a> : uchar</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642ad6e1c29e5bef372493e0c27880ace595" name="aa8ece5ab9c5517636399c072b1177642ad6e1c29e5bef372493e0c27880ace595"></a>Unknown&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c" name="aa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c"></a>NoteOff&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc" name="aa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc"></a>NoteOn&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a7e1c727035ab88a758fc26b881ef3562" name="aa8ece5ab9c5517636399c072b1177642a7e1c727035ab88a758fc26b881ef3562"></a>PolyKeyPressure&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee" name="aa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee"></a>ControlChange&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642ab3b12ac9f01eae7568559e2876afb39e" name="aa8ece5ab9c5517636399c072b1177642ab3b12ac9f01eae7568559e2876afb39e"></a>ProgrammChange&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da" name="aa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da"></a>ChannelPressure&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471" name="aa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471"></a>PitchBend&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd" name="aa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd"></a>System&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611" name="aa8ece5ab9c5517636399c072b1177642adada6973331dce24c3712a47086ed611"></a>QuarterFrame&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a9cd575a7d72207d4d5e3c92d98d75b65" name="aa8ece5ab9c5517636399c072b1177642a9cd575a7d72207d4d5e3c92d98d75b65"></a>SongPositionPointer&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a673da58d5726d7cc5a2b56b77bff3a96" name="aa8ece5ab9c5517636399c072b1177642a673da58d5726d7cc5a2b56b77bff3a96"></a>SongSelect&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642aa74c5dc9a1f660252e0c390e955c8224" name="aa8ece5ab9c5517636399c072b1177642aa74c5dc9a1f660252e0c390e955c8224"></a>TuneRequest&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1" name="aa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1"></a>SysExEnd&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a954ee1363239abbf48ff67a65eec80ff" name="aa8ece5ab9c5517636399c072b1177642a954ee1363239abbf48ff67a65eec80ff"></a>Clock&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a4bc0794c6c4921c25c2fc6ea192562a9" name="aa8ece5ab9c5517636399c072b1177642a4bc0794c6c4921c25c2fc6ea192562a9"></a>UndefinedA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a38f62592cd48f5686cc08e05a1101275" name="aa8ece5ab9c5517636399c072b1177642a38f62592cd48f5686cc08e05a1101275"></a>Start&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f" name="aa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f"></a>Continue&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494" name="aa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494"></a>Stop&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642aa027ec828cf4250107e1fc6647eb7fc2" name="aa8ece5ab9c5517636399c072b1177642aa027ec828cf4250107e1fc6647eb7fc2"></a>UndefinedB&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5" name="aa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5"></a>ActiveSensinig&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642a9c1b241e3a63257969315261f8b5de17" name="aa8ece5ab9c5517636399c072b1177642a9c1b241e3a63257969315261f8b5de17"></a>Reset&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa8ece5ab9c5517636399c072b1177642ab94ccd9bcd4739f7f0057a7a612c4e56" name="aa8ece5ab9c5517636399c072b1177642ab94ccd9bcd4739f7f0057a7a612c4e56"></a>Meta&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-</div>
-</div>
-<a id="a18cd02eb3b8339a104b37ec426b22c1b" name="a18cd02eb3b8339a104b37ec426b22c1b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18cd02eb3b8339a104b37ec426b22c1b">&#9670;&#160;</a></span>MetaEvent</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="#a18cd02eb3b8339a104b37ec426b22c1b">XX::Midi::MetaEvent</a> : uchar</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692" name="a18cd02eb3b8339a104b37ec426b22c1ba5d5071e21bbf67141933b1410fcc5692"></a>MetaUnkown&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1ba5b1a7fcf1c14c448a5dc439f533722ec" name="a18cd02eb3b8339a104b37ec426b22c1ba5b1a7fcf1c14c448a5dc439f533722ec"></a>Text&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1baa5dc980db82c95da71cc7ebdb60406fb" name="a18cd02eb3b8339a104b37ec426b22c1baa5dc980db82c95da71cc7ebdb60406fb"></a>Copyright&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1baa727daf9fa4c29d7bba10953b99ad548" name="a18cd02eb3b8339a104b37ec426b22c1baa727daf9fa4c29d7bba10953b99ad548"></a>TrackName&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1ba18c307af7bd33cad842504660f763eca" name="a18cd02eb3b8339a104b37ec426b22c1ba18c307af7bd33cad842504660f763eca"></a>InstrumentName&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12" name="a18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12"></a>Lyric&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f" name="a18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f"></a>Marker&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741" name="a18cd02eb3b8339a104b37ec426b22c1baeb89bcc6ca9c984a12296ab1d7dad741"></a>CuePoint&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1bae4a38b07b2b7940e9a4486c0c70df668" name="a18cd02eb3b8339a104b37ec426b22c1bae4a38b07b2b7940e9a4486c0c70df668"></a>ChannelPrefix&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5" name="a18cd02eb3b8339a104b37ec426b22c1bab2e1c5ddfff9c834ea83422901b7d4a5"></a>MidiPort&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c" name="a18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c"></a>EndOfTrack&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b" name="a18cd02eb3b8339a104b37ec426b22c1baaa5cc22845e17b4dd87e8c48cd3d528b"></a>LiveTag&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1baf10ac25196f7f5534769fe92ac6bb4ee" name="a18cd02eb3b8339a104b37ec426b22c1baf10ac25196f7f5534769fe92ac6bb4ee"></a>Tempo&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1bab8b61a48b2dae09bc1e0e1a0bdc25e45" name="a18cd02eb3b8339a104b37ec426b22c1bab8b61a48b2dae09bc1e0e1a0bdc25e45"></a>SMPTEOffset&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1baad2c256cdf1df3bfc3e3814a3f2ee22f" name="a18cd02eb3b8339a104b37ec426b22c1baad2c256cdf1df3bfc3e3814a3f2ee22f"></a>TimeSignature&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69" name="a18cd02eb3b8339a104b37ec426b22c1ba44a5fecc4d14d5d00e6da442141a2d69"></a>KeySignature&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-</div>
-</div>
-<a id="a4907018c2d5df785a36a3593fae4b1b4" name="a4907018c2d5df785a36a3593fae4b1b4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4907018c2d5df785a36a3593fae4b1b4">&#9670;&#160;</a></span>Playback</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="#a4907018c2d5df785a36a3593fae4b1b4">XX::Midi::Playback</a> : uchar</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel strong">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37" name="a4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37"></a>Start&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe" name="a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe"></a>Continue&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481" name="a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481"></a>Stop&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-</div>
-</div>
-<a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Function Documentation</h2>
-<a id="a748cb4474b3c13bc00c862061219d36a" name="a748cb4474b3c13bc00c862061219d36a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a748cb4474b3c13bc00c862061219d36a">&#9670;&#160;</a></span>__declspec()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">class XX::Midi::__declspec </td>
-          <td>(</td>
-          <td class="paramtype">dllimport</td>          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a name="doc-var-members" id="doc-var-members"></a><h2 id="header-doc-var-members" class="groupheader">Variable Documentation</h2>
-<a id="a270ae21542bbdab27fc7e7209ac03b3b" name="a270ae21542bbdab27fc7e7209ac03b3b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a270ae21542bbdab27fc7e7209ac03b3b">&#9670;&#160;</a></span>mask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="#aa8ece5ab9c5517636399c072b1177642">Midi::Event</a> XX::Midi::mask</td>
         </tr>
       </table>
 </div><div class="memdoc">

@@ -91,8 +91,7 @@ $(function(){initNavTree('_x_x_recent_files_8h_source.html','',''); });
   <div class="headertitle"><div class="title">XXRecentFiles.h</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="_x_x_recent_files_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="foldopen" id="foldopen00001" data-start="{" data-end="}">
-<div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2">    1</a></span><span class="preprocessor">#ifndef XXRecentFilesH</span></div>
+<a href="_x_x_recent_files_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#ifndef XXRecentFilesH</span></div>
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#define XXRecentFilesH</span></div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &quot;<a class="code" href="_x_x_application_export_def_8h.html">XXApplicationExportDef.h</a>&quot;</span></div>
@@ -103,29 +102,30 @@ $(function(){initNavTree('_x_x_recent_files_8h_source.html','',''); });
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespace_x_x.html">XX</a></div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>{</div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>   <span class="keyword">class </span><a class="code hl_define" href="_x_x_application_export_def_8h.html#a9d5e54fed910882eda5af0c18bab7e25">XXAPPLICATION_DECLSPEC</a> RecentFiles</div>
+<div class="foldopen" id="foldopen00014" data-start="{" data-end="};">
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno"><a class="line" href="class_x_x_1_1_recent_files.html">   14</a></span>   <span class="keyword">class </span><a class="code hl_define" href="_x_x_application_export_def_8h.html#a9d5e54fed910882eda5af0c18bab7e25">XXAPPLICATION_DECLSPEC</a> <a class="code hl_function" href="class_x_x_1_1_recent_files.html#a4c51d0f883b32c8d6ccd629410aa0347">RecentFiles</a></div>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>   {</div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>   <span class="keyword">public</span>:</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>      <span class="keyword">using </span>LoadFunction = std::function&lt;void(<span class="keyword">const</span> QString&amp; fileName)&gt;;</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno"><a class="line" href="class_x_x_1_1_recent_files.html#aaaf19357b186c226f63554fbd8f440af">   17</a></span>      <span class="keyword">using </span><a class="code hl_typedef" href="class_x_x_1_1_recent_files.html#aaaf19357b186c226f63554fbd8f440af">LoadFunction</a> = std::function&lt;void(<span class="keyword">const</span> QString&amp; fileName)&gt;;</div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span> </div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>   <span class="keyword">public</span>:</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>      RecentFiles(QWidget* parent, <span class="keyword">const</span> QString&amp; settingsKey, <span class="keyword">const</span> QString&amp; menuObjectName);</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno"><a class="line" href="class_x_x_1_1_recent_files.html#a4c51d0f883b32c8d6ccd629410aa0347">   20</a></span>      <a class="code hl_function" href="class_x_x_1_1_recent_files.html#a4c51d0f883b32c8d6ccd629410aa0347">RecentFiles</a>(QWidget* parent, <span class="keyword">const</span> QString&amp; settingsKey, <span class="keyword">const</span> QString&amp; menuObjectName);</div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>   <span class="keyword">public</span>:</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>      <span class="keywordtype">void</span> setup(LoadFunction loadFunction, <span class="keywordtype">int</span> maxEntries = 10);</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno"><a class="line" href="class_x_x_1_1_recent_files.html#a61797ca4907254d5c066f4cab9943e34">   23</a></span>      <span class="keywordtype">void</span> <a class="code hl_function" href="class_x_x_1_1_recent_files.html#a61797ca4907254d5c066f4cab9943e34">setup</a>(<a class="code hl_typedef" href="class_x_x_1_1_recent_files.html#aaaf19357b186c226f63554fbd8f440af">LoadFunction</a> loadFunction, <span class="keywordtype">int</span> maxEntries = 10);</div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>      <span class="keyword">template</span> &lt;<span class="keyword">typename</span> TargetClass&gt;</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>      <span class="keywordtype">void</span> setup(TargetClass* instance, <span class="keywordtype">void</span> (TargetClass::*memberFunction)(<span class="keyword">const</span> QString&amp;), <span class="keywordtype">int</span> maxEntries = 10);</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno"><a class="line" href="class_x_x_1_1_recent_files.html#a567ec5197d40e34b823de5183b716129">   26</a></span>      <span class="keywordtype">void</span> <a class="code hl_function" href="class_x_x_1_1_recent_files.html#a567ec5197d40e34b823de5183b716129">setup</a>(TargetClass* instance, <span class="keywordtype">void</span> (TargetClass::*memberFunction)(<span class="keyword">const</span> QString&amp;), <span class="keywordtype">int</span> maxEntries = 10);</div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>      <span class="keywordtype">void</span> clear();</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>      <span class="keywordtype">void</span> add(<span class="keyword">const</span> QString&amp; fileName);</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno"><a class="line" href="class_x_x_1_1_recent_files.html#ad3066d4bce3ae9ad868d1ddb197fa234">   28</a></span>      <span class="keywordtype">void</span> <a class="code hl_function" href="class_x_x_1_1_recent_files.html#ad3066d4bce3ae9ad868d1ddb197fa234">clear</a>();</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno"><a class="line" href="class_x_x_1_1_recent_files.html#a43e8edaf1577816987292a719faf5ed7">   29</a></span>      <span class="keywordtype">void</span> <a class="code hl_function" href="class_x_x_1_1_recent_files.html#a43e8edaf1577816987292a719faf5ed7">add</a>(<span class="keyword">const</span> QString&amp; fileName);</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>   <span class="keyword">private</span>:</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>      <span class="keywordtype">void</span> prepareMenu();</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span> </div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>   <span class="keyword">private</span>:</div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>      <span class="keyword">const</span> QString settingsKey;</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>      LoadFunction loadFunction;</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>      <a class="code hl_typedef" href="class_x_x_1_1_recent_files.html#aaaf19357b186c226f63554fbd8f440af">LoadFunction</a> loadFunction;</div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>      <span class="keywordtype">int</span> maxEntries;</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>      QStringList fileNameList;</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>      QMenu* menu;</div>
@@ -139,7 +139,13 @@ $(function(){initNavTree('_x_x_recent_files_8h_source.html','',''); });
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span><span class="preprocessor">#endif </span><span class="comment">// NOT XXRecentFilesH</span></div>
 <div class="ttc" id="a_x_x_application_export_def_8h_html"><div class="ttname"><a href="_x_x_application_export_def_8h.html">XXApplicationExportDef.h</a></div></div>
-<div class="ttc" id="a_x_x_application_export_def_8h_html_a9d5e54fed910882eda5af0c18bab7e25"><div class="ttname"><a href="_x_x_application_export_def_8h.html#a9d5e54fed910882eda5af0c18bab7e25">XXAPPLICATION_DECLSPEC</a></div><div class="ttdeci">#define XXAPPLICATION_DECLSPEC</div><div class="ttdef"><b>Definition</b> XXApplicationExportDef.h:11</div></div>
+<div class="ttc" id="a_x_x_application_export_def_8h_html_a9d5e54fed910882eda5af0c18bab7e25"><div class="ttname"><a href="_x_x_application_export_def_8h.html#a9d5e54fed910882eda5af0c18bab7e25">XXAPPLICATION_DECLSPEC</a></div><div class="ttdeci">#define XXAPPLICATION_DECLSPEC</div><div class="ttdef"><b>Definition</b> XXApplicationExportDef.h:6</div></div>
+<div class="ttc" id="aclass_x_x_1_1_recent_files_html_a43e8edaf1577816987292a719faf5ed7"><div class="ttname"><a href="class_x_x_1_1_recent_files.html#a43e8edaf1577816987292a719faf5ed7">XX::RecentFiles::add</a></div><div class="ttdeci">void add(const QString &amp;fileName)</div></div>
+<div class="ttc" id="aclass_x_x_1_1_recent_files_html_a4c51d0f883b32c8d6ccd629410aa0347"><div class="ttname"><a href="class_x_x_1_1_recent_files.html#a4c51d0f883b32c8d6ccd629410aa0347">XX::RecentFiles::RecentFiles</a></div><div class="ttdeci">RecentFiles(QWidget *parent, const QString &amp;settingsKey, const QString &amp;menuObjectName)</div></div>
+<div class="ttc" id="aclass_x_x_1_1_recent_files_html_a567ec5197d40e34b823de5183b716129"><div class="ttname"><a href="class_x_x_1_1_recent_files.html#a567ec5197d40e34b823de5183b716129">XX::RecentFiles::setup</a></div><div class="ttdeci">void setup(TargetClass *instance, void(TargetClass::*memberFunction)(const QString &amp;), int maxEntries=10)</div></div>
+<div class="ttc" id="aclass_x_x_1_1_recent_files_html_a61797ca4907254d5c066f4cab9943e34"><div class="ttname"><a href="class_x_x_1_1_recent_files.html#a61797ca4907254d5c066f4cab9943e34">XX::RecentFiles::setup</a></div><div class="ttdeci">void setup(LoadFunction loadFunction, int maxEntries=10)</div></div>
+<div class="ttc" id="aclass_x_x_1_1_recent_files_html_aaaf19357b186c226f63554fbd8f440af"><div class="ttname"><a href="class_x_x_1_1_recent_files.html#aaaf19357b186c226f63554fbd8f440af">XX::RecentFiles::LoadFunction</a></div><div class="ttdeci">std::function&lt; void(const QString &amp;fileName)&gt; LoadFunction</div><div class="ttdef"><b>Definition</b> XXRecentFiles.h:17</div></div>
+<div class="ttc" id="aclass_x_x_1_1_recent_files_html_ad3066d4bce3ae9ad868d1ddb197fa234"><div class="ttname"><a href="class_x_x_1_1_recent_files.html#ad3066d4bce3ae9ad868d1ddb197fa234">XX::RecentFiles::clear</a></div><div class="ttdeci">void clear()</div></div>
 <div class="ttc" id="anamespace_x_x_html"><div class="ttname"><a href="namespace_x_x.html">XX</a></div><div class="ttdef"><b>Definition</b> XXPopulatedAbstract.h:11</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
