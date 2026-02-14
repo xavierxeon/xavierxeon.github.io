@@ -87,9 +87,10 @@ var searchData=
   ['statusexception_84',['StatusException',['../class_x_x_1_1_rest_api_1_1_status_exception.html',1,'XX::RestApi::StatusException'],['../class_x_x_1_1_rest_api_1_1_status_exception.html#adc923ce601450516269d506f66a4f4db',1,'XX::RestApi::StatusException::StatusException(const Result &amp;result, const QUrl sourceUrl)'],['../class_x_x_1_1_rest_api_1_1_status_exception.html#af2b87c91f129cf084c95662f90ab3d3b',1,'XX::RestApi::StatusException::StatusException(int statusCode, const QUrl sourceUrl, const QJsonObject &amp;json=QJsonObject())']]],
   ['stop_85',['Stop',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494',1,'XX::Midi::Stop'],['../namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481',1,'XX::Midi::Stop']]],
   ['stream_86',['stream',['../class_x_x_1_1_log_file.html#af77b9c1c09819c1887a60e3e968277d1',1,'XX::LogFile::stream()'],['../namespace_x_x_1_1_logger.html#a665e623f4c00f1f3feb21a5ed2152c00',1,'XX::Logger::stream()']]],
-  ['strip_87',['strip',['../class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a',1,'XX::FastFourierTransfrom']]],
-  ['successstatuscodes_88',['successStatusCodes',['../class_x_x_1_1_rest_api_1_1_blocking.html#ac44add257802480e9861ff356f3b32d4',1,'XX::RestApi::Blocking']]],
-  ['swap_89',['swap',['../class_x_x_1_1_double_buffer.html#a3d5b28c6e869456752a5818301097076',1,'XX::DoubleBuffer']]],
-  ['sysexend_90',['SysExEnd',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1',1,'XX::Midi']]],
-  ['system_91',['System',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd',1,'XX::Midi']]]
+  ['streaming_87',['Streaming',['../group___streaming.html',1,'']]],
+  ['strip_88',['strip',['../class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a',1,'XX::FastFourierTransfrom']]],
+  ['successstatuscodes_89',['successStatusCodes',['../class_x_x_1_1_rest_api_1_1_blocking.html#ac44add257802480e9861ff356f3b32d4',1,'XX::RestApi::Blocking']]],
+  ['swap_90',['swap',['../class_x_x_1_1_double_buffer.html#a3d5b28c6e869456752a5818301097076',1,'XX::DoubleBuffer']]],
+  ['sysexend_91',['SysExEnd',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1',1,'XX::Midi']]],
+  ['system_92',['System',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd',1,'XX::Midi']]]
 ];

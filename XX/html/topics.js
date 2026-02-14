@@ -7,7 +7,7 @@ var topics =
     [ "Graph", "group___x_x_graph.html", "group___x_x_graph" ],
     [ "Gui", "group___x_x_gui.html", "group___x_x_gui" ],
     [ "Log", "group___x_x_log.html", "group___x_x_log" ],
-    [ "XXMath component", "group___x_x_math.html", null ],
+    [ "Math", "group___x_x_math.html", "group___x_x_math" ],
     [ "XXMusic component", "group___x_x_music.html", null ],
     [ "XXNetwork component", "group___x_x_network.html", null ],
     [ "XXWidgets component", "group___x_x_widgets.html", null ]
