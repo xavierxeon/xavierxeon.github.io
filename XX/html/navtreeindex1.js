@@ -1,6 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc":[3,0,0,7,1,0],
 "class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc":[5,0,0,7,1,0],
 "class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e":[3,0,0,7,1,6],
 "class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e":[5,0,0,7,1,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX1 =
 "class_x_x_1_1_managed_1_1_tree_view.html#a7e9dadba2f7502ea04cc1a8d3bf4ca41":[5,0,0,10,2,2],
 "class_x_x_1_1_managed_1_1_tree_view.html#af0480a4f75c38fab01e5cc62428ad75b":[3,0,0,10,2,5],
 "class_x_x_1_1_managed_1_1_tree_view.html#af0480a4f75c38fab01e5cc62428ad75b":[5,0,0,10,2,5],
-"class_x_x_1_1_math_1_1_quaternion.html":[3,0,0,4,0]
+"class_x_x_1_1_math_1_1_quaternion.html":[3,0,0,4,0],
+"class_x_x_1_1_math_1_1_quaternion.html":[5,0,0,4,0]
 };

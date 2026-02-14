@@ -29,9 +29,7 @@ var NAVTREE =
       [ "install", "index.html#autotoc_md1", null ],
       [ "mocing Qt classes in cpp files", "index.html#autotoc_md2", null ]
     ] ],
-    [ "XX Core Component", "_x_x_core.html", [
-      [ "XX Core", "_x_x_core.html#autotoc_md5", null ]
-    ] ],
+    [ "XX Core Component", "_x_x_core.html", null ],
     [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -75,11 +73,11 @@ var NAVTREEINDEX =
 [
 "_x_x_application_export_def_8h.html",
 "class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc",
-"class_x_x_1_1_math_1_1_quaternion.html",
+"class_x_x_1_1_math_1_1_quaternion.html#a33ba3b74bf4edfd517ec09fc6a644f45",
 "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86",
 "class_x_x_1_1_rest_api_1_1_status_exception.html#ad2a16c796cee0a3861eec8304f97d51c",
 "class_x_x_1_1_spectrogram.html#a45270c48b5137969557b0c2fe89a884b",
-"namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe",
+"namespace_x_x_1_1_midi.html#a4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37",
 "struct_x_x_1_1_sample_1_1_meta.html#aed5d786c4d761f1eafa0d469198d22c2"
 ];
 

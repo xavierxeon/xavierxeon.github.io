@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"class_x_x_1_1_math_1_1_quaternion.html":[5,0,0,4,0],
 "class_x_x_1_1_math_1_1_quaternion.html#a33ba3b74bf4edfd517ec09fc6a644f45":[3,0,0,4,0,0],
 "class_x_x_1_1_math_1_1_quaternion.html#a33ba3b74bf4edfd517ec09fc6a644f45":[5,0,0,4,0,0],
 "class_x_x_1_1_math_1_1_spherical.html":[3,0,0,4,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX2 =
 "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea57e7cd511897c48f4645a0e0d9149e45":[3,0,0,42,2,10],
 "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea57e7cd511897c48f4645a0e0d9149e45":[5,0,0,42,2,10],
 "class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea6a273166dae248b378c9d75e759cfeb3":[3,0,0,42,2,5],
-"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea6a273166dae248b378c9d75e759cfeb3":[5,0,0,42,2,5]
+"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea6a273166dae248b378c9d75e759cfeb3":[5,0,0,42,2,5],
+"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea7164f229be7cfaecb0a42badf505bf86":[3,0,0,42,2,8]
 };
