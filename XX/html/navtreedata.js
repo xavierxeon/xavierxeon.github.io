@@ -80,7 +80,7 @@ var NAVTREEINDEX =
 "class_x_x_1_1_scale.html#a9d1777e651378f48fe7a2c1e9d76dc94",
 "dir_7a0bfe7a2f23b860a532cf2767d0e2ac.html",
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html",
-"struct_x_x_1_1_wave_header.html#a2b7220340f3a04b528254bbc4cf24768"
+"topics.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
