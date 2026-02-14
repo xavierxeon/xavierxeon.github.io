@@ -3,7 +3,7 @@ var searchData=
   ['d_0',['D',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea94623b1ed39457c4adf3fcae1dceff5b',1,'XX::Note']]],
   ['daisy_1',['Daisy',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea40717794c1cf8e9e0ef62c16c7fdcee3',1,'XX::Midi::Device']]],
   ['damperpedal_2',['DamperPedal',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a8aae7d52bcd4805be905009c062e4d50',1,'XX::Midi']]],
-  ['data_3',['Data',['../namespace_x_x_1_1_sample.html#a821a31c70f0ea9d54f46df4be7b7868f',1,'XX::Sample']]],
+  ['data_3',['Data',['../group___x_x_audio.html#ga821a31c70f0ea9d54f46df4be7b7868f',1,'XX::Sample']]],
   ['data_4',['data',['../class_x_x_1_1_math_1_1_vector3.html#a49a7607a8c2440a5088a2fb616262ae0',1,'XX::Math::Vector3']]],
   ['dataapply_5',['DataApply',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a4a4fa87d41a09cf802d846e5b2723346',1,'XX::Midi']]],
   ['datablock_6',['DataBlock',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480',1,'XX::Midi']]],

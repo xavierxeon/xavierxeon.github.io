@@ -1,7 +1,7 @@
 var topics =
 [
-    [ "XXApplication component", "group___x_x_application.html", null ],
-    [ "XXAudio component", "group___x_x_audio.html", null ],
+    [ "XXApplication component", "group___x_x_application.html", "group___x_x_application" ],
+    [ "XXAudio component", "group___x_x_audio.html", "group___x_x_audio" ],
     [ "XXCore component", "group___x_x_core.html", "group___x_x_core" ],
     [ "XXCpp component", "group___x_x_cpp.html", "group___x_x_cpp" ],
     [ "XXGraph component", "group___x_x_graph.html", null ],

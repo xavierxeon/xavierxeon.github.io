@@ -1,14 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"class_x_x_1_1_math_1_1_vector3.html":[4,0,0,4,2],
-"class_x_x_1_1_math_1_1_vector3.html#a0f057218eb5fdf712d661194f9d26872":[2,0,0,4,2,8],
-"class_x_x_1_1_math_1_1_vector3.html#a0f057218eb5fdf712d661194f9d26872":[4,0,0,4,2,8],
-"class_x_x_1_1_math_1_1_vector3.html#a180431be579f22b8d3170a7dd7dea59e":[2,0,0,4,2,17],
-"class_x_x_1_1_math_1_1_vector3.html#a180431be579f22b8d3170a7dd7dea59e":[4,0,0,4,2,17],
-"class_x_x_1_1_math_1_1_vector3.html#a1839b16d743812ba666233e2c013c113":[2,0,0,4,2,13],
-"class_x_x_1_1_math_1_1_vector3.html#a1839b16d743812ba666233e2c013c113":[4,0,0,4,2,13],
-"class_x_x_1_1_math_1_1_vector3.html#a1a6b31a6d7ef84e7914ea2d2dbb3299d":[2,0,0,4,2,6],
-"class_x_x_1_1_math_1_1_vector3.html#a1a6b31a6d7ef84e7914ea2d2dbb3299d":[4,0,0,4,2,6],
 "class_x_x_1_1_math_1_1_vector3.html#a21fe6e8e7fd93bb90ae3baf92f8dbdb5":[2,0,0,4,2,16],
 "class_x_x_1_1_math_1_1_vector3.html#a21fe6e8e7fd93bb90ae3baf92f8dbdb5":[4,0,0,4,2,16],
 "class_x_x_1_1_math_1_1_vector3.html#a2a0f95b5a8d0ef73c003154171488ce3":[2,0,0,4,2,0],
@@ -249,5 +240,14 @@ var NAVTREEINDEX2 =
 "class_x_x_1_1_note.html#ac2d81a97a84865fbfa15d84843f1bee0":[2,0,0,42,6],
 "class_x_x_1_1_note.html#ac2d81a97a84865fbfa15d84843f1bee0":[4,0,0,42,6],
 "class_x_x_1_1_note.html#ac463f299541a4b8cd76a43c14b37cbc4":[2,0,0,42,23],
-"class_x_x_1_1_note.html#ac463f299541a4b8cd76a43c14b37cbc4":[4,0,0,42,23]
+"class_x_x_1_1_note.html#ac463f299541a4b8cd76a43c14b37cbc4":[4,0,0,42,23],
+"class_x_x_1_1_note.html#ac4ad225c59e1aee4fc23236f065f4548":[2,0,0,42,16],
+"class_x_x_1_1_note.html#ac4ad225c59e1aee4fc23236f065f4548":[4,0,0,42,16],
+"class_x_x_1_1_note.html#ada847740887d9d67803d35d8027b6700":[2,0,0,42,19],
+"class_x_x_1_1_note.html#ada847740887d9d67803d35d8027b6700":[4,0,0,42,19],
+"class_x_x_1_1_note.html#ae29c3ad5465b59462b7f7fa8df3259df":[2,0,0,42,12],
+"class_x_x_1_1_note.html#ae29c3ad5465b59462b7f7fa8df3259df":[4,0,0,42,12],
+"class_x_x_1_1_note.html#ae375c44b8bf714d8ae08b720e17dc39f":[2,0,0,42,20],
+"class_x_x_1_1_note.html#ae375c44b8bf714d8ae08b720e17dc39f":[4,0,0,42,20],
+"class_x_x_1_1_note.html#af186627c759eda2a2904c2b0c230bb79":[2,0,0,42,11]
 };
