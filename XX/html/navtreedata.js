@@ -24,7 +24,14 @@
 */
 var NAVTREE =
 [
-  [ "XX CMakePackage", "index.html", [
+  [ "XX CMake Package", "index.html", [
+    [ "XX CMake Package", "index.html#autotoc_md0", [
+      [ "install", "index.html#autotoc_md1", null ],
+      [ "mocing Qt classes in cpp files", "index.html#autotoc_md2", null ]
+    ] ],
+    [ "XX Core Component", "_x_x_core.html", [
+      [ "XX Core", "_x_x_core.html#autotoc_md3", null ]
+    ] ],
     [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -67,11 +74,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_x_x_application_export_def_8h.html",
-"class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e",
-"class_x_x_1_1_managed_1_1_tree_view.html#a44632e7c4b25741efb00b1373f0958fc",
-"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1c42aa69eb89657a04ab23ab7df2b9a9",
-"class_x_x_1_1_rest_api_1_1_async.html#a38fe59f8227b39037cda4f5b13a0d4b1",
-"class_x_x_1_1_shallow_crypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5",
+"class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc",
+"class_x_x_1_1_managed_1_1_tree_view.html#a73d45dcf17598cc6f82951cb4a033a1c",
+"class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1d89ed6d84f55ad2dc610e448d4412f7",
+"class_x_x_1_1_rest_api_1_1_async.html#a3f1aa24b9aad74c6bfc365cb6b94d456",
+"class_x_x_1_1_shallow_crypt.html#a8736f1812378ea28f1a07b5bec18da4e",
 "namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480",
 "struct_x_x_1_1_midi_1_1_sequence_1_1_track.html#a127fd5eb1a07b2eebf680baae18ee56a"
 ];

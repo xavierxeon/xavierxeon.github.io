@@ -3,7 +3,7 @@ var indexSectionsWithContent =
   0: "abcdefghijklmnopqrstuvwxyz~",
   1: "abcdefgilmnopqrstuvwx",
   2: "x",
-  3: "x",
+  3: "mx",
   4: "abcdefghijlmnopqrstuvw~",
   5: "abcdefhijmnpqrstuvwxyz",
   6: "bcdfiklmnoprstv",
@@ -12,8 +12,9 @@ var indexSectionsWithContent =
   9: "mt",
   10: "agos",
   11: "x",
-  12: "x",
-  13: "c"
+  12: "cx",
+  13: "cfimpqx",
+  14: "c"
 };
 
 var indexSectionNames =
@@ -31,7 +32,8 @@ var indexSectionNames =
   10: "related",
   11: "defines",
   12: "groups",
-  13: "concepts"
+  13: "pages",
+  14: "concepts"
 };
 
 var indexSectionLabels =
@@ -49,6 +51,7 @@ var indexSectionLabels =
   10: "Friends",
   11: "Macros",
   12: "Modules",
-  13: "Concepts"
+  13: "Pages",
+  14: "Concepts"
 };
 
