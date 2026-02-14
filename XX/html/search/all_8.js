@@ -23,7 +23,7 @@ var searchData=
   ['isevent_20',['isEvent',['../namespace_x_x_1_1_midi.html#ae934df6cfbf04ba38f643b53103a83bb',1,'XX::Midi']]],
   ['isfloattype_21',['isFloatType',['../group___x_x_cpp.html#gaedd13f6317d564d69aaab085caf5a3f7',1,'XX']]],
   ['isinsubnet_22',['isInSubnet',['../struct_x_x_1_1_network_1_1_tools.html#a0db0b073cb5a7d29c959614b6eb02c9f',1,'XX::Network::Tools']]],
-  ['isintegertype_23',['isIntegerType',['../group___x_x_cpp.html#gadeaf1c71a80b637e952a3c88bcd8f1b7',1,'XX']]],
+  ['isintegertype_23',['isIntegerType',['../group___compiler_tests.html#gadeaf1c71a80b637e952a3c88bcd8f1b7',1,'XX']]],
   ['ismonophonic_24',['isMonophonic',['../struct_x_x_1_1_midi_1_1_sequence_1_1_track.html#aca17beef6651cc97706f861c00e99c02',1,'XX::Midi::Sequence::Track']]],
   ['isnull_25',['isNull',['../class_x_x_1_1_auth_provider_1_1_token.html#a630a106b5500e390f48fb45609c80417',1,'XX::AuthProvider::Token']]],
   ['isopen_26',['isOpen',['../class_x_x_1_1_midi_1_1_interface_1_1_input.html#ac98797b45b31694df92f7f5a81823eae',1,'XX::Midi::Interface::Input::isOpen()'],['../class_x_x_1_1_midi_1_1_interface_1_1_output.html#a26ab72585ab2e63a313472d397c83ec4',1,'XX::Midi::Interface::Output::isOpen()']]],

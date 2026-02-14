@@ -1,7 +1,7 @@
 var dir_0d30db7ceb4aa70272b36dee8805772c =
 [
-    [ "XXLocalTextBrowser.h", "_x_x_local_text_browser_8h.html", null ],
-    [ "XXLook.h", "_x_x_look_8h.html", null ],
+    [ "XXLocalTextBrowser.h", "_x_x_local_text_browser_8h.html", "_x_x_local_text_browser_8h" ],
+    [ "XXLook.h", "_x_x_look_8h.html", "_x_x_look_8h" ],
     [ "XXManagedGraphicsView.h", "_x_x_managed_graphics_view_8h.html", null ],
     [ "XXManagedTableView.h", "_x_x_managed_table_view_8h.html", "_x_x_managed_table_view_8h" ],
     [ "XXManagedTreeView.h", "_x_x_managed_tree_view_8h.html", "_x_x_managed_tree_view_8h" ],

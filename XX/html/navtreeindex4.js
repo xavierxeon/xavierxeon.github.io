@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"class_x_x_1_1_rest_api_1_1_status_exception.html#af1a84251869a6c9fef033f444e0f247c":[3,0,0,9,2,2],
+"class_x_x_1_1_rest_api_1_1_status_exception.html#af1a84251869a6c9fef033f444e0f247c":[5,0,0,9,2,2],
 "class_x_x_1_1_rest_api_1_1_status_exception.html#af2b87c91f129cf084c95662f90ab3d3b":[3,0,0,9,2,1],
 "class_x_x_1_1_rest_api_1_1_status_exception.html#af2b87c91f129cf084c95662f90ab3d3b":[5,0,0,9,2,1],
 "class_x_x_1_1_rest_api_1_1_unreachable_exception.html":[3,0,0,9,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX4 =
 "class_x_x_1_1_spectrogram.html#a45270c48b5137969557b0c2fe89a884b":[3,0,0,14,5],
 "class_x_x_1_1_spectrogram.html#a45270c48b5137969557b0c2fe89a884b":[5,0,0,14,5],
 "class_x_x_1_1_spectrogram.html#a7f41044cde026e248508bbed69d77fee":[3,0,0,14,1],
-"class_x_x_1_1_spectrogram.html#a7f41044cde026e248508bbed69d77fee":[5,0,0,14,1],
-"class_x_x_1_1_spectrogram.html#a93a88a002bc3c7476a98f15866abcf32":[3,0,0,14,2],
-"class_x_x_1_1_spectrogram.html#a93a88a002bc3c7476a98f15866abcf32":[5,0,0,14,2]
+"class_x_x_1_1_spectrogram.html#a7f41044cde026e248508bbed69d77fee":[5,0,0,14,1]
 };

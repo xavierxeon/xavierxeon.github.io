@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.16.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>XX CMake Package: XXCpp/XXFunctionCaller.h File Reference</title>
+<title>XX CMake Package: CompilerTests</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -62,7 +62,7 @@ $(function() {
   </div>
 </div>
 <script type="text/javascript">
-$(function(){initNavTree('_x_x_function_caller_8h.html','',''); });
+$(function(){initNavTree('group___compiler_tests.html','',''); });
 </script>
 <div id="container">
 <div id="doc-content">
@@ -88,31 +88,37 @@ $(function(){initNavTree('_x_x_function_caller_8h.html','',''); });
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">XXFunctionCaller.h File Reference</div></div>
+  <div class="headertitle"><div class="title">CompilerTests <div class="ingroups"><a class="el" href="group___x_x_cpp.html">XX C++ Component</a></div></div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="_x_x_compile_time_string_8h_source.html">XXCompileTimeString.h</a>&quot;</code><br />
-<code>#include &lt;QList&gt;</code><br />
-<code>#include &quot;XXFunctionCaller.hpp&quot;</code><br />
-</div>
-<p><a href="_x_x_function_caller_8h_source.html">Go to the source code of this file.</a></p>
+
+<p>template text functions to test if a type is an integer, float, signed or unsigned type  
+<a href="#details">More...</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-nested-classes" class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:XX_3A_3AFunction_3A_3AAbstractCaller" id="r_XX_3A_3AFunction_3A_3AAbstractCaller"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_function_1_1_abstract_caller.html">XX::Function::AbstractCaller</a></td></tr>
-<tr class="memitem:XX_3A_3AFunction_3A_3ACaller_3C_20tag_20_3E" id="r_XX_3A_3AFunction_3A_3ACaller_3C_20tag_20_3E"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_function_1_1_caller.html">XX::Function::Caller&lt; tag &gt;</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">allows an instance of derived class to call functions on all other instance (ncluding itself)  <a href="class_x_x_1_1_function_1_1_caller.html#details">More...</a><br /></td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-namespaces" class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:XX" id="r_XX"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x.html">XX</a></td></tr>
-<tr class="memitem:XX_3A_3AFunction" id="r_XX_3A_3AFunction"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x_1_1_function.html">XX::Function</a></td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-concepts" class="groupheader"><a id="concepts" name="concepts"></a>
-Concepts</h2></td></tr>
-<tr class="memitem:XX_3A_3AFunction_3A_3ACallerClass" id="r_XX_3A_3AFunction_3A_3ACallerClass"><td class="memItemLeft">concept &#160;</td><td class="memItemRight"><a class="el" href="concept_x_x_1_1_function_1_1_caller_class.html">XX::Function::CallerClass</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">concept of a function caller class <br /></td></tr>
+<tr class="heading"><td colspan="2"><h2 id="header-typedef-members" class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:gadeaf1c71a80b637e952a3c88bcd8f1b7" id="r_gadeaf1c71a80b637e952a3c88bcd8f1b7"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:gadeaf1c71a80b637e952a3c88bcd8f1b7 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">XX::isIntegerType</a> = typename std::enable_if&lt;std::is_integral&lt;TestType&gt;::value, bool&gt;::type</td></tr>
 </table>
+<a name="details" id="details"></a><h2 id="header-details" class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>template text functions to test if a type is an integer, float, signed or unsigned type </p>
+</div><a name="doc-typedef-members" id="doc-typedef-members"></a><h2 id="header-doc-typedef-members" class="groupheader">Typedef Documentation</h2>
+<a id="gadeaf1c71a80b637e952a3c88bcd8f1b7" name="gadeaf1c71a80b637e952a3c88bcd8f1b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">&#9670;&#160;</a></span>isIntegerType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">XX::isIntegerType</a> = typename std::enable_if&lt;std::is_integral&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <div id="page-nav" class="page-nav-panel">
@@ -126,7 +132,6 @@ Concepts</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a href="dir_dd68d46a7ec0b5ad265af0237b0d926f.html">XXCpp</a></li><li class="navelem"><a href="_x_x_function_caller_8h.html">XXFunctionCaller.h</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.16.1 </li>
   </ul>
 </div>
