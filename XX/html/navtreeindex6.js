@@ -92,7 +92,7 @@ var NAVTREEINDEX6 =
 "md__r_e_a_d_m_e.html#autotoc_md1":[0,0],
 "md__r_e_a_d_m_e.html#autotoc_md2":[0,1],
 "md__x_x_widgets_2_x_x_widgets.html":[1],
-"namespace_x_x.html":[2,8,0],
+"namespace_x_x.html":[3,0,0],
 "namespace_x_x.html#a16f8071a2bec7511e9524ddffba58f95":[3,0,0,57],
 "namespace_x_x.html#a296f233be1769cc07840d3e20c833544":[3,0,0,58],
 "namespace_x_x.html#a785bbb775cb5374c07d3ad7958625aa6":[3,0,0,56],
