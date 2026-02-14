@@ -36,7 +36,8 @@ var searchData=
   ['dotangle_33',['dotAngle',['../class_x_x_1_1_math_1_1_vector3.html#aaae8ff4ebe6f46aa1ffa519cd35b6947',1,'XX::Math::Vector3']]],
   ['doublebuffer_34',['DoubleBuffer',['../class_x_x_1_1_double_buffer.html',1,'XX::DoubleBuffer&lt; DataType &gt;'],['../class_x_x_1_1_double_buffer.html#a3d48ac66033292ab50ac55da769214ac',1,'XX::DoubleBuffer::DoubleBuffer()']]],
   ['down_35',['down',['../class_x_x_1_1_note.html#a27a19a242f94b07407b1ea9988c984a6',1,'XX::Note']]],
-  ['drumtrigger_36',['DrumTrigger',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1a9f3bb67774621657f993960431e348',1,'XX::Midi::Device']]],
-  ['ds_37',['Ds',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1c42aa69eb89657a04ab23ab7df2b9a9',1,'XX::Note']]],
-  ['duration_38',['Duration',['../class_x_x_1_1_time_code.html#a0e70b985167a94c51ccd2f44f5441648',1,'XX::TimeCode']]]
+  ['doxygenmainpage_2edox_36',['DoxygenMainPage.dox',['../_doxygen_main_page_8dox.html',1,'']]],
+  ['drumtrigger_37',['DrumTrigger',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea1a9f3bb67774621657f993960431e348',1,'XX::Midi::Device']]],
+  ['ds_38',['Ds',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea1c42aa69eb89657a04ab23ab7df2b9a9',1,'XX::Note']]],
+  ['duration_39',['Duration',['../class_x_x_1_1_time_code.html#a0e70b985167a94c51ccd2f44f5441648',1,'XX::TimeCode']]]
 ];
