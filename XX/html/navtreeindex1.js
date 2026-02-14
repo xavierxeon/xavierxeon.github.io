@@ -1,9 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e":[2,0,0,7,1,6],
-"class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e":[4,0,0,7,1,6],
-"class_x_x_1_1_busy_cursor.html":[1,5,0],
-"class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0":[1,5,0,0],
 "class_x_x_1_1_busy_cursor.html#abd843393da85eb9b1e241ff711c39dd6":[1,5,0,1],
 "class_x_x_1_1_byte_conversion.html":[1,2,0],
 "class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9":[1,2,0,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX1 =
 "class_x_x_1_1_midi_1_1_interface_1_1_output.html#ae250efb858cdc68587da9b229076cece":[2,0,0,5,1,1,2],
 "class_x_x_1_1_midi_1_1_interface_1_1_output.html#ae250efb858cdc68587da9b229076cece":[4,0,0,5,1,1,2],
 "class_x_x_1_1_midi_1_1_parser.html":[2,0,0,5,6],
-"class_x_x_1_1_midi_1_1_parser.html":[4,0,0,5,6]
+"class_x_x_1_1_midi_1_1_parser.html":[4,0,0,5,6],
+"class_x_x_1_1_midi_1_1_parser.html#a0a676b60ddb24cc34bf1c1ee712c7baa":[2,0,0,5,6,10],
+"class_x_x_1_1_midi_1_1_parser.html#a0a676b60ddb24cc34bf1c1ee712c7baa":[4,0,0,5,6,10],
+"class_x_x_1_1_midi_1_1_parser.html#a0e7eca28f123632a81a90b4d7cddfeaf":[2,0,0,5,6,2],
+"class_x_x_1_1_midi_1_1_parser.html#a0e7eca28f123632a81a90b4d7cddfeaf":[4,0,0,5,6,2]
 };

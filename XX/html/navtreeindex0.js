@@ -79,10 +79,6 @@ var NAVTREEINDEX0 =
 "_x_x_math_general_8h.html":[5,0,7,1],
 "_x_x_math_general_8h_source.html":[5,0,7,1],
 "_x_x_math_qt_streaming_8h.html":[5,0,7,2],
-"_x_x_math_qt_streaming_8h.html#a2193a5ed7a78f4cfcb1e43dddab5cbd7":[5,0,7,2,0],
-"_x_x_math_qt_streaming_8h.html#a5053d6df3fa39f7c8e44a9549eeda68e":[5,0,7,2,3],
-"_x_x_math_qt_streaming_8h.html#a56d4bdf0e95c14455430c8a5a4df84e4":[5,0,7,2,2],
-"_x_x_math_qt_streaming_8h.html#a683322981028e5a1054dfa0e38baabea":[5,0,7,2,1],
 "_x_x_math_qt_streaming_8h_source.html":[5,0,7,2],
 "_x_x_math_quaternion_8h.html":[5,0,7,3],
 "_x_x_math_quaternion_8h_source.html":[5,0,7,3],
@@ -249,5 +245,9 @@ var NAVTREEINDEX0 =
 "class_x_x_1_1_auth_provider_1_1_token.html#a69210cec4ecba5ebdcbe4381ec524160":[2,0,0,7,1,5],
 "class_x_x_1_1_auth_provider_1_1_token.html#a69210cec4ecba5ebdcbe4381ec524160":[4,0,0,7,1,5],
 "class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc":[2,0,0,7,1,0],
-"class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc":[4,0,0,7,1,0]
+"class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc":[4,0,0,7,1,0],
+"class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e":[2,0,0,7,1,6],
+"class_x_x_1_1_auth_provider_1_1_token.html#ace6a1e5bdb54819055771ff9617ad47e":[4,0,0,7,1,6],
+"class_x_x_1_1_busy_cursor.html":[1,5,0],
+"class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0":[1,5,0,0]
 };
