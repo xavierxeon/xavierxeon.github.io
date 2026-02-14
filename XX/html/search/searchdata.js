@@ -1,8 +1,8 @@
 var indexSectionsWithContent =
 {
-  0: "cfimqr",
+  0: "cfimqrx",
   1: "r",
-  2: "cfimq"
+  2: "cfimqx"
 };
 
 var indexSectionNames =

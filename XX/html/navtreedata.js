@@ -25,7 +25,10 @@
 var NAVTREE =
 [
   [ "XX CMakePackage", "index.html", [
-    [ "CMakePackage", "index.html", "index" ]
+    [ "CMakePackage", "index.html#autotoc_md0", [
+      [ "install", "index.html#autotoc_md1", null ],
+      [ "mocing Qt classes in cpp files", "index.html#autotoc_md2", null ]
+    ] ]
   ] ]
 ];
 
