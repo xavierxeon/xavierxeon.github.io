@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['idname_0',['idName',['../struct_wave_chunk_header.html#ae6ff25fc3f714fa580de6b822bc9dfaa',1,'WaveChunkHeader']]],
+  ['idname_0',['idName',['../struct_x_x_1_1_wave_chunk_header.html#a2bce8f0b06a8483d466ae3554b3e75c4',1,'XX::WaveChunkHeader']]],
   ['init_1',['init',['../class_x_x_1_1_populated_1_1_menu_bar.html#a072b2249b576b84ad5e2fdc37a4c6164',1,'XX::Populated::MenuBar::init()'],['../class_x_x_1_1_populated_1_1_tool_bar.html#ab63dfe7c83102d6e52d410afb735f9d4',1,'XX::Populated::ToolBar::init()'],['../class_x_x_1_1_range_1_1_finder.html#a45e38ba39ad931c2a6f4cbf79a9ab0d5',1,'XX::Range::Finder::init()'],['../class_x_x_1_1_tab_stack_1_1_model.html#a4ddc379476a2859601e9192eb34a06bd',1,'XX::TabStack::Model::init()']]],
   ['input_2',['Input',['../class_x_x_1_1_midi_1_1_interface_1_1_input.html#ad9a8e38b25d7e59e7d265b8cfc4530f6',1,'XX::Midi::Interface::Input']]],
   ['instance_3',['instance',['../class_x_x_1_1_singleton.html#a215d7fa9d18094779f06edc4d16ae011',1,'XX::Singleton']]],

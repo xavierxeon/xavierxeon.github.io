@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['id_0',['id',['../struct_wave_chunk_header.html#a5f0134d89af01e1d33614202cdc2343a',1,'WaveChunkHeader']]],
+  ['id_0',['id',['../struct_x_x_1_1_wave_chunk_header.html#ad82bda7cff7feb5a9b98f6720caa77d1',1,'XX::WaveChunkHeader']]],
   ['info_1',['Info',['../struct_x_x_1_1_log_symbol.html#ac8b7e32ad89fd5c018cd75adb3e86513',1,'XX::LogSymbol']]],
   ['interlacedcontent_2',['interlacedContent',['../class_x_x_1_1_sample_1_1_abstract.html#a2622d28e51e7ccea33c7d194e247037b',1,'XX::Sample::Abstract']]],
   ['invaliddistance_3',['invalidDistance',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#a57d5310e8af27180ea3b9ae540fa43ba',1,'XX::Graph::Algorithm::Path']]],

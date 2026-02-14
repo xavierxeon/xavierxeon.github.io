@@ -9,7 +9,7 @@ var searchData=
   ['datablock_6',['DataBlock',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a950fdf330ac7c8e580b7aea1f408a480',1,'XX::Midi']]],
   ['datablock_7',['dataBlock',['../class_x_x_1_1_shared_data.html#aa0e00e2624c1abc61730967a1dded887',1,'XX::SharedData']]],
   ['datainit_8',['DataInit',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a9c1cf13bcfa9cbb2f142775ab86c3864',1,'XX::Midi']]],
-  ['datasize_9',['dataSize',['../struct_wave_chunk_header.html#ad7cca833cc060ef8a3921a8113f325af',1,'WaveChunkHeader::dataSize'],['../struct_wave_fmt_header.html#aa2a3f202c86fafa99d9c82f3517e7512',1,'WaveFmtHeader::dataSize']]],
+  ['datasize_9',['dataSize',['../struct_x_x_1_1_wave_chunk_header.html#ac68650ec41cb18cf1d29a36f8fd15055',1,'XX::WaveChunkHeader::dataSize'],['../struct_x_x_1_1_wave_fmt_header.html#a335d32a1cb7ca06a3b96edde96c8a7db',1,'XX::WaveFmtHeader::dataSize']]],
   ['datastore_10',['DataStore',['../class_x_x_1_1_data_store.html',1,'XX']]],
   ['deactivateframe_11',['deactivateFrame',['../class_x_x_1_1_managed_1_1_graphics_view.html#a1508e6781ec442b4329e50870d2294c1',1,'XX::Managed::GraphicsView']]],
   ['debug_12',['Debug',['../struct_x_x_1_1_log_symbol.html#a4a075b698cd9d94028ce059ad172dbfa',1,'XX::LogSymbol']]],

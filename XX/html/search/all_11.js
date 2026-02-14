@@ -32,5 +32,5 @@ var searchData=
   ['result_29',['Result',['../struct_x_x_1_1_rest_api_1_1_result.html',1,'XX::RestApi']]],
   ['resultraw_30',['ResultRaw',['../struct_x_x_1_1_rest_api_1_1_result_raw.html',1,'XX::RestApi']]],
   ['revive_31',['revive',['../class_x_x_1_1_shallow_crypt.html#a8736f1812378ea28f1a07b5bec18da4e',1,'XX::ShallowCrypt']]],
-  ['riff_32',['RIFF',['../struct_wave_header.html#acd157d07ae074c475e483cd7fe3992eb',1,'WaveHeader']]]
+  ['riff_32',['RIFF',['../struct_x_x_1_1_wave_header.html#a8d5df283fd6ef39b5c18f38a8f048baa',1,'XX::WaveHeader']]]
 ];

@@ -11,8 +11,8 @@ var searchData=
   ['begin_8',['begin',['../class_x_x_1_1_range_1_1_spread.html#ac8cb744c8fae5efae93522044a514207',1,'XX::Range::Spread']]],
   ['bitbox_9',['BitBox',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eacbb651d1db75162eed4e9de8faad29cc',1,'XX::Midi::Device']]],
   ['bitboxmicro_10',['BitBoxMicro',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0eaff47c2f27c6014a0974f466b8db1ca8d',1,'XX::Midi::Device']]],
-  ['bitspersample_11',['bitsPerSample',['../struct_wave_fmt_header.html#ad0d4032df5233c808a83e29ea8a465c3',1,'WaveFmtHeader']]],
-  ['blockalign_12',['blockAlign',['../struct_wave_fmt_header.html#a3527f53817fd1579d82d53e258603b0e',1,'WaveFmtHeader']]],
+  ['bitspersample_11',['bitsPerSample',['../struct_x_x_1_1_wave_fmt_header.html#ae26527882f1d782686d0bcc082079357',1,'XX::WaveFmtHeader']]],
+  ['blockalign_12',['blockAlign',['../struct_x_x_1_1_wave_fmt_header.html#a09e33bd4b54e1af401c274fc81a4920d',1,'XX::WaveFmtHeader']]],
   ['blocked_13',['Blocked',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbfa4ecc0d90eec1cea3e9db96583a1bb9c2',1,'XX::AuthProvider::OAuth']]],
   ['blocking_14',['Blocking',['../class_x_x_1_1_rest_api_1_1_blocking.html',1,'XX::RestApi::Blocking'],['../class_x_x_1_1_rest_api_1_1_blocking.html#a8f98c10d586f3e54d9dc147f6a4c8ad4',1,'XX::RestApi::Blocking::Blocking()']]],
   ['blockstate_15',['BlockState',['../class_x_x_1_1_auth_provider_1_1_o_auth_1_1_block_state.html',1,'XX::AuthProvider::OAuth::BlockState'],['../class_x_x_1_1_auth_provider_1_1_o_auth_1_1_block_state.html#a4a110c91f5a3867c91627730689843b0',1,'XX::AuthProvider::OAuth::BlockState::BlockState()']]],
@@ -26,5 +26,5 @@ var searchData=
   ['byteconversion_23',['ByteConversion',['../class_x_x_1_1_byte_conversion.html',1,'XX']]],
   ['bytes_24',['Bytes',['../namespace_x_x.html#abbb40212d748e2392ad5e7e290a31e9b',1,'XX']]],
   ['bytes_25',['bytes',['../class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]],
-  ['bytespersec_26',['bytesPerSec',['../struct_wave_fmt_header.html#abed8e4d180ec2fe46633953c20c07685',1,'WaveFmtHeader']]]
+  ['bytespersec_26',['bytesPerSec',['../struct_x_x_1_1_wave_fmt_header.html#af6c3c575368b252ff1836b38975b5083',1,'XX::WaveFmtHeader']]]
 ];

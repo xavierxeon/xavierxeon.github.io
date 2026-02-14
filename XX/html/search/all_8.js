@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['id_0',['id',['../struct_wave_chunk_header.html#a5f0134d89af01e1d33614202cdc2343a',1,'WaveChunkHeader']]],
-  ['idname_1',['idName',['../struct_wave_chunk_header.html#ae6ff25fc3f714fa580de6b822bc9dfaa',1,'WaveChunkHeader']]],
+  ['id_0',['id',['../struct_x_x_1_1_wave_chunk_header.html#ad82bda7cff7feb5a9b98f6720caa77d1',1,'XX::WaveChunkHeader']]],
+  ['idname_1',['idName',['../struct_x_x_1_1_wave_chunk_header.html#a2bce8f0b06a8483d466ae3554b3e75c4',1,'XX::WaveChunkHeader']]],
   ['in_20cpp_20files_2',['mocing Qt classes in cpp files',['../md__r_e_a_d_m_e.html#autotoc_md2',1,'']]],
   ['indexlist_3',['IndexList',['../class_x_x_1_1_graph_1_1_algorithm.html#a49230dccf98a942712c7e6368c5e729f',1,'XX::Graph::Algorithm']]],
   ['info_4',['Info',['../struct_x_x_1_1_info.html',1,'XX::Info'],['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html',1,'XX::Midi::Sequence::Info'],['../struct_x_x_1_1_log_symbol.html#ac8b7e32ad89fd5c018cd75adb3e86513',1,'XX::LogSymbol::Info']]],

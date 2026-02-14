@@ -12,7 +12,7 @@ var searchData=
   ['channelpressure_9',['ChannelPressure',['../namespace_x_x_1_1_midi.html#aa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da',1,'XX::Midi']]],
   ['channels_10',['Channels',['../namespace_x_x_1_1_sample.html#a41dad56563d51a0521d146ddec2f89d6',1,'XX::Sample']]],
   ['channelvolume_11',['ChannelVolume',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5aa47924d67991b6e759d70fe4aa461281',1,'XX::Midi']]],
-  ['chunksize_12',['chunkSize',['../struct_wave_header.html#a4c728eb89d3b481de8302d73dc643381',1,'WaveHeader']]],
+  ['chunksize_12',['chunkSize',['../struct_x_x_1_1_wave_header.html#a2b7220340f3a04b528254bbc4cf24768',1,'XX::WaveHeader']]],
   ['clamp_13',['clamp',['../struct_x_x_1_1_range.html#a3624c89b908f1fa8f84e705399aca6db',1,'XX::Range']]],
   ['classes_20in_20cpp_20files_14',['mocing Qt classes in cpp files',['../md__r_e_a_d_m_e.html#autotoc_md2',1,'']]],
   ['clear_15',['clear',['../class_x_x_1_1_recent_files.html#ad3066d4bce3ae9ad868d1ddb197fa234',1,'XX::RecentFiles::clear()'],['../class_x_x_1_1_sample_1_1_writer.html#ae9ea3568493061cf2ae0dcd3d56b7b34',1,'XX::Sample::Writer::clear()'],['../class_x_x_1_1_graph.html#a58f7498c4cc9f1c0d949b0a3914204f0',1,'XX::Graph::clear()'],['../class_x_x_1_1_logger_1_1_target.html#ad5a922aa80e246edebffdf16afe0075e',1,'XX::Logger::Target::clear()']]],

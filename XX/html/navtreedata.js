@@ -78,7 +78,8 @@ var NAVTREEINDEX =
 "class_x_x_1_1_populated_1_1_tool_bar.html#a4ced992fdfb80aa7f6882927c2c8076d",
 "class_x_x_1_1_scale.html#a2eb5defd066872f93412379645db753f",
 "dir_54b8da5719cc5809063081853db94269.html",
-"struct_x_x_1_1_color_space_1_1_x_y_b.html#a3d35ab1ea2f28bef4339e476a04f4dec"
+"struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#aa8e0a3411d139fb0e2b868f66ae6c406",
+"topics.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

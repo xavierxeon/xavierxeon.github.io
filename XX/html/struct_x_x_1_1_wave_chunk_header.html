@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.16.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>XX CMakePackage: XXAudio/src/XXSampleWave.cpp File Reference</title>
+<title>XX CMakePackage: XX::WaveChunkHeader Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -62,7 +62,7 @@ $(function() {
   </div>
 </div>
 <script type="text/javascript">
-$(function(){initNavTree('_x_x_sample_wave_8cpp.html','',''); });
+$(function(){initNavTree('struct_x_x_1_1_wave_chunk_header.html','','struct_x_x_1_1_wave_chunk_header-members'); });
 </script>
 <div id="container">
 <div id="doc-content">
@@ -88,25 +88,77 @@ $(function(){initNavTree('_x_x_sample_wave_8cpp.html','',''); });
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">XXSampleWave.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">XX::WaveChunkHeader Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="_x_x_sample_wave_8h_source.html">XXSampleWave.h</a>&quot;</code><br />
-<code>#include &lt;limits&gt;</code><br />
-<code>#include &lt;QDebug&gt;</code><br />
-<code>#include &lt;QFile&gt;</code><br />
-<code>#include &lt;<a class="el" href="_x_x_byte_conversion_8h_source.html">XXByteConversion.h</a>&gt;</code><br />
-</div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-nested-classes" class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:XX_3A_3AWaveHeader" id="r_XX_3A_3AWaveHeader"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_wave_header.html">XX::WaveHeader</a></td></tr>
-<tr class="memitem:XX_3A_3AWaveChunkHeader" id="r_XX_3A_3AWaveChunkHeader"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_wave_chunk_header.html">XX::WaveChunkHeader</a></td></tr>
-<tr class="memitem:XX_3A_3AWaveFmtHeader" id="r_XX_3A_3AWaveFmtHeader"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_wave_fmt_header.html">XX::WaveFmtHeader</a></td></tr>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 id="header-pub-methods" class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a2bce8f0b06a8483d466ae3554b3e75c4" id="r_a2bce8f0b06a8483d466ae3554b3e75c4"><td class="memItemLeft">QString&#160;</td><td class="memItemRight"><a class="el" href="#a2bce8f0b06a8483d466ae3554b3e75c4">idName</a> ()</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-namespaces" class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:XX" id="r_XX"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x.html">XX</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 id="header-pub-attribs" class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ad82bda7cff7feb5a9b98f6720caa77d1" id="r_ad82bda7cff7feb5a9b98f6720caa77d1"><td class="memItemLeft">uint8_t&#160;</td><td class="memItemRight"><a class="el" href="#ad82bda7cff7feb5a9b98f6720caa77d1">id</a> [4] = {'d', 'a', 't', 'a'}</td></tr>
+<tr class="memitem:ac68650ec41cb18cf1d29a36f8fd15055" id="r_ac68650ec41cb18cf1d29a36f8fd15055"><td class="memItemLeft">uint32_t&#160;</td><td class="memItemRight"><a class="el" href="#ac68650ec41cb18cf1d29a36f8fd15055">dataSize</a> = 0</td></tr>
 </table>
+<a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Member Function Documentation</h2>
+<a id="a2bce8f0b06a8483d466ae3554b3e75c4" name="a2bce8f0b06a8483d466ae3554b3e75c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2bce8f0b06a8483d466ae3554b3e75c4">&#9670;&#160;</a></span>idName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QString XX::WaveChunkHeader::idName </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a name="doc-variable-members" id="doc-variable-members"></a><h2 id="header-doc-variable-members" class="groupheader">Member Data Documentation</h2>
+<a id="ac68650ec41cb18cf1d29a36f8fd15055" name="ac68650ec41cb18cf1d29a36f8fd15055"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac68650ec41cb18cf1d29a36f8fd15055">&#9670;&#160;</a></span>dataSize</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t XX::WaveChunkHeader::dataSize = 0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad82bda7cff7feb5a9b98f6720caa77d1" name="ad82bda7cff7feb5a9b98f6720caa77d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad82bda7cff7feb5a9b98f6720caa77d1">&#9670;&#160;</a></span>id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t XX::WaveChunkHeader::id[4] = {'d', 'a', 't', 'a'}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>The documentation for this struct was generated from the following file:<ul>
+<li>XXAudio/src/<a class="el" href="_x_x_sample_wave_8cpp.html">XXSampleWave.cpp</a></li>
+</ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <div id="page-nav" class="page-nav-panel">
@@ -120,7 +172,7 @@ Namespaces</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a href="dir_c9a95850d045642e2d292f0b5be04b13.html">XXAudio</a></li><li class="navelem"><a href="dir_54b8da5719cc5809063081853db94269.html">src</a></li><li class="navelem"><a href="_x_x_sample_wave_8cpp.html">XXSampleWave.cpp</a></li>
+    <li class="navelem"><a href="namespace_x_x.html">XX</a></li><li class="navelem"><a href="struct_x_x_1_1_wave_chunk_header.html">WaveChunkHeader</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.16.1 </li>
   </ul>
 </div>

@@ -30,7 +30,7 @@ var searchData=
   ['async_27',['Async',['../class_x_x_1_1_rest_api_1_1_async.html',1,'XX::RestApi::Async'],['../class_x_x_1_1_rest_api_1_1_blocking.html#a4953ed4590800ddcde3fd70ebc65b2b6',1,'XX::RestApi::Blocking::Async()'],['../class_x_x_1_1_rest_api_1_1_async.html#a4fa2d348e5ab17303fdf3aa31a84f24d',1,'XX::RestApi::Async::Async()']]],
   ['atend_28',['atEnd',['../class_x_x_1_1_sample_1_1_reader.html#a547bd08b3c319c2005e1f32dda748a78',1,'XX::Sample::Reader']]],
   ['attention_29',['Attention',['../struct_x_x_1_1_log_symbol.html#a99ab0f711265b49c332ba5aa456a3463',1,'XX::LogSymbol']]],
-  ['audioformat_30',['audioFormat',['../struct_wave_fmt_header.html#afbebf680b808e9f4fe6d4cf938b7fa88',1,'WaveFmtHeader']]],
+  ['audioformat_30',['audioFormat',['../struct_x_x_1_1_wave_fmt_header.html#a9c77dab30e9a41eabc780ad819f81ddd',1,'XX::WaveFmtHeader']]],
   ['authorizeuser_31',['authorizeUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#ad70b41f402b7e969a6840eeea979ff9f',1,'XX::AuthProvider::OAuth']]],
   ['authuser_32',['AuthUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbfa6f1cf5a98fd12349099d744b9b87792e',1,'XX::AuthProvider::OAuth']]],
   ['availablenotes_33',['availableNotes',['../class_x_x_1_1_note.html#abe4ddc961a7e8e54b827278b92e54f87',1,'XX::Note']]],

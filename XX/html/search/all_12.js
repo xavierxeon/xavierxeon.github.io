@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['samplerate_0',['sampleRate',['../struct_wave_fmt_header.html#a55af7d9eaa7761a63618f31ec2b90286',1,'WaveFmtHeader::sampleRate'],['../struct_x_x_1_1_sample_1_1_meta.html#af702c3e7150d261740faa12d68f4850f',1,'XX::Sample::Meta::sampleRate']]],
+  ['samplerate_0',['sampleRate',['../struct_x_x_1_1_wave_fmt_header.html#ad16b1ad58a575365ae00e35a59c7a7df',1,'XX::WaveFmtHeader::sampleRate'],['../struct_x_x_1_1_sample_1_1_meta.html#af702c3e7150d261740faa12d68f4850f',1,'XX::Sample::Meta::sampleRate']]],
   ['save_1',['save',['../class_x_x_1_1_sample_1_1_abstract.html#a227d820caa50c0741362d50cf3f90274',1,'XX::Sample::Abstract::save()'],['../class_x_x_1_1_sample_1_1_wave.html#a7f93e3f70a7d1118b5509df5cb7ab029',1,'XX::Sample::Wave::save()'],['../class_x_x_1_1_sample_1_1_writer.html#abdeca7f05642354eaf1f0e0943425579',1,'XX::Sample::Writer::save()']]],
   ['saverefreshtoken_2',['saveRefreshToken',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a8982ab1959d82e43485c3ef91ff5eaa5',1,'XX::AuthProvider::OAuth']]],
   ['savewindowsettings_3',['saveWindowSettings',['../class_x_x_1_1_populated_1_1_main_window.html#aa4da6e1177e08842bc9a250404031515',1,'XX::Populated::MainWindow']]],

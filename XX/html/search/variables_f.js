@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['samplerate_0',['sampleRate',['../struct_wave_fmt_header.html#a55af7d9eaa7761a63618f31ec2b90286',1,'WaveFmtHeader::sampleRate'],['../struct_x_x_1_1_sample_1_1_meta.html#af702c3e7150d261740faa12d68f4850f',1,'XX::Sample::Meta::sampleRate']]],
+  ['samplerate_0',['sampleRate',['../struct_x_x_1_1_wave_fmt_header.html#ad16b1ad58a575365ae00e35a59c7a7df',1,'XX::WaveFmtHeader::sampleRate'],['../struct_x_x_1_1_sample_1_1_meta.html#af702c3e7150d261740faa12d68f4850f',1,'XX::Sample::Meta::sampleRate']]],
   ['seconds_1',['seconds',['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html#a98d90ab8d28d8ec9d7ae96f55f69b790',1,'XX::Midi::Sequence::Info']]],
   ['sharpsymbol_2',['sharpSymbol',['../class_x_x_1_1_note.html#a5b0d7b19e4466c60133b854e1e679182',1,'XX::Note']]],
   ['sslsocket_3',['sslSocket',['../class_x_x_1_1_secure_network_1_1_socket.html#a02b20a3a99eb16a917bd0c8274c26c8e',1,'XX::SecureNetwork::Socket']]],

@@ -12,7 +12,7 @@ var searchData=
   ['fixsize_9',['fixSize',['../class_x_x_1_1_device_tools.html#a6f8474419de3483edda956bf3e1056a3',1,'XX::DeviceTools::fixSize(QQmlApplicationEngine *engine, const DeviceIdentifier &amp;deviceId)'],['../class_x_x_1_1_device_tools.html#aa45ed28c76352e88db6a7767d3a237e2',1,'XX::DeviceTools::fixSize(QWindow *window, const DeviceIdentifier &amp;deviceId)']]],
   ['flamecc_10',['FlameCC',['../struct_x_x_1_1_midi_1_1_device.html#a1454ec0dcef8edb9c9128cd9d7ed2e0ea64d67dfb8757445832873ef303f04358',1,'XX::Midi::Device']]],
   ['flatsymbol_11',['flatSymbol',['../class_x_x_1_1_note.html#a8cf054a69d561889c8d75484138d5163',1,'XX::Note']]],
-  ['fmt_12',['fmt',['../struct_wave_fmt_header.html#a6c3fca5602bf0ad34cafad3ecc8ce213',1,'WaveFmtHeader']]],
+  ['fmt_12',['fmt',['../struct_x_x_1_1_wave_fmt_header.html#a338ba0e0b3281d47562ea2d930acda97',1,'XX::WaveFmtHeader']]],
   ['footcontroller_13',['FootController',['../namespace_x_x_1_1_midi.html#a0bdc0a7397c27b212f13e10448181cf5a9fb53b51bc4cc1db571bc54fac1c5cf3',1,'XX::Midi']]],
   ['forceappmenubar_14',['forceAppMenuBar',['../struct_x_x_1_1_look.html#a6a9dad6cc9bb33670460f356211e5bd0',1,'XX::Look']]],
   ['forcedisplaymode_15',['forceDisplayMode',['../class_x_x_1_1_device_tools.html#a2a76bb23e22718bbaee71a6947d508a7',1,'XX::DeviceTools']]],

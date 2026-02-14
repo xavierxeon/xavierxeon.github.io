@@ -162,8 +162,8 @@ var hierarchy =
     [ "XX::Math::Vector3", "class_x_x_1_1_math_1_1_vector3.html", null ],
     [ "XX::Graph::Vertex", "class_x_x_1_1_graph_1_1_vertex.html", null ],
     [ "XX::Graph::Algorithm::Tree::VertexData", "struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_1_1_vertex_data.html", null ],
-    [ "WaveChunkHeader", "struct_wave_chunk_header.html", null ],
-    [ "WaveFmtHeader", "struct_wave_fmt_header.html", null ],
-    [ "WaveHeader", "struct_wave_header.html", null ],
+    [ "XX::WaveChunkHeader", "struct_x_x_1_1_wave_chunk_header.html", null ],
+    [ "XX::WaveFmtHeader", "struct_x_x_1_1_wave_fmt_header.html", null ],
+    [ "XX::WaveHeader", "struct_x_x_1_1_wave_header.html", null ],
     [ "XX::ColorSpace::XYB", "struct_x_x_1_1_color_space_1_1_x_y_b.html", null ]
 ];
