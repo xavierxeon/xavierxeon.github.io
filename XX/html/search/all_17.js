@@ -2,7 +2,7 @@ var searchData=
 [
   ['x_0',['x',['../struct_x_x_1_1_color_space_1_1_x_y_b.html#a430e7c3600c61c2d40be6ce6a6facfcf',1,'XX::ColorSpace::XYB::x'],['../class_x_x_1_1_math_1_1_vector3.html#ae5fd9f602b2da97a61e6b6ab9653e713',1,'XX::Math::Vector3::x']]],
   ['xx_1',['XX',['../namespace_x_x.html',1,'']]],
-  ['xx_20cmake_20package_2',['XX CMake Package',['../index.html',1,'XX CMake Package'],['../index.html#autotoc_md0',1,'XX CMake Package']]],
+  ['xx_20cmake_20package_2',['XX CMake Package',['../index.html',1,'']]],
   ['xx_3a_3aauthprovider_3',['AuthProvider',['../namespace_x_x_1_1_auth_provider.html',1,'XX']]],
   ['xx_3a_3afunction_4',['Function',['../namespace_x_x_1_1_function.html',1,'XX']]],
   ['xx_3a_3alogger_5',['Logger',['../namespace_x_x_1_1_logger.html',1,'XX']]],

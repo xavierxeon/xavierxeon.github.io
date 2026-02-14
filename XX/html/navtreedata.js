@@ -25,10 +25,6 @@
 var NAVTREE =
 [
   [ "XX CMake Package", "index.html", [
-    [ "XX CMake Package", "index.html#autotoc_md0", [
-      [ "install", "index.html#autotoc_md1", null ],
-      [ "mocing Qt classes in cpp files", "index.html#autotoc_md2", null ]
-    ] ],
     [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],

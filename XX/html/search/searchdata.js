@@ -13,7 +13,7 @@ var indexSectionsWithContent =
   10: "agos",
   11: "x",
   12: "acglmnsw",
-  13: "cfimpqx",
+  13: "cpx",
   14: "c"
 };
 

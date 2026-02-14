@@ -1,7 +1,7 @@
 var searchData=
 [
   ['pack_0',['pack',['../class_x_x_1_1_osc_message.html#a2fc8acd05bf57d2d7983f6c876521c66',1,'XX::OscMessage']]],
-  ['package_1',['Package',['../index.html',1,'XX CMake Package'],['../index.html#autotoc_md0',1,'XX CMake Package']]],
+  ['package_1',['XX CMake Package',['../index.html',1,'']]],
   ['pan_2',['Pan',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a727bc0ffde59075404d908646f6452cd',1,'XX::Midi']]],
   ['parentvertexindex_3',['parentVertexIndex',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_1_1_vertex_data.html#a0db6c1c66922f090b2c22dec67814def',1,'XX::Graph::Algorithm::Tree::VertexData']]],
   ['parsebytes_4',['parseBytes',['../class_x_x_1_1_file_tools.html#a59dbd1bf65d3fca683ed8723624c89b4',1,'XX::FileTools']]],
