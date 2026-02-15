@@ -1,5 +1,6 @@
 var files_dup =
 [
+    [ "docu", "dir_9322c6a7b07461e972831a5e36a302e0.html", null ],
     [ "XXApplication", "dir_d8477ad29e9c450b2269407ed49ae9a6.html", "dir_d8477ad29e9c450b2269407ed49ae9a6" ],
     [ "XXAudio", "dir_c9a95850d045642e2d292f0b5be04b13.html", "dir_c9a95850d045642e2d292f0b5be04b13" ],
     [ "XXCore", "dir_b7d408403d86ca0904e1e68f443d7ffc.html", "dir_b7d408403d86ca0904e1e68f443d7ffc" ],
