@@ -16,8 +16,9 @@ var group___x_x_log =
       [ "Info", "struct_x_x_1_1_log_symbol.html#ac8b7e32ad89fd5c018cd75adb3e86513", null ],
       [ "Warning", "struct_x_x_1_1_log_symbol.html#aafe838a4946059ed8a2002008dd02699", null ]
     ] ],
-    [ "XX::MessageHandler", "struct_x_x_1_1_message_handler.html", [
-      [ "disable", "struct_x_x_1_1_message_handler.html#acb2efaa021188202d96862c2674a5262", null ],
-      [ "enable", "struct_x_x_1_1_message_handler.html#a65fd55c8101b0b73f2a9af54acdc6b35", null ]
+    [ "XX::MessageInterceptor", "struct_x_x_1_1_message_interceptor.html", [
+      [ "disable", "struct_x_x_1_1_message_interceptor.html#afac8ceeaf324eb32e63113873ac94be1", null ],
+      [ "enable", "struct_x_x_1_1_message_interceptor.html#a9a89761950a454691a9e071e9c515fa9", null ],
+      [ "symbol", "struct_x_x_1_1_message_interceptor.html#a5ea91824e744fe6825b1f1f04724dc4c", null ]
     ] ]
 ];

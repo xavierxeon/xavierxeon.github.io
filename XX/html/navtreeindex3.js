@@ -1,5 +1,13 @@
 var NAVTREEINDEX3 =
 {
+"class_x_x_1_1_shared_data_1_1_guard.html#a636bf1fb3f85283cbab4a54fd29bb229":[0,2,6,1,0],
+"class_x_x_1_1_shared_data_1_1_guard.html#af6429ede0967bda778cfc63232a4f515":[0,2,6,1,1],
+"class_x_x_1_1_shared_data_1_1_list.html":[0,2,6,0],
+"class_x_x_1_1_shared_data_1_1_list.html#a18a3d3eebf56296092a13eb613c6f410":[0,2,6,0,0],
+"class_x_x_1_1_shared_data_1_1_list.html#af4c2f9ea50151761eb56dc00cb43c014":[0,2,6,0,1],
+"class_x_x_1_1_shell_client.html":[0,2,7],
+"class_x_x_1_1_shell_client.html#a067bd9b39f2463a7b5aec46a144e069b":[0,2,7,0],
+"class_x_x_1_1_shell_client.html#af58bb22c7bb263cbbfbf20e4a5825b82":[0,2,7,1],
 "class_x_x_1_1_singleton.html":[0,2,8],
 "class_x_x_1_1_singleton.html#a18ddca4b0042e33a4b100e9a29b5149d":[0,2,8,2],
 "class_x_x_1_1_singleton.html#ac6c4e58772a4949f4e7f4ffc867173dd":[0,2,8,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX3 =
 "group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baf10ac25196f7f5534769fe92ac6bb4ee":[0,8,18,12],
 "group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baf4cccf43a311ced76a13470b07872e12":[0,8,18,5],
 "group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481":[0,8,19,2],
-"group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe":[0,8,19,1],
-"group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa6122a65eaa676f700ae68d393054a37":[0,8,19,0],
-"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a02957f89d77f05aaa36a730f076b8471":[0,8,17,7],
-"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee":[0,8,17,4],
-"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a1d71fa41cf3fb2e21055158cfecb89d5":[0,8,17,20],
-"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a38f62592cd48f5686cc08e05a1101275":[0,8,17,16],
-"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f":[0,8,17,17],
-"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a4bc0794c6c4921c25c2fc6ea192562a9":[0,8,17,15],
-"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a673da58d5726d7cc5a2b56b77bff3a96":[0,8,17,11]
+"group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe":[0,8,19,1]
 };

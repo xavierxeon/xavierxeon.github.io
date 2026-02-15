@@ -74,7 +74,7 @@ var hierarchy =
       [ "XX::AuthProvider::Token", "class_x_x_1_1_auth_provider_1_1_token.html", [
         [ "XX::AuthProvider::OAuth", "class_x_x_1_1_auth_provider_1_1_o_auth.html", null ]
       ] ],
-      [ "XX::MessageHandler", "struct_x_x_1_1_message_handler.html", null ],
+      [ "XX::MessageInterceptor", "struct_x_x_1_1_message_interceptor.html", null ],
       [ "XX::RestApi::Blocking", "class_x_x_1_1_rest_api_1_1_blocking.html", [
         [ "XX::RestApi::Async", "class_x_x_1_1_rest_api_1_1_async.html", null ]
       ] ],
@@ -101,6 +101,9 @@ var hierarchy =
     ] ],
     [ "QTextBrowser", null, [
       [ "XX::LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", null ]
+    ] ],
+    [ "QTextDocument", null, [
+      [ "XX::MessageDocument", "class_x_x_1_1_message_document.html", null ]
     ] ],
     [ "QToolBar", null, [
       [ "XX::Populated::ToolBar", "class_x_x_1_1_populated_1_1_tool_bar.html", null ]

@@ -91,6 +91,7 @@ var searchData=
   ['strip_88',['strip',['../class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a',1,'XX::FastFourierTransfrom']]],
   ['successstatuscodes_89',['successStatusCodes',['../class_x_x_1_1_rest_api_1_1_blocking.html#ac44add257802480e9861ff356f3b32d4',1,'XX::RestApi::Blocking']]],
   ['swap_90',['swap',['../class_x_x_1_1_double_buffer.html#a3d5b28c6e869456752a5818301097076',1,'XX::DoubleBuffer']]],
-  ['sysexend_91',['SysExEnd',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1',1,'XX::Midi']]],
-  ['system_92',['System',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd',1,'XX::Midi']]]
+  ['symbol_91',['symbol',['../struct_x_x_1_1_message_interceptor.html#a5ea91824e744fe6825b1f1f04724dc4c',1,'XX::MessageInterceptor']]],
+  ['sysexend_92',['SysExEnd',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1',1,'XX::Midi']]],
+  ['system_93',['System',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd',1,'XX::Midi']]]
 ];

@@ -9,11 +9,12 @@ var searchData=
   ['_7elist_6',['~List',['../class_x_x_1_1_shared_data_1_1_list.html#af4c2f9ea50151761eb56dc00cb43c014',1,'XX::SharedData::List']]],
   ['_7elocker_7',['~Locker',['../class_x_x_1_1_locker.html#aee05c0109af2094065f9ae143307f3be',1,'XX::Locker']]],
   ['_7elogfile_8',['~LogFile',['../class_x_x_1_1_log_file.html#a5eecc6533d8a7fdb4ad434a9ae99f080',1,'XX::LogFile']]],
-  ['_7eoutput_9',['~Output',['../class_x_x_1_1_midi_1_1_interface_1_1_output.html#a73d0ac859ef44e8812afbd9c1e2eb35b',1,'XX::Midi::Interface::Output']]],
-  ['_7eserver_10',['~Server',['../class_x_x_1_1_secure_network_1_1_server.html#af6bfbf416340f5d37d62259e999fb49f',1,'XX::SecureNetwork::Server']]],
-  ['_7esettings_11',['~Settings',['../class_x_x_1_1_settings.html#ab869d8cd6e35d20909107f85420566cc',1,'XX::Settings']]],
-  ['_7eshareddata_12',['~SharedData',['../class_x_x_1_1_shared_data.html#ac398ad7145471997c1e310d19dee3959',1,'XX::SharedData']]],
-  ['_7esingleton_13',['~Singleton',['../class_x_x_1_1_singleton.html#ad9fac43e0c49791222b6cf550454e137',1,'XX::Singleton']]],
-  ['_7esocket_14',['~Socket',['../class_x_x_1_1_secure_network_1_1_socket.html#a8dbe4cd1da1245bbed19353e4c4f88cd',1,'XX::SecureNetwork::Socket']]],
-  ['_7etarget_15',['~Target',['../class_x_x_1_1_logger_1_1_target.html#a7aca2d6d05b94ad40193683e148c0bdc',1,'XX::Logger::Target']]]
+  ['_7emessagedocument_9',['~MessageDocument',['../class_x_x_1_1_message_document.html#adfe5aa52ba2f13798553a7f4df6a2ede',1,'XX::MessageDocument']]],
+  ['_7eoutput_10',['~Output',['../class_x_x_1_1_midi_1_1_interface_1_1_output.html#a73d0ac859ef44e8812afbd9c1e2eb35b',1,'XX::Midi::Interface::Output']]],
+  ['_7eserver_11',['~Server',['../class_x_x_1_1_secure_network_1_1_server.html#af6bfbf416340f5d37d62259e999fb49f',1,'XX::SecureNetwork::Server']]],
+  ['_7esettings_12',['~Settings',['../class_x_x_1_1_settings.html#ab869d8cd6e35d20909107f85420566cc',1,'XX::Settings']]],
+  ['_7eshareddata_13',['~SharedData',['../class_x_x_1_1_shared_data.html#ac398ad7145471997c1e310d19dee3959',1,'XX::SharedData']]],
+  ['_7esingleton_14',['~Singleton',['../class_x_x_1_1_singleton.html#ad9fac43e0c49791222b6cf550454e137',1,'XX::Singleton']]],
+  ['_7esocket_15',['~Socket',['../class_x_x_1_1_secure_network_1_1_socket.html#a8dbe4cd1da1245bbed19353e4c4f88cd',1,'XX::SecureNetwork::Socket']]],
+  ['_7etarget_16',['~Target',['../class_x_x_1_1_logger_1_1_target.html#a7aca2d6d05b94ad40193683e148c0bdc',1,'XX::Logger::Target']]]
 ];

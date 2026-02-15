@@ -6,9 +6,10 @@ var searchData=
   ['mapper_3',['Mapper',['../class_x_x_1_1_range_1_1_mapper.html',1,'XX::Range']]],
   ['matrix_4',['Matrix',['../class_x_x_1_1_matrix.html',1,'XX']]],
   ['menubar_5',['MenuBar',['../class_x_x_1_1_populated_1_1_menu_bar.html',1,'XX::Populated']]],
-  ['messagehandler_6',['MessageHandler',['../struct_x_x_1_1_message_handler.html',1,'XX']]],
-  ['messagelabel_7',['MessageLabel',['../class_x_x_1_1_message_label.html',1,'XX']]],
-  ['messagemodel_8',['MessageModel',['../class_x_x_1_1_message_model.html',1,'XX']]],
-  ['meta_9',['Meta',['../struct_x_x_1_1_sample_1_1_meta.html',1,'XX::Sample']]],
-  ['model_10',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html',1,'XX::TabStack']]]
+  ['messagedocument_6',['MessageDocument',['../class_x_x_1_1_message_document.html',1,'XX']]],
+  ['messageinterceptor_7',['MessageInterceptor',['../struct_x_x_1_1_message_interceptor.html',1,'XX']]],
+  ['messagelabel_8',['MessageLabel',['../class_x_x_1_1_message_label.html',1,'XX']]],
+  ['messagemodel_9',['MessageModel',['../class_x_x_1_1_message_model.html',1,'XX']]],
+  ['meta_10',['Meta',['../struct_x_x_1_1_sample_1_1_meta.html',1,'XX::Sample']]],
+  ['model_11',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html',1,'XX::TabStack']]]
 ];

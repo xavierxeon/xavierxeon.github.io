@@ -86,8 +86,10 @@ var NAVTREEINDEX0 =
 "_x_x_math_vector3_8h_source.html":[4,0,8,4],
 "_x_x_matrix_8h.html":[4,0,4,5],
 "_x_x_matrix_8h_source.html":[4,0,4,5],
-"_x_x_message_handler_8h.html":[4,0,7,4],
-"_x_x_message_handler_8h_source.html":[4,0,7,4],
+"_x_x_message_document_8h.html":[4,0,7,4],
+"_x_x_message_document_8h_source.html":[4,0,7,4],
+"_x_x_message_interceptor_8h.html":[4,0,7,5],
+"_x_x_message_interceptor_8h_source.html":[4,0,7,5],
 "_x_x_message_label_8h.html":[4,0,11,5],
 "_x_x_message_label_8h_source.html":[4,0,11,5],
 "_x_x_message_model_8h.html":[4,0,6,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "class_x_x_1_1_double_buffer.html#a4c84e2e8b32c51d3862e78886e0a5862":[0,3,3,2],
 "class_x_x_1_1_double_buffer.html#ab4498bb238b1f3a739959ca4f52abfe2":[0,3,3,3],
 "class_x_x_1_1_fast_fourier_transfrom.html":[0,1,0],
-"class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a":[0,1,0,7],
-"class_x_x_1_1_fast_fourier_transfrom.html#a1c50f62cfca79847c2562fcb995b58f2":[0,1,0,1],
-"class_x_x_1_1_fast_fourier_transfrom.html#aab869b2c6673267ee5b15faa937cdfa4":[0,1,0,3]
+"class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a":[0,1,0,7]
 };

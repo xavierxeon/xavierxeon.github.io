@@ -23,7 +23,7 @@ var searchData=
   ['diff_20',['diff',['../class_x_x_1_1_range_1_1_finder.html#a57bcba01cbb69ad2a62284131779bb06',1,'XX::Range::Finder']]],
   ['difference_5ftype_21',['difference_type',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#a52ca9481252fe0123ef4fe9e64fec1fc',1,'XX::Range::Spread::Iterator']]],
   ['directaccess_22',['directAccess',['../class_x_x_1_1_secure_network_1_1_socket.html#a16718b534942b1e83e28a3cdf6c2f680',1,'XX::SecureNetwork::Socket']]],
-  ['disable_23',['disable',['../struct_x_x_1_1_message_handler.html#acb2efaa021188202d96862c2674a5262',1,'XX::MessageHandler']]],
+  ['disable_23',['disable',['../struct_x_x_1_1_message_interceptor.html#afac8ceeaf324eb32e63113873ac94be1',1,'XX::MessageInterceptor']]],
   ['disconnectfromhost_24',['disconnectFromHost',['../class_x_x_1_1_secure_network_1_1_client.html#a323fa24308ccfc9866f920930a25812e',1,'XX::SecureNetwork::Client']]],
   ['distance_25',['distance',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#adc570806d59df606b29b5037a7c2b6bb',1,'XX::Graph::Algorithm::Path']]],
   ['donotshowmenuicons_26',['doNotShowMenuIcons',['../struct_x_x_1_1_look.html#a2b7fb90e0689d008e7fd55d51133e6a6',1,'XX::Look']]],

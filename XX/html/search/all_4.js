@@ -9,7 +9,7 @@ var searchData=
   ['effectcontrol2_6',['EffectControl2',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5af64bfac5ba3c8c3630ac14f25ef2cb88',1,'XX::Midi']]],
   ['el_7',['el',['../class_x_x_1_1_math_1_1_spherical.html#a883266289b1425cd482311ce3799edd1',1,'XX::Math::Spherical']]],
   ['emptykeylist_8',['emptyKeyList',['../class_x_x_1_1_scale.html#ab24b2df06e982a47b8a7caabd8227b34',1,'XX::Scale']]],
-  ['enable_9',['enable',['../struct_x_x_1_1_message_handler.html#a65fd55c8101b0b73f2a9af54acdc6b35',1,'XX::MessageHandler']]],
+  ['enable_9',['enable',['../struct_x_x_1_1_message_interceptor.html#a9a89761950a454691a9e071e9c515fa9',1,'XX::MessageInterceptor']]],
   ['end_10',['end',['../class_x_x_1_1_range_1_1_spread.html#a88b816d0894d740ed75e0aef3ace35cc',1,'XX::Range::Spread']]],
   ['endoftrack_11',['EndOfTrack',['../group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c',1,'XX::Midi']]],
   ['engaged_12',['engaged',['../class_x_x_1_1_locker.html#a8fd4e4c89506ecd1d29ae42bff4b98b4',1,'XX::Locker']]],
