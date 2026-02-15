@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['oauth_852',['OAuth',['../classXX_1_1AuthProvider_1_1OAuth.html',1,'XX::AuthProvider']]],
-  ['oscmessage_853',['OscMessage',['../classXX_1_1OscMessage.html',1,'XX']]],
-  ['output_854',['Output',['../classXX_1_1Midi_1_1Interface_1_1Output.html',1,'XX::Midi::Interface']]]
+  ['oauth_0',['OAuth',['../class_x_x_1_1_auth_provider_1_1_o_auth.html',1,'XX::AuthProvider']]],
+  ['oscmessage_1',['OscMessage',['../class_x_x_1_1_osc_message.html',1,'XX']]],
+  ['output_2',['Output',['../class_x_x_1_1_midi_1_1_interface_1_1_output.html',1,'XX::Midi::Interface']]]
 ];

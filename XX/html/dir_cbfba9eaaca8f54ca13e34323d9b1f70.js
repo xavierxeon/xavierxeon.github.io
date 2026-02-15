@@ -1,17 +1,12 @@
 var dir_cbfba9eaaca8f54ca13e34323d9b1f70 =
 [
-    [ "XXMidiCommon.h", "XXMidiCommon_8h.html", "XXMidiCommon_8h" ],
-    [ "XXMidiFile.h", "XXMidiFile_8h.html", [
-      [ "Info", "structXX_1_1Midi_1_1Sequence_1_1Info.html", "structXX_1_1Midi_1_1Sequence_1_1Info" ],
-      [ "Track", "structXX_1_1Midi_1_1Sequence_1_1Track.html", "structXX_1_1Midi_1_1Sequence_1_1Track" ]
-    ] ],
-    [ "XXMidiInterfaceInput.h", "XXMidiInterfaceInput_8h.html", null ],
-    [ "XXMidiInterfaceOutput.h", "XXMidiInterfaceOutput_8h.html", null ],
-    [ "XXMidiParser.h", "XXMidiParser_8h.html", null ],
-    [ "XXMusicExportDef.h", "XXMusicExportDef_8h.html", "XXMusicExportDef_8h" ],
-    [ "XXNote.h", "XXNote_8h.html", null ],
-    [ "XXScale.h", "XXScale_8h.html", [
-      [ "Finder", "classXX_1_1Scale_1_1Finder.html", "classXX_1_1Scale_1_1Finder" ]
-    ] ],
-    [ "XXTimeCode.h", "XXTimeCode_8h.html", null ]
+    [ "XXMidiCommon.h", "_x_x_midi_common_8h.html", "_x_x_midi_common_8h" ],
+    [ "XXMidiFile.h", "_x_x_midi_file_8h.html", "_x_x_midi_file_8h" ],
+    [ "XXMidiInterfaceInput.h", "_x_x_midi_interface_input_8h.html", null ],
+    [ "XXMidiInterfaceOutput.h", "_x_x_midi_interface_output_8h.html", null ],
+    [ "XXMidiParser.h", "_x_x_midi_parser_8h.html", null ],
+    [ "XXMusicExportDef.h", "_x_x_music_export_def_8h.html", "_x_x_music_export_def_8h" ],
+    [ "XXNote.h", "_x_x_note_8h.html", null ],
+    [ "XXScale.h", "_x_x_scale_8h.html", "_x_x_scale_8h" ],
+    [ "XXTimeCode.h", "_x_x_time_code_8h.html", null ]
 ];

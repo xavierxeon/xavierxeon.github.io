@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['datastore_818',['DataStore',['../classXX_1_1DataStore.html',1,'XX']]],
-  ['device_819',['Device',['../structXX_1_1Midi_1_1Device.html',1,'XX::Midi']]],
-  ['devicetools_820',['DeviceTools',['../classXX_1_1DeviceTools.html',1,'XX']]],
-  ['doublebuffer_821',['DoubleBuffer',['../classXX_1_1DoubleBuffer.html',1,'XX']]]
+  ['datastore_0',['DataStore',['../class_x_x_1_1_data_store.html',1,'XX']]],
+  ['device_1',['Device',['../struct_x_x_1_1_midi_1_1_device.html',1,'XX::Midi']]],
+  ['devicetools_2',['DeviceTools',['../class_x_x_1_1_device_tools.html',1,'XX']]],
+  ['doublebuffer_3',['DoubleBuffer',['../class_x_x_1_1_double_buffer.html',1,'XX']]]
 ];

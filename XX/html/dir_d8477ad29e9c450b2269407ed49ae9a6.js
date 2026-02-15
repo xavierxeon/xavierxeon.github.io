@@ -1,10 +1,10 @@
 var dir_d8477ad29e9c450b2269407ed49ae9a6 =
 [
-    [ "XXApplicationExportDef.h", "XXApplicationExportDef_8h.html", "XXApplicationExportDef_8h" ],
-    [ "XXPopulatedAbstract.h", "XXPopulatedAbstract_8h.html", null ],
-    [ "XXPopulatedMainWidget.h", "XXPopulatedMainWidget_8h.html", null ],
-    [ "XXPopulatedMainWindow.h", "XXPopulatedMainWindow_8h.html", null ],
-    [ "XXPopulatedMenuBar.h", "XXPopulatedMenuBar_8h.html", null ],
-    [ "XXPopulatedToolBar.h", "XXPopulatedToolBar_8h.html", null ],
-    [ "XXRecentFiles.h", "XXRecentFiles_8h.html", null ]
+    [ "XXApplicationExportDef.h", "_x_x_application_export_def_8h.html", "_x_x_application_export_def_8h" ],
+    [ "XXPopulatedAbstract.h", "_x_x_populated_abstract_8h.html", null ],
+    [ "XXPopulatedMainWidget.h", "_x_x_populated_main_widget_8h.html", null ],
+    [ "XXPopulatedMainWindow.h", "_x_x_populated_main_window_8h.html", null ],
+    [ "XXPopulatedMenuBar.h", "_x_x_populated_menu_bar_8h.html", null ],
+    [ "XXPopulatedToolBar.h", "_x_x_populated_tool_bar_8h.html", null ],
+    [ "XXRecentFiles.h", "_x_x_recent_files_8h.html", null ]
 ];
