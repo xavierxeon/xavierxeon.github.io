@@ -12,9 +12,7 @@ var indexSectionsWithContent =
   9: "mt",
   10: "agos",
   11: "x",
-  12: "acglmnsw",
-  13: "cpx",
-  14: "c"
+  12: "acglmnsw"
 };
 
 var indexSectionNames =
@@ -31,9 +29,7 @@ var indexSectionNames =
   9: "properties",
   10: "related",
   11: "defines",
-  12: "groups",
-  13: "pages",
-  14: "concepts"
+  12: "groups"
 };
 
 var indexSectionLabels =
@@ -50,8 +46,6 @@ var indexSectionLabels =
   9: "Properties",
   10: "Friends",
   11: "Macros",
-  12: "Modules",
-  13: "Pages",
-  14: "Concepts"
+  12: "Modules"
 };
 

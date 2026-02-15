@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['edge_0',['Edge',['../class_x_x_1_1_graph_1_1_edge.html',1,'XX::Graph']]],
-  ['entry_1',['Entry',['../struct_x_x_1_1_logger_1_1_target_1_1_entry.html',1,'XX::Logger::Target']]]
+  ['edge_822',['Edge',['../classXX_1_1Graph_1_1Edge.html',1,'XX::Graph']]],
+  ['entry_823',['Entry',['../structXX_1_1Logger_1_1Target_1_1Entry.html',1,'XX::Logger::Target']]]
 ];

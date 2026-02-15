@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['info_0',['Info',['../struct_x_x_1_1_info.html',1,'XX::Info'],['../struct_x_x_1_1_midi_1_1_sequence_1_1_info.html',1,'XX::Midi::Sequence::Info']]],
-  ['input_1',['Input',['../class_x_x_1_1_midi_1_1_interface_1_1_input.html',1,'XX::Midi::Interface']]],
-  ['iterator_2',['Iterator',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html',1,'XX::Range::Spread']]]
+  ['info_830',['Info',['../structXX_1_1Info.html',1,'XX::Info'],['../structXX_1_1Midi_1_1Sequence_1_1Info.html',1,'XX::Midi::Sequence::Info']]],
+  ['input_831',['Input',['../classXX_1_1Midi_1_1Interface_1_1Input.html',1,'XX::Midi::Interface']]],
+  ['iterator_832',['Iterator',['../classXX_1_1Range_1_1Spread_1_1Iterator.html',1,'XX::Range::Spread']]]
 ];

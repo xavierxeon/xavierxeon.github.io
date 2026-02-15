@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['wave_0',['Wave',['../class_x_x_1_1_sample_1_1_wave.html',1,'XX::Sample']]],
-  ['widget_1',['Widget',['../class_x_x_1_1_tab_stack_1_1_widget.html',1,'XX::TabStack']]],
-  ['writer_2',['Writer',['../class_x_x_1_1_sample_1_1_writer.html',1,'XX::Sample']]]
+  ['wave_899',['Wave',['../classXX_1_1Sample_1_1Wave.html',1,'XX::Sample']]],
+  ['widget_900',['Widget',['../classXX_1_1TabStack_1_1Widget.html',1,'XX::TabStack']]],
+  ['writer_901',['Writer',['../classXX_1_1Sample_1_1Writer.html',1,'XX::Sample']]]
 ];

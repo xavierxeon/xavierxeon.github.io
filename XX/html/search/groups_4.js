@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['math_0',['Math',['../group___x_x_math.html',1,'']]],
-  ['music_1',['Music',['../group___x_x_music.html',1,'']]]
+  ['math_1687',['Math',['../group__XXMath.html',1,'']]],
+  ['music_1688',['Music',['../group__XXMusic.html',1,'']]]
 ];

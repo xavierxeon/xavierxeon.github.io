@@ -1,13 +1,16 @@
 var dir_b7d408403d86ca0904e1e68f443d7ffc =
 [
-    [ "XXByteConversion.h", "_x_x_byte_conversion_8h.html", null ],
-    [ "XXCoreExportDef.h", "_x_x_core_export_def_8h.html", "_x_x_core_export_def_8h" ],
-    [ "XXDataStore.h", "_x_x_data_store_8h.html", null ],
-    [ "XXFileTools.h", "_x_x_file_tools_8h.html", null ],
-    [ "XXInfo.h", "_x_x_info_8h.html", null ],
-    [ "XXSettings.h", "_x_x_settings_8h.html", null ],
-    [ "XXShallowCrypt.h", "_x_x_shallow_crypt_8h.html", null ],
-    [ "XXSharedData.h", "_x_x_shared_data_8h.html", "_x_x_shared_data_8h" ],
-    [ "XXShellClient.h", "_x_x_shell_client_8h.html", null ],
-    [ "XXSingleton.h", "_x_x_singleton_8h.html", null ]
+    [ "XXByteConversion.h", "XXByteConversion_8h.html", null ],
+    [ "XXCoreExportDef.h", "XXCoreExportDef_8h.html", "XXCoreExportDef_8h" ],
+    [ "XXDataStore.h", "XXDataStore_8h.html", null ],
+    [ "XXFileTools.h", "XXFileTools_8h.html", null ],
+    [ "XXInfo.h", "XXInfo_8h.html", null ],
+    [ "XXSettings.h", "XXSettings_8h.html", null ],
+    [ "XXShallowCrypt.h", "XXShallowCrypt_8h.html", null ],
+    [ "XXSharedData.h", "XXSharedData_8h.html", [
+      [ "List", "classXX_1_1SharedData_1_1List.html", "classXX_1_1SharedData_1_1List" ],
+      [ "Guard", "classXX_1_1SharedData_1_1Guard.html", "classXX_1_1SharedData_1_1Guard" ]
+    ] ],
+    [ "XXShellClient.h", "XXShellClient_8h.html", null ],
+    [ "XXSingleton.h", "XXSingleton_8h.html", null ]
 ];

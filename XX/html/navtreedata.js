@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "XX CMake Package", "index.html", [
-    [ "Topics", "topics.html", "topics" ],
+    [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -37,7 +37,6 @@ var NAVTREE =
         [ "Enumerator", "namespacemembers_eval.html", null ]
       ] ]
     ] ],
-    [ "Concepts", "concepts.html", "concepts" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -50,7 +49,7 @@ var NAVTREE =
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ],
         [ "Properties", "functions_prop.html", null ],
-        [ "Related Symbols", "functions_rela.html", null ]
+        [ "Related Functions", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -66,13 +65,13 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_x_x_application_export_def_8h.html",
-"class_x_x_1_1_fast_fourier_transfrom.html#ab20ddf96a55e9d61046e2e3324ba638d",
-"class_x_x_1_1_osc_message.html#a152ff0d3539d15a6ed2e22a42d389b23",
-"class_x_x_1_1_singleton.html",
-"group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494"
+"XXApplicationExportDef_8h.html",
+"XXRange_8h.html#ga7d3fa6f87fa6d24a5c7c4267731742c7",
+"classXX_1_1Math_1_1Vector3.html#af799b2c24b0573c18945941eba8df93c",
+"classXX_1_1Sample_1_1Abstract.html#a227d820caa50c0741362d50cf3f90274",
+"group__XXCpp.html",
+"group__XXMusic.html#ggaa8ece5ab9c5517636399c072b1177642ab3b12ac9f01eae7568559e2876afb39e"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronization';
-var SYNCOFFMSG = 'click to enable panel synchronization';
-var LISTOFALLMEMBERS = 'List of all members';
+var SYNCONMSG = 'click to disable panel synchronisation';
+var SYNCOFFMSG = 'click to enable panel synchronisation';

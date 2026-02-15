@@ -1,17 +1,17 @@
 var searchData=
 [
-  ['name_0',['name',['../class_x_x_1_1_graph_1_1_vertex.html#abf123f96777e9669fd3fb78a3c477e94',1,'XX::Graph::Vertex::name'],['../struct_x_x_1_1_midi_1_1_sequence_1_1_track.html#ac9d89f40e8ceb698d41e6cb9c643f2e3',1,'XX::Midi::Sequence::Track::name']]],
-  ['network_1',['Network',['../group___x_x_network.html',1,'']]],
-  ['noofchannels_2',['noOfChannels',['../struct_x_x_1_1_sample_1_1_meta.html#aded14d6ef518068d133d0141dcad09aa',1,'XX::Sample::Meta']]],
-  ['noofsamplesperchannel_3',['noOfSamplesPerChannel',['../struct_x_x_1_1_sample_1_1_meta.html#aed5d786c4d761f1eafa0d469198d22c2',1,'XX::Sample::Meta']]],
-  ['norm_4',['norm',['../class_x_x_1_1_math_1_1_vector3.html#ab0083b95b4f7de3ffd7289bf7b15a64e',1,'XX::Math::Vector3']]],
-  ['note_5',['Note',['../class_x_x_1_1_note.html',1,'XX::Note'],['../class_x_x_1_1_note.html#a0c1a4b48710408a145d9f1dc9d52d84e',1,'XX::Note::Note()']]],
-  ['noteinscale_6',['noteInScale',['../class_x_x_1_1_scale.html#acd4f38cb8c54aad9ebdc1449c2ae58e3',1,'XX::Scale']]],
-  ['noteoff_7',['NoteOff',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c',1,'XX::Midi']]],
-  ['noteoff_8',['noteOff',['../class_x_x_1_1_midi_1_1_parser.html#a0a676b60ddb24cc34bf1c1ee712c7baa',1,'XX::Midi::Parser']]],
-  ['noteofffunction_9',['NoteOffFunction',['../class_x_x_1_1_midi_1_1_parser.html#a76318f9cfef5aac4b8fc0ae9acad592b',1,'XX::Midi::Parser']]],
-  ['noteon_10',['NoteOn',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc',1,'XX::Midi']]],
-  ['noteon_11',['noteOn',['../class_x_x_1_1_midi_1_1_parser.html#a44cbc7bfd5aeb7299ab97144f081e088',1,'XX::Midi::Parser']]],
-  ['noteonfunction_12',['NoteOnFunction',['../class_x_x_1_1_midi_1_1_parser.html#af96c2845f9bb949acb95fe7ddc95b576',1,'XX::Midi::Parser']]],
-  ['numberofsamples_13',['numberOfSamples',['../struct_x_x_1_1_sample_1_1_meta.html#a80bf62d61ccbe567e7e9d861d0bd95aa',1,'XX::Sample::Meta']]]
+  ['name_362',['name',['../classXX_1_1Graph_1_1Vertex.html#abf123f96777e9669fd3fb78a3c477e94',1,'XX::Graph::Vertex::name()'],['../structXX_1_1Midi_1_1Sequence_1_1Track.html#ac9d89f40e8ceb698d41e6cb9c643f2e3',1,'XX::Midi::Sequence::Track::name()']]],
+  ['network_363',['Network',['../group__XXNetwork.html',1,'']]],
+  ['noofchannels_364',['noOfChannels',['../structXX_1_1Sample_1_1Meta.html#aded14d6ef518068d133d0141dcad09aa',1,'XX::Sample::Meta']]],
+  ['noofsamplesperchannel_365',['noOfSamplesPerChannel',['../structXX_1_1Sample_1_1Meta.html#aed5d786c4d761f1eafa0d469198d22c2',1,'XX::Sample::Meta']]],
+  ['norm_366',['norm',['../classXX_1_1Math_1_1Vector3.html#ab0083b95b4f7de3ffd7289bf7b15a64e',1,'XX::Math::Vector3']]],
+  ['note_367',['Note',['../classXX_1_1Note.html#a0c1a4b48710408a145d9f1dc9d52d84e',1,'XX::Note::Note()'],['../classXX_1_1Note.html',1,'XX::Note']]],
+  ['noteinscale_368',['noteInScale',['../classXX_1_1Scale.html#acd4f38cb8c54aad9ebdc1449c2ae58e3',1,'XX::Scale']]],
+  ['noteoff_369',['noteOff',['../classXX_1_1Midi_1_1Parser.html#a0a676b60ddb24cc34bf1c1ee712c7baa',1,'XX::Midi::Parser']]],
+  ['noteoff_370',['NoteOff',['../group__XXMusic.html#ggaa8ece5ab9c5517636399c072b1177642ae9503aebd4a662a997ed2ec2f428428c',1,'XX::Midi']]],
+  ['noteofffunction_371',['NoteOffFunction',['../classXX_1_1Midi_1_1Parser.html#a76318f9cfef5aac4b8fc0ae9acad592b',1,'XX::Midi::Parser']]],
+  ['noteon_372',['noteOn',['../classXX_1_1Midi_1_1Parser.html#a44cbc7bfd5aeb7299ab97144f081e088',1,'XX::Midi::Parser']]],
+  ['noteon_373',['NoteOn',['../group__XXMusic.html#ggaa8ece5ab9c5517636399c072b1177642ad87c8694342779230135e32e310b53fc',1,'XX::Midi']]],
+  ['noteonfunction_374',['NoteOnFunction',['../classXX_1_1Midi_1_1Parser.html#af96c2845f9bb949acb95fe7ddc95b576',1,'XX::Midi::Parser']]],
+  ['numberofsamples_375',['numberOfSamples',['../structXX_1_1Sample_1_1Meta.html#a80bf62d61ccbe567e7e9d861d0bd95aa',1,'XX::Sample::Meta']]]
 ];

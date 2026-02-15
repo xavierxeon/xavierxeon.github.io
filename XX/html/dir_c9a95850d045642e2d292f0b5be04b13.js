@@ -1,10 +1,10 @@
 var dir_c9a95850d045642e2d292f0b5be04b13 =
 [
-    [ "XXAudioExportDef.h", "_x_x_audio_export_def_8h.html", "_x_x_audio_export_def_8h" ],
-    [ "XXFastFourierTransfrom.h", "_x_x_fast_fourier_transfrom_8h.html", null ],
-    [ "XXSampleAbstract.h", "_x_x_sample_abstract_8h.html", "_x_x_sample_abstract_8h" ],
-    [ "XXSampleReader.h", "_x_x_sample_reader_8h.html", null ],
-    [ "XXSampleWave.h", "_x_x_sample_wave_8h.html", null ],
-    [ "XXSampleWriter.h", "_x_x_sample_writer_8h.html", null ],
-    [ "XXSpectrogram.h", "_x_x_spectrogram_8h.html", null ]
+    [ "XXAudioExportDef.h", "XXAudioExportDef_8h.html", "XXAudioExportDef_8h" ],
+    [ "XXFastFourierTransfrom.h", "XXFastFourierTransfrom_8h.html", null ],
+    [ "XXSampleAbstract.h", "XXSampleAbstract_8h.html", "XXSampleAbstract_8h" ],
+    [ "XXSampleReader.h", "XXSampleReader_8h.html", null ],
+    [ "XXSampleWave.h", "XXSampleWave_8h.html", null ],
+    [ "XXSampleWriter.h", "XXSampleWriter_8h.html", null ],
+    [ "XXSpectrogram.h", "XXSpectrogram_8h.html", null ]
 ];
