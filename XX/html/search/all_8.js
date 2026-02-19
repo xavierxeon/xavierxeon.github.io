@@ -13,7 +13,7 @@ var searchData=
   ['invalid_10',['Invalid',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4eea48c9b8fc52442d15c1066c988c6e1727',1,'XX::Note']]],
   ['invaliddistance_11',['invalidDistance',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#a57d5310e8af27180ea3b9ae540fa43ba',1,'XX::Graph::Algorithm::Path']]],
   ['invalidweight_12',['invalidWeight',['../class_x_x_1_1_graph_1_1_edge.html#a2a55aeffceefb0471666925dc7f14685',1,'XX::Graph::Edge']]],
-  ['inverse_13',['inverse',['../class_x_x_1_1_fast_fourier_transfrom.html#af17fb51f2dadd8cf9d9716d0913e2172',1,'XX::FastFourierTransfrom']]],
+  ['inverse_13',['inverse',['../class_rainbow_rectangle.html#af6ea76e12b8a92f3179ddd4f565e54d9',1,'RainbowRectangle::inverse'],['../class_x_x_1_1_fast_fourier_transfrom.html#af17fb51f2dadd8cf9d9716d0913e2172',1,'XX::FastFourierTransfrom::inverse()']]],
   ['ipadmini_14',['iPadMini',['../class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dae821a74e4c16d6b8e0e39b483725c71a',1,'XX::DeviceTools']]],
   ['ipadpro13_15',['iPadPro13',['../class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dad85eeff65a9c76421b5988f7bced8306',1,'XX::DeviceTools']]],
   ['isactive_16',['isActive',['../class_x_x_1_1_scale.html#afcf8024fe8beb9cd87c1333e0698ae92',1,'XX::Scale']]],

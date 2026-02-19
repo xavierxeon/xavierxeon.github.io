@@ -18,6 +18,7 @@ var group___x_x_gui =
         [ "iPadMini", "class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dae821a74e4c16d6b8e0e39b483725c71a", null ],
         [ "iPadPro13", "class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dad85eeff65a9c76421b5988f7bced8306", null ]
       ] ],
+      [ "enableWindowsConsole", "class_x_x_1_1_device_tools.html#a2b2aa9259fe12faa9d0b596f3b9aa9ed", null ],
       [ "fixSize", "class_x_x_1_1_device_tools.html#a41013e3cc9a3759c3cecdd0277741e50", null ],
       [ "fixSize", "class_x_x_1_1_device_tools.html#af03fdbcf2ed9d8cad5d232e5f6adb206", null ],
       [ "forceDisplayMode", "class_x_x_1_1_device_tools.html#a6a542f323b7d394c7101f6d9d850dc4c", null ],
@@ -36,15 +37,12 @@ var group___x_x_gui =
       [ "getValues", "class_x_x_1_1_osc_message.html#af0c62f914fe1f822939be74e236b9a55", null ],
       [ "pack", "class_x_x_1_1_osc_message.html#a2fc8acd05bf57d2d7983f6c876521c66", null ]
     ] ],
-    [ "XX::QmlView", "class_x_x_1_1_qml_view.html", [
-      [ "QmlView", "class_x_x_1_1_qml_view.html#a97faf27850c493f62c2d0f504e53fa63", null ],
-      [ "setQuickProperty", "class_x_x_1_1_qml_view.html#a8533ccc4b492a5da44df1d34be38334c", null ],
-      [ "setQuickProperty", "class_x_x_1_1_qml_view.html#a811dd837abffc919f72781ede3838b2c", null ]
-    ] ],
     [ "XX::Rainbow", "class_x_x_1_1_rainbow.html", [
       [ "Rainbow", "class_x_x_1_1_rainbow.html#a1cbb715331527932dceaf530d4b9d66e", null ],
       [ "advanceColor", "class_x_x_1_1_rainbow.html#ab3515a03d023163655f87882b32f2868", null ],
-      [ "getColor", "class_x_x_1_1_rainbow.html#ae33b247764afea72a52bad2634bbea72", null ],
+      [ "changeShade", "class_x_x_1_1_rainbow.html#a2cdee7312110924f08e34dc204c8afae", null ],
+      [ "getColor", "class_x_x_1_1_rainbow.html#ad3878901427a6609753d1421dc5ec4a9", null ],
+      [ "getMaxIndex", "class_x_x_1_1_rainbow.html#ad5619379ae9653a8a8a561b2b9324f14", null ],
       [ "lookup", "class_x_x_1_1_rainbow.html#a564e49d5a92f13e0ff3c655915bbbe87", null ]
     ] ]
 ];

@@ -102,7 +102,9 @@ $(function(){initNavTree('class_x_x_1_1_rainbow.html','','class_x_x_1_1_rainbow-
 <tr class="heading"><td colspan="2"><h2 id="header-pub-methods" class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a1cbb715331527932dceaf530d4b9d66e" id="r_a1cbb715331527932dceaf530d4b9d66e"><td class="memItemLeft">&#160;</td><td class="memItemRight"><a class="el" href="#a1cbb715331527932dceaf530d4b9d66e">Rainbow</a> (quint64 maxIndex, quint16 shade=200)</td></tr>
-<tr class="memitem:ae33b247764afea72a52bad2634bbea72" id="r_ae33b247764afea72a52bad2634bbea72"><td class="memItemLeft">QColor&#160;</td><td class="memItemRight"><a class="el" href="#ae33b247764afea72a52bad2634bbea72">getColor</a> ()</td></tr>
+<tr class="memitem:ad5619379ae9653a8a8a561b2b9324f14" id="r_ad5619379ae9653a8a8a561b2b9324f14"><td class="memItemLeft">const quint64 &amp;&#160;</td><td class="memItemRight"><a class="el" href="#ad5619379ae9653a8a8a561b2b9324f14">getMaxIndex</a> () const</td></tr>
+<tr class="memitem:a2cdee7312110924f08e34dc204c8afae" id="r_a2cdee7312110924f08e34dc204c8afae"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a2cdee7312110924f08e34dc204c8afae">changeShade</a> (quint16 shade)</td></tr>
+<tr class="memitem:ad3878901427a6609753d1421dc5ec4a9" id="r_ad3878901427a6609753d1421dc5ec4a9"><td class="memItemLeft">QColor&#160;</td><td class="memItemRight"><a class="el" href="#ad3878901427a6609753d1421dc5ec4a9">getColor</a> (const quint64 offset=0)</td></tr>
 <tr class="memitem:ab3515a03d023163655f87882b32f2868" id="r_ab3515a03d023163655f87882b32f2868"><td class="memItemLeft">QColor&#160;</td><td class="memItemRight"><a class="el" href="#ab3515a03d023163655f87882b32f2868">advanceColor</a> ()</td></tr>
 <tr class="memitem:a564e49d5a92f13e0ff3c655915bbbe87" id="r_a564e49d5a92f13e0ff3c655915bbbe87"><td class="memItemLeft">QColor&#160;</td><td class="memItemRight"><a class="el" href="#a564e49d5a92f13e0ff3c655915bbbe87">lookup</a> (quint64 value, bool wrap)</td></tr>
 </table>
@@ -146,8 +148,25 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="ae33b247764afea72a52bad2634bbea72" name="ae33b247764afea72a52bad2634bbea72"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae33b247764afea72a52bad2634bbea72">&#9670;&#160;</a></span>getColor()</h2>
+<a id="a2cdee7312110924f08e34dc204c8afae" name="a2cdee7312110924f08e34dc204c8afae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cdee7312110924f08e34dc204c8afae">&#9670;&#160;</a></span>changeShade()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void XX::Rainbow::changeShade </td>
+          <td>(</td>
+          <td class="paramtype">quint16</td>          <td class="paramname"><span class="paramname"><em>shade</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad3878901427a6609753d1421dc5ec4a9" name="ad3878901427a6609753d1421dc5ec4a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3878901427a6609753d1421dc5ec4a9">&#9670;&#160;</a></span>getColor()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -155,8 +174,25 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">QColor XX::Rainbow::getColor </td>
           <td>(</td>
-          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td class="paramtype">const quint64</td>          <td class="paramname"><span class="paramname"><em>offset</em></span><span class="paramdefsep"> = </span><span class="paramdefval">0</span></td><td>)</td>
           <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad5619379ae9653a8a8a561b2b9324f14" name="ad5619379ae9653a8a8a561b2b9324f14"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5619379ae9653a8a8a561b2b9324f14">&#9670;&#160;</a></span>getMaxIndex()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const quint64 &amp; XX::Rainbow::getMaxIndex </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">

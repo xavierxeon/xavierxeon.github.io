@@ -96,7 +96,6 @@ var annotated_dup =
       [ "DeviceTools", "class_x_x_1_1_device_tools.html", "class_x_x_1_1_device_tools" ],
       [ "MessageModel", "class_x_x_1_1_message_model.html", "class_x_x_1_1_message_model" ],
       [ "OscMessage", "class_x_x_1_1_osc_message.html", "class_x_x_1_1_osc_message" ],
-      [ "QmlView", "class_x_x_1_1_qml_view.html", "class_x_x_1_1_qml_view" ],
       [ "Rainbow", "class_x_x_1_1_rainbow.html", "class_x_x_1_1_rainbow" ],
       [ "LogFileBase", "struct_x_x_1_1_log_file_base.html", "struct_x_x_1_1_log_file_base" ],
       [ "LogFile", "class_x_x_1_1_log_file.html", "class_x_x_1_1_log_file" ],
@@ -107,9 +106,11 @@ var annotated_dup =
       [ "Scale", "class_x_x_1_1_scale.html", "class_x_x_1_1_scale" ],
       [ "TimeCode", "class_x_x_1_1_time_code.html", "class_x_x_1_1_time_code" ],
       [ "Shared", "struct_x_x_1_1_shared.html", "struct_x_x_1_1_shared" ],
+      [ "QmlView", "class_x_x_1_1_qml_view.html", "class_x_x_1_1_qml_view" ],
       [ "LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", "class_x_x_1_1_local_text_browser" ],
       [ "Look", "struct_x_x_1_1_look.html", "struct_x_x_1_1_look" ],
       [ "MessageLabel", "class_x_x_1_1_message_label.html", "class_x_x_1_1_message_label" ],
       [ "QmlWidget", "class_x_x_1_1_qml_widget.html", "class_x_x_1_1_qml_widget" ]
-    ] ]
+    ] ],
+    [ "RainbowRectangle", "class_rainbow_rectangle.html", "class_rainbow_rectangle" ]
 ];

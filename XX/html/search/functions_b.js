@@ -7,9 +7,10 @@ var searchData=
   ['max_4',['max',['../class_x_x_1_1_range_1_1_finder.html#afa60014f3fd1684156a3cae2c2322fef',1,'XX::Range::Finder::max()'],['../group___x_x_cpp.html#gaf84b02e7fe0819b697de6cdfbe73d6bf',1,'XX::Range::max()']]],
   ['menubar_5',['MenuBar',['../class_x_x_1_1_populated_1_1_menu_bar.html#af4fc4d44f01fb55b901590ee263a8f85',1,'XX::Populated::MenuBar']]],
   ['menubarnamechanged_6',['menuBarNameChanged',['../class_x_x_1_1_populated_1_1_menu_bar.html#a09e312641933c78cb88ec98f91f94377',1,'XX::Populated::MenuBar']]],
-  ['messagedocument_7',['MessageDocument',['../class_x_x_1_1_message_document.html#a6e75be7d2b64f2cbeebd13b09528d95c',1,'XX::MessageDocument']]],
-  ['messagelabel_8',['MessageLabel',['../class_x_x_1_1_message_label.html#ab2eacf847a1949cab231d4782351964c',1,'XX::MessageLabel']]],
-  ['messagemodel_9',['MessageModel',['../class_x_x_1_1_message_model.html#afc502aa118119554db2832b3a0bb3cb4',1,'XX::MessageModel']]],
-  ['min_10',['min',['../class_x_x_1_1_range_1_1_finder.html#aee50dc72f9340216096ea4b4d2368078',1,'XX::Range::Finder::min()'],['../group___x_x_cpp.html#ga53fbb95f81ebe05d2ca4da22e8b6db52',1,'XX::Range::min()']]],
-  ['model_11',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model']]]
+  ['messagecolor_7',['messageColor',['../class_x_x_1_1_message_document.html#a78034b804fd1972731e58d6e85ddfd30',1,'XX::MessageDocument']]],
+  ['messagedocument_8',['MessageDocument',['../class_x_x_1_1_message_document.html#a6e75be7d2b64f2cbeebd13b09528d95c',1,'XX::MessageDocument']]],
+  ['messagelabel_9',['MessageLabel',['../class_x_x_1_1_message_label.html#ab2eacf847a1949cab231d4782351964c',1,'XX::MessageLabel']]],
+  ['messagemodel_10',['MessageModel',['../class_x_x_1_1_message_model.html#afc502aa118119554db2832b3a0bb3cb4',1,'XX::MessageModel']]],
+  ['min_11',['min',['../class_x_x_1_1_range_1_1_finder.html#aee50dc72f9340216096ea4b4d2368078',1,'XX::Range::Finder::min()'],['../group___x_x_cpp.html#ga53fbb95f81ebe05d2ca4da22e8b6db52',1,'XX::Range::min()']]],
+  ['model_12',['Model',['../class_x_x_1_1_tab_stack_1_1_model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model']]]
 ];

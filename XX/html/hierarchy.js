@@ -83,6 +83,9 @@ var hierarchy =
         [ "XX::SecureNetwork::Client", "class_x_x_1_1_secure_network_1_1_client.html", null ]
       ] ]
     ] ],
+    [ "QQuickPaintedItem", null, [
+      [ "RainbowRectangle", "class_rainbow_rectangle.html", null ]
+    ] ],
     [ "QQuickView", null, [
       [ "XX::QmlView", "class_x_x_1_1_qml_view.html", null ]
     ] ],

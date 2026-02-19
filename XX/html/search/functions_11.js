@@ -68,5 +68,6 @@ var searchData=
   ['stream_65',['stream',['../class_x_x_1_1_log_file.html#af77b9c1c09819c1887a60e3e968277d1',1,'XX::LogFile::stream()'],['../namespace_x_x_1_1_logger.html#af0277cba47b9da7163b18a1a7a657d87',1,'XX::Logger::stream()']]],
   ['strip_66',['strip',['../class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a',1,'XX::FastFourierTransfrom']]],
   ['swap_67',['swap',['../class_x_x_1_1_double_buffer.html#a3d5b28c6e869456752a5818301097076',1,'XX::DoubleBuffer']]],
-  ['symbol_68',['symbol',['../struct_x_x_1_1_message_interceptor.html#a5ea91824e744fe6825b1f1f04724dc4c',1,'XX::MessageInterceptor']]]
+  ['symbol_68',['symbol',['../struct_x_x_1_1_message_interceptor.html#a5ea91824e744fe6825b1f1f04724dc4c',1,'XX::MessageInterceptor']]],
+  ['symbolcolor_69',['symbolColor',['../class_x_x_1_1_message_document.html#a8daab8859f8b497cc1cc3cd3fc430368',1,'XX::MessageDocument']]]
 ];

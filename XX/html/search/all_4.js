@@ -10,12 +10,13 @@ var searchData=
   ['el_7',['el',['../class_x_x_1_1_math_1_1_spherical.html#a883266289b1425cd482311ce3799edd1',1,'XX::Math::Spherical']]],
   ['emptykeylist_8',['emptyKeyList',['../class_x_x_1_1_scale.html#ab24b2df06e982a47b8a7caabd8227b34',1,'XX::Scale']]],
   ['enable_9',['enable',['../struct_x_x_1_1_message_interceptor.html#a9a89761950a454691a9e071e9c515fa9',1,'XX::MessageInterceptor']]],
-  ['end_10',['end',['../class_x_x_1_1_range_1_1_spread.html#a88b816d0894d740ed75e0aef3ace35cc',1,'XX::Range::Spread']]],
-  ['endoftrack_11',['EndOfTrack',['../group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c',1,'XX::Midi']]],
-  ['engaged_12',['engaged',['../class_x_x_1_1_locker.html#a8fd4e4c89506ecd1d29ae42bff4b98b4',1,'XX::Locker']]],
-  ['entry_13',['Entry',['../struct_x_x_1_1_logger_1_1_target_1_1_entry.html',1,'XX::Logger::Target']]],
-  ['event_14',['Event',['../group___x_x_music.html#gaa8ece5ab9c5517636399c072b1177642',1,'XX::Midi']]],
-  ['executelocal_15',['executeLocal',['../class_x_x_1_1_shell_client.html#a067bd9b39f2463a7b5aec46a144e069b',1,'XX::ShellClient']]],
-  ['executeremote_16',['executeRemote',['../class_x_x_1_1_shell_client.html#af58bb22c7bb263cbbfbf20e4a5825b82',1,'XX::ShellClient']]],
-  ['expressioncontroller_17',['ExpressionController',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a33729fe98299dd0e3c2526513cf47e7a',1,'XX::Midi']]]
+  ['enablewindowsconsole_10',['enableWindowsConsole',['../class_x_x_1_1_device_tools.html#a2b2aa9259fe12faa9d0b596f3b9aa9ed',1,'XX::DeviceTools']]],
+  ['end_11',['end',['../class_x_x_1_1_range_1_1_spread.html#a88b816d0894d740ed75e0aef3ace35cc',1,'XX::Range::Spread']]],
+  ['endoftrack_12',['EndOfTrack',['../group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1ba992b38483043be5a2a53cc1c34a08f1c',1,'XX::Midi']]],
+  ['engaged_13',['engaged',['../class_x_x_1_1_locker.html#a8fd4e4c89506ecd1d29ae42bff4b98b4',1,'XX::Locker']]],
+  ['entry_14',['Entry',['../struct_x_x_1_1_logger_1_1_target_1_1_entry.html',1,'XX::Logger::Target']]],
+  ['event_15',['Event',['../group___x_x_music.html#gaa8ece5ab9c5517636399c072b1177642',1,'XX::Midi']]],
+  ['executelocal_16',['executeLocal',['../class_x_x_1_1_shell_client.html#a067bd9b39f2463a7b5aec46a144e069b',1,'XX::ShellClient']]],
+  ['executeremote_17',['executeRemote',['../class_x_x_1_1_shell_client.html#af58bb22c7bb263cbbfbf20e4a5825b82',1,'XX::ShellClient']]],
+  ['expressioncontroller_18',['ExpressionController',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a33729fe98299dd0e3c2526513cf47e7a',1,'XX::Midi']]]
 ];

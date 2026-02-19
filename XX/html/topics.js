@@ -10,5 +10,6 @@ var topics =
     [ "Math", "group___x_x_math.html", "group___x_x_math" ],
     [ "Music", "group___x_x_music.html", "group___x_x_music" ],
     [ "Network", "group___x_x_network.html", "group___x_x_network" ],
-    [ "Widgets", "group___x_x_widgets.html", "group___x_x_widgets" ]
+    [ "Widgets", "group___x_x_widgets.html", "group___x_x_widgets" ],
+    [ "XXQuick component", "group___x_x_quick.html", "group___x_x_quick" ]
 ];
