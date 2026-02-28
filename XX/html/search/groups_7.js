@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['streaming_0',['Streaming',['../group___streaming.html',1,'']]]
+  ['quick_0',['Quick',['../group___x_x_quick.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['widgets_0',['Widgets',['../group___x_x_widgets.html',1,'']]]
+  ['streaming_0',['Streaming',['../group___streaming.html',1,'']]]
 ];
