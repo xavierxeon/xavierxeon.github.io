@@ -98,11 +98,6 @@ $(function(){initNavTree('group___x_x_cpp.html','',''); });
 <div class="textblock"><p>pure c++ helper classes </p>
 <p>no Qt dependencies here   </p>
 </div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-groups" class="groupheader"><a id="groups" name="groups"></a>
-Topics</h2></td></tr>
-<tr class="memitem:CompilerTests" id="r_CompilerTests"><td class="memItemLeft">&#160;</td><td class="memItemRight"><a class="el" href="group___compiler_tests.html">CompilerTests</a></td></tr>
-<tr class="memdesc:group___compiler_tests"><td class="mdescLeft">&#160;</td><td class="mdescRight">template test functions <br /></td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-concepts" class="groupheader"><a id="concepts" name="concepts"></a>
 Concepts</h2></td></tr>
 <tr class="memitem:XX_3A_3AFunction_3A_3ACallerClass" id="r_XX_3A_3AFunction_3A_3ACallerClass"><td class="memItemLeft">concept &#160;</td><td class="memItemRight"><a class="el" href="concept_x_x_1_1_function_1_1_caller_class.html">XX::Function::CallerClass</a></td></tr>
@@ -129,6 +124,21 @@ Classes</h2></td></tr>
 <tr class="memitem:XX_3A_3ASize" id="r_XX_3A_3ASize"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_size.html">XX::Size</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">simple size structure, to be used where QSize is not available  <a href="struct_x_x_1_1_size.html#details">More...</a><br /></td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 id="header-typedef-members" class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:gadeaf1c71a80b637e952a3c88bcd8f1b7" id="r_gadeaf1c71a80b637e952a3c88bcd8f1b7"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:gadeaf1c71a80b637e952a3c88bcd8f1b7 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">XX::isIntegerType</a> = typename std::enable_if&lt;std::is_integral&lt;TestType&gt;::value, bool&gt;::type</td></tr>
+<tr class="memdesc:gadeaf1c71a80b637e952a3c88bcd8f1b7"><td class="mdescLeft">&#160;</td><td class="mdescRight">test if a type is of integer type  <br /></td></tr>
+<tr class="memitem:gaedd13f6317d564d69aaab085caf5a3f7" id="r_gaedd13f6317d564d69aaab085caf5a3f7"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:gaedd13f6317d564d69aaab085caf5a3f7 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#gaedd13f6317d564d69aaab085caf5a3f7">XX::isFloatType</a> = typename std::enable_if&lt;std::is_floating_point&lt;TestType&gt;::value, bool&gt;::type</td></tr>
+<tr class="memdesc:gaedd13f6317d564d69aaab085caf5a3f7"><td class="mdescLeft">&#160;</td><td class="mdescRight">test if a type is of float type  <br /></td></tr>
+<tr class="memitem:ga785bbb775cb5374c07d3ad7958625aa6" id="r_ga785bbb775cb5374c07d3ad7958625aa6"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:ga785bbb775cb5374c07d3ad7958625aa6 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#ga785bbb775cb5374c07d3ad7958625aa6">XX::isSigned</a> = typename std::enable_if&lt;std::is_signed&lt;TestType&gt;::value, bool&gt;::type</td></tr>
+<tr class="memdesc:ga785bbb775cb5374c07d3ad7958625aa6"><td class="mdescLeft">&#160;</td><td class="mdescRight">test if a type is of signed type  <br /></td></tr>
+<tr class="memitem:ga16f8071a2bec7511e9524ddffba58f95" id="r_ga16f8071a2bec7511e9524ddffba58f95"><td class="memTemplParams" colspan="2">template&lt;typename TestType&gt; </td></tr>
+<tr class="memitem:ga16f8071a2bec7511e9524ddffba58f95 template"><td class="memItemLeft">using&#160;</td><td class="memItemRight"><a class="el" href="#ga16f8071a2bec7511e9524ddffba58f95">XX::isUnsigned</a> = typename std::enable_if&lt;!std::is_signed&lt;TestType&gt;::value, bool&gt;::type</td></tr>
+<tr class="memdesc:ga16f8071a2bec7511e9524ddffba58f95"><td class="mdescLeft">&#160;</td><td class="mdescRight">test if a type is of unsigned type  <br /></td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:gac254bec1e26fa1257d730012a2ee9914" id="r_gac254bec1e26fa1257d730012a2ee9914"><td class="memTemplParams" colspan="2">template&lt;typename DataType&gt; </td></tr>
@@ -141,6 +151,79 @@ Functions</h2></td></tr>
 <tr class="memitem:gaf84b02e7fe0819b697de6cdfbe73d6bf template"><td class="memItemLeft">static const DataType &amp;&#160;</td><td class="memItemRight"><a class="el" href="#gaf84b02e7fe0819b697de6cdfbe73d6bf">XX::Range::max</a> (const DataType &amp;value1, const DataType &amp;value2)</td></tr>
 <tr class="memdesc:gaf84b02e7fe0819b697de6cdfbe73d6bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">return the maximum of two values  <br /></td></tr>
 </table>
+<a name="doc-typedef-members" id="doc-typedef-members"></a><h2 id="header-doc-typedef-members" class="groupheader">Typedef Documentation</h2>
+<a id="gaedd13f6317d564d69aaab085caf5a3f7" name="gaedd13f6317d564d69aaab085caf5a3f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gaedd13f6317d564d69aaab085caf5a3f7">&#9670;&#160;</a></span>isFloatType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#gaedd13f6317d564d69aaab085caf5a3f7">XX::isFloatType</a> = typename std::enable_if&lt;std::is_floating_point&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>test if a type is of float type </p>
+
+</div>
+</div>
+<a id="gadeaf1c71a80b637e952a3c88bcd8f1b7" name="gadeaf1c71a80b637e952a3c88bcd8f1b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">&#9670;&#160;</a></span>isIntegerType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#gadeaf1c71a80b637e952a3c88bcd8f1b7">XX::isIntegerType</a> = typename std::enable_if&lt;std::is_integral&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>test if a type is of integer type </p>
+
+</div>
+</div>
+<a id="ga785bbb775cb5374c07d3ad7958625aa6" name="ga785bbb775cb5374c07d3ad7958625aa6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga785bbb775cb5374c07d3ad7958625aa6">&#9670;&#160;</a></span>isSigned</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#ga785bbb775cb5374c07d3ad7958625aa6">XX::isSigned</a> = typename std::enable_if&lt;std::is_signed&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>test if a type is of signed type </p>
+
+</div>
+</div>
+<a id="ga16f8071a2bec7511e9524ddffba58f95" name="ga16f8071a2bec7511e9524ddffba58f95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga16f8071a2bec7511e9524ddffba58f95">&#9670;&#160;</a></span>isUnsigned</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename TestType&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="#ga16f8071a2bec7511e9524ddffba58f95">XX::isUnsigned</a> = typename std::enable_if&lt;!std::is_signed&lt;TestType&gt;::value, bool&gt;::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>test if a type is of unsigned type </p>
+
+</div>
+</div>
 <a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Function Documentation</h2>
 <a id="gac254bec1e26fa1257d730012a2ee9914" name="gac254bec1e26fa1257d730012a2ee9914"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#gac254bec1e26fa1257d730012a2ee9914">&#9670;&#160;</a></span>clamp()</h2>

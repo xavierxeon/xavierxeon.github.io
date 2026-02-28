@@ -1,6 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"group___x_x_log.html":[0,5],
 "group___x_x_math.html":[0,6],
 "group___x_x_music.html":[0,7],
 "group___x_x_music.html#ga081cb6134319ccd7a26aaa523a730604":[0,7,20],
@@ -172,10 +171,10 @@ var NAVTREEINDEX4 =
 "struct_x_x_1_1_color_space_1_1_x_y_b.html#a0c9e722d35105916d7b206f7c330e5ab":[0,4,1,0,0],
 "struct_x_x_1_1_color_space_1_1_x_y_b.html#a3d35ab1ea2f28bef4339e476a04f4dec":[0,4,1,0,2],
 "struct_x_x_1_1_color_space_1_1_x_y_b.html#a430e7c3600c61c2d40be6ce6a6facfcf":[0,4,1,0,1],
-"struct_x_x_1_1_compile_time_string.html":[0,3,2],
-"struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210":[0,3,2,0],
-"struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77":[0,3,2,2],
-"struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b":[0,3,2,1],
+"struct_x_x_1_1_compile_time_string.html":[0,3,1],
+"struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210":[0,3,1,0],
+"struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77":[0,3,1,2],
+"struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b":[0,3,1,1],
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html":[0,6,2,0],
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#a19d50434c86c8c1556099e18e285bc9d":[0,6,2,0,3],
 "struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html#a57d5310e8af27180ea3b9ae540fa43ba":[0,6,2,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX4 =
 "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html":[0,6,10,0],
 "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a2224337e0b2a70e211a883614829b6a9":[0,6,10,0,0],
 "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a78cb4b23833b46578d89f9a9d6113afc":[0,6,10,0,1],
-"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#adbb94615ec9e0ecc8cde2dcade557018":[0,6,10,0,2]
+"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#adbb94615ec9e0ecc8cde2dcade557018":[0,6,10,0,2],
+"struct_x_x_1_1_qt_message_1_1_interceptor.html":[0,5,5]
 };
