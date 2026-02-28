@@ -14,7 +14,7 @@ var searchData=
   ['channelpressure_11',['ChannelPressure',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a68d2960cc6eba56c7da7ed6c36d0c6da',1,'XX::Midi']]],
   ['channels_12',['Channels',['../group___x_x_audio.html#ga41dad56563d51a0521d146ddec2f89d6',1,'XX::Sample']]],
   ['channelvolume_13',['ChannelVolume',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5aa47924d67991b6e759d70fe4aa461281',1,'XX::Midi']]],
-  ['clamp_14',['clamp',['../group___x_x_cpp.html#gac254bec1e26fa1257d730012a2ee9914',1,'XX::Range']]],
+  ['clamp_14',['clamp',['../group___functions.html#gac254bec1e26fa1257d730012a2ee9914',1,'XX::Range']]],
   ['clear_15',['clear',['../class_x_x_1_1_recent_files.html#ad3066d4bce3ae9ad868d1ddb197fa234',1,'XX::RecentFiles::clear()'],['../class_x_x_1_1_sample_1_1_writer.html#ae9ea3568493061cf2ae0dcd3d56b7b34',1,'XX::Sample::Writer::clear()'],['../class_x_x_1_1_logger_1_1_target.html#ad5a922aa80e246edebffdf16afe0075e',1,'XX::Logger::Target::clear()'],['../class_x_x_1_1_graph.html#a58f7498c4cc9f1c0d949b0a3914204f0',1,'XX::Graph::clear()'],['../class_x_x_1_1_polynomial_1_1_regression.html#a8a220cc8cfe0719770acd5e1456f23d3',1,'XX::Polynomial::Regression::clear()']]],
   ['cleartabs_16',['clearTabs',['../class_x_x_1_1_tab_stack_1_1_widget.html#a54fbdea678310c017dabe47b7d6b6dd8',1,'XX::TabStack::Widget']]],
   ['clearvalue_17',['clearValue',['../class_x_x_1_1_settings.html#a024ac724f13224dc5bd6ba8014a89269',1,'XX::Settings']]],

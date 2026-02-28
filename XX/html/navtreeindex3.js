@@ -229,6 +229,9 @@ var NAVTREEINDEX3 =
 "group___compiler_tests.html#gadeaf1c71a80b637e952a3c88bcd8f1b7":[0,3,0,1],
 "group___compiler_tests.html#gaedd13f6317d564d69aaab085caf5a3f7":[0,3,0,0],
 "group___functions.html":[0,3,1],
+"group___functions.html#ga53fbb95f81ebe05d2ca4da22e8b6db52":[0,3,1,2],
+"group___functions.html#gac254bec1e26fa1257d730012a2ee9914":[0,3,1,0],
+"group___functions.html#gaf84b02e7fe0819b697de6cdfbe73d6bf":[0,3,1,1],
 "group___streaming.html":[0,6,0],
 "group___streaming.html#ga261b179993edbfbfd6cac81dd89262ee":[0,6,0,0],
 "group___streaming.html#ga696fe2d121b2cb0df0fcb479ca70e24e":[0,6,0,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX3 =
 "group___x_x_audio.html#ga41dad56563d51a0521d146ddec2f89d6":[0,1,7],
 "group___x_x_audio.html#ga821a31c70f0ea9d54f46df4be7b7868f":[0,1,8],
 "group___x_x_core.html":[0,2],
-"group___x_x_cpp.html":[0,3],
-"group___x_x_cpp.html#ga53fbb95f81ebe05d2ca4da22e8b6db52":[0,3,14],
-"group___x_x_cpp.html#gac254bec1e26fa1257d730012a2ee9914":[0,3,12],
-"group___x_x_cpp.html#gaf84b02e7fe0819b697de6cdfbe73d6bf":[0,3,13]
+"group___x_x_cpp.html":[0,3]
 };

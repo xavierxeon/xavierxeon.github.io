@@ -5,7 +5,7 @@ var searchData=
   ['cartesiantopolar_2',['cartesianToPolar',['../namespace_x_x_1_1_linalg.html#a04ee18a7cc460a63ed943d4d8d244e28',1,'XX::Linalg']]],
   ['changefilename_3',['changeFileName',['../class_x_x_1_1_log_file.html#abf157e26a7028f886c7f07ffe97c7af7',1,'XX::LogFile']]],
   ['changeshade_4',['changeShade',['../class_x_x_1_1_rainbow.html#a2cdee7312110924f08e34dc204c8afae',1,'XX::Rainbow']]],
-  ['clamp_5',['clamp',['../group___x_x_cpp.html#gac254bec1e26fa1257d730012a2ee9914',1,'XX::Range']]],
+  ['clamp_5',['clamp',['../group___functions.html#gac254bec1e26fa1257d730012a2ee9914',1,'XX::Range']]],
   ['clear_6',['clear',['../class_x_x_1_1_recent_files.html#ad3066d4bce3ae9ad868d1ddb197fa234',1,'XX::RecentFiles::clear()'],['../class_x_x_1_1_sample_1_1_writer.html#ae9ea3568493061cf2ae0dcd3d56b7b34',1,'XX::Sample::Writer::clear()'],['../class_x_x_1_1_logger_1_1_target.html#ad5a922aa80e246edebffdf16afe0075e',1,'XX::Logger::Target::clear()'],['../class_x_x_1_1_graph.html#a58f7498c4cc9f1c0d949b0a3914204f0',1,'XX::Graph::clear()'],['../class_x_x_1_1_polynomial_1_1_regression.html#a8a220cc8cfe0719770acd5e1456f23d3',1,'XX::Polynomial::Regression::clear()']]],
   ['cleartabs_7',['clearTabs',['../class_x_x_1_1_tab_stack_1_1_widget.html#a54fbdea678310c017dabe47b7d6b6dd8',1,'XX::TabStack::Widget']]],
   ['clearvalue_8',['clearValue',['../class_x_x_1_1_settings.html#a024ac724f13224dc5bd6ba8014a89269',1,'XX::Settings']]],
