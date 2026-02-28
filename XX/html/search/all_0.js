@@ -15,7 +15,7 @@ var searchData=
   ['addtab_12',['addTab',['../class_x_x_1_1_tab_stack_1_1_widget.html#ab51eac06ced248d69a4649d84b4a61d0',1,'XX::TabStack::Widget']]],
   ['addunauthorizedstatuscode_13',['addUnauthorizedStatusCode',['../class_x_x_1_1_rest_api_1_1_blocking.html#a3c08693a795f94e2c3b878120040f086',1,'XX::RestApi::Blocking']]],
   ['addvertex_14',['addVertex',['../class_x_x_1_1_graph.html#a9b9c841df671550a023e040dda27141c',1,'XX::Graph']]],
-  ['advancecolor_15',['advanceColor',['../class_x_x_1_1_rainbow.html#ab3515a03d023163655f87882b32f2868',1,'XX::Rainbow']]],
+  ['advancecolor_15',['advanceColor',['../class_x_x_1_1_rainbow.html#af33d418631a2931ee0343267de608b2d',1,'XX::Rainbow']]],
   ['advanceplayhead_16',['advancePlayhead',['../class_x_x_1_1_sample_1_1_reader.html#aed33be81fe882a0623d79b9865d937b3',1,'XX::Sample::Reader']]],
   ['algorithm_17',['Algorithm',['../class_x_x_1_1_graph_1_1_algorithm.html',1,'XX::Graph::Algorithm'],['../class_x_x_1_1_graph_1_1_algorithm.html#a044c7d20748fb2fade6c59f41588900d',1,'XX::Graph::Algorithm::Algorithm()']]],
   ['allnotesoff_18',['AllNotesOff',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5ac865d75ea97529c9899a337bc976ea3d',1,'XX::Midi']]],
@@ -35,5 +35,5 @@ var searchData=
   ['authorizeuser_32',['authorizeUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a6bb4d060ec3204697b086f6df0dee7f3',1,'XX::AuthProvider::OAuth']]],
   ['authuser_33',['AuthUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbfa6f1cf5a98fd12349099d744b9b87792e',1,'XX::AuthProvider::OAuth']]],
   ['availablenotes_34',['availableNotes',['../class_x_x_1_1_note.html#a2051b02f52a5b32967662374947479bd',1,'XX::Note']]],
-  ['az_35',['az',['../class_x_x_1_1_math_1_1_spherical.html#af88d51b8fb68325139d811b02455c55d',1,'XX::Math::Spherical']]]
+  ['az_35',['az',['../class_x_x_1_1_linalg_1_1_spherical.html#abaae41f82812272faa680a7c5be761f7',1,'XX::Linalg::Spherical']]]
 ];

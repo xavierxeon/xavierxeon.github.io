@@ -11,8 +11,9 @@ var searchData=
   ['toolbar_8',['ToolBar',['../class_x_x_1_1_populated_1_1_tool_bar.html#aac11ceee97642eecf2bc31d2591598c9',1,'XX::Populated::ToolBar']]],
   ['toolbarnamechanged_9',['toolBarNameChanged',['../class_x_x_1_1_populated_1_1_tool_bar.html#a99e2d09f763423947ddcb38822d6b775',1,'XX::Populated::ToolBar']]],
   ['topologicalsort_10',['topologicalSort',['../class_x_x_1_1_graph_1_1_algorithm.html#a086f312a66fab2fcd7f06c42aba4c76f',1,'XX::Graph::Algorithm']]],
-  ['tospherical_11',['toSpherical',['../class_x_x_1_1_math_1_1_vector3.html#a180431be579f22b8d3170a7dd7dea59e',1,'XX::Math::Vector3']]],
+  ['tospherical_11',['toSpherical',['../class_x_x_1_1_linalg_1_1_vector3.html#aa8e13bc1d7c4ffe17b1eec6f52533859',1,'XX::Linalg::Vector3']]],
   ['totallength_12',['totalLength',['../struct_x_x_1_1_sample_1_1_meta.html#a75cae8fa59453f6badb2ea055ffb29fa',1,'XX::Sample::Meta']]],
   ['totick_13',['toTick',['../class_x_x_1_1_midi_1_1_sequence.html#ae3314ac99a17693eb262499e616804b1',1,'XX::Midi::Sequence']]],
-  ['treeview_14',['TreeView',['../class_x_x_1_1_managed_1_1_tree_view.html#a183483bba2f08459eee5aa458edcfd03',1,'XX::Managed::TreeView']]]
+  ['transpose_14',['transpose',['../class_x_x_1_1_linalg_1_1_matrix.html#ad12e95993d1e5ce7675d95102ec7bd84',1,'XX::Linalg::Matrix']]],
+  ['treeview_15',['TreeView',['../class_x_x_1_1_managed_1_1_tree_view.html#a183483bba2f08459eee5aa458edcfd03',1,'XX::Managed::TreeView']]]
 ];

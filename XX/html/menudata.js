@@ -181,6 +181,7 @@ var menudata={children:[
 {text:"i",url:"functions_eval.html#index_i"},
 {text:"k",url:"functions_eval.html#index_k"},
 {text:"m",url:"functions_eval.html#index_m"},
+{text:"n",url:"functions_eval.html#index_n"},
 {text:"s",url:"functions_eval.html#index_s"},
 {text:"t",url:"functions_eval.html#index_t"},
 {text:"v",url:"functions_eval.html#index_v"}]},
@@ -190,5 +191,4 @@ var menudata={children:[
 {text:"File List",url:"files.html"},
 {text:"File Members",url:"globals.html",children:[
 {text:"All",url:"globals.html"},
-{text:"Functions",url:"globals_func.html"},
 {text:"Macros",url:"globals_defs.html"}]}]}]}

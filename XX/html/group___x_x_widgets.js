@@ -3,6 +3,10 @@ var group___x_x_widgets =
     [ "XX::LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", [
       [ "LocalTextBrowser", "class_x_x_1_1_local_text_browser.html#aa50e9d35b29766207b95f4f195304dfa", null ]
     ] ],
+    [ "XX::LoggerLabel", "class_x_x_1_1_logger_label.html", [
+      [ "LoggerLabel", "class_x_x_1_1_logger_label.html#a89252c01c2ea2c2dada1a0a41c5b59a8", null ],
+      [ "setShowToolTip", "class_x_x_1_1_logger_label.html#a18b6c226b0d489b3cf4039a0ee0b0ad3", null ]
+    ] ],
     [ "XX::Look", "struct_x_x_1_1_look.html", [
       [ "applyStlyeSheet", "struct_x_x_1_1_look.html#a78904bc6bd709a85fcd652c60d77e4ee", null ],
       [ "doNotShowMenuIcons", "struct_x_x_1_1_look.html#a2b7fb90e0689d008e7fd55d51133e6a6", null ],
@@ -31,10 +35,6 @@ var group___x_x_widgets =
       [ "onDoubleClicked", "class_x_x_1_1_managed_1_1_tree_view.html#a73d45dcf17598cc6f82951cb4a033a1c", null ],
       [ "onSelected", "class_x_x_1_1_managed_1_1_tree_view.html#af0480a4f75c38fab01e5cc62428ad75b", null ],
       [ "setModel", "class_x_x_1_1_managed_1_1_tree_view.html#a094191f6c68f0474cd853be472db8081", null ]
-    ] ],
-    [ "XX::MessageLabel", "class_x_x_1_1_message_label.html", [
-      [ "MessageLabel", "class_x_x_1_1_message_label.html#ab2eacf847a1949cab231d4782351964c", null ],
-      [ "setShowToolTip", "class_x_x_1_1_message_label.html#aa4f3f544cfb7000b3dcb05b5047670da", null ]
     ] ],
     [ "XX::QmlWidget", "class_x_x_1_1_qml_widget.html", [
       [ "QmlWidget", "class_x_x_1_1_qml_widget.html#af5fc7fdfbcc2c8f527ef87b8224c924c", null ],

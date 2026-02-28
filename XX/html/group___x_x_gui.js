@@ -16,17 +16,17 @@ var group___x_x_gui =
     [ "XX::DeviceTools", "class_x_x_1_1_device_tools.html", [
       [ "DeviceIdentifier", "class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178d", [
         [ "iPadMini", "class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dae821a74e4c16d6b8e0e39b483725c71a", null ],
-        [ "iPadPro13", "class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dad85eeff65a9c76421b5988f7bced8306", null ]
+        [ "iPadPro13", "class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dad85eeff65a9c76421b5988f7bced8306", null ],
+        [ "NoteAir5C", "class_x_x_1_1_device_tools.html#ab71562b67d439a2def111d4f046d178dac83d6311bc0c2aacc9c8ca7cbeaf64db", null ]
       ] ],
-      [ "enableWindowsConsole", "class_x_x_1_1_device_tools.html#a2b2aa9259fe12faa9d0b596f3b9aa9ed", null ],
       [ "fixSize", "class_x_x_1_1_device_tools.html#a41013e3cc9a3759c3cecdd0277741e50", null ],
       [ "fixSize", "class_x_x_1_1_device_tools.html#af03fdbcf2ed9d8cad5d232e5f6adb206", null ],
       [ "forceDisplayMode", "class_x_x_1_1_device_tools.html#a6a542f323b7d394c7101f6d9d850dc4c", null ],
       [ "getSize", "class_x_x_1_1_device_tools.html#a0d83a19a1f964a63b95f2ed1a5f00404", null ]
     ] ],
-    [ "XX::MessageModel", "class_x_x_1_1_message_model.html", [
-      [ "MessageModel", "class_x_x_1_1_message_model.html#afc502aa118119554db2832b3a0bb3cb4", null ],
-      [ "contentUpdated", "class_x_x_1_1_message_model.html#ad609e0ce669919e2d419c4de03eff83d", null ]
+    [ "XX::LoggerModel", "class_x_x_1_1_logger_model.html", [
+      [ "LoggerModel", "class_x_x_1_1_logger_model.html#ad43907ffcd412f8ec524c694fbd3f889", null ],
+      [ "contentUpdated", "class_x_x_1_1_logger_model.html#a2823420dd1c32841223fc9bdb991b0da", null ]
     ] ],
     [ "XX::OscMessage", "class_x_x_1_1_osc_message.html", [
       [ "OscMessage", "class_x_x_1_1_osc_message.html#a6eb20599477415544a0399b49e2a36bc", null ],
@@ -39,10 +39,10 @@ var group___x_x_gui =
     ] ],
     [ "XX::Rainbow", "class_x_x_1_1_rainbow.html", [
       [ "Rainbow", "class_x_x_1_1_rainbow.html#a1cbb715331527932dceaf530d4b9d66e", null ],
-      [ "advanceColor", "class_x_x_1_1_rainbow.html#ab3515a03d023163655f87882b32f2868", null ],
+      [ "advanceColor", "class_x_x_1_1_rainbow.html#af33d418631a2931ee0343267de608b2d", null ],
       [ "changeShade", "class_x_x_1_1_rainbow.html#a2cdee7312110924f08e34dc204c8afae", null ],
       [ "getColor", "class_x_x_1_1_rainbow.html#ad3878901427a6609753d1421dc5ec4a9", null ],
       [ "getMaxIndex", "class_x_x_1_1_rainbow.html#ad5619379ae9653a8a8a561b2b9324f14", null ],
-      [ "lookup", "class_x_x_1_1_rainbow.html#a564e49d5a92f13e0ff3c655915bbbe87", null ]
+      [ "lookup", "class_x_x_1_1_rainbow.html#a851eb6fef40f2b80c20d936d6ba0c1c8", null ]
     ] ]
 ];

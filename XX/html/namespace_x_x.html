@@ -99,6 +99,8 @@ Namespaces</h2></td></tr>
 <tr class="memitem:Function" id="r_Function"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x_1_1_function.html">Function</a></td></tr>
 <tr class="memitem:Logger" id="r_Logger"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x_1_1_logger.html">Logger</a></td></tr>
 <tr class="memdesc:namespace_x_x_1_1_logger"><td class="mdescLeft">&#160;</td><td class="mdescRight">provide streams for logging <br /></td></tr>
+<tr class="memitem:QtMessage" id="r_QtMessage"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x_1_1_qt_message.html">QtMessage</a></td></tr>
+<tr class="memitem:Linalg" id="r_Linalg"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x_1_1_linalg.html">Linalg</a></td></tr>
 <tr class="memitem:Math" id="r_Math"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x_1_1_math.html">Math</a></td></tr>
 <tr class="memitem:Midi" id="r_Midi"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x_1_1_midi.html">Midi</a></td></tr>
 <tr class="memitem:SecureNetwork" id="r_SecureNetwork"><td class="memItemLeft">namespace &#160;</td><td class="memItemRight"><a class="el" href="namespace_x_x_1_1_secure_network.html">SecureNetwork</a></td></tr>
@@ -145,16 +147,14 @@ Classes</h2></td></tr>
 <tr class="memitem:Range" id="r_Range"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_range.html">Range</a></td></tr>
 <tr class="memitem:Size" id="r_Size"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_size.html">Size</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">simple size structure, to be used where QSize is not available  <a href="struct_x_x_1_1_size.html#details">More...</a><br /></td></tr>
-<tr class="memitem:Graph" id="r_Graph"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_graph.html">Graph</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">graph structure  <a href="class_x_x_1_1_graph.html#details">More...</a><br /></td></tr>
 <tr class="memitem:BusyCursor" id="r_BusyCursor"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_busy_cursor.html">BusyCursor</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">busy cursor as RAII  <a href="class_x_x_1_1_busy_cursor.html#details">More...</a><br /></td></tr>
 <tr class="memitem:ColorSpace" id="r_ColorSpace"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_color_space.html">ColorSpace</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">color space conversions  <a href="class_x_x_1_1_color_space.html#details">More...</a><br /></td></tr>
 <tr class="memitem:DeviceTools" id="r_DeviceTools"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_device_tools.html">DeviceTools</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">tools for device specific features  <a href="class_x_x_1_1_device_tools.html#details">More...</a><br /></td></tr>
-<tr class="memitem:MessageModel" id="r_MessageModel"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_message_model.html">MessageModel</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">expose a logger as a QStandardItemModel  <a href="class_x_x_1_1_message_model.html#details">More...</a><br /></td></tr>
+<tr class="memitem:LoggerModel" id="r_LoggerModel"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_logger_model.html">LoggerModel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">expose a logger as a QStandardItemModel  <a href="class_x_x_1_1_logger_model.html#details">More...</a><br /></td></tr>
 <tr class="memitem:OscMessage" id="r_OscMessage"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_osc_message.html">OscMessage</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">OSC message.  <a href="class_x_x_1_1_osc_message.html#details">More...</a><br /></td></tr>
 <tr class="memitem:Rainbow" id="r_Rainbow"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_rainbow.html">Rainbow</a></td></tr>
@@ -165,9 +165,10 @@ Classes</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">a log file  <a href="class_x_x_1_1_log_file.html#details">More...</a><br /></td></tr>
 <tr class="memitem:LogSymbol" id="r_LogSymbol"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_log_symbol.html">LogSymbol</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">symbols for log messages  <a href="struct_x_x_1_1_log_symbol.html#details">More...</a><br /></td></tr>
-<tr class="memitem:MessageDocument" id="r_MessageDocument"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_message_document.html">MessageDocument</a></td></tr>
-<tr class="memitem:MessageInterceptor" id="r_MessageInterceptor"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_message_interceptor.html">MessageInterceptor</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">intercept the default Qt message handler  <a href="struct_x_x_1_1_message_interceptor.html#details">More...</a><br /></td></tr>
+<tr class="memitem:Graph" id="r_Graph"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_graph.html">Graph</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">graph structure  <a href="class_x_x_1_1_graph.html#details">More...</a><br /></td></tr>
+<tr class="memitem:Polynomial" id="r_Polynomial"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_polynomial.html">Polynomial</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">n th degree polynomials  <a href="class_x_x_1_1_polynomial.html#details">More...</a><br /></td></tr>
 <tr class="memitem:Note" id="r_Note"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_note.html">Note</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">musical note  <a href="class_x_x_1_1_note.html#details">More...</a><br /></td></tr>
 <tr class="memitem:Scale" id="r_Scale"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_scale.html">Scale</a></td></tr>
@@ -176,14 +177,16 @@ Classes</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">time code  <a href="class_x_x_1_1_time_code.html#details">More...</a><br /></td></tr>
 <tr class="memitem:Shared" id="r_Shared"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_shared.html">Shared</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">tools for shared application  <a href="struct_x_x_1_1_shared.html#details">More...</a><br /></td></tr>
+<tr class="memitem:RainbowRectangle" id="r_RainbowRectangle"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_rainbow_rectangle.html">RainbowRectangle</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">a rainbow colored rectangle  <a href="class_x_x_1_1_rainbow_rectangle.html#details">More...</a><br /></td></tr>
 <tr class="memitem:QmlView" id="r_QmlView"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_qml_view.html">QmlView</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">a wrapper for QQuickView  <a href="class_x_x_1_1_qml_view.html#details">More...</a><br /></td></tr>
 <tr class="memitem:LocalTextBrowser" id="r_LocalTextBrowser"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_local_text_browser.html">LocalTextBrowser</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">a QTextBrowser that can load local resources  <a href="class_x_x_1_1_local_text_browser.html#details">More...</a><br /></td></tr>
+<tr class="memitem:LoggerLabel" id="r_LoggerLabel"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_logger_label.html">LoggerLabel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">a QLabel that can display log messages  <a href="class_x_x_1_1_logger_label.html#details">More...</a><br /></td></tr>
 <tr class="memitem:Look" id="r_Look"><td class="memItemLeft">struct &#160;</td><td class="memItemRight"><a class="el" href="struct_x_x_1_1_look.html">Look</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">helper functions for look and feel of widgets  <a href="struct_x_x_1_1_look.html#details">More...</a><br /></td></tr>
-<tr class="memitem:MessageLabel" id="r_MessageLabel"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_message_label.html">MessageLabel</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">a QLabel that can display log messages  <a href="class_x_x_1_1_message_label.html#details">More...</a><br /></td></tr>
 <tr class="memitem:QmlWidget" id="r_QmlWidget"><td class="memItemLeft">class &#160;</td><td class="memItemRight"><a class="el" href="class_x_x_1_1_qml_widget.html">QmlWidget</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">a wrapper for QQuickWidget  <a href="class_x_x_1_1_qml_widget.html#details">More...</a><br /></td></tr>
 </table><table class="memberdecls">
@@ -201,6 +204,8 @@ Typedefs</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:ga916932c4d0bbef192be114bc39be9225" id="r_ga916932c4d0bbef192be114bc39be9225"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="group___streaming.html#ga916932c4d0bbef192be114bc39be9225">operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_polynomial.html">Polynomial</a> &amp;polynomial)</td></tr>
+<tr class="memitem:gabc4d25eda12a98ea4c41041b78f60336" id="r_gabc4d25eda12a98ea4c41041b78f60336"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="group___streaming.html#gabc4d25eda12a98ea4c41041b78f60336">operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_polynomial_1_1_segment.html">Polynomial::Segment</a> &amp;segment)</td></tr>
 <tr class="memitem:ga296f233be1769cc07840d3e20c833544" id="r_ga296f233be1769cc07840d3e20c833544"><td class="memItemLeft"><a class="el" href="group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b">Bytes</a> &amp;&#160;</td><td class="memItemRight"><a class="el" href="group___x_x_music.html#ga296f233be1769cc07840d3e20c833544">operator&lt;&lt;</a> (<a class="el" href="group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b">Bytes</a> &amp;data, const uchar &amp;byte)</td></tr>
 </table>
 </div><!-- contents -->

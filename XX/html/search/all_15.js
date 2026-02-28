@@ -1,12 +1,12 @@
 var searchData=
 [
   ['value_0',['Value',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4ee',1,'XX::Note']]],
-  ['value_1',['value',['../class_x_x_1_1_byte_conversion.html#ae9429928fccc73aafc0d2aaf7e2b6779',1,'XX::ByteConversion::value'],['../struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77',1,'XX::CompileTimeString::value'],['../class_x_x_1_1_settings.html#ada5b4612fffa2218c23d6274588802d0',1,'XX::Settings::value()'],['../class_x_x_1_1_range_1_1_finder.html#a86c2005fe51a6a357368c42550643acc',1,'XX::Range::Finder::value()']]],
+  ['value_1',['value',['../class_x_x_1_1_byte_conversion.html#ae9429928fccc73aafc0d2aaf7e2b6779',1,'XX::ByteConversion::value'],['../struct_x_x_1_1_compile_time_string.html#a36aa2843471af18bd1758b698a4b1c77',1,'XX::CompileTimeString::value'],['../struct_x_x_1_1_linalg_1_1_matrix_1_1_cell.html#abbe343e1601a2d202df61459ed4304cc',1,'XX::Linalg::Matrix::Cell::value'],['../class_x_x_1_1_settings.html#ada5b4612fffa2218c23d6274588802d0',1,'XX::Settings::value()'],['../class_x_x_1_1_range_1_1_finder.html#a86c2005fe51a6a357368c42550643acc',1,'XX::Range::Finder::value()'],['../class_x_x_1_1_polynomial.html#a8d8baca5c9447f42464459adbb7a2e4d',1,'XX::Polynomial::value()'],['../class_x_x_1_1_polynomial_1_1_segment.html#a71f4fd1b652b2651e048ead9a284ca9c',1,'XX::Polynomial::Segment::value()']]],
   ['value_5ftype_2',['value_type',['../class_x_x_1_1_range_1_1_spread_1_1_iterator.html#aed8cf621a8cab56441656a7b547f2a69',1,'XX::Range::Spread::Iterator']]],
   ['variables_3',['Variables',['../struct_x_x_1_1_midi_1_1_variables.html',1,'XX::Midi']]],
   ['vcmc_4',['VCMC',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea91c04e98cfd003bdfa5993630a7a8af5',1,'XX::Midi::Device']]],
   ['vcvrack_5',['VCVRack',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea9de611615e851bafe1c9663611fab16a',1,'XX::Midi::Device']]],
-  ['vector3_6',['Vector3',['../class_x_x_1_1_math_1_1_vector3.html',1,'XX::Math::Vector3'],['../class_x_x_1_1_math_1_1_vector3.html#a2a0f95b5a8d0ef73c003154171488ce3',1,'XX::Math::Vector3::Vector3()']]],
+  ['vector3_6',['Vector3',['../class_x_x_1_1_linalg_1_1_vector3.html',1,'XX::Linalg::Vector3'],['../class_x_x_1_1_linalg_1_1_vector3.html#aebaba3a98057da0d78bd31db2c9ff8a0',1,'XX::Linalg::Vector3::Vector3()']]],
   ['velocity_7',['Velocity',['../group___x_x_music.html#ga0d0b787ffb059b01adf247d615255a68',1,'XX::Midi']]],
   ['verbose_8',['verbose',['../class_x_x_1_1_secure_network_1_1_socket.html#a41fb5a9aed2e49b9c444b79537fd42e3',1,'XX::SecureNetwork::Socket::verbose'],['../class_x_x_1_1_network_1_1_settings.html#aaaf2b53d04d81c0e394cb122d2d8c28f',1,'XX::Network::Settings::verbose()']]],
   ['vertex_9',['Vertex',['../class_x_x_1_1_graph_1_1_vertex.html',1,'XX::Graph::Vertex'],['../class_x_x_1_1_graph_1_1_vertex.html#ad7ce5bdbb2a85515b80d2596933f1b11',1,'XX::Graph::Vertex::Vertex()']]],

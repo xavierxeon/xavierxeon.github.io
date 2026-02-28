@@ -12,7 +12,7 @@ var searchData=
   ['addtab_9',['addTab',['../class_x_x_1_1_tab_stack_1_1_widget.html#ab51eac06ced248d69a4649d84b4a61d0',1,'XX::TabStack::Widget']]],
   ['addunauthorizedstatuscode_10',['addUnauthorizedStatusCode',['../class_x_x_1_1_rest_api_1_1_blocking.html#a3c08693a795f94e2c3b878120040f086',1,'XX::RestApi::Blocking']]],
   ['addvertex_11',['addVertex',['../class_x_x_1_1_graph.html#a9b9c841df671550a023e040dda27141c',1,'XX::Graph']]],
-  ['advancecolor_12',['advanceColor',['../class_x_x_1_1_rainbow.html#ab3515a03d023163655f87882b32f2868',1,'XX::Rainbow']]],
+  ['advancecolor_12',['advanceColor',['../class_x_x_1_1_rainbow.html#af33d418631a2931ee0343267de608b2d',1,'XX::Rainbow']]],
   ['advanceplayhead_13',['advancePlayhead',['../class_x_x_1_1_sample_1_1_reader.html#aed33be81fe882a0623d79b9865d937b3',1,'XX::Sample::Reader']]],
   ['algorithm_14',['Algorithm',['../class_x_x_1_1_graph_1_1_algorithm.html#a044c7d20748fb2fade6c59f41588900d',1,'XX::Graph::Algorithm']]],
   ['append_15',['append',['../class_x_x_1_1_sample_1_1_writer.html#ad4e9b1ebbc338cfb3feefacc4e863a42',1,'XX::Sample::Writer']]],

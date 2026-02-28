@@ -22,10 +22,16 @@ var annotated_dup =
       [ "Logger", "namespace_x_x_1_1_logger.html", [
         [ "Target", "class_x_x_1_1_logger_1_1_target.html", "class_x_x_1_1_logger_1_1_target" ]
       ] ],
-      [ "Math", "namespace_x_x_1_1_math.html", [
-        [ "Quaternion", "class_x_x_1_1_math_1_1_quaternion.html", "class_x_x_1_1_math_1_1_quaternion" ],
-        [ "Spherical", "class_x_x_1_1_math_1_1_spherical.html", "class_x_x_1_1_math_1_1_spherical" ],
-        [ "Vector3", "class_x_x_1_1_math_1_1_vector3.html", "class_x_x_1_1_math_1_1_vector3" ]
+      [ "QtMessage", "namespace_x_x_1_1_qt_message.html", [
+        [ "Document", "class_x_x_1_1_qt_message_1_1_document.html", "class_x_x_1_1_qt_message_1_1_document" ],
+        [ "Interceptor", "struct_x_x_1_1_qt_message_1_1_interceptor.html", "struct_x_x_1_1_qt_message_1_1_interceptor" ],
+        [ "Model", "class_x_x_1_1_qt_message_1_1_model.html", "class_x_x_1_1_qt_message_1_1_model" ]
+      ] ],
+      [ "Linalg", "namespace_x_x_1_1_linalg.html", [
+        [ "Matrix", "class_x_x_1_1_linalg_1_1_matrix.html", "class_x_x_1_1_linalg_1_1_matrix" ],
+        [ "Quaternion", "class_x_x_1_1_linalg_1_1_quaternion.html", "class_x_x_1_1_linalg_1_1_quaternion" ],
+        [ "Spherical", "class_x_x_1_1_linalg_1_1_spherical.html", "class_x_x_1_1_linalg_1_1_spherical" ],
+        [ "Vector3", "class_x_x_1_1_linalg_1_1_vector3.html", "class_x_x_1_1_linalg_1_1_vector3" ]
       ] ],
       [ "Midi", "namespace_x_x_1_1_midi.html", [
         [ "File", "namespace_x_x_1_1_midi_1_1_file.html", [
@@ -90,27 +96,26 @@ var annotated_dup =
       [ "Matrix", "class_x_x_1_1_matrix.html", "class_x_x_1_1_matrix" ],
       [ "Range", "struct_x_x_1_1_range.html", "struct_x_x_1_1_range" ],
       [ "Size", "struct_x_x_1_1_size.html", "struct_x_x_1_1_size" ],
-      [ "Graph", "class_x_x_1_1_graph.html", "class_x_x_1_1_graph" ],
       [ "BusyCursor", "class_x_x_1_1_busy_cursor.html", "class_x_x_1_1_busy_cursor" ],
       [ "ColorSpace", "class_x_x_1_1_color_space.html", "class_x_x_1_1_color_space" ],
       [ "DeviceTools", "class_x_x_1_1_device_tools.html", "class_x_x_1_1_device_tools" ],
-      [ "MessageModel", "class_x_x_1_1_message_model.html", "class_x_x_1_1_message_model" ],
+      [ "LoggerModel", "class_x_x_1_1_logger_model.html", "class_x_x_1_1_logger_model" ],
       [ "OscMessage", "class_x_x_1_1_osc_message.html", "class_x_x_1_1_osc_message" ],
       [ "Rainbow", "class_x_x_1_1_rainbow.html", "class_x_x_1_1_rainbow" ],
       [ "LogFileBase", "struct_x_x_1_1_log_file_base.html", "struct_x_x_1_1_log_file_base" ],
       [ "LogFile", "class_x_x_1_1_log_file.html", "class_x_x_1_1_log_file" ],
       [ "LogSymbol", "struct_x_x_1_1_log_symbol.html", "struct_x_x_1_1_log_symbol" ],
-      [ "MessageDocument", "class_x_x_1_1_message_document.html", "class_x_x_1_1_message_document" ],
-      [ "MessageInterceptor", "struct_x_x_1_1_message_interceptor.html", "struct_x_x_1_1_message_interceptor" ],
+      [ "Graph", "class_x_x_1_1_graph.html", "class_x_x_1_1_graph" ],
+      [ "Polynomial", "class_x_x_1_1_polynomial.html", "class_x_x_1_1_polynomial" ],
       [ "Note", "class_x_x_1_1_note.html", "class_x_x_1_1_note" ],
       [ "Scale", "class_x_x_1_1_scale.html", "class_x_x_1_1_scale" ],
       [ "TimeCode", "class_x_x_1_1_time_code.html", "class_x_x_1_1_time_code" ],
       [ "Shared", "struct_x_x_1_1_shared.html", "struct_x_x_1_1_shared" ],
+      [ "RainbowRectangle", "class_x_x_1_1_rainbow_rectangle.html", "class_x_x_1_1_rainbow_rectangle" ],
       [ "QmlView", "class_x_x_1_1_qml_view.html", "class_x_x_1_1_qml_view" ],
       [ "LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", "class_x_x_1_1_local_text_browser" ],
+      [ "LoggerLabel", "class_x_x_1_1_logger_label.html", "class_x_x_1_1_logger_label" ],
       [ "Look", "struct_x_x_1_1_look.html", "struct_x_x_1_1_look" ],
-      [ "MessageLabel", "class_x_x_1_1_message_label.html", "class_x_x_1_1_message_label" ],
       [ "QmlWidget", "class_x_x_1_1_qml_widget.html", "class_x_x_1_1_qml_widget" ]
-    ] ],
-    [ "RainbowRectangle", "class_rainbow_rectangle.html", "class_rainbow_rectangle" ]
+    ] ]
 ];

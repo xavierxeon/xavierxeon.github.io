@@ -92,141 +92,255 @@ $(function(){initNavTree('group___streaming.html','',''); });
 </div><!--header-->
 <div class="contents">
 
-<p>streaming operators for math types  
+<p>streaming operators for matrix  
 <a href="#details">More...</a></p>
 <a name="details" id="details"></a><h2 id="header-details" class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>streaming operators for math types </p>
+<div class="textblock"><p>streaming operators for matrix </p>
+<p>streaming operators for polynomial segments</p>
+<p>streaming operators for polynomials</p>
+<p>streaming operators for vector3</p>
+<p>streaming operators for spherical</p>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:gaac316c6c4891258b1858a6a18b9da518" id="r_gaac316c6c4891258b1858a6a18b9da518"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="#gaac316c6c4891258b1858a6a18b9da518">operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_math_1_1_vector3.html">XX::Math::Vector3</a> &amp;data)</td></tr>
-<tr class="memitem:ga3ed6c0e85ef6244ec63121a8331240c0" id="r_ga3ed6c0e85ef6244ec63121a8331240c0"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="#ga3ed6c0e85ef6244ec63121a8331240c0">operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_math_1_1_spherical.html">XX::Math::Spherical</a> &amp;data)</td></tr>
-<tr class="memitem:gaa92b8aa064989fe46023d59310786540" id="r_gaa92b8aa064989fe46023d59310786540"><td class="memItemLeft">QTextStream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#gaa92b8aa064989fe46023d59310786540">operator&lt;&lt;</a> (QTextStream &amp;stream, const <a class="el" href="class_x_x_1_1_math_1_1_vector3.html">XX::Math::Vector3</a> &amp;data)</td></tr>
-<tr class="memitem:gacfb3abd2c888dbc7acb7111f3689cdb5" id="r_gacfb3abd2c888dbc7acb7111f3689cdb5"><td class="memItemLeft">QTextStream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#gacfb3abd2c888dbc7acb7111f3689cdb5">operator&gt;&gt;</a> (QTextStream &amp;stream, <a class="el" href="class_x_x_1_1_math_1_1_vector3.html">XX::Math::Vector3</a> &amp;data)</td></tr>
-<tr class="memitem:gaf91eb590c0e526deedeccef8db6111ee" id="r_gaf91eb590c0e526deedeccef8db6111ee"><td class="memItemLeft">std::ostream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#gaf91eb590c0e526deedeccef8db6111ee">XX::Math::operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="class_x_x_1_1_math_1_1_spherical.html">Spherical</a> &amp;value)</td></tr>
-<tr class="memitem:ga4ef0baf5907106c7521796a0d0c6ff42" id="r_ga4ef0baf5907106c7521796a0d0c6ff42"><td class="memItemLeft">std::ostream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#ga4ef0baf5907106c7521796a0d0c6ff42">XX::Math::operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="class_x_x_1_1_math_1_1_vector3.html">Vector3</a> &amp;value)</td></tr>
+<tr class="memitem:ga261b179993edbfbfd6cac81dd89262ee" id="r_ga261b179993edbfbfd6cac81dd89262ee"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="#ga261b179993edbfbfd6cac81dd89262ee">XX::Linalg::operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_linalg_1_1_matrix.html">Matrix</a> &amp;matrix)</td></tr>
+<tr class="memitem:gafccfced10142d4aa4a60a547ad129bf3" id="r_gafccfced10142d4aa4a60a547ad129bf3"><td class="memItemLeft">QTextStream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#gafccfced10142d4aa4a60a547ad129bf3">XX::Linalg::operator&gt;&gt;</a> (QTextStream &amp;stream, <a class="el" href="class_x_x_1_1_linalg_1_1_matrix.html">Matrix</a> &amp;matrix)</td></tr>
+<tr class="memitem:ga6ec6f76875969ae579c23da3fe437f19" id="r_ga6ec6f76875969ae579c23da3fe437f19"><td class="memItemLeft">QTextStream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#ga6ec6f76875969ae579c23da3fe437f19">XX::Linalg::operator&lt;&lt;</a> (QTextStream &amp;stream, const <a class="el" href="class_x_x_1_1_linalg_1_1_matrix.html">Matrix</a> &amp;matrix)</td></tr>
+<tr class="memitem:ga7a54eaae72dc91e2cd4fa6edf57d014a" id="r_ga7a54eaae72dc91e2cd4fa6edf57d014a"><td class="memItemLeft">std::ostream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#ga7a54eaae72dc91e2cd4fa6edf57d014a">XX::Linalg::operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="class_x_x_1_1_linalg_1_1_spherical.html">Spherical</a> &amp;spherial)</td></tr>
+<tr class="memitem:ga7ba786d61dd9c5b1fc7efe6e59fb08e3" id="r_ga7ba786d61dd9c5b1fc7efe6e59fb08e3"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="#ga7ba786d61dd9c5b1fc7efe6e59fb08e3">XX::Linalg::operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_linalg_1_1_spherical.html">Spherical</a> &amp;spherial)</td></tr>
+<tr class="memitem:gaa08aa6552ed24c3ae69fb6e988d51165" id="r_gaa08aa6552ed24c3ae69fb6e988d51165"><td class="memItemLeft">std::ostream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#gaa08aa6552ed24c3ae69fb6e988d51165">XX::Linalg::operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="class_x_x_1_1_linalg_1_1_vector3.html">Vector3</a> &amp;vector)</td></tr>
+<tr class="memitem:gad1734f683ec55bba968a7dab677ef382" id="r_gad1734f683ec55bba968a7dab677ef382"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="#gad1734f683ec55bba968a7dab677ef382">XX::Linalg::operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_linalg_1_1_vector3.html">Vector3</a> &amp;vector)</td></tr>
+<tr class="memitem:gae981863eb89edacae34b2038b1269124" id="r_gae981863eb89edacae34b2038b1269124"><td class="memItemLeft">QTextStream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#gae981863eb89edacae34b2038b1269124">XX::Linalg::operator&gt;&gt;</a> (QTextStream &amp;stream, <a class="el" href="class_x_x_1_1_linalg_1_1_vector3.html">Vector3</a> &amp;vector)</td></tr>
+<tr class="memitem:ga696fe2d121b2cb0df0fcb479ca70e24e" id="r_ga696fe2d121b2cb0df0fcb479ca70e24e"><td class="memItemLeft">QTextStream &amp;&#160;</td><td class="memItemRight"><a class="el" href="#ga696fe2d121b2cb0df0fcb479ca70e24e">XX::Linalg::operator&lt;&lt;</a> (QTextStream &amp;stream, const <a class="el" href="class_x_x_1_1_linalg_1_1_vector3.html">Vector3</a> &amp;vector)</td></tr>
+<tr class="memitem:ga916932c4d0bbef192be114bc39be9225" id="r_ga916932c4d0bbef192be114bc39be9225"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="#ga916932c4d0bbef192be114bc39be9225">XX::operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_polynomial.html">Polynomial</a> &amp;polynomial)</td></tr>
+<tr class="memitem:gabc4d25eda12a98ea4c41041b78f60336" id="r_gabc4d25eda12a98ea4c41041b78f60336"><td class="memItemLeft">QDebug&#160;</td><td class="memItemRight"><a class="el" href="#gabc4d25eda12a98ea4c41041b78f60336">XX::operator&lt;&lt;</a> (QDebug stream, const <a class="el" href="class_x_x_1_1_polynomial_1_1_segment.html">Polynomial::Segment</a> &amp;segment)</td></tr>
 </table>
 <a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Function Documentation</h2>
-<a id="ga3ed6c0e85ef6244ec63121a8331240c0" name="ga3ed6c0e85ef6244ec63121a8331240c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ga3ed6c0e85ef6244ec63121a8331240c0">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[1/5]</span></h2>
+<a id="ga261b179993edbfbfd6cac81dd89262ee" name="ga261b179993edbfbfd6cac81dd89262ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga261b179993edbfbfd6cac81dd89262ee">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[1/9]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">QDebug operator&lt;&lt; </td>
+          <td class="memname">QDebug XX::Linalg::operator&lt;&lt; </td>
           <td>(</td>
           <td class="paramtype">QDebug</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="class_x_x_1_1_math_1_1_spherical.html">XX::Math::Spherical</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>data</em></span>&#160;)</td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_linalg_1_1_matrix.html">Matrix</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>matrix</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="gaac316c6c4891258b1858a6a18b9da518" name="gaac316c6c4891258b1858a6a18b9da518"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#gaac316c6c4891258b1858a6a18b9da518">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[2/5]</span></h2>
+<a id="ga7ba786d61dd9c5b1fc7efe6e59fb08e3" name="ga7ba786d61dd9c5b1fc7efe6e59fb08e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga7ba786d61dd9c5b1fc7efe6e59fb08e3">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[2/9]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">QDebug operator&lt;&lt; </td>
+          <td class="memname">QDebug XX::Linalg::operator&lt;&lt; </td>
           <td>(</td>
           <td class="paramtype">QDebug</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="class_x_x_1_1_math_1_1_vector3.html">XX::Math::Vector3</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>data</em></span>&#160;)</td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_linalg_1_1_spherical.html">Spherical</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>spherial</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="gaa92b8aa064989fe46023d59310786540" name="gaa92b8aa064989fe46023d59310786540"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#gaa92b8aa064989fe46023d59310786540">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[3/5]</span></h2>
+<a id="gad1734f683ec55bba968a7dab677ef382" name="gad1734f683ec55bba968a7dab677ef382"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gad1734f683ec55bba968a7dab677ef382">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[3/9]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">QTextStream &amp; operator&lt;&lt; </td>
+          <td class="memname">QDebug XX::Linalg::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">QDebug</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_linalg_1_1_vector3.html">Vector3</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>vector</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ga6ec6f76875969ae579c23da3fe437f19" name="ga6ec6f76875969ae579c23da3fe437f19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga6ec6f76875969ae579c23da3fe437f19">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[4/9]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">QTextStream &amp; XX::Linalg::operator&lt;&lt; </td>
           <td>(</td>
           <td class="paramtype">QTextStream &amp;</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="class_x_x_1_1_math_1_1_vector3.html">XX::Math::Vector3</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>data</em></span>&#160;)</td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_linalg_1_1_matrix.html">Matrix</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>matrix</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="gaf91eb590c0e526deedeccef8db6111ee" name="gaf91eb590c0e526deedeccef8db6111ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#gaf91eb590c0e526deedeccef8db6111ee">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[4/5]</span></h2>
+<a id="ga696fe2d121b2cb0df0fcb479ca70e24e" name="ga696fe2d121b2cb0df0fcb479ca70e24e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga696fe2d121b2cb0df0fcb479ca70e24e">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[5/9]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::ostream &amp; XX::Math::operator&lt;&lt; </td>
-          <td>(</td>
-          <td class="paramtype">std::ostream &amp;</td>          <td class="paramname"><span class="paramname"><em>out</em></span>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="class_x_x_1_1_math_1_1_spherical.html">Spherical</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>value</em></span>&#160;)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ga4ef0baf5907106c7521796a0d0c6ff42" name="ga4ef0baf5907106c7521796a0d0c6ff42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ga4ef0baf5907106c7521796a0d0c6ff42">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[5/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::ostream &amp; XX::Math::operator&lt;&lt; </td>
-          <td>(</td>
-          <td class="paramtype">std::ostream &amp;</td>          <td class="paramname"><span class="paramname"><em>out</em></span>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="class_x_x_1_1_math_1_1_vector3.html">Vector3</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>value</em></span>&#160;)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="gacfb3abd2c888dbc7acb7111f3689cdb5" name="gacfb3abd2c888dbc7acb7111f3689cdb5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#gacfb3abd2c888dbc7acb7111f3689cdb5">&#9670;&#160;</a></span>operator&gt;&gt;()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">QTextStream &amp; operator&gt;&gt; </td>
+          <td class="memname">QTextStream &amp; XX::Linalg::operator&lt;&lt; </td>
           <td>(</td>
           <td class="paramtype">QTextStream &amp;</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="class_x_x_1_1_math_1_1_vector3.html">XX::Math::Vector3</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>data</em></span>&#160;)</td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_linalg_1_1_vector3.html">Vector3</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>vector</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ga7a54eaae72dc91e2cd4fa6edf57d014a" name="ga7a54eaae72dc91e2cd4fa6edf57d014a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga7a54eaae72dc91e2cd4fa6edf57d014a">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[6/9]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostream &amp; XX::Linalg::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostream &amp;</td>          <td class="paramname"><span class="paramname"><em>out</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_linalg_1_1_spherical.html">Spherical</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>spherial</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="gaa08aa6552ed24c3ae69fb6e988d51165" name="gaa08aa6552ed24c3ae69fb6e988d51165"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gaa08aa6552ed24c3ae69fb6e988d51165">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[7/9]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostream &amp; XX::Linalg::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostream &amp;</td>          <td class="paramname"><span class="paramname"><em>out</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_linalg_1_1_vector3.html">Vector3</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>vector</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ga916932c4d0bbef192be114bc39be9225" name="ga916932c4d0bbef192be114bc39be9225"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga916932c4d0bbef192be114bc39be9225">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[8/9]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">QDebug XX::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">QDebug</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_polynomial.html">Polynomial</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>polynomial</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="gabc4d25eda12a98ea4c41041b78f60336" name="gabc4d25eda12a98ea4c41041b78f60336"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gabc4d25eda12a98ea4c41041b78f60336">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[9/9]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">QDebug XX::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">QDebug</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="class_x_x_1_1_polynomial_1_1_segment.html">Polynomial::Segment</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>segment</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="gafccfced10142d4aa4a60a547ad129bf3" name="gafccfced10142d4aa4a60a547ad129bf3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gafccfced10142d4aa4a60a547ad129bf3">&#9670;&#160;</a></span>operator&gt;&gt;() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">QTextStream &amp; XX::Linalg::operator&gt;&gt; </td>
+          <td>(</td>
+          <td class="paramtype">QTextStream &amp;</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_x_x_1_1_linalg_1_1_matrix.html">Matrix</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>matrix</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="gae981863eb89edacae34b2038b1269124" name="gae981863eb89edacae34b2038b1269124"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gae981863eb89edacae34b2038b1269124">&#9670;&#160;</a></span>operator&gt;&gt;() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">QTextStream &amp; XX::Linalg::operator&gt;&gt; </td>
+          <td>(</td>
+          <td class="paramtype">QTextStream &amp;</td>          <td class="paramname"><span class="paramname"><em>stream</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_x_x_1_1_linalg_1_1_vector3.html">Vector3</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>vector</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">

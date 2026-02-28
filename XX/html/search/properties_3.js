@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['shade_0',['shade',['../class_rainbow_rectangle.html#af6b72882f525d976e8596761435953d3',1,'RainbowRectangle']]],
-  ['stretch_1',['stretch',['../class_rainbow_rectangle.html#a60ffb80d40df934384699f6de204824c',1,'RainbowRectangle']]]
+  ['toolbarname_0',['toolBarName',['../class_x_x_1_1_populated_1_1_tool_bar.html#ae525201e87e86428ef1a95c7a407bcfb',1,'XX::Populated::ToolBar']]]
 ];

@@ -1,4 +1,4 @@
 var _x_x_device_tools_8h =
 [
-    [ "XX::__declspec", "group___x_x_application.html#ga9c30fe43d23cddeff93db378682ae5e2", null ]
+    [ "ENABLE_WINDOWS_CONSOLE", "_x_x_device_tools_8h.html#a6d64a6555c81bd88352f2754edc09bb5", null ]
 ];

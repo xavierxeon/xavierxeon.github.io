@@ -16,9 +16,17 @@ var group___x_x_log =
       [ "Info", "struct_x_x_1_1_log_symbol.html#ac8b7e32ad89fd5c018cd75adb3e86513", null ],
       [ "Warning", "struct_x_x_1_1_log_symbol.html#aafe838a4946059ed8a2002008dd02699", null ]
     ] ],
-    [ "XX::MessageInterceptor", "struct_x_x_1_1_message_interceptor.html", [
-      [ "disable", "struct_x_x_1_1_message_interceptor.html#afac8ceeaf324eb32e63113873ac94be1", null ],
-      [ "enable", "struct_x_x_1_1_message_interceptor.html#a9a89761950a454691a9e071e9c515fa9", null ],
-      [ "symbol", "struct_x_x_1_1_message_interceptor.html#a5ea91824e744fe6825b1f1f04724dc4c", null ]
+    [ "XX::QtMessage::Document", "class_x_x_1_1_qt_message_1_1_document.html", [
+      [ "Document", "class_x_x_1_1_qt_message_1_1_document.html#a5cdc14fa4286b9acfd18198c9a25c0b4", null ],
+      [ "~Document", "class_x_x_1_1_qt_message_1_1_document.html#abfd0e90cc819af79f9198c2951f3d29e", null ]
+    ] ],
+    [ "XX::QtMessage::Interceptor", "struct_x_x_1_1_qt_message_1_1_interceptor.html", [
+      [ "disable", "struct_x_x_1_1_qt_message_1_1_interceptor.html#a36aa65a0803e3f84e32cd88ad2e29cae", null ],
+      [ "enable", "struct_x_x_1_1_qt_message_1_1_interceptor.html#a127e3c2d2c5ff18e3b496d25d42cc504", null ],
+      [ "symbol", "struct_x_x_1_1_qt_message_1_1_interceptor.html#ace1ff10c4fc53189dca7c84edcd0568e", null ]
+    ] ],
+    [ "XX::QtMessage::Model", "class_x_x_1_1_qt_message_1_1_model.html", [
+      [ "Model", "class_x_x_1_1_qt_message_1_1_model.html#a6c8de050d996c1423ee34bb3fc4cd7a2", null ],
+      [ "~Model", "class_x_x_1_1_qt_message_1_1_model.html#adb41ff441344a424a164b9f35d805b5e", null ]
     ] ]
 ];

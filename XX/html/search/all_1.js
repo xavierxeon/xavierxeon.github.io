@@ -19,9 +19,10 @@ var searchData=
   ['breathcontroller_16',['BreathController',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5af2e48cce233c69013b43d7de859819fb',1,'XX::Midi']]],
   ['brightness_17',['brightness',['../struct_x_x_1_1_color_space_1_1_x_y_b.html#a0c9e722d35105916d7b206f7c330e5ab',1,'XX::ColorSpace::XYB']]],
   ['buffer_18',['Buffer',['../struct_x_x_1_1_logger_1_1_target_1_1_entry.html#ab4dacb2890de1deb1fcc1e5ef88bcbf7',1,'XX::Logger::Target::Entry']]],
-  ['bury_19',['bury',['../class_x_x_1_1_shallow_crypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5',1,'XX::ShallowCrypt']]],
-  ['busycursor_20',['BusyCursor',['../class_x_x_1_1_busy_cursor.html',1,'XX::BusyCursor'],['../class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0',1,'XX::BusyCursor::BusyCursor()']]],
-  ['byteconversion_21',['ByteConversion',['../class_x_x_1_1_byte_conversion.html',1,'XX']]],
-  ['bytes_22',['Bytes',['../group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b',1,'XX']]],
-  ['bytes_23',['bytes',['../class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]]
+  ['bundle_19',['Bundle',['../class_x_x_1_1_polynomial_1_1_segment_1_1_bundle.html',1,'XX::Polynomial::Segment::Bundle'],['../class_x_x_1_1_polynomial_1_1_segment_1_1_bundle.html#a7d7ec520f86324dcf5404c224e622fc0',1,'XX::Polynomial::Segment::Bundle::Bundle()']]],
+  ['bury_20',['bury',['../class_x_x_1_1_shallow_crypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5',1,'XX::ShallowCrypt']]],
+  ['busycursor_21',['BusyCursor',['../class_x_x_1_1_busy_cursor.html',1,'XX::BusyCursor'],['../class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0',1,'XX::BusyCursor::BusyCursor()']]],
+  ['byteconversion_22',['ByteConversion',['../class_x_x_1_1_byte_conversion.html',1,'XX']]],
+  ['bytes_23',['Bytes',['../group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b',1,'XX']]],
+  ['bytes_24',['bytes',['../class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]]
 ];

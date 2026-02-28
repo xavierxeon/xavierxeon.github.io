@@ -23,15 +23,16 @@ var searchData=
   ['toolbarnamechanged_20',['toolBarNameChanged',['../class_x_x_1_1_populated_1_1_tool_bar.html#a99e2d09f763423947ddcb38822d6b775',1,'XX::Populated::ToolBar']]],
   ['tools_21',['Tools',['../struct_x_x_1_1_network_1_1_tools.html',1,'XX::Network']]],
   ['topologicalsort_22',['topologicalSort',['../class_x_x_1_1_graph_1_1_algorithm.html#a086f312a66fab2fcd7f06c42aba4c76f',1,'XX::Graph::Algorithm']]],
-  ['tospherical_23',['toSpherical',['../class_x_x_1_1_math_1_1_vector3.html#a180431be579f22b8d3170a7dd7dea59e',1,'XX::Math::Vector3']]],
+  ['tospherical_23',['toSpherical',['../class_x_x_1_1_linalg_1_1_vector3.html#aa8e13bc1d7c4ffe17b1eec6f52533859',1,'XX::Linalg::Vector3']]],
   ['totallength_24',['totalLength',['../struct_x_x_1_1_sample_1_1_meta.html#a75cae8fa59453f6badb2ea055ffb29fa',1,'XX::Sample::Meta']]],
   ['totick_25',['toTick',['../class_x_x_1_1_midi_1_1_sequence.html#ae3314ac99a17693eb262499e616804b1',1,'XX::Midi::Sequence']]],
   ['track_26',['Track',['../struct_x_x_1_1_midi_1_1_sequence_1_1_track.html',1,'XX::Midi::Sequence']]],
   ['tracklist_27',['trackList',['../class_x_x_1_1_midi_1_1_sequence.html#a8baac4fdf116fed21ffbf3bcb4a28ce6',1,'XX::Midi::Sequence']]],
   ['trackname_28',['TrackName',['../group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1baa727daf9fa4c29d7bba10953b99ad548',1,'XX::Midi']]],
-  ['tree_29',['Tree',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree.html',1,'XX::Graph::Algorithm']]],
-  ['treeedges_30',['TreeEdges',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_edges.html',1,'XX::Graph::Algorithm']]],
-  ['treeedges_31',['treeEdges',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_edges.html#aefddb3f7b275b83b2c9d21c15a590c85',1,'XX::Graph::Algorithm::TreeEdges']]],
-  ['treeview_32',['TreeView',['../class_x_x_1_1_managed_1_1_tree_view.html',1,'XX::Managed::TreeView'],['../class_x_x_1_1_managed_1_1_tree_view.html#a183483bba2f08459eee5aa458edcfd03',1,'XX::Managed::TreeView::TreeView()']]],
-  ['tunerequest_33',['TuneRequest',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642aa74c5dc9a1f660252e0c390e955c8224',1,'XX::Midi']]]
+  ['transpose_29',['transpose',['../class_x_x_1_1_linalg_1_1_matrix.html#ad12e95993d1e5ce7675d95102ec7bd84',1,'XX::Linalg::Matrix']]],
+  ['tree_30',['Tree',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree.html',1,'XX::Graph::Algorithm']]],
+  ['treeedges_31',['TreeEdges',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_edges.html',1,'XX::Graph::Algorithm']]],
+  ['treeedges_32',['treeEdges',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_edges.html#aefddb3f7b275b83b2c9d21c15a590c85',1,'XX::Graph::Algorithm::TreeEdges']]],
+  ['treeview_33',['TreeView',['../class_x_x_1_1_managed_1_1_tree_view.html',1,'XX::Managed::TreeView'],['../class_x_x_1_1_managed_1_1_tree_view.html#a183483bba2f08459eee5aa458edcfd03',1,'XX::Managed::TreeView::TreeView()']]],
+  ['tunerequest_34',['TuneRequest',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642aa74c5dc9a1f660252e0c390e955c8224',1,'XX::Midi']]]
 ];
