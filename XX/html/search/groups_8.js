@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xxquick_20component_0',['XXQuick component',['../group___x_x_quick.html',1,'']]]
+  ['widgets_0',['Widgets',['../group___x_x_widgets.html',1,'']]]
 ];
