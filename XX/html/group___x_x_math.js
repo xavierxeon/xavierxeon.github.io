@@ -152,6 +152,7 @@ var group___x_x_math =
       [ "Polynomial", "class_x_x_1_1_polynomial.html#ad969dea8783d4c34c3262c37dba5b3e2", null ],
       [ "getCoeficents", "class_x_x_1_1_polynomial.html#a751de883436ca978de5cd327529deaf6", null ],
       [ "getDegree", "class_x_x_1_1_polynomial.html#a93556894ee996d1ac1a060812977d6bc", null ],
+      [ "load", "class_x_x_1_1_polynomial.html#a6e21d4f638a7761ad0e7192a96c5d7a2", null ],
       [ "operator!=", "class_x_x_1_1_polynomial.html#a8d00aad15185c52fb37523a0d2b13b18", null ],
       [ "operator()", "class_x_x_1_1_polynomial.html#aee1eaff37ee73234aa4c3cd26578e66a", null ],
       [ "operator+", "class_x_x_1_1_polynomial.html#a1b814a9d3c220bffae95fd5a9f461a7f", null ],
@@ -160,6 +161,7 @@ var group___x_x_math =
       [ "operator-=", "class_x_x_1_1_polynomial.html#a5fd0a7fc360c388405dfde36704a0d88", null ],
       [ "operator=", "class_x_x_1_1_polynomial.html#a9360148c35611e72b511360d89b62427", null ],
       [ "operator==", "class_x_x_1_1_polynomial.html#ae7943b3091c86be6a09009714a30b600", null ],
+      [ "save", "class_x_x_1_1_polynomial.html#a18af5dd8736aa22ce530b7664a64e2fe", null ],
       [ "setCoefficient", "class_x_x_1_1_polynomial.html#a008d4bdf1d9e13f3726d802f135910e0", null ],
       [ "setDegree", "class_x_x_1_1_polynomial.html#acffaa486cb386cb87f80ad898674b5c4", null ],
       [ "value", "class_x_x_1_1_polynomial.html#a8d8baca5c9447f42464459adbb7a2e4d", null ],
@@ -168,14 +170,16 @@ var group___x_x_math =
     [ "XX::Polynomial::Regression", "class_x_x_1_1_polynomial_1_1_regression.html", [
       [ "Section", "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html", [
         [ "List", "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a2224337e0b2a70e211a883614829b6a9", null ],
+        [ "length", "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a5b16d5c198208b990aa8463be8d9bf62", null ],
         [ "end", "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a78cb4b23833b46578d89f9a9d6113afc", null ],
-        [ "start", "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#adbb94615ec9e0ecc8cde2dcade557018", null ]
+        [ "start", "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#adbb94615ec9e0ecc8cde2dcade557018", null ],
+        [ "steady", "struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a11b37c2f307e79ace7dbeeb39fedfefd", null ]
       ] ],
       [ "Regression", "class_x_x_1_1_polynomial_1_1_regression.html#aaf07d7714da070ba426eafe61ef98ff9", null ],
       [ "clear", "class_x_x_1_1_polynomial_1_1_regression.html#a8a220cc8cfe0719770acd5e1456f23d3", null ],
-      [ "compileSections", "class_x_x_1_1_polynomial_1_1_regression.html#ae85bf31c5f07266d626c88e10e5ce208", null ],
-      [ "fit", "class_x_x_1_1_polynomial_1_1_regression.html#a6455e3234c4c018396628d6d54345a0c", null ],
-      [ "getRawValues", "class_x_x_1_1_polynomial_1_1_regression.html#a2b7d0cb6f0f15d704c398a9975d01d63", null ],
+      [ "compileSections", "class_x_x_1_1_polynomial_1_1_regression.html#a4251fad254ac7fad8c4dcefdf05b850e", null ],
+      [ "fit", "class_x_x_1_1_polynomial_1_1_regression.html#a33787a0c5ddbbeed61e6e557fb5e33ca", null ],
+      [ "getValues", "class_x_x_1_1_polynomial_1_1_regression.html#a0b1f3f29f6a1dac494cfe35a69b334bb", null ],
       [ "setValue", "class_x_x_1_1_polynomial_1_1_regression.html#a736adaebb3de2a68590a4fbe041a9759", null ],
       [ "size", "class_x_x_1_1_polynomial_1_1_regression.html#a3c627128e5ec9dc72497fa6943d0b4b2", null ]
     ] ],
@@ -186,6 +190,8 @@ var group___x_x_math =
       [ "getEnd", "class_x_x_1_1_polynomial_1_1_segment.html#a4c9e5c876a83df048dec5a64e005afeb", null ],
       [ "getLength", "class_x_x_1_1_polynomial_1_1_segment.html#afd7f7bc07fc56859de6d0b3e7208589c", null ],
       [ "getStart", "class_x_x_1_1_polynomial_1_1_segment.html#af72d2991b216769d7b01abbc3a64f700", null ],
+      [ "load", "class_x_x_1_1_polynomial_1_1_segment.html#a31c0324e99dcc77a794a1bc9dbb93281", null ],
+      [ "save", "class_x_x_1_1_polynomial_1_1_segment.html#a886ceeaf8ac7bf251be5739955ca0e49", null ],
       [ "setEnd", "class_x_x_1_1_polynomial_1_1_segment.html#a31591298e6f68fe90c3a714c9d12a28c", null ],
       [ "setStart", "class_x_x_1_1_polynomial_1_1_segment.html#af0de843cd0c5d42f53ab530e37609044", null ],
       [ "value", "class_x_x_1_1_polynomial_1_1_segment.html#a71f4fd1b652b2651e048ead9a284ca9c", null ],

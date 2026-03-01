@@ -23,7 +23,7 @@ var searchData=
   ['compilenextcloudpath_20',['compileNextCloudPath',['../class_x_x_1_1_file_tools.html#a95c66120d5e291962c3063c5ddc6e8dd',1,'XX::FileTools']]],
   ['compilepath_21',['compilePath',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_tree.html#a8b8a3fa25e42de084c672900ac09a4b3',1,'XX::Graph::Algorithm::Tree']]],
   ['compileresourcenames_22',['compileResourceNames',['../class_x_x_1_1_file_tools.html#ac40e82a82a73264e6d973c0531ceaa6b',1,'XX::FileTools']]],
-  ['compilesections_23',['compileSections',['../class_x_x_1_1_polynomial_1_1_regression.html#ae85bf31c5f07266d626c88e10e5ce208',1,'XX::Polynomial::Regression']]],
+  ['compilesections_23',['compileSections',['../class_x_x_1_1_polynomial_1_1_regression.html#a4251fad254ac7fad8c4dcefdf05b850e',1,'XX::Polynomial::Regression']]],
   ['compilesharedfilename_24',['compileSharedFileName',['../struct_x_x_1_1_shared.html#a547c5f6bdfd94637f3e2906a6145b6ed',1,'XX::Shared']]],
   ['compiletimestring_25',['CompileTimeString',['../struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210',1,'XX::CompileTimeString']]],
   ['compiletreeedges_26',['compileTreeEdges',['../class_x_x_1_1_graph_1_1_algorithm.html#a2041711bcda6d940944780118a8cb58f',1,'XX::Graph::Algorithm']]],

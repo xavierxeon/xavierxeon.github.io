@@ -8,6 +8,7 @@ var namespace_x_x =
     [ "Linalg", "namespace_x_x_1_1_linalg.html", "namespace_x_x_1_1_linalg" ],
     [ "Math", "namespace_x_x_1_1_math.html", [
       [ "deg2Rad", "namespace_x_x_1_1_math.html#af13d4d45b81a713c7ad5b650dc401b7a", null ],
+      [ "derivative", "namespace_x_x_1_1_math.html#a45a7d6aa7242f3518518fb7a417d1e7f", null ],
       [ "getNearestPowerOfTwo", "namespace_x_x_1_1_math.html#ac7bc0a0788e270833fd2360017b3c505", null ],
       [ "isPowerOfTwo", "namespace_x_x_1_1_math.html#aa233b663d7d4d9191228facf606b8d95", null ],
       [ "rad2Deg", "namespace_x_x_1_1_math.html#a0d9b169120ccbb564e199d099c31a64f", null ],

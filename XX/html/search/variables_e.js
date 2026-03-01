@@ -6,5 +6,6 @@ var searchData=
   ['sslsocket_3',['sslSocket',['../class_x_x_1_1_secure_network_1_1_socket.html#a02b20a3a99eb16a917bd0c8274c26c8e',1,'XX::SecureNetwork::Socket']]],
   ['start_4',['start',['../struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#adbb94615ec9e0ecc8cde2dcade557018',1,'XX::Polynomial::Regression::Section']]],
   ['statuscode_5',['statusCode',['../struct_x_x_1_1_rest_api_1_1_result_raw.html#a0f1b44937a8280acfb74a70af78a9efd',1,'XX::RestApi::ResultRaw']]],
-  ['successstatuscodes_6',['successStatusCodes',['../class_x_x_1_1_rest_api_1_1_blocking.html#ac44add257802480e9861ff356f3b32d4',1,'XX::RestApi::Blocking']]]
+  ['steady_6',['steady',['../struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a11b37c2f307e79ace7dbeeb39fedfefd',1,'XX::Polynomial::Regression::Section']]],
+  ['successstatuscodes_7',['successStatusCodes',['../class_x_x_1_1_rest_api_1_1_blocking.html#ac44add257802480e9861ff356f3b32d4',1,'XX::RestApi::Blocking']]]
 ];

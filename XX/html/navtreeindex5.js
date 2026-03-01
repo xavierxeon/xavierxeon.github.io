@@ -1,6 +1,13 @@
 var NAVTREEINDEX5 =
 {
-"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#adbb94615ec9e0ecc8cde2dcade557018":[0,6,10,0,2],
+"struct_x_x_1_1_network_1_1_tools.html":[0,8,3],
+"struct_x_x_1_1_network_1_1_tools.html#a0db0b073cb5a7d29c959614b6eb02c9f":[0,8,3,0],
+"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html":[0,6,10,0],
+"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a11b37c2f307e79ace7dbeeb39fedfefd":[0,6,10,0,4],
+"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a2224337e0b2a70e211a883614829b6a9":[0,6,10,0,0],
+"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a5b16d5c198208b990aa8463be8d9bf62":[0,6,10,0,1],
+"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a78cb4b23833b46578d89f9a9d6113afc":[0,6,10,0,2],
+"struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#adbb94615ec9e0ecc8cde2dcade557018":[0,6,10,0,3],
 "struct_x_x_1_1_qt_message_1_1_interceptor.html":[0,5,5],
 "struct_x_x_1_1_qt_message_1_1_interceptor.html#a127e3c2d2c5ff18e3b496d25d42cc504":[0,5,5,1],
 "struct_x_x_1_1_qt_message_1_1_interceptor.html#a36aa65a0803e3f84e32cd88ad2e29cae":[0,5,5,0],

@@ -6,7 +6,7 @@ var searchData=
   ['findedgeindex_3',['findEdgeIndex',['../class_x_x_1_1_graph.html#ac7e046285cd9adeff407eac4c1436434',1,'XX::Graph']]],
   ['finder_4',['Finder',['../class_x_x_1_1_range_1_1_finder.html#a8106b37cff031df543f8f5d5574dcfc4',1,'XX::Range::Finder::Finder()'],['../class_x_x_1_1_scale_1_1_finder.html#ab43a63b3a111cff00ed7f7483f9fe31e',1,'XX::Scale::Finder::Finder()']]],
   ['findvertexbyname_5',['findVertexByName',['../class_x_x_1_1_graph.html#ac356f958bb93247d1dd06b78bdbcef43',1,'XX::Graph']]],
-  ['fit_6',['fit',['../class_x_x_1_1_polynomial_1_1_regression.html#a6455e3234c4c018396628d6d54345a0c',1,'XX::Polynomial::Regression']]],
+  ['fit_6',['fit',['../class_x_x_1_1_polynomial_1_1_regression.html#a33787a0c5ddbbeed61e6e557fb5e33ca',1,'XX::Polynomial::Regression']]],
   ['fixsize_7',['fixSize',['../class_x_x_1_1_device_tools.html#a41013e3cc9a3759c3cecdd0277741e50',1,'XX::DeviceTools::fixSize(QQmlApplicationEngine *engine, const DeviceIdentifier &amp;deviceId)'],['../class_x_x_1_1_device_tools.html#af03fdbcf2ed9d8cad5d232e5f6adb206',1,'XX::DeviceTools::fixSize(QWindow *window, const DeviceIdentifier &amp;deviceId)']]],
   ['forceappmenubar_8',['forceAppMenuBar',['../struct_x_x_1_1_look.html#a693cc15e66f0c7ae151accd8b6103dd6',1,'XX::Look']]],
   ['forcedisplaymode_9',['forceDisplayMode',['../class_x_x_1_1_device_tools.html#a6a542f323b7d394c7101f6d9d850dc4c',1,'XX::DeviceTools']]],

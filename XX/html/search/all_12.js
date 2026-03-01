@@ -1,7 +1,7 @@
 var searchData=
 [
   ['samplerate_0',['sampleRate',['../struct_x_x_1_1_sample_1_1_meta.html#af702c3e7150d261740faa12d68f4850f',1,'XX::Sample::Meta']]],
-  ['save_1',['save',['../class_x_x_1_1_sample_1_1_abstract.html#a227d820caa50c0741362d50cf3f90274',1,'XX::Sample::Abstract::save()'],['../class_x_x_1_1_sample_1_1_wave.html#a7f93e3f70a7d1118b5509df5cb7ab029',1,'XX::Sample::Wave::save()'],['../class_x_x_1_1_sample_1_1_writer.html#abdeca7f05642354eaf1f0e0943425579',1,'XX::Sample::Writer::save()']]],
+  ['save_1',['save',['../class_x_x_1_1_sample_1_1_abstract.html#a227d820caa50c0741362d50cf3f90274',1,'XX::Sample::Abstract::save()'],['../class_x_x_1_1_sample_1_1_wave.html#a7f93e3f70a7d1118b5509df5cb7ab029',1,'XX::Sample::Wave::save()'],['../class_x_x_1_1_sample_1_1_writer.html#abdeca7f05642354eaf1f0e0943425579',1,'XX::Sample::Writer::save()'],['../class_x_x_1_1_polynomial.html#a18af5dd8736aa22ce530b7664a64e2fe',1,'XX::Polynomial::save()'],['../class_x_x_1_1_polynomial_1_1_segment.html#a886ceeaf8ac7bf251be5739955ca0e49',1,'XX::Polynomial::Segment::save()']]],
   ['saverefreshtoken_2',['saveRefreshToken',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a4beae8beb9d1ea746b03babd1cfe00e2',1,'XX::AuthProvider::OAuth']]],
   ['savewindowsettings_3',['saveWindowSettings',['../class_x_x_1_1_populated_1_1_main_window.html#aa4da6e1177e08842bc9a250404031515',1,'XX::Populated::MainWindow']]],
   ['scale_4',['Scale',['../class_x_x_1_1_scale.html',1,'XX']]],
@@ -97,14 +97,15 @@ var searchData=
   ['state_94',['State',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbf',1,'XX::AuthProvider::OAuth']]],
   ['statuscode_95',['statusCode',['../struct_x_x_1_1_rest_api_1_1_result_raw.html#a0f1b44937a8280acfb74a70af78a9efd',1,'XX::RestApi::ResultRaw']]],
   ['statusexception_96',['StatusException',['../class_x_x_1_1_rest_api_1_1_status_exception.html',1,'XX::RestApi::StatusException'],['../class_x_x_1_1_rest_api_1_1_status_exception.html#adc923ce601450516269d506f66a4f4db',1,'XX::RestApi::StatusException::StatusException(const Result &amp;result, const QUrl sourceUrl)'],['../class_x_x_1_1_rest_api_1_1_status_exception.html#af2b87c91f129cf084c95662f90ab3d3b',1,'XX::RestApi::StatusException::StatusException(int statusCode, const QUrl sourceUrl, const QJsonObject &amp;json=QJsonObject())']]],
-  ['stop_97',['Stop',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494',1,'XX::Midi::Stop'],['../group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481',1,'XX::Midi::Stop']]],
-  ['stream_98',['stream',['../class_x_x_1_1_log_file.html#af77b9c1c09819c1887a60e3e968277d1',1,'XX::LogFile::stream()'],['../namespace_x_x_1_1_logger.html#af0277cba47b9da7163b18a1a7a657d87',1,'XX::Logger::stream()']]],
-  ['streaming_99',['Streaming',['../group___streaming.html',1,'']]],
-  ['stretch_100',['stretch',['../class_x_x_1_1_rainbow_rectangle.html#aa8bf62f462aa818e34cd2f9aa7868b63',1,'XX::RainbowRectangle']]],
-  ['strip_101',['strip',['../class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a',1,'XX::FastFourierTransfrom']]],
-  ['successstatuscodes_102',['successStatusCodes',['../class_x_x_1_1_rest_api_1_1_blocking.html#ac44add257802480e9861ff356f3b32d4',1,'XX::RestApi::Blocking']]],
-  ['swap_103',['swap',['../class_x_x_1_1_double_buffer.html#a3d5b28c6e869456752a5818301097076',1,'XX::DoubleBuffer']]],
-  ['symbol_104',['symbol',['../struct_x_x_1_1_qt_message_1_1_interceptor.html#ace1ff10c4fc53189dca7c84edcd0568e',1,'XX::QtMessage::Interceptor']]],
-  ['sysexend_105',['SysExEnd',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1',1,'XX::Midi']]],
-  ['system_106',['System',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd',1,'XX::Midi']]]
+  ['steady_97',['steady',['../struct_x_x_1_1_polynomial_1_1_regression_1_1_section.html#a11b37c2f307e79ace7dbeeb39fedfefd',1,'XX::Polynomial::Regression::Section']]],
+  ['stop_98',['Stop',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7549538e0cec656a98e4a166ce0d2494',1,'XX::Midi::Stop'],['../group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4a11a755d598c0c417f9a36758c3da7481',1,'XX::Midi::Stop']]],
+  ['stream_99',['stream',['../class_x_x_1_1_log_file.html#af77b9c1c09819c1887a60e3e968277d1',1,'XX::LogFile::stream()'],['../namespace_x_x_1_1_logger.html#af0277cba47b9da7163b18a1a7a657d87',1,'XX::Logger::stream()']]],
+  ['streaming_100',['Streaming',['../group___streaming.html',1,'']]],
+  ['stretch_101',['stretch',['../class_x_x_1_1_rainbow_rectangle.html#aa8bf62f462aa818e34cd2f9aa7868b63',1,'XX::RainbowRectangle']]],
+  ['strip_102',['strip',['../class_x_x_1_1_fast_fourier_transfrom.html#a1770004a9f908fb338e4b4fb2be29d7a',1,'XX::FastFourierTransfrom']]],
+  ['successstatuscodes_103',['successStatusCodes',['../class_x_x_1_1_rest_api_1_1_blocking.html#ac44add257802480e9861ff356f3b32d4',1,'XX::RestApi::Blocking']]],
+  ['swap_104',['swap',['../class_x_x_1_1_double_buffer.html#a3d5b28c6e869456752a5818301097076',1,'XX::DoubleBuffer']]],
+  ['symbol_105',['symbol',['../struct_x_x_1_1_qt_message_1_1_interceptor.html#ace1ff10c4fc53189dca7c84edcd0568e',1,'XX::QtMessage::Interceptor']]],
+  ['sysexend_106',['SysExEnd',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642ac849154d402cd16e627c94f1169f7bf1',1,'XX::Midi']]],
+  ['system_107',['System',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a7950b3316b3417b414bcc6a36c4406fd',1,'XX::Midi']]]
 ];

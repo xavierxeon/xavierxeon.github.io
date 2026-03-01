@@ -8,7 +8,7 @@ var searchData=
   ['findedgeindex_5',['findEdgeIndex',['../class_x_x_1_1_graph.html#ac7e046285cd9adeff407eac4c1436434',1,'XX::Graph']]],
   ['finder_6',['Finder',['../class_x_x_1_1_range_1_1_finder.html',1,'XX::Range::Finder&lt; DataType &gt;'],['../class_x_x_1_1_scale_1_1_finder.html',1,'XX::Scale::Finder'],['../class_x_x_1_1_range_1_1_finder.html#a8106b37cff031df543f8f5d5574dcfc4',1,'XX::Range::Finder::Finder()'],['../class_x_x_1_1_scale_1_1_finder.html#ab43a63b3a111cff00ed7f7483f9fe31e',1,'XX::Scale::Finder::Finder()']]],
   ['findvertexbyname_7',['findVertexByName',['../class_x_x_1_1_graph.html#ac356f958bb93247d1dd06b78bdbcef43',1,'XX::Graph']]],
-  ['fit_8',['fit',['../class_x_x_1_1_polynomial_1_1_regression.html#a6455e3234c4c018396628d6d54345a0c',1,'XX::Polynomial::Regression']]],
+  ['fit_8',['fit',['../class_x_x_1_1_polynomial_1_1_regression.html#a33787a0c5ddbbeed61e6e557fb5e33ca',1,'XX::Polynomial::Regression']]],
   ['fixsize_9',['fixSize',['../class_x_x_1_1_device_tools.html#a41013e3cc9a3759c3cecdd0277741e50',1,'XX::DeviceTools::fixSize(QQmlApplicationEngine *engine, const DeviceIdentifier &amp;deviceId)'],['../class_x_x_1_1_device_tools.html#af03fdbcf2ed9d8cad5d232e5f6adb206',1,'XX::DeviceTools::fixSize(QWindow *window, const DeviceIdentifier &amp;deviceId)']]],
   ['flamecc_10',['FlameCC',['../group___x_x_music.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0ea64d67dfb8757445832873ef303f04358',1,'XX::Midi::Device']]],
   ['flatsymbol_11',['flatSymbol',['../class_x_x_1_1_note.html#a8cf054a69d561889c8d75484138d5163',1,'XX::Note']]],
