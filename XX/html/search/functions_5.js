@@ -17,5 +17,6 @@ var searchData=
   ['frommidi_14',['fromMidi',['../class_x_x_1_1_note.html#ac2d81a97a84865fbfa15d84843f1bee0',1,'XX::Note']]],
   ['fromspherical_15',['fromSpherical',['../class_x_x_1_1_linalg_1_1_vector3.html#a8c6a19ad5ba88989b2f301b78471145a',1,'XX::Linalg::Vector3']]],
   ['fromtick_16',['fromTick',['../class_x_x_1_1_midi_1_1_sequence.html#a872ae867623bc50ce7ba5715c4824fcb',1,'XX::Midi::Sequence']]],
-  ['fromvoltage_17',['fromVoltage',['../class_x_x_1_1_note.html#a778634193466602a3cdc909128cabe60',1,'XX::Note']]]
+  ['fromvalue_17',['fromValue',['../class_x_x_1_1_note.html#a332b4979479bcefa47a33e434843dcd6',1,'XX::Note']]],
+  ['fromvoltage_18',['fromVoltage',['../class_x_x_1_1_note.html#a778634193466602a3cdc909128cabe60',1,'XX::Note']]]
 ];

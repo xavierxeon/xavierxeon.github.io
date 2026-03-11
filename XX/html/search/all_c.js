@@ -8,7 +8,7 @@ var searchData=
   ['mapper_5',['Mapper',['../class_x_x_1_1_range_1_1_mapper.html',1,'XX::Range::Mapper'],['../class_x_x_1_1_range_1_1_mapper.html#a04dbd3f4d76f43bc013fc03e40febf5e',1,'XX::Range::Mapper::Mapper()']]],
   ['marker_6',['Marker',['../group___x_x_music.html#gga18cd02eb3b8339a104b37ec426b22c1bad502f21d30370b33464ceb799855d95f',1,'XX::Midi']]],
   ['math_7',['Math',['../group___x_x_math.html',1,'']]],
-  ['matrix_8',['Matrix',['../class_x_x_1_1_linalg_1_1_matrix.html',1,'XX::Linalg::Matrix'],['../class_x_x_1_1_matrix.html',1,'XX::Matrix&lt; DataType &gt;'],['../class_x_x_1_1_matrix.html#aae18e04c9cd6d24921ebd9f9dadabddd',1,'XX::Matrix::Matrix()'],['../class_x_x_1_1_linalg_1_1_matrix.html#ac7c40716c255adf010a94b0a1590c21c',1,'XX::Linalg::Matrix::Matrix()']]],
+  ['matrix_8',['Matrix',['../class_x_x_1_1_linalg_1_1_matrix.html',1,'XX::Linalg::Matrix'],['../class_x_x_1_1_linalg_1_1_matrix.html#ac7c40716c255adf010a94b0a1590c21c',1,'XX::Linalg::Matrix::Matrix()']]],
   ['max_9',['max',['../class_x_x_1_1_range_1_1_finder.html#afa60014f3fd1684156a3cae2c2322fef',1,'XX::Range::Finder::max()'],['../group___functions.html#gaf84b02e7fe0819b697de6cdfbe73d6bf',1,'XX::Range::max()']]],
   ['maxduration_10',['maxDuration',['../class_x_x_1_1_time_code.html#aa938e7eac8e6ea3274f1e797a56c985c',1,'XX::TimeCode']]],
   ['maxnoteindex_11',['maxNoteIndex',['../class_x_x_1_1_note.html#ac463f299541a4b8cd76a43c14b37cbc4',1,'XX::Note']]],

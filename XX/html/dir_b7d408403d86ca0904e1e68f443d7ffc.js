@@ -1,6 +1,7 @@
 var dir_b7d408403d86ca0904e1e68f443d7ffc =
 [
     [ "XXByteConversion.h", "_x_x_byte_conversion_8h.html", null ],
+    [ "XXByteFours.h", "_x_x_byte_fours_8h.html", "_x_x_byte_fours_8h" ],
     [ "XXCoreExportDef.h", "_x_x_core_export_def_8h.html", "_x_x_core_export_def_8h" ],
     [ "XXDataStore.h", "_x_x_data_store_8h.html", null ],
     [ "XXFileTools.h", "_x_x_file_tools_8h.html", null ],

@@ -16,12 +16,13 @@ var searchData=
   ['advanceplayhead_13',['advancePlayhead',['../class_x_x_1_1_sample_1_1_reader.html#aed33be81fe882a0623d79b9865d937b3',1,'XX::Sample::Reader']]],
   ['algorithm_14',['Algorithm',['../class_x_x_1_1_graph_1_1_algorithm.html#a044c7d20748fb2fade6c59f41588900d',1,'XX::Graph::Algorithm']]],
   ['append_15',['append',['../class_x_x_1_1_sample_1_1_writer.html#ad4e9b1ebbc338cfb3feefacc4e863a42',1,'XX::Sample::Writer']]],
-  ['appendrow_16',['appendRow',['../class_x_x_1_1_matrix.html#a48721dfb127120a640601168bac7a35f',1,'XX::Matrix']]],
+  ['appendrow_16',['appendRow',['../class_x_x_1_1_array2_d.html#a4686a6e66711e6e13cff1fb34f0298b8',1,'XX::Array2D']]],
   ['appendtimestamptofilename_17',['appendTimeStampToFileName',['../struct_x_x_1_1_log_file_base.html#acc70b7b6a3a34ac5d2facf0f076b7d96',1,'XX::LogFileBase']]],
   ['apply_18',['apply',['../class_x_x_1_1_tab_stack_1_1_model.html#a374aa7a50efc0b664c410899942c2412',1,'XX::TabStack::Model']]],
   ['applystlyesheet_19',['applyStlyeSheet',['../struct_x_x_1_1_look.html#a78904bc6bd709a85fcd652c60d77e4ee',1,'XX::Look']]],
   ['appname_20',['appName',['../struct_x_x_1_1_shared.html#a6a244cb2863dfac84057a355a5e53b03',1,'XX::Shared']]],
-  ['async_21',['Async',['../class_x_x_1_1_rest_api_1_1_async.html#a4fa2d348e5ab17303fdf3aa31a84f24d',1,'XX::RestApi::Async']]],
-  ['atend_22',['atEnd',['../class_x_x_1_1_sample_1_1_reader.html#a547bd08b3c319c2005e1f32dda748a78',1,'XX::Sample::Reader']]],
-  ['authorizeuser_23',['authorizeUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a6bb4d060ec3204697b086f6df0dee7f3',1,'XX::AuthProvider::OAuth']]]
+  ['array2d_21',['Array2D',['../class_x_x_1_1_array2_d.html#ae4fb0b0559ae609c3fc5208f85c176e5',1,'XX::Array2D']]],
+  ['async_22',['Async',['../class_x_x_1_1_rest_api_1_1_async.html#a4fa2d348e5ab17303fdf3aa31a84f24d',1,'XX::RestApi::Async']]],
+  ['atend_23',['atEnd',['../class_x_x_1_1_sample_1_1_reader.html#a547bd08b3c319c2005e1f32dda748a78',1,'XX::Sample::Reader']]],
+  ['authorizeuser_24',['authorizeUser',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a6bb4d060ec3204697b086f6df0dee7f3',1,'XX::AuthProvider::OAuth']]]
 ];

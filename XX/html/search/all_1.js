@@ -23,6 +23,7 @@ var searchData=
   ['bury_20',['bury',['../class_x_x_1_1_shallow_crypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5',1,'XX::ShallowCrypt']]],
   ['busycursor_21',['BusyCursor',['../class_x_x_1_1_busy_cursor.html',1,'XX::BusyCursor'],['../class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0',1,'XX::BusyCursor::BusyCursor()']]],
   ['byteconversion_22',['ByteConversion',['../class_x_x_1_1_byte_conversion.html',1,'XX']]],
-  ['bytes_23',['Bytes',['../group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b',1,'XX']]],
-  ['bytes_24',['bytes',['../class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]]
+  ['bytefours_23',['ByteFours',['../class_x_x_1_1_byte_fours.html',1,'XX::ByteFours'],['../class_x_x_1_1_byte_fours.html#a647d38a569b61fa6531ac38a0427397e',1,'XX::ByteFours::ByteFours(FoursValue a, FoursValue b, FoursValue c, FoursValue d)'],['../class_x_x_1_1_byte_fours.html#adf686218f1f93195b915197871bd52f0',1,'XX::ByteFours::ByteFours(uint8_t byte=0)']]],
+  ['bytes_24',['Bytes',['../group___x_x_music.html#gabbb40212d748e2392ad5e7e290a31e9b',1,'XX']]],
+  ['bytes_25',['bytes',['../class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]]
 ];

@@ -17,6 +17,7 @@ var hierarchy =
     [ "XX::AuthProvider::OAuth::BlockState", "class_x_x_1_1_auth_provider_1_1_o_auth_1_1_block_state.html", null ],
     [ "XX::BusyCursor", "class_x_x_1_1_busy_cursor.html", null ],
     [ "XX::ByteConversion&lt; DataType &gt;", "class_x_x_1_1_byte_conversion.html", null ],
+    [ "XX::ByteFours", "class_x_x_1_1_byte_fours.html", null ],
     [ "XX::Linalg::Matrix::Cell", "struct_x_x_1_1_linalg_1_1_matrix_1_1_cell.html", null ],
     [ "XX::ColorSpace", "class_x_x_1_1_color_space.html", null ],
     [ "XX::CompileTimeString&lt; N &gt;", "struct_x_x_1_1_compile_time_string.html", null ],
@@ -171,7 +172,7 @@ var hierarchy =
     [ "XX::Graph::Algorithm::TreeEdges", "struct_x_x_1_1_graph_1_1_algorithm_1_1_tree_edges.html", null ],
     [ "XX::Midi::Variables", "struct_x_x_1_1_midi_1_1_variables.html", null ],
     [ "std::vector", null, [
-      [ "XX::Matrix< DataType >", "class_x_x_1_1_matrix.html", null ]
+      [ "XX::Array2D< DataType >", "class_x_x_1_1_array2_d.html", null ]
     ] ],
     [ "XX::Linalg::Vector3", "class_x_x_1_1_linalg_1_1_vector3.html", null ],
     [ "XX::Graph::Vertex", "class_x_x_1_1_graph_1_1_vertex.html", null ],

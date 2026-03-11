@@ -47,7 +47,7 @@ var searchData=
   ['complexdata_44',['ComplexData',['../class_x_x_1_1_fast_fourier_transfrom.html#ab20ddf96a55e9d61046e2e3324ba638d',1,'XX::FastFourierTransfrom']]],
   ['complextype_45',['ComplexType',['../class_x_x_1_1_fast_fourier_transfrom.html#a1c50f62cfca79847c2562fcb995b58f2',1,'XX::FastFourierTransfrom']]],
   ['connecttohost_46',['connectToHost',['../class_x_x_1_1_secure_network_1_1_client.html#a6047341f276ece823f737b4753f8e424',1,'XX::SecureNetwork::Client']]],
-  ['contentupdated_47',['contentUpdated',['../class_x_x_1_1_logger_model.html#a2823420dd1c32841223fc9bdb991b0da',1,'XX::LoggerModel']]],
+  ['contentupdated_47',['contentUpdated',['../class_x_x_1_1_logger_model.html#a2823420dd1c32841223fc9bdb991b0da',1,'XX::LoggerModel::contentUpdated()'],['../class_x_x_1_1_qt_message_1_1_model.html#a6eee3e1e6f2ddbbe5037a95c6b1a5c3b',1,'XX::QtMessage::Model::contentUpdated()']]],
   ['continue_48',['Continue',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a422811fa5573b03b58f1b5a424d1d89f',1,'XX::Midi::Continue'],['../group___x_x_music.html#gga4907018c2d5df785a36a3593fae4b1b4aa0bfb8e59e6c13fc8d990781f77694fe',1,'XX::Midi::Continue']]],
   ['controlchange_49',['ControlChange',['../group___x_x_music.html#ggaa8ece5ab9c5517636399c072b1177642a1908bc562f683c474c21048b9da08eee',1,'XX::Midi']]],
   ['controllerchange_50',['controllerChange',['../class_x_x_1_1_midi_1_1_parser.html#a5636f231db8ab4a8c71a19de48971bfa',1,'XX::Midi::Parser']]],

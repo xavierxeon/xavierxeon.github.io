@@ -111,27 +111,31 @@ $(function(){initNavTree('_x_x_qt_message_model_8h_source.html','',''); });
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno"><a class="line" href="class_x_x_1_1_qt_message_1_1_model.html#a6c8de050d996c1423ee34bb3fc4cd7a2">   19</a></span>         <a class="code hl_function" href="class_x_x_1_1_qt_message_1_1_model.html#a6c8de050d996c1423ee34bb3fc4cd7a2">Model</a>(QObject* parent, <span class="keywordtype">int</span> maxLines = -1);</div>
 <div class="line"><a id="l00020" name="l00020"></a><span class="lineno"><a class="line" href="class_x_x_1_1_qt_message_1_1_model.html#adb41ff441344a424a164b9f35d805b5e">   20</a></span>         <a class="code hl_function" href="class_x_x_1_1_qt_message_1_1_model.html#adb41ff441344a424a164b9f35d805b5e">~Model</a>();</div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>      <span class="keyword">private</span>:</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>         <span class="keyword">enum</span> Roles</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>         {</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>            RoleText = Qt::UserRole + 1,</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>            RoleIcon</div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>         };</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span> </div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>      <span class="keyword">private</span>:</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>         <span class="keywordtype">void</span> outputMessage(QtMsgType type, <span class="keyword">const</span> QMessageLogContext&amp; context, <span class="keyword">const</span> QString&amp; msg);</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>      signals:</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno"><a class="line" href="class_x_x_1_1_qt_message_1_1_model.html#a6eee3e1e6f2ddbbe5037a95c6b1a5c3b">   23</a></span>         <span class="keywordtype">void</span> <a class="code hl_signal" href="class_x_x_1_1_qt_message_1_1_model.html#a6eee3e1e6f2ddbbe5037a95c6b1a5c3b">contentUpdated</a>();</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>      <span class="keyword">private</span>:</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>         <span class="keyword">enum</span> Roles</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>         {</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>            RoleText = Qt::UserRole + 1,</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>            RoleIcon</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>         };</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span> </div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>      <span class="keyword">private</span>:</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>         <span class="keyword">const</span> <span class="keywordtype">int</span> maxLines;</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>      };</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>         <span class="keywordtype">void</span> outputMessage(QtMsgType type, <span class="keyword">const</span> QMessageLogContext&amp; context, <span class="keyword">const</span> QString&amp; msg);</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>      <span class="keyword">private</span>:</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>         <span class="keyword">const</span> <span class="keywordtype">int</span> maxLines;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>      };</div>
 </div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>   } <span class="comment">// namespace QtMessage</span></div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>} <span class="comment">// namespace XX</span></div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span> </div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span><span class="preprocessor">#endif </span><span class="comment">// NOT XXQtMessageModelH</span></div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>   } <span class="comment">// namespace QtMessage</span></div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>} <span class="comment">// namespace XX</span></div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span><span class="preprocessor">#endif </span><span class="comment">// NOT XXQtMessageModelH</span></div>
 <div class="ttc" id="a_x_x_log_export_def_8h_html"><div class="ttname"><a href="_x_x_log_export_def_8h.html">XXLogExportDef.h</a></div></div>
 <div class="ttc" id="a_x_x_log_export_def_8h_html_aaacb6d58a6268ac062ed92b558db84ea"><div class="ttname"><a href="_x_x_log_export_def_8h.html#aaacb6d58a6268ac062ed92b558db84ea">XXLOG_DECLSPEC</a></div><div class="ttdeci">#define XXLOG_DECLSPEC</div><div class="ttdef"><b>Definition</b> XXLogExportDef.h:11</div></div>
 <div class="ttc" id="aclass_x_x_1_1_qt_message_1_1_model_html_a6c8de050d996c1423ee34bb3fc4cd7a2"><div class="ttname"><a href="class_x_x_1_1_qt_message_1_1_model.html#a6c8de050d996c1423ee34bb3fc4cd7a2">XX::QtMessage::Model::Model</a></div><div class="ttdeci">Model(QObject *parent, int maxLines=-1)</div></div>
+<div class="ttc" id="aclass_x_x_1_1_qt_message_1_1_model_html_a6eee3e1e6f2ddbbe5037a95c6b1a5c3b"><div class="ttname"><a href="class_x_x_1_1_qt_message_1_1_model.html#a6eee3e1e6f2ddbbe5037a95c6b1a5c3b">XX::QtMessage::Model::contentUpdated</a></div><div class="ttdeci">void contentUpdated()</div></div>
 <div class="ttc" id="aclass_x_x_1_1_qt_message_1_1_model_html_adb41ff441344a424a164b9f35d805b5e"><div class="ttname"><a href="class_x_x_1_1_qt_message_1_1_model.html#adb41ff441344a424a164b9f35d805b5e">XX::QtMessage::Model::~Model</a></div><div class="ttdeci">~Model()</div></div>
 <div class="ttc" id="anamespace_x_x_1_1_qt_message_html"><div class="ttname"><a href="namespace_x_x_1_1_qt_message.html">XX::QtMessage</a></div><div class="ttdef"><b>Definition</b> XXQtMessageDocument.h:12</div></div>
 <div class="ttc" id="anamespace_x_x_html"><div class="ttname"><a href="namespace_x_x.html">XX</a></div><div class="ttdef"><b>Definition</b> XXPopulatedAbstract.h:11</div></div>

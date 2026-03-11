@@ -21,7 +21,7 @@ var searchData=
   ['rememberrequest_18',['RememberRequest',['../group___x_x_music.html#gga0bdc0a7397c27b212f13e10448181cf5a5c5f37e6521748230ff49355055c2cd0',1,'XX::Midi']]],
   ['removeedge_19',['removeEdge',['../class_x_x_1_1_graph.html#af39818d41a60badf2d0ac140bdadc003',1,'XX::Graph']]],
   ['removefirstbit_20',['removeFirstBit',['../group___x_x_music.html#ga7e955af924f02d22eb97ce77c856e519',1,'XX::Midi']]],
-  ['removerow_21',['removeRow',['../class_x_x_1_1_matrix.html#abd38782becbd834f51b2a8881928dcd5',1,'XX::Matrix']]],
+  ['removerow_21',['removeRow',['../class_x_x_1_1_array2_d.html#a647ff11ef6295367bd306f639face7fd',1,'XX::Array2D']]],
   ['removesocket_22',['removeSocket',['../class_x_x_1_1_secure_network_1_1_server.html#adcf01b5b4ccf4609da29e719ea3cec2e',1,'XX::SecureNetwork::Server']]],
   ['removevertex_23',['removeVertex',['../class_x_x_1_1_graph.html#a979f8f9848eaaf063d0248635ed19089',1,'XX::Graph']]],
   ['reorder_24',['reOrder',['../class_x_x_1_1_tab_stack_1_1_model.html#abbfe5c1855cfbcf19dbc6671e2b502e1',1,'XX::TabStack::Model']]],

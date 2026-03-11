@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['metaevent_0',['MetaEvent',['../group___x_x_music.html#ga18cd02eb3b8339a104b37ec426b22c1b',1,'XX::Midi']]]
+  ['foursvalue_0',['FoursValue',['../class_x_x_1_1_byte_fours.html#a07bacbae1766a243349dfb9ac0f0ef6d',1,'XX::ByteFours']]]
 ];

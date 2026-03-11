@@ -28,7 +28,7 @@ var searchData=
   ['compiletimestring_25',['CompileTimeString',['../struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210',1,'XX::CompileTimeString']]],
   ['compiletreeedges_26',['compileTreeEdges',['../class_x_x_1_1_graph_1_1_algorithm.html#a2041711bcda6d940944780118a8cb58f',1,'XX::Graph::Algorithm']]],
   ['connecttohost_27',['connectToHost',['../class_x_x_1_1_secure_network_1_1_client.html#a6047341f276ece823f737b4753f8e424',1,'XX::SecureNetwork::Client']]],
-  ['contentupdated_28',['contentUpdated',['../class_x_x_1_1_logger_model.html#a2823420dd1c32841223fc9bdb991b0da',1,'XX::LoggerModel']]],
+  ['contentupdated_28',['contentUpdated',['../class_x_x_1_1_logger_model.html#a2823420dd1c32841223fc9bdb991b0da',1,'XX::LoggerModel::contentUpdated()'],['../class_x_x_1_1_qt_message_1_1_model.html#a6eee3e1e6f2ddbbe5037a95c6b1a5c3b',1,'XX::QtMessage::Model::contentUpdated()']]],
   ['controllerchange_29',['controllerChange',['../class_x_x_1_1_midi_1_1_parser.html#a5636f231db8ab4a8c71a19de48971bfa',1,'XX::Midi::Parser']]],
   ['createpopupmenu_30',['createPopupMenu',['../class_x_x_1_1_populated_1_1_main_window.html#ac12946bb189d312877ea5a27dd82038a',1,'XX::Populated::MainWindow']]],
   ['createrequest_31',['createRequest',['../class_x_x_1_1_rest_api_1_1_blocking.html#a5d3fb1096cf355dc39162dad126d9f7e',1,'XX::RestApi::Blocking']]],

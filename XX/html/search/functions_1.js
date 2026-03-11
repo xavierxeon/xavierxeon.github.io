@@ -6,5 +6,6 @@ var searchData=
   ['breadthfirst_3',['breadthFirst',['../class_x_x_1_1_graph_1_1_algorithm.html#ad3774b58069b5c2be49c04b922b5f5f4',1,'XX::Graph::Algorithm']]],
   ['bundle_4',['Bundle',['../class_x_x_1_1_polynomial_1_1_segment_1_1_bundle.html#a7d7ec520f86324dcf5404c224e622fc0',1,'XX::Polynomial::Segment::Bundle']]],
   ['bury_5',['bury',['../class_x_x_1_1_shallow_crypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5',1,'XX::ShallowCrypt']]],
-  ['busycursor_6',['BusyCursor',['../class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0',1,'XX::BusyCursor']]]
+  ['busycursor_6',['BusyCursor',['../class_x_x_1_1_busy_cursor.html#a78aecc5c31886d71712c9a75aea9acd0',1,'XX::BusyCursor']]],
+  ['bytefours_7',['ByteFours',['../class_x_x_1_1_byte_fours.html#a647d38a569b61fa6531ac38a0427397e',1,'XX::ByteFours::ByteFours(FoursValue a, FoursValue b, FoursValue c, FoursValue d)'],['../class_x_x_1_1_byte_fours.html#adf686218f1f93195b915197871bd52f0',1,'XX::ByteFours::ByteFours(uint8_t byte=0)']]]
 ];

@@ -6,6 +6,21 @@ var group___x_x_core =
       [ "bytes", "class_x_x_1_1_byte_conversion.html#a5732bfa0aa279345e5d140714c802ba9", null ],
       [ "value", "class_x_x_1_1_byte_conversion.html#ae9429928fccc73aafc0d2aaf7e2b6779", null ]
     ] ],
+    [ "XX::ByteFours", "class_x_x_1_1_byte_fours.html", [
+      [ "FoursValue", "class_x_x_1_1_byte_fours.html#a07bacbae1766a243349dfb9ac0f0ef6d", [
+        [ "O", "class_x_x_1_1_byte_fours.html#a07bacbae1766a243349dfb9ac0f0ef6da738c2769f0ee25033475fcf902e10a8d", null ],
+        [ "I", "class_x_x_1_1_byte_fours.html#a07bacbae1766a243349dfb9ac0f0ef6da253fdcf9245e1777a634a4f39c857813", null ],
+        [ "Z", "class_x_x_1_1_byte_fours.html#a07bacbae1766a243349dfb9ac0f0ef6daa3a0058146a5040aa971d03b78b9c792", null ],
+        [ "T", "class_x_x_1_1_byte_fours.html#a07bacbae1766a243349dfb9ac0f0ef6dac044a7bd1da51385d2206d16b5f3cfe1", null ]
+      ] ],
+      [ "ByteFours", "class_x_x_1_1_byte_fours.html#a647d38a569b61fa6531ac38a0427397e", null ],
+      [ "ByteFours", "class_x_x_1_1_byte_fours.html#adf686218f1f93195b915197871bd52f0", null ],
+      [ "operator uint8_t", "class_x_x_1_1_byte_fours.html#a69049bfa1faf1fbe82f7ae509e5727a3", null ],
+      [ "toString", "class_x_x_1_1_byte_fours.html#a43c74fc6f86bca28ec7f89cef82ebd57", null ],
+      [ "value", "class_x_x_1_1_byte_fours.html#a30e7d4287ec9931f2e0bb54b419b9043", null ],
+      [ "operator<<", "class_x_x_1_1_byte_fours.html#a1f2a9da0715fb13be1039b622adbddff", null ],
+      [ "operator<<", "class_x_x_1_1_byte_fours.html#a7d50f52b02641684503609bd76038fa6", null ]
+    ] ],
     [ "XX::DataStore", "class_x_x_1_1_data_store.html", [
       [ "getPath", "class_x_x_1_1_data_store.html#a987c888aa43092cdc36c81448452c870", null ],
       [ "setPath", "class_x_x_1_1_data_store.html#a2c5f1d698d2d202b60c9fbce4f7b3789", null ]
@@ -14,6 +29,7 @@ var group___x_x_core =
       [ "compileDropboxPath", "class_x_x_1_1_file_tools.html#a012e62ff638b043f454dcc416e724519", null ],
       [ "compileNextCloudPath", "class_x_x_1_1_file_tools.html#a95c66120d5e291962c3063c5ddc6e8dd", null ],
       [ "compileResourceNames", "class_x_x_1_1_file_tools.html#ac40e82a82a73264e6d973c0531ceaa6b", null ],
+      [ "initFileSystem", "class_x_x_1_1_file_tools.html#a97b642ad26afc4ec791669f87c614e13", null ],
       [ "openVSCode", "class_x_x_1_1_file_tools.html#acbab3ec2654b58bd6f2626bd8ebcfeea", null ],
       [ "openVSCode", "class_x_x_1_1_file_tools.html#a79a567981eaf1df69689132e2c1448a2", null ],
       [ "parseBytes", "class_x_x_1_1_file_tools.html#a59dbd1bf65d3fca683ed8723624c89b4", null ],

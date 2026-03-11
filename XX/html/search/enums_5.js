@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['state_0',['State',['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a08cd7cffcc297380148e3219ec079cbf',1,'XX::AuthProvider::OAuth']]]
+  ['playback_0',['Playback',['../group___x_x_music.html#ga4907018c2d5df785a36a3593fae4b1b4',1,'XX::Midi']]]
 ];

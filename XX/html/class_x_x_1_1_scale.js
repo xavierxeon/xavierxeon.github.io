@@ -7,6 +7,7 @@ var class_x_x_1_1_scale =
     [ "getActiveKeys", "class_x_x_1_1_scale.html#abaa8660a4ce00a47a6f7ca0972cae3e2", null ],
     [ "getList", "class_x_x_1_1_scale.html#a1f1d28a138bc2e9c6b93eda9558980d6", null ],
     [ "getMajorName", "class_x_x_1_1_scale.html#aae0aef4db4207d6c51591ad821df1c37", null ],
+    [ "getMajorNote", "class_x_x_1_1_scale.html#a901b60a5204903480dd418838f223d26", null ],
     [ "getMinorName", "class_x_x_1_1_scale.html#ad61ba9a2339df9d5a6eb513988d8a12e", null ],
     [ "getOffset", "class_x_x_1_1_scale.html#ad0d6f8e44e48311f78a667df6cd9efea", null ],
     [ "getScaleByName", "class_x_x_1_1_scale.html#a0846d686f4b8dbb17ca361f145c8ca54", null ],

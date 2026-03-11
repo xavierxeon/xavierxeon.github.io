@@ -3,6 +3,12 @@ var group___x_x_cpp =
     [ "CompilerTests", "group___compiler_tests.html", "group___compiler_tests" ],
     [ "Functions", "group___functions.html", "group___functions" ],
     [ "XX::Function::CallerClass", "concept_x_x_1_1_function_1_1_caller_class.html", null ],
+    [ "XX::Array2D&lt; DataType &gt;", "class_x_x_1_1_array2_d.html", [
+      [ "Array2D", "class_x_x_1_1_array2_d.html#ae4fb0b0559ae609c3fc5208f85c176e5", null ],
+      [ "appendRow", "class_x_x_1_1_array2_d.html#a4686a6e66711e6e13cff1fb34f0298b8", null ],
+      [ "getSize", "class_x_x_1_1_array2_d.html#a70e9b65809a2ee56654f63cf694b8bc4", null ],
+      [ "removeRow", "class_x_x_1_1_array2_d.html#a647ff11ef6295367bd306f639face7fd", null ]
+    ] ],
     [ "XX::CompileTimeString&lt; N &gt;", "struct_x_x_1_1_compile_time_string.html", [
       [ "CompileTimeString", "struct_x_x_1_1_compile_time_string.html#a2318e049a46d3023860de67006024210", null ],
       [ "text", "struct_x_x_1_1_compile_time_string.html#a7cd8976ba09b96dc5aac5fc40205dc2b", null ],
@@ -27,12 +33,6 @@ var group___x_x_cpp =
       [ "~Locker", "class_x_x_1_1_locker.html#aee05c0109af2094065f9ae143307f3be", null ],
       [ "doOnce", "class_x_x_1_1_locker.html#aa5f9d26833c872053c360f2f3ca4f2c4", null ],
       [ "engaged", "class_x_x_1_1_locker.html#a8fd4e4c89506ecd1d29ae42bff4b98b4", null ]
-    ] ],
-    [ "XX::Matrix&lt; DataType &gt;", "class_x_x_1_1_matrix.html", [
-      [ "Matrix", "class_x_x_1_1_matrix.html#aae18e04c9cd6d24921ebd9f9dadabddd", null ],
-      [ "appendRow", "class_x_x_1_1_matrix.html#a48721dfb127120a640601168bac7a35f", null ],
-      [ "getSize", "class_x_x_1_1_matrix.html#a4b88f9ce3da06bc3df4e0872fa9df239", null ],
-      [ "removeRow", "class_x_x_1_1_matrix.html#abd38782becbd834f51b2a8881928dcd5", null ]
     ] ],
     [ "XX::Range::Finder&lt; DataType &gt;", "class_x_x_1_1_range_1_1_finder.html", [
       [ "Finder", "class_x_x_1_1_range_1_1_finder.html#a8106b37cff031df543f8f5d5574dcfc4", null ],

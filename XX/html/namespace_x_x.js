@@ -27,6 +27,7 @@ var namespace_x_x =
     [ "FastFourierTransfrom", "class_x_x_1_1_fast_fourier_transfrom.html", "class_x_x_1_1_fast_fourier_transfrom" ],
     [ "Spectrogram", "class_x_x_1_1_spectrogram.html", "class_x_x_1_1_spectrogram" ],
     [ "ByteConversion", "class_x_x_1_1_byte_conversion.html", "class_x_x_1_1_byte_conversion" ],
+    [ "ByteFours", "class_x_x_1_1_byte_fours.html", "class_x_x_1_1_byte_fours" ],
     [ "DataStore", "class_x_x_1_1_data_store.html", "class_x_x_1_1_data_store" ],
     [ "FileTools", "class_x_x_1_1_file_tools.html", "class_x_x_1_1_file_tools" ],
     [ "Info", "struct_x_x_1_1_info.html", "struct_x_x_1_1_info" ],
@@ -35,10 +36,10 @@ var namespace_x_x =
     [ "SharedData", "class_x_x_1_1_shared_data.html", "class_x_x_1_1_shared_data" ],
     [ "ShellClient", "class_x_x_1_1_shell_client.html", "class_x_x_1_1_shell_client" ],
     [ "Singleton", "class_x_x_1_1_singleton.html", "class_x_x_1_1_singleton" ],
+    [ "Array2D", "class_x_x_1_1_array2_d.html", "class_x_x_1_1_array2_d" ],
     [ "CompileTimeString", "struct_x_x_1_1_compile_time_string.html", "struct_x_x_1_1_compile_time_string" ],
     [ "DoubleBuffer", "class_x_x_1_1_double_buffer.html", "class_x_x_1_1_double_buffer" ],
     [ "Locker", "class_x_x_1_1_locker.html", "class_x_x_1_1_locker" ],
-    [ "Matrix", "class_x_x_1_1_matrix.html", "class_x_x_1_1_matrix" ],
     [ "Range", "struct_x_x_1_1_range.html", "struct_x_x_1_1_range" ],
     [ "Size", "struct_x_x_1_1_size.html", "struct_x_x_1_1_size" ],
     [ "BusyCursor", "class_x_x_1_1_busy_cursor.html", "class_x_x_1_1_busy_cursor" ],
@@ -68,6 +69,8 @@ var namespace_x_x =
     [ "isSigned", "group___compiler_tests.html#ga785bbb775cb5374c07d3ad7958625aa6", null ],
     [ "isUnsigned", "group___compiler_tests.html#ga16f8071a2bec7511e9524ddffba58f95", null ],
     [ "operator<<", "group___x_x_music.html#ga296f233be1769cc07840d3e20c833544", null ],
+    [ "operator<<", "namespace_x_x.html#a8105e0e22a7257b7d0b091df762d9143", null ],
     [ "operator<<", "group___streaming.html#ga916932c4d0bbef192be114bc39be9225", null ],
-    [ "operator<<", "group___streaming.html#gabc4d25eda12a98ea4c41041b78f60336", null ]
+    [ "operator<<", "group___streaming.html#gabc4d25eda12a98ea4c41041b78f60336", null ],
+    [ "operator<<", "namespace_x_x.html#a827e48a9b2af0364ed87e64a9475b7cf", null ]
 ];

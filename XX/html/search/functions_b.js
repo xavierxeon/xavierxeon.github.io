@@ -3,7 +3,7 @@ var searchData=
   ['mainwidget_0',['MainWidget',['../class_x_x_1_1_populated_1_1_main_widget.html#a30cdb66feac8f461bdc5009616d0ce2d',1,'XX::Populated::MainWidget']]],
   ['mainwindow_1',['MainWindow',['../class_x_x_1_1_populated_1_1_main_window.html#a5494d1e7311f593d5e1ac2c34f364678',1,'XX::Populated::MainWindow']]],
   ['mapper_2',['Mapper',['../class_x_x_1_1_range_1_1_mapper.html#a04dbd3f4d76f43bc013fc03e40febf5e',1,'XX::Range::Mapper']]],
-  ['matrix_3',['Matrix',['../class_x_x_1_1_matrix.html#aae18e04c9cd6d24921ebd9f9dadabddd',1,'XX::Matrix::Matrix()'],['../class_x_x_1_1_linalg_1_1_matrix.html#ac7c40716c255adf010a94b0a1590c21c',1,'XX::Linalg::Matrix::Matrix()']]],
+  ['matrix_3',['Matrix',['../class_x_x_1_1_linalg_1_1_matrix.html#ac7c40716c255adf010a94b0a1590c21c',1,'XX::Linalg::Matrix']]],
   ['max_4',['max',['../class_x_x_1_1_range_1_1_finder.html#afa60014f3fd1684156a3cae2c2322fef',1,'XX::Range::Finder::max()'],['../group___functions.html#gaf84b02e7fe0819b697de6cdfbe73d6bf',1,'XX::Range::max()']]],
   ['menubar_5',['MenuBar',['../class_x_x_1_1_populated_1_1_menu_bar.html#af4fc4d44f01fb55b901590ee263a8f85',1,'XX::Populated::MenuBar']]],
   ['menubarnamechanged_6',['menuBarNameChanged',['../class_x_x_1_1_populated_1_1_menu_bar.html#a09e312641933c78cb88ec98f91f94377',1,'XX::Populated::MenuBar']]],

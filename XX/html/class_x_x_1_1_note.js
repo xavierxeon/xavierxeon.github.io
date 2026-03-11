@@ -21,6 +21,7 @@ var class_x_x_1_1_note =
     [ "down", "class_x_x_1_1_note.html#a27a19a242f94b07407b1ea9988c984a6", null ],
     [ "fromFrequency", "class_x_x_1_1_note.html#a2d9d4d980521b207d7324429bc396ae1", null ],
     [ "fromMidi", "class_x_x_1_1_note.html#ac2d81a97a84865fbfa15d84843f1bee0", null ],
+    [ "fromValue", "class_x_x_1_1_note.html#a332b4979479bcefa47a33e434843dcd6", null ],
     [ "fromVoltage", "class_x_x_1_1_note.html#a778634193466602a3cdc909128cabe60", null ],
     [ "getFrequency", "class_x_x_1_1_note.html#a81087191286d4f703e7cfdea06e40a95", null ],
     [ "getMidiValue", "class_x_x_1_1_note.html#a8c18e849ffa6345f479a5b45f13a0a81", null ],

@@ -182,9 +182,11 @@ var menudata={children:[
 {text:"k",url:"functions_eval.html#index_k"},
 {text:"m",url:"functions_eval.html#index_m"},
 {text:"n",url:"functions_eval.html#index_n"},
+{text:"o",url:"functions_eval.html#index_o"},
 {text:"s",url:"functions_eval.html#index_s"},
 {text:"t",url:"functions_eval.html#index_t"},
-{text:"v",url:"functions_eval.html#index_v"}]},
+{text:"v",url:"functions_eval.html#index_v"},
+{text:"z",url:"functions_eval.html#index_z"}]},
 {text:"Properties",url:"functions_prop.html"},
 {text:"Related Symbols",url:"functions_rela.html"}]}]},
 {text:"Files",url:"files.html",children:[
