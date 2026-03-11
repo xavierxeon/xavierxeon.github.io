@@ -7,6 +7,7 @@ var class_x_x_1_1_file_tools =
     [ "openVSCode", "class_x_x_1_1_file_tools.html#acbab3ec2654b58bd6f2626bd8ebcfeea", null ],
     [ "openVSCode", "class_x_x_1_1_file_tools.html#a79a567981eaf1df69689132e2c1448a2", null ],
     [ "parseBytes", "class_x_x_1_1_file_tools.html#a59dbd1bf65d3fca683ed8723624c89b4", null ],
+    [ "printAllResourceNames", "class_x_x_1_1_file_tools.html#aeb85e86de08d3c37fda739e3cb5fc095", null ],
     [ "readApiKeys", "class_x_x_1_1_file_tools.html#aa2b0ea912685a48ef7471a9c33e53a1b", null ],
     [ "readJson", "class_x_x_1_1_file_tools.html#aa7afad71f14c155781d6404adee2d911", null ],
     [ "writeJson", "class_x_x_1_1_file_tools.html#a7df3433e895cade5be7d1ed4b72299f9", null ]
