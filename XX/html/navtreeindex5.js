@@ -1,8 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"struct_x_x_1_1_log_file_base.html#acc70b7b6a3a34ac5d2facf0f076b7d96":[1,5,1,0],
-"struct_x_x_1_1_log_symbol.html":[1,5,3],
-"struct_x_x_1_1_log_symbol.html#a4a075b698cd9d94028ce059ad172dbfa":[1,5,3,1],
 "struct_x_x_1_1_log_symbol.html#a99ab0f711265b49c332ba5aa456a3463":[1,5,3,0],
 "struct_x_x_1_1_log_symbol.html#aafe838a4946059ed8a2002008dd02699":[1,5,3,3],
 "struct_x_x_1_1_log_symbol.html#ac8b7e32ad89fd5c018cd75adb3e86513":[1,5,3,2],

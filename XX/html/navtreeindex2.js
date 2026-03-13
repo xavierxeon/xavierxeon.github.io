@@ -1,8 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"class_x_x_1_1_midi_1_1_interface_1_1_output.html#a9c274e8e31f9bbd81c015bf6ac863e89":[1,7,5,6],
-"class_x_x_1_1_midi_1_1_interface_1_1_output.html#aa89331da0db93ebf9d23b0844d0c32ed":[1,7,5,4],
-"class_x_x_1_1_midi_1_1_interface_1_1_output.html#aca563e2a71ea6fa52cb46de51019a0c0":[1,7,5,7],
 "class_x_x_1_1_midi_1_1_interface_1_1_output.html#acf9bcb8935393462088395dc105cb8d8":[1,7,5,8],
 "class_x_x_1_1_midi_1_1_interface_1_1_output.html#ae250efb858cdc68587da9b229076cece":[1,7,5,2],
 "class_x_x_1_1_midi_1_1_parser.html":[1,7,6],
@@ -249,5 +246,8 @@ var NAVTREEINDEX2 =
 "class_x_x_1_1_rest_api_1_1_async.html#a38fe59f8227b39037cda4f5b13a0d4b1":[1,8,3,2],
 "class_x_x_1_1_rest_api_1_1_async.html#a3f1aa24b9aad74c6bfc365cb6b94d456":[1,8,3,0],
 "class_x_x_1_1_rest_api_1_1_async.html#a4fa2d348e5ab17303fdf3aa31a84f24d":[1,8,3,1],
-"class_x_x_1_1_rest_api_1_1_blocking.html":[1,8,4]
+"class_x_x_1_1_rest_api_1_1_blocking.html":[1,8,4],
+"class_x_x_1_1_rest_api_1_1_blocking.html#a1aff6bfce6c53382ddd4458c6fefd146":[1,8,4,5],
+"class_x_x_1_1_rest_api_1_1_blocking.html#a3252c0b171bd4131367dc3c8fc1bf11f":[1,8,4,10],
+"class_x_x_1_1_rest_api_1_1_blocking.html#a3c08693a795f94e2c3b878120040f086":[1,8,4,2]
 };
