@@ -1,7 +1,6 @@
 var dir_3a9970e7e2229b2bb779a8964d067d98 =
 [
     [ "src", "dir_0b78b0f8c188afe98d5402e3b2ee8a32.html", "dir_0b78b0f8c188afe98d5402e3b2ee8a32" ],
-    [ "XXAuthProviderOAuth.h", "_x_x_auth_provider_o_auth_8h.html", "_x_x_auth_provider_o_auth_8h" ],
     [ "XXAuthProviderToken.h", "_x_x_auth_provider_token_8h.html", null ],
     [ "XXNetworkExportDef.h", "_x_x_network_export_def_8h.html", "_x_x_network_export_def_8h" ],
     [ "XXNetworkSettings.h", "_x_x_network_settings_8h.html", null ],

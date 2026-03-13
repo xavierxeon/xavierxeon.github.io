@@ -9,6 +9,8 @@ var searchData=
   ['xxmath_5fdeclspec_6',['XXMATH_DECLSPEC',['../_x_x_math_export_def_8h.html#afda4e7c6a85f076bdd7ab693ed13a57e',1,'XXMathExportDef.h']]],
   ['xxmusic_5fdeclspec_7',['XXMUSIC_DECLSPEC',['../_x_x_music_export_def_8h.html#a2aa63626802fa4d0af5f3cc9142409a1',1,'XXMusicExportDef.h']]],
   ['xxnetwork_5fdeclspec_8',['XXNETWORK_DECLSPEC',['../_x_x_network_export_def_8h.html#a5170cb9e4deb477eadbc05530182a2b8',1,'XXNetworkExportDef.h']]],
-  ['xxquick_5fdeclspec_9',['XXQUICK_DECLSPEC',['../_x_x_quick_export_def_8h.html#a0284e679c95a5e3ac2292353e1b51bff',1,'XXQuickExportDef.h']]],
-  ['xxwidgets_5fdeclspec_10',['XXWIDGETS_DECLSPEC',['../_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c',1,'XXWidgetsExportDef.h']]]
+  ['xxnetworkoauth_5fdeclspec_9',['XXNETWORKOAUTH_DECLSPEC',['../_x_x_network_o_auth_export_def_8h.html#a70b211d70ad0b47cc196bc6023a069e0',1,'XXNetworkOAuthExportDef.h']]],
+  ['xxquick_5fdeclspec_10',['XXQUICK_DECLSPEC',['../_x_x_quick_export_def_8h.html#a0284e679c95a5e3ac2292353e1b51bff',1,'XXQuickExportDef.h']]],
+  ['xxwebassembly_5fdeclspec_11',['XXWEBASSEMBLY_DECLSPEC',['../_x_x_web_assembly_export_def_8h.html#a5c10b7a34f668207845fdd5768b3fb6f',1,'XXWebAssemblyExportDef.h']]],
+  ['xxwidgets_5fdeclspec_12',['XXWIDGETS_DECLSPEC',['../_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c',1,'XXWidgetsExportDef.h']]]
 ];

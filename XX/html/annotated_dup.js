@@ -54,8 +54,8 @@ var annotated_dup =
         [ "Socket", "class_x_x_1_1_secure_network_1_1_socket.html", "class_x_x_1_1_secure_network_1_1_socket" ]
       ] ],
       [ "AuthProvider", "namespace_x_x_1_1_auth_provider.html", [
-        [ "OAuth", "class_x_x_1_1_auth_provider_1_1_o_auth.html", "class_x_x_1_1_auth_provider_1_1_o_auth" ],
-        [ "Token", "class_x_x_1_1_auth_provider_1_1_token.html", "class_x_x_1_1_auth_provider_1_1_token" ]
+        [ "Token", "class_x_x_1_1_auth_provider_1_1_token.html", "class_x_x_1_1_auth_provider_1_1_token" ],
+        [ "OAuth", "class_x_x_1_1_auth_provider_1_1_o_auth.html", "class_x_x_1_1_auth_provider_1_1_o_auth" ]
       ] ],
       [ "Network", "namespace_x_x_1_1_network.html", [
         [ "Settings", "class_x_x_1_1_network_1_1_settings.html", "class_x_x_1_1_network_1_1_settings" ],
@@ -114,6 +114,7 @@ var annotated_dup =
       [ "Shared", "struct_x_x_1_1_shared.html", "struct_x_x_1_1_shared" ],
       [ "RainbowRectangle", "class_x_x_1_1_rainbow_rectangle.html", "class_x_x_1_1_rainbow_rectangle" ],
       [ "QmlView", "class_x_x_1_1_qml_view.html", "class_x_x_1_1_qml_view" ],
+      [ "IndexedDB", "class_x_x_1_1_indexed_d_b.html", "class_x_x_1_1_indexed_d_b" ],
       [ "LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", "class_x_x_1_1_local_text_browser" ],
       [ "LoggerLabel", "class_x_x_1_1_logger_label.html", "class_x_x_1_1_logger_label" ],
       [ "Look", "struct_x_x_1_1_look.html", "struct_x_x_1_1_look" ],

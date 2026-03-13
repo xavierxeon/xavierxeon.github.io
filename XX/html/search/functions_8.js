@@ -1,7 +1,7 @@
 var searchData=
 [
   ['init_0',['init',['../class_x_x_1_1_populated_1_1_menu_bar.html#a072b2249b576b84ad5e2fdc37a4c6164',1,'XX::Populated::MenuBar::init()'],['../class_x_x_1_1_populated_1_1_tool_bar.html#ab63dfe7c83102d6e52d410afb735f9d4',1,'XX::Populated::ToolBar::init()'],['../class_x_x_1_1_range_1_1_finder.html#a45e38ba39ad931c2a6f4cbf79a9ab0d5',1,'XX::Range::Finder::init()'],['../class_x_x_1_1_tab_stack_1_1_model.html#a4ddc379476a2859601e9192eb34a06bd',1,'XX::TabStack::Model::init()']]],
-  ['initfilesystem_1',['initFileSystem',['../class_x_x_1_1_file_tools.html#a97b642ad26afc4ec791669f87c614e13',1,'XX::FileTools']]],
+  ['initfilesystem_1',['initFileSystem',['../class_x_x_1_1_indexed_d_b.html#a49a1ea8c99f2081db44a220792f8197d',1,'XX::IndexedDB']]],
   ['input_2',['Input',['../class_x_x_1_1_midi_1_1_interface_1_1_input.html#ad9a8e38b25d7e59e7d265b8cfc4530f6',1,'XX::Midi::Interface::Input']]],
   ['instance_3',['instance',['../class_x_x_1_1_singleton.html#a18ddca4b0042e33a4b100e9a29b5149d',1,'XX::Singleton']]],
   ['instancecount_4',['instanceCount',['../class_x_x_1_1_function_1_1_caller.html#a559928ca870665024a2a035f06e5ba14',1,'XX::Function::Caller']]],

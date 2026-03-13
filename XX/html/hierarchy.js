@@ -33,6 +33,7 @@ var hierarchy =
     [ "XX::Scale::Finder", "class_x_x_1_1_scale_1_1_finder.html", null ],
     [ "XX::Graph", "class_x_x_1_1_graph.html", null ],
     [ "XX::SharedData&lt; DataBlock &gt;::Guard", "class_x_x_1_1_shared_data_1_1_guard.html", null ],
+    [ "XX::IndexedDB", "class_x_x_1_1_indexed_d_b.html", null ],
     [ "XX::Info", "struct_x_x_1_1_info.html", null ],
     [ "XX::Midi::Sequence::Info", "struct_x_x_1_1_midi_1_1_sequence_1_1_info.html", null ],
     [ "XX::Range::Spread::Iterator", "class_x_x_1_1_range_1_1_spread_1_1_iterator.html", null ],

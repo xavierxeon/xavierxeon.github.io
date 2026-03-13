@@ -10,6 +10,8 @@ var files_dup =
     [ "XXMath", "dir_23d23e7da936c2e58483664f190840a8.html", "dir_23d23e7da936c2e58483664f190840a8" ],
     [ "XXMusic", "dir_cbfba9eaaca8f54ca13e34323d9b1f70.html", "dir_cbfba9eaaca8f54ca13e34323d9b1f70" ],
     [ "XXNetwork", "dir_3a9970e7e2229b2bb779a8964d067d98.html", "dir_3a9970e7e2229b2bb779a8964d067d98" ],
+    [ "XXNetworkOAuth", "dir_01f62f696c31989054970d84c55de810.html", "dir_01f62f696c31989054970d84c55de810" ],
     [ "XXQuick", "dir_9e1ecd462ab959c94fdc0c86e83be49e.html", "dir_9e1ecd462ab959c94fdc0c86e83be49e" ],
+    [ "XXWebAssembly", "dir_0ed4879e9b2fec590e7780dc2f6153da.html", "dir_0ed4879e9b2fec590e7780dc2f6153da" ],
     [ "XXWidgets", "dir_0d30db7ceb4aa70272b36dee8805772c.html", "dir_0d30db7ceb4aa70272b36dee8805772c" ]
 ];

@@ -10,5 +10,7 @@ var topics =
     [ "Music", "group___x_x_music.html", "group___x_x_music" ],
     [ "Network", "group___x_x_network.html", "group___x_x_network" ],
     [ "Quick", "group___x_x_quick.html", "group___x_x_quick" ],
-    [ "Widgets", "group___x_x_widgets.html", "group___x_x_widgets" ]
+    [ "Widgets", "group___x_x_widgets.html", "group___x_x_widgets" ],
+    [ "XXNetworkOAuth component", "group___x_x_network_o_auth.html", "group___x_x_network_o_auth" ],
+    [ "XXWebAssembly component", "group___x_x_web_assembly.html", null ]
 ];

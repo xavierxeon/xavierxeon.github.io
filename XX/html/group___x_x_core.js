@@ -29,7 +29,6 @@ var group___x_x_core =
       [ "compileDropboxPath", "class_x_x_1_1_file_tools.html#a012e62ff638b043f454dcc416e724519", null ],
       [ "compileNextCloudPath", "class_x_x_1_1_file_tools.html#a95c66120d5e291962c3063c5ddc6e8dd", null ],
       [ "compileResourceNames", "class_x_x_1_1_file_tools.html#ac40e82a82a73264e6d973c0531ceaa6b", null ],
-      [ "initFileSystem", "class_x_x_1_1_file_tools.html#a97b642ad26afc4ec791669f87c614e13", null ],
       [ "openVSCode", "class_x_x_1_1_file_tools.html#acbab3ec2654b58bd6f2626bd8ebcfeea", null ],
       [ "openVSCode", "class_x_x_1_1_file_tools.html#a79a567981eaf1df69689132e2c1448a2", null ],
       [ "parseBytes", "class_x_x_1_1_file_tools.html#a59dbd1bf65d3fca683ed8723624c89b4", null ],

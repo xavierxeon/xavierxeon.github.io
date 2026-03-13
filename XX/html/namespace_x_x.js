@@ -59,6 +59,7 @@ var namespace_x_x =
     [ "Shared", "struct_x_x_1_1_shared.html", "struct_x_x_1_1_shared" ],
     [ "RainbowRectangle", "class_x_x_1_1_rainbow_rectangle.html", "class_x_x_1_1_rainbow_rectangle" ],
     [ "QmlView", "class_x_x_1_1_qml_view.html", "class_x_x_1_1_qml_view" ],
+    [ "IndexedDB", "class_x_x_1_1_indexed_d_b.html", "class_x_x_1_1_indexed_d_b" ],
     [ "LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", "class_x_x_1_1_local_text_browser" ],
     [ "LoggerLabel", "class_x_x_1_1_logger_label.html", "class_x_x_1_1_logger_label" ],
     [ "Look", "struct_x_x_1_1_look.html", "struct_x_x_1_1_look" ],
