@@ -1,7 +1,7 @@
 var searchData=
 [
   ['o_0',['O',['../class_x_x_1_1_byte_fours.html#a07bacbae1766a243349dfb9ac0f0ef6da738c2769f0ee25033475fcf902e10a8d',1,'XX::ByteFours']]],
-  ['oauth_1',['OAuth',['../class_x_x_1_1_auth_provider_1_1_o_auth.html',1,'XX::AuthProvider::OAuth'],['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a865329fa9468bcb6c9644aae312ca574',1,'XX::AuthProvider::OAuth::OAuth()']]],
+  ['oauth_1',['OAuth',['../group___x_x_network_o_auth.html',1,'Network OAuth'],['../class_x_x_1_1_auth_provider_1_1_o_auth.html',1,'XX::AuthProvider::OAuth'],['../class_x_x_1_1_auth_provider_1_1_o_auth.html#a865329fa9468bcb6c9644aae312ca574',1,'XX::AuthProvider::OAuth::OAuth()']]],
   ['observe_2',['observe',['../class_x_x_1_1_range_1_1_finder.html#a358cef01b4bc6905e610c27d1fa936ab',1,'XX::Range::Finder']]],
   ['octave_3',['Octave',['../class_x_x_1_1_note.html#aae72453f9c60cdd46f33443d459cda13',1,'XX::Note']]],
   ['onclicked_4',['onClicked',['../class_x_x_1_1_managed_1_1_graphics_view.html#aa462ad752f093e3f10cb00d3d21dd0e9',1,'XX::Managed::GraphicsView']]],

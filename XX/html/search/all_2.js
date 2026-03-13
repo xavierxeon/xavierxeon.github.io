@@ -48,7 +48,7 @@ var searchData=
   ['compiletreeedges_45',['compileTreeEdges',['../class_x_x_1_1_graph_1_1_algorithm.html#a2041711bcda6d940944780118a8cb58f',1,'XX::Graph::Algorithm']]],
   ['complexdata_46',['ComplexData',['../class_x_x_1_1_fast_fourier_transfrom.html#ab20ddf96a55e9d61046e2e3324ba638d',1,'XX::FastFourierTransfrom']]],
   ['complextype_47',['ComplexType',['../class_x_x_1_1_fast_fourier_transfrom.html#a1c50f62cfca79847c2562fcb995b58f2',1,'XX::FastFourierTransfrom']]],
-  ['component_48',['component',['../group___x_x_network_o_auth.html',1,'XXNetworkOAuth component'],['../group___x_x_web_assembly.html',1,'XXWebAssembly component']]],
+  ['component_48',['XXWebAssembly component',['../group___x_x_web_assembly.html',1,'']]],
   ['components_49',['XX CMake Components',['../index.html#autotoc_md0',1,'']]],
   ['connecttohost_50',['connectToHost',['../class_x_x_1_1_secure_network_1_1_client.html#a6047341f276ece823f737b4753f8e424',1,'XX::SecureNetwork::Client']]],
   ['contentupdated_51',['contentUpdated',['../class_x_x_1_1_logger_model.html#a2823420dd1c32841223fc9bdb991b0da',1,'XX::LoggerModel::contentUpdated()'],['../class_x_x_1_1_qt_message_1_1_model.html#a6eee3e1e6f2ddbbe5037a95c6b1a5c3b',1,'XX::QtMessage::Model::contentUpdated()']]],

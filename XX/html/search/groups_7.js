@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['quick_0',['Quick',['../group___x_x_quick.html',1,'']]]
+  ['oauth_0',['Network OAuth',['../group___x_x_network_o_auth.html',1,'']]]
 ];
