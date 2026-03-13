@@ -11,6 +11,6 @@ var topics =
     [ "Network", "group___x_x_network.html", "group___x_x_network" ],
     [ "Network OAuth", "group___x_x_network_o_auth.html", "group___x_x_network_o_auth" ],
     [ "Quick", "group___x_x_quick.html", "group___x_x_quick" ],
-    [ "Widgets", "group___x_x_widgets.html", "group___x_x_widgets" ],
-    [ "XXWebAssembly component", "group___x_x_web_assembly.html", null ]
+    [ "WebAssembly", "group___x_x_web_assembly.html", null ],
+    [ "Widgets", "group___x_x_widgets.html", "group___x_x_widgets" ]
 ];

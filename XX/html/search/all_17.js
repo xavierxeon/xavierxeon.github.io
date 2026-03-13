@@ -130,10 +130,9 @@ var searchData=
   ['xxtabstackmodel_2eh_127',['XXTabStackModel.h',['../_x_x_tab_stack_model_8h.html',1,'']]],
   ['xxtabstackwidget_2eh_128',['XXTabStackWidget.h',['../_x_x_tab_stack_widget_8h.html',1,'']]],
   ['xxtimecode_2eh_129',['XXTimeCode.h',['../_x_x_time_code_8h.html',1,'']]],
-  ['xxwebassembly_20component_130',['XXWebAssembly component',['../group___x_x_web_assembly.html',1,'']]],
-  ['xxwebassembly_5fdeclspec_131',['XXWEBASSEMBLY_DECLSPEC',['../_x_x_web_assembly_export_def_8h.html#a5c10b7a34f668207845fdd5768b3fb6f',1,'XXWebAssemblyExportDef.h']]],
-  ['xxwebassemblyexportdef_2eh_132',['XXWebAssemblyExportDef.h',['../_x_x_web_assembly_export_def_8h.html',1,'']]],
-  ['xxwidgets_5fdeclspec_133',['XXWIDGETS_DECLSPEC',['../_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c',1,'XXWidgetsExportDef.h']]],
-  ['xxwidgetsexportdef_2eh_134',['XXWidgetsExportDef.h',['../_x_x_widgets_export_def_8h.html',1,'']]],
-  ['xyb_135',['XYB',['../struct_x_x_1_1_color_space_1_1_x_y_b.html',1,'XX::ColorSpace']]]
+  ['xxwebassembly_5fdeclspec_130',['XXWEBASSEMBLY_DECLSPEC',['../_x_x_web_assembly_export_def_8h.html#a5c10b7a34f668207845fdd5768b3fb6f',1,'XXWebAssemblyExportDef.h']]],
+  ['xxwebassemblyexportdef_2eh_131',['XXWebAssemblyExportDef.h',['../_x_x_web_assembly_export_def_8h.html',1,'']]],
+  ['xxwidgets_5fdeclspec_132',['XXWIDGETS_DECLSPEC',['../_x_x_widgets_export_def_8h.html#a66f927ac1b17947880ca90b5626d4c2c',1,'XXWidgetsExportDef.h']]],
+  ['xxwidgetsexportdef_2eh_133',['XXWidgetsExportDef.h',['../_x_x_widgets_export_def_8h.html',1,'']]],
+  ['xyb_134',['XYB',['../struct_x_x_1_1_color_space_1_1_x_y_b.html',1,'XX::ColorSpace']]]
 ];

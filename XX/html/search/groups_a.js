@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['widgets_0',['Widgets',['../group___x_x_widgets.html',1,'']]]
+  ['webassembly_0',['WebAssembly',['../group___x_x_web_assembly.html',1,'']]],
+  ['widgets_1',['Widgets',['../group___x_x_widgets.html',1,'']]]
 ];
