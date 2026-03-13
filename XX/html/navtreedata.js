@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "XX CMake Package", "index.html", [
+    [ "XX CMake Components", "index.html#autotoc_md0", null ],
     [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -70,7 +71,7 @@ var NAVTREEINDEX =
 "class_x_x_1_1_midi_1_1_interface_1_1_output.html#a9c274e8e31f9bbd81c015bf6ac863e89",
 "class_x_x_1_1_rest_api_1_1_blocking.html#a1aff6bfce6c53382ddd4458c6fefd146",
 "functions_t.html",
-"struct_x_x_1_1_log_symbol.html"
+"struct_x_x_1_1_log_file_base.html#acc70b7b6a3a34ac5d2facf0f076b7d96"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
