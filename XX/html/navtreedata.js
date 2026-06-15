@@ -25,55 +25,15 @@
 var NAVTREE =
 [
   [ "XX CMake Package", "index.html", [
-    [ "XX CMake Components", "index.html#autotoc_md0", null ],
-    [ "Topics", "topics.html", "topics" ],
-    [ "Namespaces", "namespaces.html", [
-      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
-      [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ],
-        [ "Typedefs", "namespacemembers_type.html", null ],
-        [ "Enumerations", "namespacemembers_enum.html", null ],
-        [ "Enumerator", "namespacemembers_eval.html", null ]
-      ] ]
-    ] ],
-    [ "Concepts", "concepts.html", "concepts" ],
-    [ "Classes", "annotated.html", [
-      [ "Class List", "annotated.html", "annotated_dup" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", null ],
-        [ "Typedefs", "functions_type.html", null ],
-        [ "Enumerations", "functions_enum.html", null ],
-        [ "Enumerator", "functions_eval.html", null ],
-        [ "Properties", "functions_prop.html", null ],
-        [ "Related Symbols", "functions_rela.html", null ]
-      ] ]
-    ] ],
-    [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ],
-      [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
-        [ "Macros", "globals_defs.html", null ]
-      ] ]
-    ] ]
+    [ "XX CMake Components", "index.html#autotoc_md0", null ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"_x_x_application_export_def_8h.html",
-"class_x_x_1_1_auth_provider_1_1_token.html#acad815684e8c128b277c8f1a589b6afc",
-"class_x_x_1_1_midi_1_1_interface_1_1_output.html#acf9bcb8935393462088395dc105cb8d8",
-"class_x_x_1_1_rest_api_1_1_blocking.html#a3c97df4359bcab9eb6683001aa6925c2",
-"functions_v.html",
-"struct_x_x_1_1_log_symbol.html#a99ab0f711265b49c332ba5aa456a3463"
+"index.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronization';
-var SYNCOFFMSG = 'click to enable panel synchronization';
-var LISTOFALLMEMBERS = 'List of all members';
+const SYNCONMSG = 'click to disable panel synchronization';
+const SYNCOFFMSG = 'click to enable panel synchronization';
+const LISTOFALLMEMBERS = 'List of all members';
