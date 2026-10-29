@@ -1,16 +1,16 @@
 var topics =
 [
-    [ "Application", "group___x_x_application.html", "group___x_x_application" ],
-    [ "Audio", "group___x_x_audio.html", "group___x_x_audio" ],
-    [ "Core", "group___x_x_core.html", "group___x_x_core" ],
-    [ "Cpp", "group___x_x_cpp.html", "group___x_x_cpp" ],
-    [ "Gui", "group___x_x_gui.html", "group___x_x_gui" ],
-    [ "Log", "group___x_x_log.html", "group___x_x_log" ],
-    [ "Math", "group___x_x_math.html", "group___x_x_math" ],
-    [ "Music", "group___x_x_music.html", "group___x_x_music" ],
-    [ "Network", "group___x_x_network.html", "group___x_x_network" ],
-    [ "Network OAuth", "group___x_x_network_o_auth.html", "group___x_x_network_o_auth" ],
-    [ "Quick", "group___x_x_quick.html", "group___x_x_quick" ],
-    [ "WebAssembly", "group___x_x_web_assembly.html", "group___x_x_web_assembly" ],
-    [ "Widgets", "group___x_x_widgets.html", "group___x_x_widgets" ]
+    [ "Application", "group__XXApplication.html", "group__XXApplication" ],
+    [ "Audio", "group__XXAudio.html", "group__XXAudio" ],
+    [ "Core", "group__XXCore.html", "group__XXCore" ],
+    [ "Cpp", "group__XXCpp.html", "group__XXCpp" ],
+    [ "Gui", "group__XXGui.html", "group__XXGui" ],
+    [ "Log", "group__XXLog.html", "group__XXLog" ],
+    [ "Math", "group__XXMath.html", "group__XXMath" ],
+    [ "Music", "group__XXMusic.html", "group__XXMusic" ],
+    [ "Network", "group__XXNetwork.html", "group__XXNetwork" ],
+    [ "Quick", "group__XXQuick.html", "group__XXQuick" ],
+    [ "WebAssembly", "group__XXWebAssembly.html", "group__XXWebAssembly" ],
+    [ "Widgets", "group__XXWidgets.html", "group__XXWidgets" ],
+    [ "XXMultimedia", "group__XXMultimedia.html", "group__XXMultimedia" ]
 ];

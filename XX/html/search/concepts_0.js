@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['callerclass_0',['CallerClass',['../concept_x_x_1_1_function_1_1_caller_class.html',1,'XX::Function']]]
+  ['calculatorclass_0',['CalculatorClass',['../conceptXX_1_1CubicCurve_1_1CalculatorClass.html',1,'XX::CubicCurve']]],
+  ['callerclass_1',['CallerClass',['../conceptXX_1_1Function_1_1CallerClass.html',1,'XX::Function']]]
 ];

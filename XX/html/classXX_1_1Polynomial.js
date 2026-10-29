@@ -1,0 +1,22 @@
+var classXX_1_1Polynomial =
+[
+    [ "Polynomial", "classXX_1_1Polynomial.html#ab0f72d5fa04441b7761b9790a8a8b40f", null ],
+    [ "Polynomial", "classXX_1_1Polynomial.html#afb147eb37c62caf866d78df947ce1a01", null ],
+    [ "Polynomial", "classXX_1_1Polynomial.html#ad969dea8783d4c34c3262c37dba5b3e2", null ],
+    [ "getCoeficents", "classXX_1_1Polynomial.html#a751de883436ca978de5cd327529deaf6", null ],
+    [ "getDegree", "classXX_1_1Polynomial.html#a93556894ee996d1ac1a060812977d6bc", null ],
+    [ "load", "classXX_1_1Polynomial.html#a6e21d4f638a7761ad0e7192a96c5d7a2", null ],
+    [ "operator!=", "classXX_1_1Polynomial.html#a8d00aad15185c52fb37523a0d2b13b18", null ],
+    [ "operator()", "classXX_1_1Polynomial.html#aee1eaff37ee73234aa4c3cd26578e66a", null ],
+    [ "operator+", "classXX_1_1Polynomial.html#a1b814a9d3c220bffae95fd5a9f461a7f", null ],
+    [ "operator+=", "classXX_1_1Polynomial.html#ab866cf959f9f849a1854ea6d743b7cd4", null ],
+    [ "operator-", "classXX_1_1Polynomial.html#a93569a9897a1948424afe804c09d9e26", null ],
+    [ "operator-=", "classXX_1_1Polynomial.html#a5fd0a7fc360c388405dfde36704a0d88", null ],
+    [ "operator=", "classXX_1_1Polynomial.html#a9360148c35611e72b511360d89b62427", null ],
+    [ "operator==", "classXX_1_1Polynomial.html#ae7943b3091c86be6a09009714a30b600", null ],
+    [ "save", "classXX_1_1Polynomial.html#a18af5dd8736aa22ce530b7664a64e2fe", null ],
+    [ "setCoefficient", "classXX_1_1Polynomial.html#a008d4bdf1d9e13f3726d802f135910e0", null ],
+    [ "setDegree", "classXX_1_1Polynomial.html#acffaa486cb386cb87f80ad898674b5c4", null ],
+    [ "value", "classXX_1_1Polynomial.html#a8d8baca5c9447f42464459adbb7a2e4d", null ],
+    [ "operator<<", "classXX_1_1Polynomial.html#a87cbf5f2734bd248e9377bad22b08b7c", null ]
+];

@@ -1,10 +1,11 @@
 var dir_70260d7ac92f84e08c28109acfd4b353 =
 [
-    [ "XXBusyCursor.h", "_x_x_busy_cursor_8h.html", null ],
-    [ "XXColorSpace.h", "_x_x_color_space_8h.html", "_x_x_color_space_8h" ],
-    [ "XXDeviceTools.h", "_x_x_device_tools_8h.html", "_x_x_device_tools_8h" ],
-    [ "XXGuiExportDef.h", "_x_x_gui_export_def_8h.html", "_x_x_gui_export_def_8h" ],
-    [ "XXLoggerModel.h", "_x_x_logger_model_8h.html", null ],
-    [ "XXOscMessage.h", "_x_x_osc_message_8h.html", null ],
-    [ "XXRainbow.h", "_x_x_rainbow_8h.html", null ]
+    [ "XXBusyCursor.h", "XXBusyCursor_8h.html", null ],
+    [ "XXColorSpace.h", "XXColorSpace_8h.html", "XXColorSpace_8h" ],
+    [ "XXCursorTools.h", "XXCursorTools_8h.html", "XXCursorTools_8h" ],
+    [ "XXDeviceTools.h", "XXDeviceTools_8h.html", "XXDeviceTools_8h" ],
+    [ "XXGuiExportDef.h", "XXGuiExportDef_8h.html", "XXGuiExportDef_8h" ],
+    [ "XXLoggerModel.h", "XXLoggerModel_8h.html", null ],
+    [ "XXOscMessage.h", "XXOscMessage_8h.html", null ],
+    [ "XXRainbow.h", "XXRainbow_8h.html", null ]
 ];

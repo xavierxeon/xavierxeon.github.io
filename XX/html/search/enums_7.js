@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['value_0',['Value',['../class_x_x_1_1_note.html#aa3a8043d915040150a6b0cda4359e4ee',1,'XX::Note']]]
+  ['roles_0',['Roles',['../classMultimedia_1_1Camera.html#ae217cb05d572815579afd8a00f4ad620',1,'Multimedia::Camera']]]
 ];

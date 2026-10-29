@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['streaming_0',['Streaming',['../group___streaming.html',1,'']]]
+  ['webassembly_0',['WebAssembly',['../group__XXWebAssembly.html',1,'']]],
+  ['widgets_1',['Widgets',['../group__XXWidgets.html',1,'']]]
 ];

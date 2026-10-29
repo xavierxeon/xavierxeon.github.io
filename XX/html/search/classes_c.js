@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['parser_0',['Parser',['../class_x_x_1_1_midi_1_1_parser.html',1,'XX::Midi']]],
-  ['path_1',['Path',['../struct_x_x_1_1_graph_1_1_algorithm_1_1_path.html',1,'XX::Graph::Algorithm']]],
-  ['polynomial_2',['Polynomial',['../class_x_x_1_1_polynomial.html',1,'XX']]]
+  ['parser_0',['Parser',['../classXX_1_1Midi_1_1Parser.html',1,'XX::Midi']]],
+  ['path_1',['Path',['../structXX_1_1Graph_1_1Algorithm_1_1Path.html',1,'XX::Graph::Algorithm']]],
+  ['polynomial_2',['Polynomial',['../classXX_1_1Polynomial.html',1,'XX']]]
 ];

@@ -1,4 +1,28 @@
 var searchData=
 [
-  ['doxygenmainpage_2edox_0',['DoxygenMainPage.dox',['../DoxygenMainPage_8dox.html',1,'']]]
+  ['b_0',['B',['../classXX_1_1Note.html#aa3a8043d915040150a6b0cda4359e4eea1d89ed6d84f55ad2dc610e448d4412f7',1,'XX::Note']]],
+  ['backedges_1',['backEdges',['../structXX_1_1Graph_1_1Algorithm_1_1TreeEdges.html#a17715ac9c3de6242b505ff823d7025ab',1,'XX::Graph::Algorithm::TreeEdges']]],
+  ['balance_2',['Balance',['../group__XXMusic.html#gga0bdc0a7397c27b212f13e10448181cf5a283668a2ea5d7a00a71aeff739d0a366',1,'XX::Midi']]],
+  ['bankselect_3',['BankSelect',['../group__XXMusic.html#gga0bdc0a7397c27b212f13e10448181cf5ad6676a2286ace56c33b53ea569d4fcc3',1,'XX::Midi']]],
+  ['bar_4',['bar',['../classXX_1_1TimeCode.html#a4e1dd8af509d8ba0e3932015b14d33c1',1,'XX::TimeCode']]],
+  ['barcounter_5',['barCounter',['../structXX_1_1Midi_1_1Sequence_1_1Info.html#aeb8e3b78d922bf4e9b5b300516d91f14',1,'XX::Midi::Sequence::Info']]],
+  ['baseurl_6',['baseUrl',['../classXX_1_1RestApi_1_1Blocking.html#adc9bc36622e45c321742b39b40e8d0a1',1,'XX::RestApi::Blocking']]],
+  ['begin_7',['begin',['../classXX_1_1Range_1_1Spread.html#aa727c056f8395b180f392fc736ad6ed0',1,'XX::Range::Spread']]],
+  ['bitbox_8',['BitBox',['../group__XXMusic.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0eacbb651d1db75162eed4e9de8faad29cc',1,'XX::Midi::Device']]],
+  ['bitboxmicro_9',['BitBoxMicro',['../group__XXMusic.html#gga1454ec0dcef8edb9c9128cd9d7ed2e0eaff47c2f27c6014a0974f466b8db1ca8d',1,'XX::Midi::Device']]],
+  ['blocked_10',['Blocked',['../classXX_1_1AuthProvider_1_1OAuthFlow.html#ac51ba91a4afd8fccd0d7b926ba72c89ea4ecc0d90eec1cea3e9db96583a1bb9c2',1,'XX::AuthProvider::OAuthFlow']]],
+  ['blocking_11',['Blocking',['../classXX_1_1RestApi_1_1Blocking.html',1,'XX::RestApi::Blocking'],['../classXX_1_1RestApi_1_1Blocking.html#a8f98c10d586f3e54d9dc147f6a4c8ad4',1,'XX::RestApi::Blocking::Blocking()']]],
+  ['blockstate_12',['BlockState',['../classXX_1_1AuthProvider_1_1OAuthFlow_1_1BlockState.html',1,'XX::AuthProvider::OAuthFlow::BlockState'],['../classXX_1_1AuthProvider_1_1OAuthFlow_1_1BlockState.html#aad01aaef8f3c5bfa94c9c588bda0f127',1,'XX::AuthProvider::OAuthFlow::BlockState::BlockState()']]],
+  ['bpm_13',['bpm',['../structXX_1_1Midi_1_1Sequence_1_1Info.html#aac3efd8aeb7024c9feb0f99d17fa2176',1,'XX::Midi::Sequence::Info']]],
+  ['breadthfirst_14',['breadthFirst',['../classXX_1_1Graph_1_1Algorithm.html#ad3774b58069b5c2be49c04b922b5f5f4',1,'XX::Graph::Algorithm']]],
+  ['breathcontroller_15',['BreathController',['../group__XXMusic.html#gga0bdc0a7397c27b212f13e10448181cf5af2e48cce233c69013b43d7de859819fb',1,'XX::Midi']]],
+  ['brightness_16',['brightness',['../structXX_1_1ColorSpace_1_1XYB.html#a0c9e722d35105916d7b206f7c330e5ab',1,'XX::ColorSpace::XYB']]],
+  ['buffer_17',['Buffer',['../structXX_1_1Logger_1_1Target_1_1Entry.html#ab4dacb2890de1deb1fcc1e5ef88bcbf7',1,'XX::Logger::Target::Entry']]],
+  ['bundle_18',['Bundle',['../classXX_1_1Polynomial_1_1Segment_1_1Bundle.html',1,'XX::Polynomial::Segment::Bundle'],['../classXX_1_1Polynomial_1_1Segment_1_1Bundle.html#a7d7ec520f86324dcf5404c224e622fc0',1,'XX::Polynomial::Segment::Bundle::Bundle()']]],
+  ['bury_19',['bury',['../classXX_1_1ShallowCrypt.html#a74467c5ef7fbc0a78c6395cd4e24ced5',1,'XX::ShallowCrypt']]],
+  ['busycursor_20',['BusyCursor',['../classXX_1_1BusyCursor.html',1,'XX::BusyCursor'],['../classXX_1_1BusyCursor.html#a78aecc5c31886d71712c9a75aea9acd0',1,'XX::BusyCursor::BusyCursor()']]],
+  ['byteconversion_21',['ByteConversion',['../classXX_1_1ByteConversion.html',1,'XX']]],
+  ['bytefours_22',['ByteFours',['../classXX_1_1ByteFours.html',1,'XX::ByteFours'],['../classXX_1_1ByteFours.html#a647d38a569b61fa6531ac38a0427397e',1,'XX::ByteFours::ByteFours(FoursValue a, FoursValue b, FoursValue c, FoursValue d)'],['../classXX_1_1ByteFours.html#adf686218f1f93195b915197871bd52f0',1,'XX::ByteFours::ByteFours(uint8_t byte=0)']]],
+  ['bytes_23',['Bytes',['../group__XXMusic.html#gabbb40212d748e2392ad5e7e290a31e9b',1,'XX']]],
+  ['bytes_24',['bytes',['../classXX_1_1ByteConversion.html#a5732bfa0aa279345e5d140714c802ba9',1,'XX::ByteConversion']]]
 ];

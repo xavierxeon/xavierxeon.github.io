@@ -1,123 +1,156 @@
 var annotated_dup =
 [
-    [ "XX", "namespace_x_x.html", [
-      [ "Populated", "namespace_x_x_1_1_populated.html", [
-        [ "Abstract", "class_x_x_1_1_populated_1_1_abstract.html", "class_x_x_1_1_populated_1_1_abstract" ],
-        [ "MainWidget", "class_x_x_1_1_populated_1_1_main_widget.html", "class_x_x_1_1_populated_1_1_main_widget" ],
-        [ "MainWindow", "class_x_x_1_1_populated_1_1_main_window.html", "class_x_x_1_1_populated_1_1_main_window" ],
-        [ "MenuBar", "class_x_x_1_1_populated_1_1_menu_bar.html", "class_x_x_1_1_populated_1_1_menu_bar" ],
-        [ "ToolBar", "class_x_x_1_1_populated_1_1_tool_bar.html", "class_x_x_1_1_populated_1_1_tool_bar" ]
+    [ "Multimedia", "namespaceMultimedia.html", [
+      [ "Camera", "classMultimedia_1_1Camera.html", "classMultimedia_1_1Camera" ],
+      [ "VideoWriter", "classMultimedia_1_1VideoWriter.html", "classMultimedia_1_1VideoWriter" ]
+    ] ],
+    [ "pybind11", null, [
+      [ "detail", null, [
+        [ "type_caster&lt; QString &gt;", "structpybind11_1_1detail_1_1type__caster_3_01QString_01_4.html", "structpybind11_1_1detail_1_1type__caster_3_01QString_01_4" ],
+        [ "type_caster&lt; QList&lt; T &gt; &gt;", "structpybind11_1_1detail_1_1type__caster_3_01QList_3_01T_01_4_01_4.html", "structpybind11_1_1detail_1_1type__caster_3_01QList_3_01T_01_4_01_4" ]
+      ] ]
+    ] ],
+    [ "XX", "namespaceXX.html", [
+      [ "Populated", "namespaceXX_1_1Populated.html", [
+        [ "Abstract", "classXX_1_1Populated_1_1Abstract.html", "classXX_1_1Populated_1_1Abstract" ],
+        [ "MainWidget", "classXX_1_1Populated_1_1MainWidget.html", "classXX_1_1Populated_1_1MainWidget" ],
+        [ "MainWindow", "classXX_1_1Populated_1_1MainWindow.html", "classXX_1_1Populated_1_1MainWindow" ],
+        [ "MenuBar", "classXX_1_1Populated_1_1MenuBar.html", "classXX_1_1Populated_1_1MenuBar" ],
+        [ "ToolBar", "classXX_1_1Populated_1_1ToolBar.html", "classXX_1_1Populated_1_1ToolBar" ]
       ] ],
-      [ "Sample", "namespace_x_x_1_1_sample.html", [
-        [ "Meta", "struct_x_x_1_1_sample_1_1_meta.html", "struct_x_x_1_1_sample_1_1_meta" ],
-        [ "Abstract", "class_x_x_1_1_sample_1_1_abstract.html", "class_x_x_1_1_sample_1_1_abstract" ],
-        [ "Reader", "class_x_x_1_1_sample_1_1_reader.html", "class_x_x_1_1_sample_1_1_reader" ],
-        [ "Wave", "class_x_x_1_1_sample_1_1_wave.html", "class_x_x_1_1_sample_1_1_wave" ],
-        [ "Writer", "class_x_x_1_1_sample_1_1_writer.html", "class_x_x_1_1_sample_1_1_writer" ]
+      [ "Sample", "namespaceXX_1_1Sample.html", [
+        [ "Meta", "structXX_1_1Sample_1_1Meta.html", "structXX_1_1Sample_1_1Meta" ],
+        [ "Abstract", "classXX_1_1Sample_1_1Abstract.html", "classXX_1_1Sample_1_1Abstract" ],
+        [ "Reader", "classXX_1_1Sample_1_1Reader.html", "classXX_1_1Sample_1_1Reader" ],
+        [ "Wave", "classXX_1_1Sample_1_1Wave.html", "classXX_1_1Sample_1_1Wave" ],
+        [ "Writer", "classXX_1_1Sample_1_1Writer.html", "classXX_1_1Sample_1_1Writer" ]
       ] ],
-      [ "Function", "namespace_x_x_1_1_function.html", [
-        [ "AbstractCaller", "class_x_x_1_1_function_1_1_abstract_caller.html", "class_x_x_1_1_function_1_1_abstract_caller" ],
-        [ "Caller", "class_x_x_1_1_function_1_1_caller.html", "class_x_x_1_1_function_1_1_caller" ]
+      [ "BitPacked", "namespaceXX_1_1BitPacked.html", [
+        [ "Array", "classXX_1_1BitPacked_1_1Array.html", "classXX_1_1BitPacked_1_1Array" ],
+        [ "ArrayReference", "classXX_1_1BitPacked_1_1ArrayReference.html", "classXX_1_1BitPacked_1_1ArrayReference" ]
       ] ],
-      [ "Logger", "namespace_x_x_1_1_logger.html", [
-        [ "Target", "class_x_x_1_1_logger_1_1_target.html", "class_x_x_1_1_logger_1_1_target" ]
+      [ "Function", "namespaceXX_1_1Function.html", [
+        [ "AbstractCaller", "classXX_1_1Function_1_1AbstractCaller.html", "classXX_1_1Function_1_1AbstractCaller" ],
+        [ "Caller", "classXX_1_1Function_1_1Caller.html", "classXX_1_1Function_1_1Caller" ]
       ] ],
-      [ "QtMessage", "namespace_x_x_1_1_qt_message.html", [
-        [ "Document", "class_x_x_1_1_qt_message_1_1_document.html", "class_x_x_1_1_qt_message_1_1_document" ],
-        [ "Interceptor", "struct_x_x_1_1_qt_message_1_1_interceptor.html", "struct_x_x_1_1_qt_message_1_1_interceptor" ],
-        [ "Model", "class_x_x_1_1_qt_message_1_1_model.html", "class_x_x_1_1_qt_message_1_1_model" ]
+      [ "Logger", "namespaceXX_1_1Logger.html", [
+        [ "Target", "classXX_1_1Logger_1_1Target.html", "classXX_1_1Logger_1_1Target" ]
       ] ],
-      [ "Linalg", "namespace_x_x_1_1_linalg.html", [
-        [ "Matrix", "class_x_x_1_1_linalg_1_1_matrix.html", "class_x_x_1_1_linalg_1_1_matrix" ],
-        [ "Quaternion", "class_x_x_1_1_linalg_1_1_quaternion.html", "class_x_x_1_1_linalg_1_1_quaternion" ],
-        [ "Spherical", "class_x_x_1_1_linalg_1_1_spherical.html", "class_x_x_1_1_linalg_1_1_spherical" ],
-        [ "Vector3", "class_x_x_1_1_linalg_1_1_vector3.html", "class_x_x_1_1_linalg_1_1_vector3" ]
+      [ "QtMessage", "namespaceXX_1_1QtMessage.html", [
+        [ "Document", "classXX_1_1QtMessage_1_1Document.html", "classXX_1_1QtMessage_1_1Document" ],
+        [ "Interceptor", "structXX_1_1QtMessage_1_1Interceptor.html", "structXX_1_1QtMessage_1_1Interceptor" ],
+        [ "Model", "classXX_1_1QtMessage_1_1Model.html", "classXX_1_1QtMessage_1_1Model" ]
       ] ],
-      [ "Midi", "namespace_x_x_1_1_midi.html", [
-        [ "File", "namespace_x_x_1_1_midi_1_1_file.html", [
-          [ "Reader", "class_x_x_1_1_midi_1_1_file_1_1_reader.html", "class_x_x_1_1_midi_1_1_file_1_1_reader" ]
+      [ "Bezier", "namespaceXX_1_1Bezier.html", [
+        [ "RegressionAdaptive", "classXX_1_1Bezier_1_1RegressionAdaptive.html", "classXX_1_1Bezier_1_1RegressionAdaptive" ],
+        [ "UniformSpline", "classXX_1_1Bezier_1_1UniformSpline.html", "classXX_1_1Bezier_1_1UniformSpline" ]
+      ] ],
+      [ "CatmullRom", "namespaceXX_1_1CatmullRom.html", [
+        [ "UnifromSpline", "classXX_1_1CatmullRom_1_1UnifromSpline.html", "classXX_1_1CatmullRom_1_1UnifromSpline" ]
+      ] ],
+      [ "CubicCurve", "namespaceXX_1_1CubicCurve.html", [
+        [ "CalculatorAbstract", "classXX_1_1CubicCurve_1_1CalculatorAbstract.html", "classXX_1_1CubicCurve_1_1CalculatorAbstract" ],
+        [ "CalculatorParametric", "classXX_1_1CubicCurve_1_1CalculatorParametric.html", "classXX_1_1CubicCurve_1_1CalculatorParametric" ],
+        [ "UniformSpline", "classXX_1_1CubicCurve_1_1UniformSpline.html", "classXX_1_1CubicCurve_1_1UniformSpline" ],
+        [ "UniformSplineAbstract", "classXX_1_1CubicCurve_1_1UniformSplineAbstract.html", "classXX_1_1CubicCurve_1_1UniformSplineAbstract" ]
+      ] ],
+      [ "Data", "namespaceXX_1_1Data.html", [
+        [ "Container2D", "classXX_1_1Data_1_1Container2D.html", "classXX_1_1Data_1_1Container2D" ]
+      ] ],
+      [ "Linalg", "namespaceXX_1_1Linalg.html", [
+        [ "Matrix", "classXX_1_1Linalg_1_1Matrix.html", "classXX_1_1Linalg_1_1Matrix" ],
+        [ "Quaternion", "classXX_1_1Linalg_1_1Quaternion.html", "classXX_1_1Linalg_1_1Quaternion" ],
+        [ "Spherical", "classXX_1_1Linalg_1_1Spherical.html", "classXX_1_1Linalg_1_1Spherical" ],
+        [ "Vector3", "classXX_1_1Linalg_1_1Vector3.html", "classXX_1_1Linalg_1_1Vector3" ]
+      ] ],
+      [ "Midi", "namespaceXX_1_1Midi.html", [
+        [ "File", "namespaceXX_1_1Midi_1_1File.html", [
+          [ "Reader", "classXX_1_1Midi_1_1File_1_1Reader.html", "classXX_1_1Midi_1_1File_1_1Reader" ]
         ] ],
-        [ "Interface", "namespace_x_x_1_1_midi_1_1_interface.html", [
-          [ "Input", "class_x_x_1_1_midi_1_1_interface_1_1_input.html", "class_x_x_1_1_midi_1_1_interface_1_1_input" ],
-          [ "Output", "class_x_x_1_1_midi_1_1_interface_1_1_output.html", "class_x_x_1_1_midi_1_1_interface_1_1_output" ]
+        [ "Interface", "namespaceXX_1_1Midi_1_1Interface.html", [
+          [ "Input", "classXX_1_1Midi_1_1Interface_1_1Input.html", "classXX_1_1Midi_1_1Interface_1_1Input" ],
+          [ "Output", "classXX_1_1Midi_1_1Interface_1_1Output.html", "classXX_1_1Midi_1_1Interface_1_1Output" ]
         ] ],
-        [ "Manufacturer", "struct_x_x_1_1_midi_1_1_manufacturer.html", "struct_x_x_1_1_midi_1_1_manufacturer" ],
-        [ "Device", "struct_x_x_1_1_midi_1_1_device.html", "struct_x_x_1_1_midi_1_1_device" ],
-        [ "Variables", "struct_x_x_1_1_midi_1_1_variables.html", "struct_x_x_1_1_midi_1_1_variables" ],
-        [ "Sequence", "class_x_x_1_1_midi_1_1_sequence.html", "class_x_x_1_1_midi_1_1_sequence" ],
-        [ "Parser", "class_x_x_1_1_midi_1_1_parser.html", "class_x_x_1_1_midi_1_1_parser" ]
+        [ "Manufacturer", "structXX_1_1Midi_1_1Manufacturer.html", "structXX_1_1Midi_1_1Manufacturer" ],
+        [ "Device", "structXX_1_1Midi_1_1Device.html", "structXX_1_1Midi_1_1Device" ],
+        [ "Variables", "structXX_1_1Midi_1_1Variables.html", "structXX_1_1Midi_1_1Variables" ],
+        [ "Sequence", "classXX_1_1Midi_1_1Sequence.html", "classXX_1_1Midi_1_1Sequence" ],
+        [ "Parser", "classXX_1_1Midi_1_1Parser.html", "classXX_1_1Midi_1_1Parser" ]
       ] ],
-      [ "SecureNetwork", "namespace_x_x_1_1_secure_network.html", [
-        [ "ServerInternal", "class_x_x_1_1_secure_network_1_1_server_internal.html", "class_x_x_1_1_secure_network_1_1_server_internal" ],
-        [ "Client", "class_x_x_1_1_secure_network_1_1_client.html", "class_x_x_1_1_secure_network_1_1_client" ],
-        [ "Server", "class_x_x_1_1_secure_network_1_1_server.html", "class_x_x_1_1_secure_network_1_1_server" ],
-        [ "Socket", "class_x_x_1_1_secure_network_1_1_socket.html", "class_x_x_1_1_secure_network_1_1_socket" ]
+      [ "AuthProvider", "namespaceXX_1_1AuthProvider.html", [
+        [ "OAuthFlow", "classXX_1_1AuthProvider_1_1OAuthFlow.html", "classXX_1_1AuthProvider_1_1OAuthFlow" ],
+        [ "Token", "classXX_1_1AuthProvider_1_1Token.html", "classXX_1_1AuthProvider_1_1Token" ]
       ] ],
-      [ "AuthProvider", "namespace_x_x_1_1_auth_provider.html", [
-        [ "Token", "class_x_x_1_1_auth_provider_1_1_token.html", "class_x_x_1_1_auth_provider_1_1_token" ],
-        [ "OAuth", "class_x_x_1_1_auth_provider_1_1_o_auth.html", "class_x_x_1_1_auth_provider_1_1_o_auth" ]
+      [ "SecureNetwork", "namespaceXX_1_1SecureNetwork.html", [
+        [ "ServerInternal", "classXX_1_1SecureNetwork_1_1ServerInternal.html", "classXX_1_1SecureNetwork_1_1ServerInternal" ],
+        [ "Client", "classXX_1_1SecureNetwork_1_1Client.html", "classXX_1_1SecureNetwork_1_1Client" ],
+        [ "Server", "classXX_1_1SecureNetwork_1_1Server.html", "classXX_1_1SecureNetwork_1_1Server" ],
+        [ "Socket", "classXX_1_1SecureNetwork_1_1Socket.html", "classXX_1_1SecureNetwork_1_1Socket" ]
       ] ],
-      [ "Network", "namespace_x_x_1_1_network.html", [
-        [ "Settings", "class_x_x_1_1_network_1_1_settings.html", "class_x_x_1_1_network_1_1_settings" ],
-        [ "Tools", "struct_x_x_1_1_network_1_1_tools.html", "struct_x_x_1_1_network_1_1_tools" ]
+      [ "Network", "namespaceXX_1_1Network.html", [
+        [ "Settings", "classXX_1_1Network_1_1Settings.html", "classXX_1_1Network_1_1Settings" ],
+        [ "Tools", "structXX_1_1Network_1_1Tools.html", "structXX_1_1Network_1_1Tools" ]
       ] ],
-      [ "RestApi", "namespace_x_x_1_1_rest_api.html", [
-        [ "Async", "class_x_x_1_1_rest_api_1_1_async.html", "class_x_x_1_1_rest_api_1_1_async" ],
-        [ "Blocking", "class_x_x_1_1_rest_api_1_1_blocking.html", "class_x_x_1_1_rest_api_1_1_blocking" ],
-        [ "StatusException", "class_x_x_1_1_rest_api_1_1_status_exception.html", "class_x_x_1_1_rest_api_1_1_status_exception" ],
-        [ "UnreachableException", "class_x_x_1_1_rest_api_1_1_unreachable_exception.html", "class_x_x_1_1_rest_api_1_1_unreachable_exception" ],
-        [ "ResultRaw", "struct_x_x_1_1_rest_api_1_1_result_raw.html", "struct_x_x_1_1_rest_api_1_1_result_raw" ],
-        [ "Result", "struct_x_x_1_1_rest_api_1_1_result.html", "struct_x_x_1_1_rest_api_1_1_result" ]
+      [ "RestApi", "namespaceXX_1_1RestApi.html", [
+        [ "Async", "classXX_1_1RestApi_1_1Async.html", "classXX_1_1RestApi_1_1Async" ],
+        [ "Blocking", "classXX_1_1RestApi_1_1Blocking.html", "classXX_1_1RestApi_1_1Blocking" ],
+        [ "StatusException", "classXX_1_1RestApi_1_1StatusException.html", "classXX_1_1RestApi_1_1StatusException" ],
+        [ "UnreachableException", "classXX_1_1RestApi_1_1UnreachableException.html", "classXX_1_1RestApi_1_1UnreachableException" ],
+        [ "ResultRaw", "structXX_1_1RestApi_1_1ResultRaw.html", "structXX_1_1RestApi_1_1ResultRaw" ],
+        [ "Result", "structXX_1_1RestApi_1_1Result.html", "structXX_1_1RestApi_1_1Result" ]
       ] ],
-      [ "Managed", "namespace_x_x_1_1_managed.html", [
-        [ "GraphicsView", "class_x_x_1_1_managed_1_1_graphics_view.html", "class_x_x_1_1_managed_1_1_graphics_view" ],
-        [ "TableView", "class_x_x_1_1_managed_1_1_table_view.html", "class_x_x_1_1_managed_1_1_table_view" ],
-        [ "TreeView", "class_x_x_1_1_managed_1_1_tree_view.html", "class_x_x_1_1_managed_1_1_tree_view" ]
+      [ "Managed", "namespaceXX_1_1Managed.html", [
+        [ "GraphicsView", "classXX_1_1Managed_1_1GraphicsView.html", "classXX_1_1Managed_1_1GraphicsView" ],
+        [ "TableView", "classXX_1_1Managed_1_1TableView.html", "classXX_1_1Managed_1_1TableView" ],
+        [ "TreeView", "classXX_1_1Managed_1_1TreeView.html", "classXX_1_1Managed_1_1TreeView" ]
       ] ],
-      [ "TabStack", "namespace_x_x_1_1_tab_stack.html", [
-        [ "Model", "class_x_x_1_1_tab_stack_1_1_model.html", "class_x_x_1_1_tab_stack_1_1_model" ],
-        [ "Widget", "class_x_x_1_1_tab_stack_1_1_widget.html", "class_x_x_1_1_tab_stack_1_1_widget" ]
+      [ "TabStack", "namespaceXX_1_1TabStack.html", [
+        [ "Model", "classXX_1_1TabStack_1_1Model.html", "classXX_1_1TabStack_1_1Model" ],
+        [ "Widget", "classXX_1_1TabStack_1_1Widget.html", "classXX_1_1TabStack_1_1Widget" ]
       ] ],
-      [ "RecentFiles", "class_x_x_1_1_recent_files.html", "class_x_x_1_1_recent_files" ],
-      [ "FastFourierTransfrom", "class_x_x_1_1_fast_fourier_transfrom.html", "class_x_x_1_1_fast_fourier_transfrom" ],
-      [ "Spectrogram", "class_x_x_1_1_spectrogram.html", "class_x_x_1_1_spectrogram" ],
-      [ "ByteConversion", "class_x_x_1_1_byte_conversion.html", "class_x_x_1_1_byte_conversion" ],
-      [ "ByteFours", "class_x_x_1_1_byte_fours.html", "class_x_x_1_1_byte_fours" ],
-      [ "DataStore", "class_x_x_1_1_data_store.html", "class_x_x_1_1_data_store" ],
-      [ "FileTools", "class_x_x_1_1_file_tools.html", "class_x_x_1_1_file_tools" ],
-      [ "Info", "struct_x_x_1_1_info.html", "struct_x_x_1_1_info" ],
-      [ "Settings", "class_x_x_1_1_settings.html", "class_x_x_1_1_settings" ],
-      [ "ShallowCrypt", "class_x_x_1_1_shallow_crypt.html", "class_x_x_1_1_shallow_crypt" ],
-      [ "SharedData", "class_x_x_1_1_shared_data.html", "class_x_x_1_1_shared_data" ],
-      [ "ShellClient", "class_x_x_1_1_shell_client.html", "class_x_x_1_1_shell_client" ],
-      [ "Singleton", "class_x_x_1_1_singleton.html", "class_x_x_1_1_singleton" ],
-      [ "Array2D", "class_x_x_1_1_array2_d.html", "class_x_x_1_1_array2_d" ],
-      [ "CompileTimeString", "struct_x_x_1_1_compile_time_string.html", "struct_x_x_1_1_compile_time_string" ],
-      [ "DoubleBuffer", "class_x_x_1_1_double_buffer.html", "class_x_x_1_1_double_buffer" ],
-      [ "Locker", "class_x_x_1_1_locker.html", "class_x_x_1_1_locker" ],
-      [ "Range", "struct_x_x_1_1_range.html", "struct_x_x_1_1_range" ],
-      [ "Size", "struct_x_x_1_1_size.html", "struct_x_x_1_1_size" ],
-      [ "BusyCursor", "class_x_x_1_1_busy_cursor.html", "class_x_x_1_1_busy_cursor" ],
-      [ "ColorSpace", "class_x_x_1_1_color_space.html", "class_x_x_1_1_color_space" ],
-      [ "DeviceTools", "class_x_x_1_1_device_tools.html", "class_x_x_1_1_device_tools" ],
-      [ "LoggerModel", "class_x_x_1_1_logger_model.html", "class_x_x_1_1_logger_model" ],
-      [ "OscMessage", "class_x_x_1_1_osc_message.html", "class_x_x_1_1_osc_message" ],
-      [ "Rainbow", "class_x_x_1_1_rainbow.html", "class_x_x_1_1_rainbow" ],
-      [ "LogFileBase", "struct_x_x_1_1_log_file_base.html", "struct_x_x_1_1_log_file_base" ],
-      [ "LogFile", "class_x_x_1_1_log_file.html", "class_x_x_1_1_log_file" ],
-      [ "LogSymbol", "struct_x_x_1_1_log_symbol.html", "struct_x_x_1_1_log_symbol" ],
-      [ "Graph", "class_x_x_1_1_graph.html", "class_x_x_1_1_graph" ],
-      [ "Polynomial", "class_x_x_1_1_polynomial.html", "class_x_x_1_1_polynomial" ],
-      [ "Note", "class_x_x_1_1_note.html", "class_x_x_1_1_note" ],
-      [ "Scale", "class_x_x_1_1_scale.html", "class_x_x_1_1_scale" ],
-      [ "TimeCode", "class_x_x_1_1_time_code.html", "class_x_x_1_1_time_code" ],
-      [ "Shared", "struct_x_x_1_1_shared.html", "struct_x_x_1_1_shared" ],
-      [ "RainbowRectangle", "class_x_x_1_1_rainbow_rectangle.html", "class_x_x_1_1_rainbow_rectangle" ],
-      [ "QmlView", "class_x_x_1_1_qml_view.html", "class_x_x_1_1_qml_view" ],
-      [ "IndexedDB", "class_x_x_1_1_indexed_d_b.html", "class_x_x_1_1_indexed_d_b" ],
-      [ "LocalTextBrowser", "class_x_x_1_1_local_text_browser.html", "class_x_x_1_1_local_text_browser" ],
-      [ "LoggerLabel", "class_x_x_1_1_logger_label.html", "class_x_x_1_1_logger_label" ],
-      [ "Look", "struct_x_x_1_1_look.html", "struct_x_x_1_1_look" ],
-      [ "QmlWidget", "class_x_x_1_1_qml_widget.html", "class_x_x_1_1_qml_widget" ]
+      [ "RecentFiles", "classXX_1_1RecentFiles.html", "classXX_1_1RecentFiles" ],
+      [ "FastFourierTransfrom", "classXX_1_1FastFourierTransfrom.html", "classXX_1_1FastFourierTransfrom" ],
+      [ "Spectrogram", "classXX_1_1Spectrogram.html", "classXX_1_1Spectrogram" ],
+      [ "ByteConversion", "classXX_1_1ByteConversion.html", "classXX_1_1ByteConversion" ],
+      [ "ByteFours", "classXX_1_1ByteFours.html", "classXX_1_1ByteFours" ],
+      [ "DataStore", "classXX_1_1DataStore.html", "classXX_1_1DataStore" ],
+      [ "FileTools", "classXX_1_1FileTools.html", "classXX_1_1FileTools" ],
+      [ "Info", "structXX_1_1Info.html", "structXX_1_1Info" ],
+      [ "NullDevice", "classXX_1_1NullDevice.html", "classXX_1_1NullDevice" ],
+      [ "Settings", "classXX_1_1Settings.html", "classXX_1_1Settings" ],
+      [ "ShallowCrypt", "classXX_1_1ShallowCrypt.html", "classXX_1_1ShallowCrypt" ],
+      [ "SharedData", "classXX_1_1SharedData.html", "classXX_1_1SharedData" ],
+      [ "ShellClient", "classXX_1_1ShellClient.html", "classXX_1_1ShellClient" ],
+      [ "Singleton", "classXX_1_1Singleton.html", "classXX_1_1Singleton" ],
+      [ "Array2D", "classXX_1_1Array2D.html", "classXX_1_1Array2D" ],
+      [ "CompileTimeString", "structXX_1_1CompileTimeString.html", "structXX_1_1CompileTimeString" ],
+      [ "DoubleBuffer", "classXX_1_1DoubleBuffer.html", "classXX_1_1DoubleBuffer" ],
+      [ "Locker", "classXX_1_1Locker.html", "classXX_1_1Locker" ],
+      [ "Range", "structXX_1_1Range.html", "structXX_1_1Range" ],
+      [ "Size", "structXX_1_1Size.html", "structXX_1_1Size" ],
+      [ "BusyCursor", "classXX_1_1BusyCursor.html", "classXX_1_1BusyCursor" ],
+      [ "ColorSpace", "classXX_1_1ColorSpace.html", "classXX_1_1ColorSpace" ],
+      [ "CursorTools", "classXX_1_1CursorTools.html", "classXX_1_1CursorTools" ],
+      [ "DeviceTools", "classXX_1_1DeviceTools.html", "classXX_1_1DeviceTools" ],
+      [ "LoggerModel", "classXX_1_1LoggerModel.html", "classXX_1_1LoggerModel" ],
+      [ "OscMessage", "classXX_1_1OscMessage.html", "classXX_1_1OscMessage" ],
+      [ "Rainbow", "classXX_1_1Rainbow.html", "classXX_1_1Rainbow" ],
+      [ "LogFileBase", "structXX_1_1LogFileBase.html", "structXX_1_1LogFileBase" ],
+      [ "LogFile", "classXX_1_1LogFile.html", "classXX_1_1LogFile" ],
+      [ "LogSymbol", "structXX_1_1LogSymbol.html", "structXX_1_1LogSymbol" ],
+      [ "Graph", "classXX_1_1Graph.html", "classXX_1_1Graph" ],
+      [ "Polynomial", "classXX_1_1Polynomial.html", "classXX_1_1Polynomial" ],
+      [ "Note", "classXX_1_1Note.html", "classXX_1_1Note" ],
+      [ "Scale", "classXX_1_1Scale.html", "classXX_1_1Scale" ],
+      [ "TimeCode", "classXX_1_1TimeCode.html", "classXX_1_1TimeCode" ],
+      [ "NetworkAccessManager", "classXX_1_1NetworkAccessManager.html", "classXX_1_1NetworkAccessManager" ],
+      [ "Shared", "structXX_1_1Shared.html", "structXX_1_1Shared" ],
+      [ "RainbowRectangle", "classXX_1_1RainbowRectangle.html", "classXX_1_1RainbowRectangle" ],
+      [ "QmlView", "classXX_1_1QmlView.html", "classXX_1_1QmlView" ],
+      [ "IndexedDB", "classXX_1_1IndexedDB.html", "classXX_1_1IndexedDB" ],
+      [ "LocalTextBrowser", "classXX_1_1LocalTextBrowser.html", "classXX_1_1LocalTextBrowser" ],
+      [ "LoggerLabel", "classXX_1_1LoggerLabel.html", "classXX_1_1LoggerLabel" ],
+      [ "Look", "structXX_1_1Look.html", "structXX_1_1Look" ],
+      [ "QmlWidget", "classXX_1_1QmlWidget.html", "classXX_1_1QmlWidget" ]
     ] ]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['functions_0',['Functions',['../group___functions.html',1,'']]]
+  ['functions_0',['Functions',['../group__Functions.html',1,'']]]
 ];
