@@ -249,5 +249,5 @@ var NAVTREEINDEX0 =
 "XXWidgetsExportDef_8h.html#a66f927ac1b17947880ca90b5626d4c2c":[5,0,14,9,0],
 "XXWidgetsExportDef_8h_source.html":[5,0,14,9],
 "annotated.html":[4,0],
-"classMultimedia_1_1Camera.html":[1,12,0]
+"classMultimedia_1_1Camera.html":[1,7,0]
 };

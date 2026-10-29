@@ -31,7 +31,7 @@ var searchData=
   ['model_28',['Model',['../classXX_1_1QtMessage_1_1Model.html',1,'XX::QtMessage::Model'],['../classXX_1_1TabStack_1_1Model.html',1,'XX::TabStack::Model'],['../classXX_1_1QtMessage_1_1Model.html#a6c8de050d996c1423ee34bb3fc4cd7a2',1,'XX::QtMessage::Model::Model()'],['../classXX_1_1TabStack_1_1Model.html#a5e9c916e0c7e1990d1653f323f9a21af',1,'XX::TabStack::Model::Model()']]],
   ['modwheel_29',['ModWheel',['../group__XXMusic.html#gga0bdc0a7397c27b212f13e10448181cf5a0368afa58f886d010c6905ca0f72b9df',1,'XX::Midi']]],
   ['msperbyte_30',['msPerByte',['../structXX_1_1Midi_1_1Variables.html#a733482b404cb601f0d0ad0b9db0ef5c1',1,'XX::Midi::Variables']]],
-  ['multimedia_31',['Multimedia',['../namespaceMultimedia.html',1,'']]],
+  ['multimedia_31',['Multimedia',['../namespaceMultimedia.html',1,'Multimedia'],['../group__XXMultimedia.html',1,'Multimedia']]],
   ['multimediacamera_2eh_32',['MultimediaCamera.h',['../MultimediaCamera_8h.html',1,'']]],
   ['multimediavideowriter_2eh_33',['MultimediaVideoWriter.h',['../MultimediaVideoWriter_8h.html',1,'']]],
   ['music_34',['Music',['../group__XXMusic.html',1,'']]]
